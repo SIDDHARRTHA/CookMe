@@ -1,0 +1,583 @@
+[
+  {
+    "id": "meghalaya-breakfast-putharo",
+    "title": "Putharo",
+    "state": "Meghalaya",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "time": "30 mins",
+    "servings": "6–8 pieces",
+    "heroImage": "./assets/images/putharo.png",
+    "steps": [
+      "Mix rice flour with water (or coconut milk) into a smooth batter of pouring consistency.",
+      "Pour into a traditional earthen pan (sarao) or steamer and cook till soft and spongy.",
+      "Serve hot with vegetarian sides like sesame dal, turmeric rice or red tea."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Rice flour",
+        "qty": "2 cups",
+        "checked": true
+      },
+      {
+        "name": "Water or coconut milk",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Salt or a little jaggery (optional)",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Soft steamed rice flatbread – classic Khasi breakfast item."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Traditionally paired with pork curry, but can be enjoyed with vegetarian sides."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "meghalaya-breakfast-pukhlein",
+    "title": "Pukhlein",
+    "state": "Meghalaya",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "time": "25 mins",
+    "servings": "10–12 pieces",
+    "heroImage": "./assets/images/pukhlein.png",
+    "steps": [
+      "Mix rice flour with melted jaggery and a little water into a thick dough.",
+      "Shape into small discs or balls and deep-fry till golden and crisp outside.",
+      "Serve as a sweet snack with tea."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Rice flour",
+        "qty": "2 cups",
+        "checked": true
+      },
+      {
+        "name": "Jaggery",
+        "qty": "3/4 cup",
+        "checked": true
+      },
+      {
+        "name": "Water",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Oil for frying",
+        "qty": "as needed",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Popular Khasi fried rice cake – crispy exterior, chewy and mildly sweet inside."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Common street and tea-time snack."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "meghalaya-breakfast-pumaloi",
+    "title": "Pumaloi",
+    "state": "Meghalaya",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "time": "35 mins",
+    "servings": "6 Servings",
+    "heroImage": "./assets/images/pumaloi.png",
+    "steps": [
+      "Mix powdered rice with water (and grated coconut if using) into a smooth batter.",
+      "Steam in a traditional pot or steamer till cooked through and soft.",
+      "Serve warm as a light breakfast or side."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Powdered rice",
+        "qty": "2 cups",
+        "checked": true
+      },
+      {
+        "name": "Grated coconut (optional)",
+        "qty": "1/2 cup",
+        "checked": true
+      },
+      {
+        "name": "Water, salt",
+        "qty": "as needed",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Steamed powdered-rice cake – oil-free and nutritious."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "A gentle, everyday Khasi breakfast item."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "meghalaya-lunch-jadoh",
+    "title": "Jadoh",
+    "state": "Meghalaya",
+    "mealType": "Lunch",
+    "diet": "Non-Vegetarian",
+    "time": "50 mins",
+    "servings": "4 Servings",
+    "heroImage": "./assets/images/jadoh.png",
+    "steps": [
+      "Cook pork pieces with turmeric, ginger and salt till the fat renders and meat is tender.",
+      "Add washed rice and enough water. Cook together so the rice absorbs the pork juices and fat.",
+      "Serve hot, often with dohkhlieh, tungrymbai or a simple vegetable side."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Local red or white rice",
+        "qty": "2 cups",
+        "checked": true
+      },
+      {
+        "name": "Pork (meat, fat, sometimes blood)",
+        "qty": "400 g",
+        "checked": true
+      },
+      {
+        "name": "Turmeric, bay leaf, ginger, salt",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Signature Khasi one-pot rice-and-pork dish – the state's most iconic meal."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "The rice should be richly flavoured and slightly oily from the pork."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "meghalaya-lunch-dohkhlieh",
+    "title": "Dohkhlieh",
+    "state": "Meghalaya",
+    "mealType": "Lunch",
+    "diet": "Non-Vegetarian",
+    "time": "30 mins",
+    "servings": "3 Servings",
+    "heroImage": "./assets/images/dohkhlieh.png",
+    "steps": [
+      "Boil pork till tender, then shred or finely chop while still warm.",
+      "Mix with finely sliced onion, green chilli, crushed ginger, salt and a squeeze of lime.",
+      "Serve at room temperature as a refreshing meat salad alongside jadoh or rice."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Boiled pork (preferably with some fat)",
+        "qty": "300 g",
+        "checked": true
+      },
+      {
+        "name": "Onion, green chilli, ginger",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Salt, lime or local herbs",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Classic Khasi pork salad – light, pungent and herb-fresh."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "A perfect counterpoint to richer rice dishes."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "meghalaya-lunch-tungrymbai-vegetarian",
+    "title": "Tungrymbai (Vegetarian)",
+    "state": "Meghalaya",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "time": "35 mins",
+    "servings": "3 Servings",
+    "heroImage": "./assets/images/tungrymbai.png",
+    "steps": [
+      "Sauté onion, ginger, garlic and chilli in oil.",
+      "Add the fermented soybeans and black sesame. Mix well and simmer till the flavours meld.",
+      "Serve as a strong-flavoured side with rice or jadoh."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Fermented soybeans (tungrymbai)",
+        "qty": "1 cup",
+        "checked": true
+      },
+      {
+        "name": "Black sesame, ginger, garlic, onion, chilli",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Mustard oil or local fat",
+        "qty": "as needed",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Fermented soybean dish with a powerful, earthy aroma – an acquired taste."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Vegetarian version of the traditional Khasi preparation."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "meghalaya-lunch-tungrymbai-with-pork",
+    "title": "Tungrymbai with Pork",
+    "state": "Meghalaya",
+    "mealType": "Lunch",
+    "diet": "Non-Vegetarian",
+    "time": "40 mins (+ fermentation)",
+    "servings": "3 Servings",
+    "heroImage": "./assets/images/tungrymbai.png",
+    "steps": [
+      "Sauté onion, ginger, garlic and chilli. Add chopped pork and cook till done.",
+      "Add the fermented soybeans and black sesame. Mix well and simmer till the flavours meld.",
+      "Serve as a strong-flavoured side with rice or jadoh."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Fermented soybeans (tungrymbai)",
+        "qty": "1 cup",
+        "checked": true
+      },
+      {
+        "name": "Pork",
+        "qty": "200 g",
+        "checked": true
+      },
+      {
+        "name": "Black sesame, ginger, garlic, onion, chilli",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Mustard oil or local fat",
+        "qty": "as needed",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Traditional Tungrymbai with pork - the classic Khasi preparation."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Fermented soybean dish with a powerful, earthy aroma."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "meghalaya-dinner-dohneiiong",
+    "title": "Dohneiiong",
+    "state": "Meghalaya",
+    "mealType": "Dinner",
+    "diet": "Non-Vegetarian",
+    "time": "50 mins",
+    "servings": "4 Servings",
+    "heroImage": "./assets/images/dohneiiong.png",
+    "steps": [
+      "Dry-roast and grind black sesame seeds into a paste.",
+      "Cook pork with ginger, garlic and chilli till tender. Add the sesame paste and simmer till the gravy thickens and coats the meat.",
+      "Serve with rice."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Pork",
+        "qty": "500 g",
+        "checked": true
+      },
+      {
+        "name": "Black sesame seeds (neiiong)",
+        "qty": "1/2 cup",
+        "checked": true
+      },
+      {
+        "name": "Ginger, garlic, chilli, salt",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Pork in rich black sesame sauce – nutty, dark and deeply flavourful."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "A Jaintia and Khasi favourite."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "meghalaya-dinner-nakham-bitchi",
+    "title": "Nakham Bitchi",
+    "state": "Meghalaya",
+    "mealType": "Dinner",
+    "diet": "Non-Vegetarian",
+    "time": "30 mins",
+    "servings": "3 Servings",
+    "heroImage": "./assets/images/nakham_bitchi.png",
+    "steps": [
+      "Soak dried fish briefly. Make a spicy paste with chilli, ginger and garlic.",
+      "Cook the fish with the paste and a little water into a thick, fiery gravy or soup.",
+      "Serve with rice – a classic Garo preparation."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Dried fish (nakham)",
+        "qty": "100 g",
+        "checked": true
+      },
+      {
+        "name": "Chilli, ginger, garlic, onion",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Local soda or alkali (optional), salt",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Spicy dried-fish dish from Garo cuisine."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Intense flavour typical of smoked and dried ingredients used in the hills."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "meghalaya-snacks-ja-stem",
+    "title": "Ja Stem (Turmeric Rice)",
+    "state": "Meghalaya",
+    "mealType": "Snacks",
+    "diet": "Vegan",
+    "time": "25 mins",
+    "servings": "3 Servings",
+    "heroImage": "./assets/images/ja_stem.png",
+    "steps": [
+      "Cook rice with turmeric and salt till fluffy and yellow.",
+      "Serve plain or with simple sides, pickles or as part of a light meal."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Rice",
+        "qty": "1.5 cups",
+        "checked": true
+      },
+      {
+        "name": "Fresh turmeric or powder",
+        "qty": "to colour",
+        "checked": true
+      },
+      {
+        "name": "Salt",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Simple turmeric-coloured rice – a vegetarian option in Khasi homes."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Often eaten with sesame dal or vegetable sides."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "meghalaya-snacks-tungtap",
+    "title": "Tungtap",
+    "state": "Meghalaya",
+    "mealType": "Snacks",
+    "diet": "Non-Vegetarian",
+    "time": "15 mins",
+    "servings": "as needed",
+    "heroImage": "./assets/images/tungtap.png",
+    "steps": [
+      "Pound or finely chop the fermented smoked fish with chilli, onion and ginger.",
+      "Mix into a strong, pungent chutney or relish.",
+      "Serve as a side with rice or any meal."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Fermented/smoked fish",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Chilli, onion, ginger, salt",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Powerful fermented fish chutney – used sparingly for its intense flavour."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "A classic Khasi condiment."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "meghalaya-lunch-dai-sboh",
+    "title": "Dai Sboh (Black Sesame Dal)",
+    "state": "Meghalaya",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "time": "35 mins",
+    "servings": "3 Servings",
+    "heroImage": "./assets/images/dai_sboh.png",
+    "steps": [
+      "Cook lentils till soft. Roast and grind black sesame.",
+      "Sauté onion and garlic, then mix the sesame paste into the dal along with ginger and chilli. Simmer briefly.",
+      "Serve with rice or ja stem."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Lentils",
+        "qty": "1 cup",
+        "checked": true
+      },
+      {
+        "name": "Black sesame seeds",
+        "qty": "1/4 cup",
+        "checked": true
+      },
+      {
+        "name": "Ginger, chilli, onion, garlic, salt",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Nutty black-sesame lentil preparation – a vegetarian Khasi favourite."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Pairs well with turmeric rice."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "meghalaya-dinner-wak-tangsek-pura",
+    "title": "Wak Tangsek Pura",
+    "state": "Meghalaya",
+    "mealType": "Dinner",
+    "diet": "Non-Vegetarian",
+    "time": "55 mins",
+    "servings": "4 Servings",
+    "heroImage": "./assets/images/wak_tangsek_pura.png",
+    "steps": [
+      "Cook pork with a little indigenous alkali/soda till tender.",
+      "Add chopped greens and powdered rice to thicken. Season and simmer.",
+      "Serve with rice – a traditional Garo pork-and-greens dish."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Pork",
+        "qty": "500 g",
+        "checked": true
+      },
+      {
+        "name": "Green leafy vegetables",
+        "qty": "2 cups",
+        "checked": true
+      },
+      {
+        "name": "Powdered rice, indigenous soda (karchi)",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Salt, chilli",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Garo specialty using local alkali (from ash) for distinctive flavour and texture."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Hearty and rustic."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  }
+]

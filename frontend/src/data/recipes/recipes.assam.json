@@ -1,0 +1,651 @@
+[
+  {
+    "id": "assam-breakfast-jolpan-komal-saul",
+    "title": "Komal Saul Jolpan",
+    "state": "Assam",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "time": "20 mins (soaking)",
+    "servings": "2 Servings",
+    "heroImage": "./assets/images/komal_saul_jolpan.png",
+    "steps": [
+      "Soak Komal Saul in warm water for 15–25 minutes until soft (no cooking required).",
+      "Drain and mix with curd or milk and jaggery. Add sliced banana if desired.",
+      "Serve as a light traditional Assamese breakfast (jolpan)."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Komal Saul (soft rice)",
+        "qty": "1 cup",
+        "checked": true
+      },
+      {
+        "name": "Curd or milk",
+        "qty": "1 cup",
+        "checked": true
+      },
+      {
+        "name": "Jaggery",
+        "qty": "to taste",
+        "checked": true
+      },
+      {
+        "name": "Ripe banana (optional)",
+        "qty": "1",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Unique GI-tagged rice that needs only soaking – a farmer's quick meal."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Part of classic jolpan culture with Assam tea."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "assam-breakfast-til-pitha",
+    "title": "Til Pitha",
+    "state": "Assam",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "time": "40 mins",
+    "servings": "8–10 pieces",
+    "heroImage": "./assets/images/til_pitha.png",
+    "steps": [
+      "Dry-roast sesame seeds and grind coarsely with jaggery to make the filling.",
+      "Make a thin batter or dough with rice flour and water. Spread thinly on a hot tawa or leaf.",
+      "Place filling in the centre, fold or roll, and cook both sides till done.",
+      "Serve warm as a festive Bihu breakfast or snack."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Bora saul (sticky rice) flour",
+        "qty": "2 cups",
+        "checked": true
+      },
+      {
+        "name": "Black sesame seeds (til)",
+        "qty": "1 cup",
+        "checked": true
+      },
+      {
+        "name": "Jaggery",
+        "qty": "3/4 cup",
+        "checked": true
+      },
+      {
+        "name": "Water",
+        "qty": "as needed",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Iconic Bihu pitha – crispy outside, sweet sesame-jaggery inside."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Made especially during Magh Bihu."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "assam-breakfast-poita-bhat",
+    "title": "Poita Bhat",
+    "state": "Assam",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "time": "10 mins (+ overnight)",
+    "servings": "2 Servings",
+    "heroImage": "./assets/images/poita_bhat.png",
+    "steps": [
+      "Soak cooked rice in water overnight to ferment lightly.",
+      "In the morning, drain excess water if preferred. Mix with mustard oil, chopped green chilli, onion and salt.",
+      "Serve with aloo pitika or any side."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Cooked leftover rice",
+        "qty": "2 cups",
+        "checked": true
+      },
+      {
+        "name": "Water",
+        "qty": "to cover",
+        "checked": true
+      },
+      {
+        "name": "Mustard oil, green chilli, onion, salt",
+        "qty": "to taste",
+        "checked": true
+      },
+      {
+        "name": "Optional: mashed potato or fried fish",
+        "qty": "as desired",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Cooling summer breakfast of rural Assam – probiotic and refreshing."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Simple and zero-waste use of leftover rice."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "assam-lunch-masor-tenga",
+    "title": "Masor Tenga",
+    "state": "Assam",
+    "mealType": "Lunch",
+    "diet": "Non-Vegetarian",
+    "time": "30 mins",
+    "servings": "4 Servings",
+    "heroImage": "./assets/images/masor_tenga.png",
+    "steps": [
+      "Lightly fry fish pieces with turmeric and salt in mustard oil; set aside.",
+      "In the same oil temper fenugreek/cumin and green chilli. Add tomato or chosen souring agent and cook till soft.",
+      "Add water, salt and the fried fish. Simmer gently till the broth is light, sour and flavourful.",
+      "Garnish with coriander. Serve with steamed rice as the closing dish of a meal."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Freshwater fish (rohu, puthi, etc.)",
+        "qty": "500 g",
+        "checked": true
+      },
+      {
+        "name": "Tomato or ou tenga / thekera / lemon",
+        "qty": "for souring",
+        "checked": true
+      },
+      {
+        "name": "Mustard oil, turmeric, green chilli, fenugreek or cumin",
+        "qty": "to taste",
+        "checked": true
+      },
+      {
+        "name": "Salt, coriander leaves",
+        "qty": "as needed",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Signature sour fish curry of Assam – light, tangy and minimal spice."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Traditionally ends the meal after khar."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "assam-lunch-khar",
+    "title": "Khar (e.g. Raw Papaya or Xaak Khar)",
+    "state": "Assam",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "time": "35 mins",
+    "servings": "3 Servings",
+    "heroImage": "./assets/images/khar.png",
+    "steps": [
+      "Prepare or use filtered banana-ash water (kola khar).",
+      "Cook the vegetable with a little mustard oil, garlic and green chilli.",
+      "Add the khar liquid and simmer till the vegetable is soft and the dish has a distinctive alkaline flavour.",
+      "Serve as the traditional opening dish of an Assamese meal with rice."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Raw papaya or mustard greens / any vegetable",
+        "qty": "2 cups",
+        "checked": true
+      },
+      {
+        "name": "Kola khar (banana ash filtrate) or baking soda substitute",
+        "qty": "2–3 tbsp",
+        "checked": true
+      },
+      {
+        "name": "Mustard oil, garlic, green chilli, salt",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Unique alkaline starter that defines Assamese thali structure."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Traditionally made from sun-dried banana peel ash."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "assam-lunch-aloo-pitika",
+    "title": "Aloo Pitika",
+    "state": "Assam",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "time": "20 mins",
+    "servings": "3 Servings",
+    "heroImage": "./assets/images/aloo_pitika.png",
+    "steps": [
+      "Mash the boiled potatoes while still warm.",
+      "Mix in raw mustard oil, finely chopped onion, green chilli, coriander and salt.",
+      "Serve as a side with rice, dal and tenga or khar."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Boiled potatoes",
+        "qty": "4 medium",
+        "checked": true
+      },
+      {
+        "name": "Raw mustard oil",
+        "qty": "2–3 tbsp",
+        "checked": true
+      },
+      {
+        "name": "Onion, green chilli, coriander, salt",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Simple, pungent mash that appears in almost every Assamese thali."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "The raw mustard oil is essential for authentic flavour."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "assam-dinner-pork-with-bamboo-shoot",
+    "title": "Pork with Bamboo Shoot (Gahori Kharisa)",
+    "state": "Assam",
+    "mealType": "Dinner",
+    "diet": "Non-Vegetarian",
+    "time": "60 mins",
+    "servings": "4 Servings",
+    "heroImage": "./assets/images/pork_bamboo_shoot.png",
+    "steps": [
+      "Cut pork into pieces. Heat mustard oil, sauté onion, ginger, garlic and chilli.",
+      "Add pork and cook till it releases fat and browns lightly.",
+      "Add fermented bamboo shoot and salt. Cover and simmer till pork is tender and flavours meld.",
+      "Serve with steamed rice."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Pork (preferably with fat)",
+        "qty": "500 g",
+        "checked": true
+      },
+      {
+        "name": "Fermented bamboo shoot (khorisa)",
+        "qty": "1/2 cup",
+        "checked": true
+      },
+      {
+        "name": "Ginger, garlic, green chilli, onion",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Mustard oil, salt",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Popular among many communities in Assam – the fermented bamboo shoot gives distinctive tang."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Minimal spices allow the pork and khorisa to shine."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "assam-dinner-duck-curry",
+    "title": "Assamese Duck Curry (Hanhor Mangxo)",
+    "state": "Assam",
+    "mealType": "Dinner",
+    "diet": "Non-Vegetarian",
+    "time": "70 mins",
+    "servings": "4 Servings",
+    "heroImage": "./assets/images/duck_curry.png",
+    "steps": [
+      "Heat mustard oil, sauté onion, ginger-garlic and chilli. Add duck pieces and brown well.",
+      "Add turmeric, pepper, salt and potato. Add a little water and slow-cook till duck is tender and gravy is rich.",
+      "Serve with rice."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Duck pieces",
+        "qty": "750 g",
+        "checked": true
+      },
+      {
+        "name": "Potato, onion, ginger-garlic, green chilli",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Mustard oil, turmeric, black pepper, salt",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Duck is highly prized in Assamese cuisine, especially for festive occasions."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Often cooked with minimal spices to highlight the meat."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "assam-snacks-kholasapori-pitha-plain",
+    "title": "Kholasapori Pitha (Plain)",
+    "state": "Assam",
+    "mealType": "Snacks",
+    "diet": "Vegetarian",
+    "time": "25 mins",
+    "servings": "8–10 pieces",
+    "heroImage": "./assets/images/kholasapori_pitha.png",
+    "steps": [
+      "Make a pouring batter of rice flour, water and salt.",
+      "Heat a pan or tawa with a little mustard oil. Pour and spread the batter into thin circles.",
+      "Cook both sides till golden and crisp at the edges.",
+      "Serve hot with jaggery or tea."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Rice flour",
+        "qty": "1.5 cups",
+        "checked": true
+      },
+      {
+        "name": "Water, salt",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Mustard oil for cooking",
+        "qty": "as needed",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Also called pani pitha or bhurbhuri pitha – simple everyday rice pancake."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Popular breakfast or tea-time item."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "assam-snacks-kholasapori-pitha-vegetable",
+    "title": "Kholasapori Pitha with Vegetables",
+    "state": "Assam",
+    "mealType": "Snacks",
+    "diet": "Vegetarian",
+    "time": "25 mins",
+    "servings": "8–10 pieces",
+    "heroImage": "./assets/images/kholasapori_pitha.png",
+    "steps": [
+      "Make a pouring batter of rice flour, water and salt. Add chopped vegetables and onion.",
+      "Heat a pan or tawa with a little mustard oil. Pour and spread the batter into thin circles.",
+      "Cook both sides till golden and crisp at the edges.",
+      "Serve hot with tea."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Rice flour",
+        "qty": "1.5 cups",
+        "checked": true
+      },
+      {
+        "name": "Water, salt",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Chopped onion and vegetables",
+        "qty": "as desired",
+        "checked": true
+      },
+      {
+        "name": "Mustard oil for cooking",
+        "qty": "as needed",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Savory version with vegetables – common tea-time snack."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Crispy outside, soft inside."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "assam-snacks-narikol-laru",
+    "title": "Narikol Laru",
+    "state": "Assam",
+    "mealType": "Snacks",
+    "diet": "Vegetarian",
+    "time": "30 mins",
+    "servings": "15–20 pieces",
+    "heroImage": "./assets/images/narikol_laru.png",
+    "steps": [
+      "Cook grated coconut and jaggery together on low heat, stirring continuously, till the mixture thickens and leaves the sides of the pan.",
+      "Add cardamom if using. Cool slightly and shape into small balls (laru).",
+      "Store in an airtight container."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Fresh grated coconut",
+        "qty": "2 cups",
+        "checked": true
+      },
+      {
+        "name": "Jaggery",
+        "qty": "1 cup",
+        "checked": true
+      },
+      {
+        "name": "Cardamom (optional)",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Classic Assamese sweet for Bihu and everyday tea-time."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Simple two-ingredient delight."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "assam-lunch-xaak",
+    "title": "Lai Xaak / Mixed Greens Stir-fry",
+    "state": "Assam",
+    "mealType": "Lunch",
+    "diet": "Vegan",
+    "time": "15 mins",
+    "servings": "3 Servings",
+    "heroImage": "./assets/images/lai_xaak.png",
+    "steps": [
+      "Heat mustard oil, add crushed garlic and green chilli.",
+      "Add the washed greens and salt. Stir-fry on high heat till wilted but still bright.",
+      "Serve as a dry side with rice."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Lai xaak or mixed local greens",
+        "qty": "4 cups",
+        "checked": true
+      },
+      {
+        "name": "Mustard oil, garlic, green chilli, salt",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Everyday green side dish – Assam has a huge variety of xaak (leafy greens)."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Minimal oil and quick cooking preserve nutrients and flavour."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "assam-dinner-ou-tenga-fish",
+    "title": "Ou Tenga with Fish",
+    "state": "Assam",
+    "mealType": "Dinner",
+    "diet": "Non-Vegetarian",
+    "time": "35 mins",
+    "servings": "3 Servings",
+    "heroImage": "./assets/images/ou_tenga.png",
+    "steps": [
+      "Cut ou tenga into pieces. Lightly fry fish with turmeric and salt.",
+      "Temper mustard oil with green chilli, add ou tenga and turmeric. Cook till soft.",
+      "Add fish, water and salt. Simmer into a light sour curry.",
+      "Serve with rice."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Ou tenga (elephant apple)",
+        "qty": "1 medium",
+        "checked": true
+      },
+      {
+        "name": "Fish pieces",
+        "qty": "400 g",
+        "checked": true
+      },
+      {
+        "name": "Mustard oil, turmeric, green chilli, salt",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Ou tenga is a classic local souring agent for tenga dishes."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Gives a unique fruity sourness distinct from tomato or lemon."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "assam-dinner-ou-tenga-vegetarian",
+    "title": "Ou Tenga with Vegetables",
+    "state": "Assam",
+    "mealType": "Dinner",
+    "diet": "Vegetarian",
+    "time": "25 mins",
+    "servings": "3 Servings",
+    "heroImage": "./assets/images/ou_tenga.png",
+    "steps": [
+      "Cut ou tenga into pieces. Heat mustard oil, add green chilli and vegetables.",
+      "Add ou tenga, turmeric and salt. Cook till vegetables are soft.",
+      "Add water and simmer into a light sour vegetable curry.",
+      "Serve with rice."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Ou tenga (elephant apple)",
+        "qty": "1 medium",
+        "checked": true
+      },
+      {
+        "name": "Mixed vegetables (potato, brinjal, pumpkin)",
+        "qty": "2 cups",
+        "checked": true
+      },
+      {
+        "name": "Mustard oil, turmeric, green chilli, salt",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Vegetarian version of the classic sour curry."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Ou tenga gives a unique fruity sourness distinct from tomato or lemon."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  }
+]

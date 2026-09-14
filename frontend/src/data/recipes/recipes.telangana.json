@@ -1,0 +1,642 @@
+[
+  {
+    "id": "telangana-breakfast-sarva-pindi",
+    "title": "Sarva Pindi",
+    "state": "Telangana",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "time": "35 mins",
+    "servings": "6–8 pieces",
+    "heroImage": "./assets/images/sarva_pindi.png",
+    "steps": [
+      "Mix rice flour with soaked chana dal, sesame, crushed peanuts, chopped onion, chilli, curry leaves, cumin and salt. Add water to make a soft dough.",
+      "Grease a pan (traditionally a curved sarva). Spread a portion of dough, make small holes with fingers, and drizzle oil.",
+      "Cover and cook on low heat till crisp and golden on both sides.",
+      "Serve hot with chutney or tea."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Rice flour",
+        "qty": "2 cups",
+        "checked": true
+      },
+      {
+        "name": "Chana dal (soaked), sesame seeds, peanuts",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Onion, green chilli, curry leaves, cumin, salt",
+        "qty": "to taste",
+        "checked": true
+      },
+      {
+        "name": "Oil",
+        "qty": "as needed",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Signature Telangana rice-flour pancake – crisp, spicy and unique in texture."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "The holes allow even cooking and crispiness."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "telangana-breakfast-jonna-rotte",
+    "title": "Jonna Rotte",
+    "state": "Telangana",
+    "mealType": "Breakfast",
+    "diet": "Vegan",
+    "time": "25 mins",
+    "servings": "6 pieces",
+    "heroImage": "./assets/images/jonna_rotte.png",
+    "steps": [
+      "Mix jowar flour with salt and hot water to form a soft, pliable dough.",
+      "Pat into thin rotis by hand (or roll carefully) and cook on a hot tawa till done on both sides.",
+      "Serve with spicy koora, pachi pulusu or any curry."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Jowar (sorghum) flour",
+        "qty": "2 cups",
+        "checked": true
+      },
+      {
+        "name": "Hot water, salt",
+        "qty": "as needed",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Staple millet flatbread of Telangana – gluten-free and rustic."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Best eaten fresh and hot."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "telangana-breakfast-uppudu-pindi",
+    "title": "Uppudu Pindi (Broken Rice)",
+    "state": "Telangana",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "time": "25 mins",
+    "servings": "3 Servings",
+    "heroImage": "./assets/images/uppudu_pindi.png",
+    "steps": [
+      "Temper mustard, cumin, curry leaves, chilli and onion in oil.",
+      "Add water and salt, bring to a boil, then add the broken rice while stirring.",
+      "Cook till soft and fluffy. Serve with chutney or pickle."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Broken rice",
+        "qty": "1 cup",
+        "checked": true
+      },
+      {
+        "name": "Onion, green chilli, curry leaves, ginger",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Mustard, cumin, oil or ghee, salt",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Telangana-style rice upma – light and comforting."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "A everyday breakfast in many homes."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "telangana-breakfast-uppudu-pindi-rava",
+    "title": "Uppudu Pindi (Rice Rava)",
+    "state": "Telangana",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "time": "25 mins",
+    "servings": "3 Servings",
+    "heroImage": "./assets/images/uppudu_pindi.png",
+    "steps": [
+      "Temper mustard, cumin, curry leaves, chilli and onion in oil.",
+      "Add water and salt, bring to a boil, then add the rice rava while stirring.",
+      "Cook till soft and fluffy. Serve with chutney or pickle."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Rice rava",
+        "qty": "1 cup",
+        "checked": true
+      },
+      {
+        "name": "Onion, green chilli, curry leaves, ginger",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Mustard, cumin, oil or ghee, salt",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Telangana-style rice rava upma – light and comforting."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "A everyday breakfast in many homes."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "telangana-lunch-hyderabadi-mutton-biryani",
+    "title": "Hyderabadi Mutton Biryani",
+    "state": "Telangana",
+    "mealType": "Lunch",
+    "diet": "Non-Vegetarian",
+    "time": "90 mins (+ marination)",
+    "servings": "6 Servings",
+    "heroImage": "./assets/images/hyderabadi_biryani.png",
+    "steps": [
+      "Marinate mutton with yogurt, spices, fried onions, ginger-garlic and herbs for several hours.",
+      "Partially cook basmati rice. Layer the marinated meat and rice in a heavy pot, add saffron milk and ghee.",
+      "Seal and cook on dum (slow steam) till the meat is tender and rice is perfectly cooked.",
+      "Serve with mirchi ka salan and raita."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Basmati rice",
+        "qty": "500 g",
+        "checked": true
+      },
+      {
+        "name": "Mutton",
+        "qty": "750 g",
+        "checked": true
+      },
+      {
+        "name": "Yogurt, fried onions, ginger-garlic, biryani spices, saffron, ghee",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Mint, coriander, green chilli",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Iconic Hyderabadi dum biryani – the pride of Telangana."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Layering and slow dum cooking are essential for authentic flavour."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "telangana-lunch-hyderabadi-chicken-biryani",
+    "title": "Hyderabadi Chicken Biryani",
+    "state": "Telangana",
+    "mealType": "Lunch",
+    "diet": "Non-Vegetarian",
+    "time": "80 mins (+ marination)",
+    "servings": "6 Servings",
+    "heroImage": "./assets/images/hyderabadi_biryani.png",
+    "steps": [
+      "Marinate chicken with yogurt, spices, fried onions, ginger-garlic and herbs for several hours.",
+      "Partially cook basmati rice. Layer the marinated meat and rice in a heavy pot, add saffron milk and ghee.",
+      "Seal and cook on dum (slow steam) till the chicken is tender and rice is perfectly cooked.",
+      "Serve with mirchi ka salan and raita."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Basmati rice",
+        "qty": "500 g",
+        "checked": true
+      },
+      {
+        "name": "Chicken",
+        "qty": "750 g",
+        "checked": true
+      },
+      {
+        "name": "Yogurt, fried onions, ginger-garlic, biryani spices, saffron, ghee",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Mint, coriander, green chilli",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Iconic Hyderabadi chicken biryani – a lighter alternative to mutton."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Layering and slow dum cooking are essential for authentic flavour."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "telangana-lunch-pachi-pulusu",
+    "title": "Pachi Pulusu",
+    "state": "Telangana",
+    "mealType": "Lunch",
+    "diet": "Vegan",
+    "time": "15 mins",
+    "servings": "3 Servings",
+    "heroImage": "./assets/images/pachi_pulusu.png",
+    "steps": [
+      "Mix tamarind extract with water to the desired sourness. Add finely chopped onion, green chilli, curry leaves and coriander.",
+      "Temper or simply mix in roasted sesame-cumin powder and salt. Adjust with a little jaggery if needed.",
+      "Serve raw (uncooked) with rice or jonna rotte – especially cooling in summer."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Tamarind extract",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Onion, green chilli, curry leaves, coriander",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Sesame seeds, cumin, salt, jaggery (optional)",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Unique raw tamarind soup/relish of Telangana – no cooking required."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Refreshing and digestive."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "telangana-lunch-gongura-mamsam",
+    "title": "Gongura Mamsam",
+    "state": "Telangana",
+    "mealType": "Lunch",
+    "diet": "Non-Vegetarian",
+    "time": "70 mins",
+    "servings": "4 Servings",
+    "heroImage": "./assets/images/gongura_mamsam.png",
+    "steps": [
+      "Cook mutton with onion, ginger-garlic and spices till tender.",
+      "Separately cook and mash gongura leaves.",
+      "Combine the gongura paste with the mutton and simmer till the gravy thickens and flavours blend.",
+      "Serve with rice or roti."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Mutton",
+        "qty": "750 g",
+        "checked": true
+      },
+      {
+        "name": "Gongura (sorrel) leaves",
+        "qty": "2 large bunches",
+        "checked": true
+      },
+      {
+        "name": "Onion, ginger-garlic, green chilli, spices",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Oil, salt",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Classic Telangana/Andhra-style mutton with sour gongura."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "The tang of the leaves cuts through the richness of the meat."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "telangana-dinner-hyderabadi-haleem",
+    "title": "Hyderabadi Haleem",
+    "state": "Telangana",
+    "mealType": "Dinner",
+    "diet": "Non-Vegetarian",
+    "time": "4–6 hours",
+    "servings": "6 Servings",
+    "heroImage": "./assets/images/hyderabadi_haleem.png",
+    "steps": [
+      "Cook mutton, broken wheat and mixed lentils with spices and ghee for several hours, stirring frequently, till everything breaks down into a thick, porridge-like consistency.",
+      "Pound or blend slightly for the classic texture. Finish with more ghee and fried onions.",
+      "Garnish with fried onion, mint, coriander and lemon. Serve hot, especially during Ramadan."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Broken wheat, lentils, mutton",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Ghee, fried onions, ginger-garlic, haleem spices",
+        "qty": "generous",
+        "checked": true
+      },
+      {
+        "name": "Mint, coriander, lemon, fried onion for garnish",
+        "qty": "as needed",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "GI-tagged Hyderabadi specialty – rich, slow-cooked and highly nutritious."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "The long cooking and constant stirring are key."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "telangana-dinner-bagara-baingan",
+    "title": "Bagara Baingan",
+    "state": "Telangana",
+    "mealType": "Dinner",
+    "diet": "Vegetarian",
+    "time": "45 mins",
+    "servings": "4 Servings",
+    "heroImage": "./assets/images/bagara_baingan.png",
+    "steps": [
+      "Slit and shallow-fry the brinjals. Prepare a rich gravy with roasted peanuts, sesame, coconut, tamarind and spices.",
+      "Cook the gravy with onion and ginger-garlic, then add the fried brinjals and simmer till they absorb the flavours.",
+      "Serve with biryani or rice."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Small brinjals",
+        "qty": "8–10",
+        "checked": true
+      },
+      {
+        "name": "Peanuts, sesame, coconut, tamarind, spices",
+        "qty": "for gravy",
+        "checked": true
+      },
+      {
+        "name": "Onion, ginger-garlic, oil",
+        "qty": "as needed",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Classic Hyderabadi vegetarian side – nutty, tangy and aromatic."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Often paired with biryani."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "telangana-snacks-sakinalu",
+    "title": "Sakinalu",
+    "state": "Telangana",
+    "mealType": "Snacks",
+    "diet": "Vegetarian",
+    "time": "50 mins",
+    "servings": "many pieces",
+    "heroImage": "./assets/images/sakinalu.png",
+    "steps": [
+      "Mix rice flour with sesame, cumin, chilli and salt. Add water to make a soft dough.",
+      "Shape into spiral or concentric circles on a cloth or plastic sheet.",
+      "Deep-fry till golden and crisp. Cool and store in airtight containers."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Rice flour",
+        "qty": "2 cups",
+        "checked": true
+      },
+      {
+        "name": "Sesame seeds, cumin, chilli, salt",
+        "qty": "to taste",
+        "checked": true
+      },
+      {
+        "name": "Oil for deep frying",
+        "qty": "as needed",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Festive Sankranti snack of Telangana – crunchy rice flour spirals."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Long shelf life makes them ideal for festivals."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "telangana-snacks-punugulu",
+    "title": "Punugulu",
+    "state": "Telangana",
+    "mealType": "Snacks",
+    "diet": "Vegetarian",
+    "time": "25 mins (+ fermentation)",
+    "servings": "20 pieces",
+    "heroImage": "./assets/images/punugulu.png",
+    "steps": [
+      "Mix chopped onion, chilli, curry leaves and cumin into the fermented batter.",
+      "Drop spoonfuls into hot oil and fry till golden and crisp outside, soft inside.",
+      "Serve with coconut or peanut chutney."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Idli/dosa batter",
+        "qty": "2 cups",
+        "checked": true
+      },
+      {
+        "name": "Onion, green chilli, curry leaves, cumin",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Oil for deep frying",
+        "qty": "as needed",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Popular street and home snack across Telangana and Andhra."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Great use for leftover batter."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "telangana-lunch-mirchi-ka-salan",
+    "title": "Mirchi ka Salan",
+    "state": "Telangana",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "time": "40 mins",
+    "servings": "4 Servings",
+    "heroImage": "./assets/images/mirchi_ka_salan.png",
+    "steps": [
+      "Slit and shallow-fry the green chillies. Prepare a nutty gravy with roasted peanuts, sesame, coconut, tamarind and spices.",
+      "Cook the gravy, then add the fried chillies and simmer till they soften and absorb the masala.",
+      "Serve as a classic accompaniment to Hyderabadi biryani."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Large green chillies",
+        "qty": "8–10",
+        "checked": true
+      },
+      {
+        "name": "Peanuts, sesame, coconut, tamarind, spices",
+        "qty": "for gravy",
+        "checked": true
+      },
+      {
+        "name": "Onion, ginger-garlic, oil",
+        "qty": "as needed",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Essential Hyderabadi side for biryani – spicy, tangy and rich."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "The chillies should remain intact but soft."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "telangana-dinner-kodi-pulusu",
+    "title": "Kodi Pulusu (Chicken Curry)",
+    "state": "Telangana",
+    "mealType": "Dinner",
+    "diet": "Non-Vegetarian",
+    "time": "50 mins",
+    "servings": "4 Servings",
+    "heroImage": "./assets/images/kodi_pulusu.png",
+    "steps": [
+      "Sauté onion, ginger-garlic and spices. Add tomato and tamarind extract.",
+      "Add chicken and cook till tender in a thick, spicy-tangy gravy.",
+      "Serve with rice, jonna rotte or roti."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Chicken",
+        "qty": "750 g",
+        "checked": true
+      },
+      {
+        "name": "Onion, tomato, ginger-garlic, tamarind",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Red chilli, coriander, turmeric, garam masala",
+        "qty": "to taste",
+        "checked": true
+      },
+      {
+        "name": "Oil, salt",
+        "qty": "as needed",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Everyday Telangana-style chicken curry – bold and tamarind-forward."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Country chicken versions are especially prized."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  }
+]

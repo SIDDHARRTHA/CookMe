@@ -1,0 +1,563 @@
+[
+  {
+    "id": "madhya-pradesh-breakfast-indori-poha",
+    "title": "Indori Poha",
+    "state": "Madhya Pradesh",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "time": "Prep: 10 minutes | Cook: 10 minutes",
+    "servings": 3,
+    "heroImage": "./assets/images/indori_poha.png",
+    "description": "Iconic Indore street breakfast of lightly tempered flattened rice topped with raw onion, sev, jeeravan masala, pomegranate and a squeeze of lemon. Often paired with hot jalebi. Distinct from Maharashtrian poha by its lighter tempering and signature toppings.",
+    "steps": [
+      "Rinse and drain poha; let it soften.",
+      "Temper mustard, fennel, curry leaves and chillies; add turmeric.",
+      "Gently mix in poha, salt and a pinch of sugar.",
+      "Serve topped with chopped onion, sev, jeeravan, coriander, pomegranate and lemon."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Thick poha (flattened rice)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Mustard seeds, fennel seeds, curry leaves, green chillies",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Turmeric, salt, sugar, lemon",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Raw onion, sev, jeeravan masala, coriander, pomegranate",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tip": "Jeeravan masala is the defining Indore spice blend.",
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Jeeravan masala is the defining Indore spice blend."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Classic pairing is with fresh jalebi."
+      }
+    ]
+  },
+  {
+    "id": "madhya-pradesh-breakfast-bhutte-ka-kees",
+    "title": "Bhutte ka Kees",
+    "state": "Madhya Pradesh",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "time": "Prep: 15 minutes | Cook: 15 minutes",
+    "servings": 4,
+    "heroImage": "./assets/images/bhutte_ka_kees.png",
+    "description": "Grated fresh corn cooked in milk with ghee, mustard seeds, green chillies and mild spices. A beloved Indore/Malwa street snack and breakfast special, especially during corn season.",
+    "steps": [
+      "Grate fresh corn.",
+      "Temper mustard seeds, chillies and curry leaves in ghee.",
+      "Add grated corn and sauté briefly.",
+      "Pour milk and simmer until the mixture thickens. Garnish with coriander."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Fresh corn kernels, grated",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Milk, ghee",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Mustard seeds, green chillies, curry leaves",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Turmeric, salt, coriander",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tip": "Best made with tender seasonal corn.",
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Best made with tender seasonal corn."
+      }
+    ]
+  },
+  {
+    "id": "madhya-pradesh-breakfast-sabudana-khichdi",
+    "title": "Sabudana Khichdi",
+    "state": "Madhya Pradesh",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "time": "Prep: 10 minutes + soaking | Cook: 12 minutes",
+    "servings": 3,
+    "heroImage": "./assets/images/sabudana_khichdi.png",
+    "description": "Soaked sago pearls tempered with cumin, green chillies, peanuts and boiled potato. A popular fasting (vrat) dish across Madhya Pradesh that can be prepared without onion and garlic.",
+    "steps": [
+      "Soak sabudana until soft but not mushy; drain well.",
+      "Temper cumin and chillies; add potato and peanuts.",
+      "Add sabudana and cook gently on low heat until translucent.",
+      "Finish with lemon and coriander."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Sabudana (sago), soaked",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Boiled potato, roasted peanuts",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Cumin, green chillies, lemon, coriander",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Salt, sugar, ghee or oil",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tip": "Ideal for Ekadashi and other fasting days.",
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Ideal for Ekadashi and other fasting days."
+      }
+    ]
+  },
+  {
+    "id": "madhya-pradesh-lunch-dal-bafla",
+    "title": "Dal Bafla",
+    "state": "Madhya Pradesh",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "time": "Prep: 20 minutes | Cook: 40 minutes",
+    "servings": 4,
+    "heroImage": "./assets/images/dal_bafla.png",
+    "description": "Wheat-flour dough balls (bafla) that are boiled then baked or roasted, dunked in ghee and served with spicy toor dal. The Malwa counterpart to Rajasthani dal baati — softer because of the boiling step.",
+    "steps": [
+      "Knead stiff dough, shape into balls and boil until cooked.",
+      "Bake or roast the boiled baflas until lightly crisp.",
+      "Prepare tempered toor dal.",
+      "Crack baflas slightly, dunk in pure ghee and serve with hot dal."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Wheat flour, ghee, ajwain, salt for bafla",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Toor dal, turmeric, chilli, garlic or hing for dal",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Ghee for dunking",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tip": "Often accompanied by garlic chutney, onion and ladoo.",
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Often accompanied by garlic chutney, onion and ladoo."
+      }
+    ]
+  },
+  {
+    "id": "madhya-pradesh-lunch-chakki-ki-shaak",
+    "title": "Chakki ki Shaak",
+    "state": "Madhya Pradesh",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "time": "Prep: 20 minutes | Cook: 20 minutes",
+    "servings": 4,
+    "heroImage": "./assets/images/chakki_ki_shaak.png",
+    "description": "Steamed wheat-flour dough pieces cooked in a lightly spiced yoghurt or tomato-based gravy. A traditional Malwa specialty that uses simple pantry ingredients.",
+    "steps": [
+      "Prepare and steam wheat dough; cut into small pieces.",
+      "Make a light yoghurt or tomato gravy with basic spices.",
+      "Add the steamed dough pieces and simmer gently.",
+      "Garnish with coriander and serve."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Wheat flour dough, steamed and cut",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Yoghurt or tomato, turmeric, chilli, cumin",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Ginger, green chilli, coriander",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tip": "A comforting, everyday home-style dish.",
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "A comforting, everyday home-style dish."
+      }
+    ]
+  },
+  {
+    "id": "madhya-pradesh-lunch-indrahar",
+    "title": "Indrahar",
+    "state": "Madhya Pradesh",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "time": "Prep: 30 minutes + soaking | Cook: 30 minutes",
+    "servings": 4,
+    "heroImage": "./assets/images/indrahar.png",
+    "description": "Royal Rewa specialty made from five lentils (arhar, masoor, chana, moong, urad) coarsely ground, shaped and cooked. Can be served dry as a snack or in gravy. A sophisticated vegetarian dish from the princely kitchens.",
+    "steps": [
+      "Soak and coarsely grind the five lentils.",
+      "Season and shape into small pieces or keep as a coarse mixture.",
+      "Steam or shallow-fry, then finish in a light gravy if desired.",
+      "Serve hot."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Mixed lentils (arhar, masoor, chana, moong, urad)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Spices, ginger, green chilli",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Oil or ghee for cooking",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tip": "A labour-intensive royal dish still prepared in traditional households of Rewa.",
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "A labour-intensive royal dish still prepared in traditional households of Rewa."
+      }
+    ]
+  },
+  {
+    "id": "madhya-pradesh-dinner-bhopali-gosht-korma",
+    "title": "Bhopali Gosht Korma",
+    "state": "Madhya Pradesh",
+    "mealType": "Dinner",
+    "diet": "Non-Vegetarian",
+    "time": "Prep: 30 minutes + marination | Cook: 60–75 minutes",
+    "servings": 4,
+    "heroImage": "./assets/images/bhopali_gosht_korma.png",
+    "description": "Rich, aromatic mutton korma from Bhopal's Nawabi tradition, slow-cooked with yoghurt, cream, nuts and a refined spice blend. A classic of the city's Muslim culinary heritage.",
+    "steps": [
+      "Marinate mutton with yoghurt and spices.",
+      "Fry onion paste and whole spices; add nut paste.",
+      "Add mutton and cook slowly until tender and the gravy is rich.",
+      "Finish with cream and garam masala."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Mutton pieces",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Yoghurt, cream, onion paste",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Cashew or almond paste, whole spices",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Ginger-garlic, mild chilli, garam masala",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tip": "Best enjoyed with naan or sheermal.",
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Best enjoyed with naan or sheermal."
+      }
+    ]
+  },
+  {
+    "id": "madhya-pradesh-dinner-seekh-kebab",
+    "title": "Seekh Kebab",
+    "state": "Madhya Pradesh",
+    "mealType": "Dinner",
+    "diet": "Non-Vegetarian",
+    "time": "Prep: 25 minutes | Cook: 20 minutes",
+    "servings": 4,
+    "heroImage": "./assets/images/seekh_kebab.png",
+    "description": "Minced mutton or chicken mixed with spices, moulded onto skewers and grilled. Popular in Bhopal and across the state, often served with mint chutney and onion.",
+    "steps": [
+      "Mix minced meat thoroughly with spices and aromatics.",
+      "Shape onto skewers.",
+      "Grill or roast over charcoal or in an oven until cooked and lightly charred.",
+      "Serve hot with chutney and lemon."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Minced mutton or chicken",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Ginger-garlic, green chilli, coriander, garam masala",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Onion, binding agents if needed",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Oil or ghee for grilling",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tip": "Keep the mince fine and well-bound for neat kebabs.",
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Keep the mince fine and well-bound for neat kebabs."
+      }
+    ]
+  },
+  {
+    "id": "madhya-pradesh-dinner-rogan-josh-style",
+    "title": "Mutton Rogan Josh (Bhopali style)",
+    "state": "Madhya Pradesh",
+    "mealType": "Dinner",
+    "diet": "Non-Vegetarian",
+    "time": "Prep: 20 minutes | Cook: 70 minutes",
+    "servings": 4,
+    "heroImage": "./assets/images/rogan_josh.png",
+    "description": "Slow-cooked mutton in a rich, aromatic gravy influenced by Mughlai and Kashmiri traditions, popular in Bhopal and northern Madhya Pradesh.",
+    "steps": [
+      "Marinate or seal mutton with yoghurt and spices.",
+      "Cook onion and whole spices into a base.",
+      "Add mutton and simmer until tender and the gravy is deep red and fragrant.",
+      "Serve with rice or bread."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Mutton",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Yoghurt, onion, whole spices (cinnamon, cardamom, cloves)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Kashmiri chilli or mild red chilli, ginger-garlic",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tip": "Long, slow cooking develops the characteristic flavour.",
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Long, slow cooking develops the characteristic flavour."
+      }
+    ]
+  },
+  {
+    "id": "madhya-pradesh-snacks-jalebi",
+    "title": "Jalebi",
+    "state": "Madhya Pradesh",
+    "mealType": "Snacks",
+    "diet": "Vegetarian",
+    "time": "Prep: 15 minutes + fermentation | Cook: 20 minutes",
+    "servings": 8,
+    "heroImage": "./assets/images/jalebi.png",
+    "description": "Crisp, syrup-soaked spiral sweets made from fermented batter. In Madhya Pradesh, especially Indore, jalebi is the classic companion to poha for breakfast or a standalone snack.",
+    "steps": [
+      "Prepare a fermented batter of the right pouring consistency.",
+      "Pipe spirals into hot oil and fry until golden and crisp.",
+      "Immediately soak in warm sugar syrup.",
+      "Serve hot or warm."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Maida or refined flour, yoghurt or fermentation starter",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Sugar syrup flavoured with cardamom or saffron",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Oil or ghee for frying",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tip": "Fresh, hot jalebi with Indori poha is a must-try combination.",
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Fresh, hot jalebi with Indori poha is a must-try combination."
+      }
+    ]
+  },
+  {
+    "id": "madhya-pradesh-snacks-palak-puri",
+    "title": "Palak Puri",
+    "state": "Madhya Pradesh",
+    "mealType": "Snacks",
+    "diet": "Vegetarian",
+    "time": "Prep: 20 minutes | Cook: 15 minutes",
+    "servings": 4,
+    "heroImage": "./assets/images/palak_puri.png",
+    "description": "Deep-fried puris made with spinach purée mixed into the dough. A colourful, nutritious breakfast or snack often served with aloo sabzi, especially in the Khandwa region.",
+    "steps": [
+      "Knead dough with spinach purée and salt.",
+      "Roll into small puris and deep-fry until puffed and golden.",
+      "Serve hot with spicy potato curry or yoghurt."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Wheat flour, spinach purée",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Salt, ajwain, oil for frying",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Potato curry for serving",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tip": "The spinach gives a vibrant green colour and mild flavour.",
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "The spinach gives a vibrant green colour and mild flavour."
+      }
+    ]
+  },
+  {
+    "id": "madhya-pradesh-snacks-garadu",
+    "title": "Garadu",
+    "state": "Madhya Pradesh",
+    "mealType": "Snacks",
+    "diet": "Vegetarian",
+    "time": "Prep: 15 minutes | Cook: 15 minutes",
+    "servings": 4,
+    "heroImage": "./assets/images/garadu.png",
+    "description": "Spiced deep-fried yam (suran/garadu) cubes, a popular Indore street snack especially at Sarafa Bazaar. Crisp outside and soft inside, tossed with chaat-style spices.",
+    "steps": [
+      "Boil yam until just tender; cube.",
+      "Deep-fry until crisp and golden.",
+      "Toss immediately with spices, lemon and coriander.",
+      "Serve hot."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Yam (suran), boiled and cubed",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Oil for frying",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Chaat masala, red chilli powder, salt, lemon, coriander",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tip": "A late-night favourite at Indore's Sarafa Bazaar.",
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "A late-night favourite at Indore's Sarafa Bazaar."
+      }
+    ]
+  },
+  {
+    "id": "madhya-pradesh-snacks-mahua-kheer",
+    "title": "Mahua Kheer",
+    "state": "Madhya Pradesh",
+    "mealType": "Snacks",
+    "diet": "Vegetarian",
+    "time": "Prep: 10 minutes | Cook: 25 minutes",
+    "servings": 4,
+    "heroImage": "./assets/images/mahua_kheer.png",
+    "description": "Sweet kheer made with mahua flowers (a local forest produce) cooked slowly with milk or water and ghee. A traditional tribal and rural dessert of Madhya Pradesh that uses the natural sweetness of mahua.",
+    "steps": [
+      "Clean and soak mahua flowers if dried.",
+      "Cook slowly with milk or water and a little ghee until soft and thickened.",
+      "Sweeten further only if needed; flavour with cardamom.",
+      "Serve warm or at room temperature."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Dried or fresh mahua flowers",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Milk or water, ghee",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Cardamom or mild spices (optional)",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tip": "Mahua is culturally and economically important in tribal regions of MP.",
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Mahua is culturally and economically important in tribal regions of MP."
+      }
+    ]
+  }
+]

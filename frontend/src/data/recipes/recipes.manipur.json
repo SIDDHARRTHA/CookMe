@@ -1,0 +1,607 @@
+[
+  {
+    "id": "manipur-breakfast-eromba-ngari",
+    "title": "Eromba with Ngari (Fermented Fish)",
+    "state": "Manipur",
+    "mealType": "Breakfast",
+    "diet": "Non-Vegetarian",
+    "time": "30 mins",
+    "servings": "3 Servings",
+    "heroImage": "./assets/images/eromba.png",
+    "steps": [
+      "Boil or steam seasonal vegetables until soft. Mash with roasted ngari and plenty of chilli.",
+      "Garnish with fresh maroi herbs. Serve with rice – the iconic spicy mashed side of Manipur."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Boiled vegetables (potato, bamboo shoot, beans, etc.)",
+        "qty": "as available",
+        "checked": true
+      },
+      {
+        "name": "Ngari (fermented fish), red chilli or umorok",
+        "qty": "to taste",
+        "checked": true
+      },
+      {
+        "name": "Maroi (local herbs) for garnish",
+        "qty": "as needed",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Ngari is the soul of Eromba – this is the classic non-vegetarian version."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Heat level can be adjusted but authentic versions are fiery."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "manipur-breakfast-eromba-vegetarian",
+    "title": "Eromba (Vegetarian)",
+    "state": "Manipur",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "time": "25 mins",
+    "servings": "3 Servings",
+    "heroImage": "./assets/images/eromba.png",
+    "steps": [
+      "Boil or steam seasonal vegetables until soft. Mash with fried chives/onion, ginger and plenty of chilli.",
+      "Garnish with fresh maroi herbs. Serve with rice – a vegetarian version of the iconic dish."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Boiled vegetables (potato, bamboo shoot, beans, etc.)",
+        "qty": "as available",
+        "checked": true
+      },
+      {
+        "name": "Fried chives or onion, ginger, red chilli or umorok",
+        "qty": "to taste",
+        "checked": true
+      },
+      {
+        "name": "Maroi (local herbs) for garnish",
+        "qty": "as needed",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Vegetarian version of Eromba using fried chives instead of ngari."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Still packed with flavour and heat."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "manipur-breakfast-singju-vegetarian",
+    "title": "Singju (Vegetarian)",
+    "state": "Manipur",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "time": "20 mins",
+    "servings": "3 Servings",
+    "heroImage": "./assets/images/singju.png",
+    "steps": [
+      "Mix finely shredded vegetables with roasted sesame powder, a little gram flour, chilli, onion and local herbs.",
+      "Toss well and serve as a spicy, crunchy salad or snack."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Finely chopped cabbage, green papaya, other seasonal vegetables",
+        "qty": "as available",
+        "checked": true
+      },
+      {
+        "name": "Roasted sesame powder, gram flour, chilli, herbs, onion",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Popular street and home salad – refreshing yet spicy."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Best eaten fresh."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "manipur-breakfast-singju-nonvegetarian",
+    "title": "Singju with Ngari (Non-Vegetarian)",
+    "state": "Manipur",
+    "mealType": "Breakfast",
+    "diet": "Non-Vegetarian",
+    "time": "20 mins",
+    "servings": "3 Servings",
+    "heroImage": "./assets/images/singju.png",
+    "steps": [
+      "Mix finely shredded vegetables with roasted sesame powder, a little gram flour, chilli, onion and local herbs.",
+      "Add ngari. Toss well and serve as a spicy, crunchy salad or snack."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Finely chopped cabbage, green papaya, other seasonal vegetables",
+        "qty": "as available",
+        "checked": true
+      },
+      {
+        "name": "Roasted sesame powder, gram flour, chilli, herbs, onion",
+        "qty": "to taste",
+        "checked": true
+      },
+      {
+        "name": "Ngari (fermented fish)",
+        "qty": "as desired",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Popular street and home salad with the addition of ngari."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Best eaten fresh."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "manipur-breakfast-chamthong",
+    "title": "Chamthong (Kangshoi) with Ngari",
+    "state": "Manipur",
+    "mealType": "Breakfast",
+    "diet": "Non-Vegetarian",
+    "time": "35 mins",
+    "servings": "4 Servings",
+    "heroImage": "./assets/images/chamthong.png",
+    "steps": [
+      "Boil seasonal vegetables with onion, ginger, garlic and chilli in water to make a light stew.",
+      "Add ngari or smoked fish for flavour. Simmer briefly.",
+      "Serve with rice – an everyday light vegetable stew."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Seasonal vegetables",
+        "qty": "4 cups",
+        "checked": true
+      },
+      {
+        "name": "Ngari or smoked fish, onion, ginger, garlic, chilli",
+        "qty": "to taste",
+        "checked": true
+      },
+      {
+        "name": "Salt, water",
+        "qty": "as needed",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Also called Kangshoi or Kangsoi – minimal oil, maximum freshness."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "This is the classic non-vegetarian version with ngari."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "manipur-lunch-ooti",
+    "title": "Ooti",
+    "state": "Manipur",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "time": "40 mins",
+    "servings": "4 Servings",
+    "heroImage": "./assets/images/ooti.png",
+    "steps": [
+      "Cook rice with onion, ginger, peas or seasonal vegetables and a pinch of baking soda (or traditional khar) until soft and slightly thickened.",
+      "Season simply. Serve as a comforting one-pot vegetarian dish."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Rice + peas or mixed vegetables",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Onion, ginger, baking soda or traditional alkaline water, spices",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Classic Meitei vegetarian preparation – the alkaline note is traditional."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Often made for religious or special occasions when non-veg is avoided."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "manipur-lunch-chagem-pomba",
+    "title": "Chagem Pomba",
+    "state": "Manipur",
+    "mealType": "Lunch",
+    "diet": "Non-Vegetarian",
+    "time": "45 mins",
+    "servings": "4 Servings",
+    "heroImage": "./assets/images/chagem_pomba.png",
+    "steps": [
+      "Cook broken rice with mustard greens, hawaijar, smoked fish, onion and peas into a thick, flavourful mixture.",
+      "Simmer till everything is soft and well combined.",
+      "Serve with rice or as a main – a hearty fermented-soybean dish."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Broken rice, mustard leaves or greens",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Hawaijar (fermented soybean), smoked fish, peas, onion",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Hawaijar gives a unique fermented depth."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Mustard leaves are the preferred green."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "manipur-lunch-kanghou",
+    "title": "Kanghou",
+    "state": "Manipur",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "time": "20 mins",
+    "servings": "3 Servings",
+    "heroImage": "./assets/images/kanghou.png",
+    "steps": [
+      "Heat a little mustard oil, add chilli and onion and quickly stir-fry the finely chopped vegetables.",
+      "Season with salt and herbs. Keep the vegetables crisp-tender.",
+      "Serve as a dry side with rice."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Finely chopped seasonal vegetables",
+        "qty": "3 cups",
+        "checked": true
+      },
+      {
+        "name": "Mustard oil, chilli, onion, local herbs, salt",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Simple stir-fried vegetable side – light and everyday."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Minimal oil is traditional."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "manipur-dinner-nga-thongba",
+    "title": "Nga Thongba (Fish Curry)",
+    "state": "Manipur",
+    "mealType": "Dinner",
+    "diet": "Non-Vegetarian",
+    "time": "35 mins",
+    "servings": "3 Servings",
+    "heroImage": "./assets/images/nga_thongba.png",
+    "steps": [
+      "Marinate fish with turmeric and salt. Lightly fry or cook in a gravy of onion, ginger, garlic and chilli in mustard oil.",
+      "Simmer till the fish is done. Serve with rice."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Fresh fish",
+        "qty": "500 g",
+        "checked": true
+      },
+      {
+        "name": "Mustard oil, onion, ginger, garlic, chilli, turmeric",
+        "qty": "as needed",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Fish is central to Meitei meals."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Mustard oil and local herbs define the flavour."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "manipur-dinner-pork-bamboo",
+    "title": "Pork with Bamboo Shoot",
+    "state": "Manipur",
+    "mealType": "Dinner",
+    "diet": "Non-Vegetarian",
+    "time": "55 mins",
+    "servings": "4 Servings",
+    "heroImage": "./assets/images/pork_bamboo_manipur.png",
+    "steps": [
+      "Cook pork with onion, ginger, garlic and chilli until tender. Add bamboo shoot and continue cooking till flavours meld.",
+      "Serve with rice – popular especially in hill communities and among non-Meitei groups."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Pork",
+        "qty": "600 g",
+        "checked": true
+      },
+      {
+        "name": "Bamboo shoot (fresh or fermented)",
+        "qty": "1.5 cups",
+        "checked": true
+      },
+      {
+        "name": "Onion, chilli, ginger, garlic, salt",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Bamboo shoot balances the richness of the pork."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Fermented bamboo shoot adds extra tang."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "manipur-snacks-kabok-sweet",
+    "title": "Kabok (Sweet Puffed Rice)",
+    "state": "Manipur",
+    "mealType": "Snacks",
+    "diet": "Vegan",
+    "time": "15 mins",
+    "servings": "2 Servings",
+    "heroImage": "./assets/images/kabok.png",
+    "steps": [
+      "Melt jaggery with a little water until syrupy. Toss with puffed rice until well coated.",
+      "Shape into balls or leave loose. A classic sweet snack."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Puffed rice",
+        "qty": "2 cups",
+        "checked": true
+      },
+      {
+        "name": "Jaggery or sugar",
+        "qty": "as needed",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Simple sweet puffed-rice snack enjoyed across Manipur."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Popular during festivals."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "manipur-snacks-kabok-savoury",
+    "title": "Kabok (Savoury Puffed Rice)",
+    "state": "Manipur",
+    "mealType": "Snacks",
+    "diet": "Vegan",
+    "time": "10 mins",
+    "servings": "2 Servings",
+    "heroImage": "./assets/images/kabok.png",
+    "steps": [
+      "Toss puffed rice with finely chopped onion, green chilli, salt and light spices.",
+      "Serve as a crunchy savoury snack."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Puffed rice",
+        "qty": "2 cups",
+        "checked": true
+      },
+      {
+        "name": "Onion, green chilli, salt, spices",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Simple savoury puffed-rice snack."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "A quick and easy snack option."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "manipur-snacks-bora",
+    "title": "Bora (Pakora)",
+    "state": "Manipur",
+    "mealType": "Snacks",
+    "diet": "Vegetarian",
+    "time": "30 mins",
+    "servings": "10–12 pieces",
+    "heroImage": "./assets/images/bora.png",
+    "steps": [
+      "Make a batter of gram flour with chopped onion, local herbs, chilli and salt.",
+      "Deep-fry spoonfuls till golden and crisp.",
+      "Serve hot as a tea-time or evening snack."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Gram flour",
+        "qty": "1.5 cups",
+        "checked": true
+      },
+      {
+        "name": "Onion, green chilli, local herbs, salt",
+        "qty": "to taste",
+        "checked": true
+      },
+      {
+        "name": "Oil for deep frying",
+        "qty": "as needed",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Manipuri-style fritters – often enjoyed with tea."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Best eaten fresh."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "manipur-lunch-morok-metpa",
+    "title": "Morok Metpa",
+    "state": "Manipur",
+    "mealType": "Lunch",
+    "diet": "Non-Vegetarian",
+    "time": "15 mins",
+    "servings": "4 Servings",
+    "heroImage": "./assets/images/morok_metpa.png",
+    "steps": [
+      "Boil or roast chilli with ngari. Pound or grind into a coarse, fiery paste with garlic and salt.",
+      "Serve as a pungent side with rice and other dishes."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Green or dry red chilli",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Ngari (fermented fish), garlic, salt",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Essential chilli-ngari chutney of Manipuri meals."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Extremely spicy – use with caution."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "manipur-dinner-chakhao-kheer",
+    "title": "Chakhao Kheer",
+    "state": "Manipur",
+    "mealType": "Dinner",
+    "diet": "Vegetarian",
+    "time": "50 mins",
+    "servings": "4 Servings",
+    "heroImage": "./assets/images/chakhao_kheer.png",
+    "steps": [
+      "Cook the black rice in milk with sugar or jaggery and cardamom until creamy and the rice is soft.",
+      "Garnish with nuts and raisins if desired.",
+      "Serve warm or chilled – a special dessert or festive dish."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Chakhao (black scented rice)",
+        "qty": "1 cup",
+        "checked": true
+      },
+      {
+        "name": "Milk, sugar or jaggery, cardamom, nuts",
+        "qty": "as needed",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Chakhao is the aromatic black rice of Manipur – nutty and fragrant."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "A prized preparation for celebrations."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  }
+]

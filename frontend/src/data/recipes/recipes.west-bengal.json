@@ -1,0 +1,1184 @@
+[
+  {
+    "id": "west-bengal-breakfast-luchi-alur-dom",
+    "title": "Luchi Alur Dom",
+    "state": "West Bengal",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "time": "45 mins",
+    "servings": "4 Servings",
+    "heroImage": "./assets/images/luchi_alur_dom.png",
+    "steps": [
+      "Knead maida with salt, ghee and water into a soft dough. Rest 20 mins.",
+      "Boil baby potatoes, peel and keep whole or halve.",
+      "Heat mustard oil, temper panch phoron and green chillies. Add ginger paste, tomatoes, turmeric, chilli powder, cumin and salt. Cook till oil separates.",
+      "Add potatoes, sugar and a little water. Cover and simmer till gravy thickens and coats the potatoes.",
+      "Roll small portions of dough into thin circles and deep-fry in hot oil till puffed and golden (luchi).",
+      "Serve hot luchis with alur dom."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Maida (all-purpose flour)",
+        "qty": "2 cups",
+        "checked": true
+      },
+      {
+        "name": "Ghee or oil",
+        "qty": "2 tbsp + for frying",
+        "checked": true
+      },
+      {
+        "name": "Salt",
+        "qty": "to taste",
+        "checked": true
+      },
+      {
+        "name": "Baby potatoes",
+        "qty": "500 g",
+        "checked": true
+      },
+      {
+        "name": "Tomato",
+        "qty": "2 medium",
+        "checked": true
+      },
+      {
+        "name": "Ginger paste",
+        "qty": "1 tsp",
+        "checked": true
+      },
+      {
+        "name": "Green chillies",
+        "qty": "2-3",
+        "checked": true
+      },
+      {
+        "name": "Panch phoron",
+        "qty": "1 tsp",
+        "checked": true
+      },
+      {
+        "name": "Turmeric powder",
+        "qty": "1/2 tsp",
+        "checked": true
+      },
+      {
+        "name": "Red chilli powder",
+        "qty": "1/2 tsp",
+        "checked": true
+      },
+      {
+        "name": "Cumin powder",
+        "qty": "1/2 tsp",
+        "checked": true
+      },
+      {
+        "name": "Sugar",
+        "qty": "1/2 tsp",
+        "checked": true
+      },
+      {
+        "name": "Mustard oil",
+        "qty": "3 tbsp",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Use Chandramukhi or new potatoes for authentic taste."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Do not over-knead the dough; soft dough gives softer luchis."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "west-bengal-breakfast-kochuri-cholar-dal",
+    "title": "Kochuri with Cholar Dal",
+    "state": "West Bengal",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "time": "50 mins",
+    "servings": "4 Servings",
+    "heroImage": "./assets/images/kochuri_cholar_dal.png",
+    "steps": [
+      "Soak urad dal, grind with ginger, green chilli and fennel into a coarse paste. Season and keep ready for stuffing.",
+      "Knead maida dough, rest. Stuff small portions with dal paste, roll and deep-fry into kochuri.",
+      "Pressure-cook chana dal till soft. Temper whole spices in ghee, add coconut, raisins, cooked dal, sugar and salt. Simmer till thick and aromatic.",
+      "Serve hot kochuri with cholar dal."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Maida",
+        "qty": "2 cups",
+        "checked": true
+      },
+      {
+        "name": "Urad dal (for stuffing)",
+        "qty": "1/2 cup",
+        "checked": true
+      },
+      {
+        "name": "Ginger",
+        "qty": "1 inch",
+        "checked": true
+      },
+      {
+        "name": "Green chillies",
+        "qty": "2",
+        "checked": true
+      },
+      {
+        "name": "Fennel seeds",
+        "qty": "1 tsp",
+        "checked": true
+      },
+      {
+        "name": "Chana dal (Bengal gram)",
+        "qty": "1 cup",
+        "checked": true
+      },
+      {
+        "name": "Coconut pieces",
+        "qty": "1/4 cup",
+        "checked": true
+      },
+      {
+        "name": "Raisins",
+        "qty": "1 tbsp",
+        "checked": true
+      },
+      {
+        "name": "Bay leaf, cinnamon, cardamom, cloves",
+        "qty": "few",
+        "checked": true
+      },
+      {
+        "name": "Ghee",
+        "qty": "2 tbsp",
+        "checked": true
+      },
+      {
+        "name": "Sugar",
+        "qty": "1 tsp",
+        "checked": true
+      },
+      {
+        "name": "Mustard oil or ghee for frying",
+        "qty": "as needed",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Radhaballavi is a close variant with different stuffing; both are festive breakfast classics."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "A little sugar in the dal balances the spices."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "west-bengal-breakfast-panta-bhat",
+    "title": "Panta Bhat",
+    "state": "West Bengal",
+    "mealType": "Breakfast",
+    "diet": "Vegan",
+    "time": "10 mins (+ overnight soaking)",
+    "servings": "2 Servings",
+    "heroImage": "./assets/images/panta_bhat.png",
+    "steps": [
+      "Place leftover cooked rice in a bowl and cover completely with clean water.",
+      "Leave overnight at room temperature to ferment slightly.",
+      "Next morning, drain excess water if desired (or keep some), mash lightly, add salt, chopped green chillies and a drizzle of mustard oil.",
+      "Serve plain or with fried vegetables, pickles or (non-Jain) onion."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Cooked leftover rice",
+        "qty": "2 cups",
+        "checked": true
+      },
+      {
+        "name": "Water",
+        "qty": "enough to cover",
+        "checked": true
+      },
+      {
+        "name": "Salt",
+        "qty": "to taste",
+        "checked": true
+      },
+      {
+        "name": "Green chillies",
+        "qty": "2-3",
+        "checked": true
+      },
+      {
+        "name": "Onion (optional)",
+        "qty": "1 small",
+        "checked": true
+      },
+      {
+        "name": "Mustard oil",
+        "qty": "1 tsp",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Traditional summer breakfast; cooling and probiotic."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "For strict Jain version omit onion."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "west-bengal-lunch-shukto",
+    "title": "Shukto",
+    "state": "West Bengal",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "time": "40 mins",
+    "servings": "4 Servings",
+    "heroImage": "./assets/images/shukto.png",
+    "steps": [
+      "Cut all vegetables into batons. Lightly fry bitter gourd and bori separately.",
+      "Heat mustard oil + ghee, temper panch phoron/radhuni. Add ginger paste and vegetables. Sauté briefly.",
+      "Add salt, sugar, mustard paste, a little water. Cover and cook till vegetables are tender.",
+      "Stir in milk and poppy paste if using. Simmer 2-3 minutes. Finish with fried bori.",
+      "Serve as the first course with steamed rice."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Bitter gourd (uchhe)",
+        "qty": "1 medium",
+        "checked": true
+      },
+      {
+        "name": "Raw banana",
+        "qty": "1",
+        "checked": true
+      },
+      {
+        "name": "Potato",
+        "qty": "1",
+        "checked": true
+      },
+      {
+        "name": "Eggplant",
+        "qty": "1 small",
+        "checked": true
+      },
+      {
+        "name": "Drumsticks",
+        "qty": "2",
+        "checked": true
+      },
+      {
+        "name": "Radish or broad beans",
+        "qty": "handful",
+        "checked": true
+      },
+      {
+        "name": "Bori (sun-dried lentil dumplings)",
+        "qty": "10-12",
+        "checked": true
+      },
+      {
+        "name": "Mustard paste",
+        "qty": "1 tbsp",
+        "checked": true
+      },
+      {
+        "name": "Poppy seed paste (optional)",
+        "qty": "1 tbsp",
+        "checked": true
+      },
+      {
+        "name": "Ginger paste",
+        "qty": "1 tsp",
+        "checked": true
+      },
+      {
+        "name": "Milk",
+        "qty": "1/2 cup",
+        "checked": true
+      },
+      {
+        "name": "Ghee",
+        "qty": "1 tbsp",
+        "checked": true
+      },
+      {
+        "name": "Panch phoron or radhuni",
+        "qty": "1 tsp",
+        "checked": true
+      },
+      {
+        "name": "Mustard oil",
+        "qty": "2 tbsp",
+        "checked": true
+      },
+      {
+        "name": "Sugar and salt",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Bitterness is intentional and aids digestion; balance with milk and a pinch of sugar."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Seasonal vegetables change the character of the dish."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "west-bengal-lunch-aloo-posto",
+    "title": "Aloo Posto",
+    "state": "West Bengal",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "time": "30 mins",
+    "servings": "3 Servings",
+    "heroImage": "./assets/images/aloo_posto.png",
+    "steps": [
+      "Soak poppy seeds 15-20 mins, grind with green chillies into a smooth paste adding little water.",
+      "Peel and cube potatoes. Heat mustard oil till smoking, cool slightly, add kalonji.",
+      "Add potatoes, turmeric and salt. Sauté on medium heat till almost cooked.",
+      "Add posto paste and a splash of water. Cook covered till oil separates and potatoes are coated in creamy paste.",
+      "Adjust sugar if desired. Serve with steamed rice and dal."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Potatoes",
+        "qty": "4 medium",
+        "checked": true
+      },
+      {
+        "name": "White poppy seeds (posto)",
+        "qty": "4 tbsp",
+        "checked": true
+      },
+      {
+        "name": "Green chillies",
+        "qty": "3-4",
+        "checked": true
+      },
+      {
+        "name": "Mustard oil",
+        "qty": "3 tbsp",
+        "checked": true
+      },
+      {
+        "name": "Nigella seeds (kalonji)",
+        "qty": "1/2 tsp",
+        "checked": true
+      },
+      {
+        "name": "Turmeric",
+        "qty": "1/4 tsp",
+        "checked": true
+      },
+      {
+        "name": "Salt",
+        "qty": "to taste",
+        "checked": true
+      },
+      {
+        "name": "Sugar",
+        "qty": "1/2 tsp (optional)",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Authentic versions are quite dry and creamy rather than watery."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Mustard oil is essential for the classic flavour."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "west-bengal-lunch-shorshe-ilish",
+    "title": "Shorshe Ilish",
+    "state": "West Bengal",
+    "mealType": "Lunch",
+    "diet": "Non-Vegetarian",
+    "time": "25 mins",
+    "servings": "4 Servings",
+    "heroImage": "./assets/images/shorshe_ilish.png",
+    "steps": [
+      "Marinate hilsa with salt and half the turmeric for 15 mins.",
+      "Grind mustard seeds with green chillies and a little water into a smooth paste (do not over-grind or it becomes bitter).",
+      "Heat mustard oil, temper nigella and a couple of green chillies. Add remaining turmeric and the mustard paste. Stir on low heat.",
+      "Add a little water to make gravy, then gently slide in the fish pieces. Cover and cook on low for 8-10 mins without stirring much.",
+      "Finish with a drizzle of raw mustard oil. Serve with steamed rice."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Hilsa (Ilish) steaks",
+        "qty": "4-6 pieces",
+        "checked": true
+      },
+      {
+        "name": "Yellow & black mustard seeds",
+        "qty": "3 tbsp combined",
+        "checked": true
+      },
+      {
+        "name": "Green chillies",
+        "qty": "4-5",
+        "checked": true
+      },
+      {
+        "name": "Mustard oil",
+        "qty": "4 tbsp",
+        "checked": true
+      },
+      {
+        "name": "Turmeric",
+        "qty": "1 tsp",
+        "checked": true
+      },
+      {
+        "name": "Nigella seeds",
+        "qty": "1/2 tsp",
+        "checked": true
+      },
+      {
+        "name": "Salt",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Hilsa is seasonal (monsoon); use fresh fish for best results."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Never cook mustard paste on high heat for long – it turns bitter."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "west-bengal-lunch-chingri-malaikari",
+    "title": "Chingri Malaikari",
+    "state": "West Bengal",
+    "mealType": "Lunch",
+    "diet": "Non-Vegetarian",
+    "time": "35 mins",
+    "servings": "4 Servings",
+    "heroImage": "./assets/images/chingri_malaikari.png",
+    "steps": [
+      "Clean prawns, devein, keep heads if preferred. Marinate with turmeric and salt.",
+      "Lightly fry prawns and set aside.",
+      "In the same pan heat ghee/oil, add whole spices, then onion paste. Cook till golden.",
+      "Add ginger-garlic, turmeric, chilli powder and yogurt. Cook till oil separates.",
+      "Pour thin coconut milk, simmer, then add thick coconut milk and fried prawns. Cook gently 5-7 mins. Finish with garam masala and a pinch of sugar.",
+      "Serve with steamed rice or luchi."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Large prawns (golda or bagda)",
+        "qty": "500 g",
+        "checked": true
+      },
+      {
+        "name": "Coconut milk (thick + thin)",
+        "qty": "400 ml total",
+        "checked": true
+      },
+      {
+        "name": "Onion paste",
+        "qty": "1/2 cup",
+        "checked": true
+      },
+      {
+        "name": "Ginger paste",
+        "qty": "1 tbsp",
+        "checked": true
+      },
+      {
+        "name": "Garlic paste (optional)",
+        "qty": "1 tsp",
+        "checked": true
+      },
+      {
+        "name": "Yogurt",
+        "qty": "2 tbsp",
+        "checked": true
+      },
+      {
+        "name": "Turmeric, red chilli powder",
+        "qty": "1/2 tsp each",
+        "checked": true
+      },
+      {
+        "name": "Garam masala, bay leaf, cardamom, cinnamon",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Ghee or mustard oil",
+        "qty": "3 tbsp",
+        "checked": true
+      },
+      {
+        "name": "Sugar and salt",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Golda chingri (freshwater) gives the classic rich flavour."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Do not boil the coconut milk vigorously after adding prawns."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "west-bengal-dinner-kosha-mangsho",
+    "title": "Kosha Mangsho",
+    "state": "West Bengal",
+    "mealType": "Dinner",
+    "diet": "Non-Vegetarian",
+    "time": "90 mins",
+    "servings": "4 Servings",
+    "heroImage": "./assets/images/kosha_mangsho.png",
+    "steps": [
+      "Marinate mutton with yogurt, ginger-garlic paste, chilli powder, turmeric and salt for at least 2 hours (overnight preferred).",
+      "Heat mustard oil, add a pinch of sugar and caramelise. Add whole spices and sliced onions. Fry on medium-low till deep brown (this is the kosha stage).",
+      "Add marinated mutton and continue slow-frying (kosha) for 20-25 mins, stirring often, till meat changes colour and oil separates.",
+      "Add a little hot water, cover and pressure-cook or slow-cook till mutton is tender and gravy is thick and dark.",
+      "Serve with luchi, porota or steamed rice."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Mutton (goat meat)",
+        "qty": "750 g",
+        "checked": true
+      },
+      {
+        "name": "Onion",
+        "qty": "4 large, sliced",
+        "checked": true
+      },
+      {
+        "name": "Yogurt",
+        "qty": "1/2 cup",
+        "checked": true
+      },
+      {
+        "name": "Ginger-garlic paste",
+        "qty": "3 tbsp",
+        "checked": true
+      },
+      {
+        "name": "Mustard oil",
+        "qty": "1/2 cup",
+        "checked": true
+      },
+      {
+        "name": "Kashmiri chilli powder",
+        "qty": "2 tsp",
+        "checked": true
+      },
+      {
+        "name": "Turmeric",
+        "qty": "1/2 tsp",
+        "checked": true
+      },
+      {
+        "name": "Whole garam masala (cardamom, cinnamon, cloves, bay)",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Sugar",
+        "qty": "1 tsp",
+        "checked": true
+      },
+      {
+        "name": "Salt",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "The dark colour comes from slow-frying onions and the sugar caramelisation."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Patience is key – true kosha cannot be rushed."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "west-bengal-dinner-dhokar-dalna",
+    "title": "Dhokar Dalna",
+    "state": "West Bengal",
+    "mealType": "Dinner",
+    "diet": "Vegetarian",
+    "time": "50 mins",
+    "servings": "4 Servings",
+    "heroImage": "./assets/images/dhokar_dalna.png",
+    "steps": [
+      "Soak chana dal, grind with ginger and green chilli into a thick paste. Season, steam or shallow-fry into diamond-shaped cakes (dhoka).",
+      "Cube and fry potatoes. Make a gravy with tempered spices, onion (if using), tomato, spice powders and water.",
+      "Add fried potatoes and dhoka pieces. Simmer gently so the cakes absorb the gravy but do not break.",
+      "Finish with ghee and garam masala. Serve with rice or luchi."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Chana dal",
+        "qty": "1 cup",
+        "checked": true
+      },
+      {
+        "name": "Ginger, green chilli",
+        "qty": "for paste",
+        "checked": true
+      },
+      {
+        "name": "Potato",
+        "qty": "2",
+        "checked": true
+      },
+      {
+        "name": "Cumin, coriander, garam masala powders",
+        "qty": "1 tsp each",
+        "checked": true
+      },
+      {
+        "name": "Bay leaf, whole spices",
+        "qty": "few",
+        "checked": true
+      },
+      {
+        "name": "Tomato",
+        "qty": "1",
+        "checked": true
+      },
+      {
+        "name": "Mustard oil or ghee",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Sugar and salt",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Dhoka can be made ahead and stored."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "A classic niramish (no onion-garlic) version exists for festive meals."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "west-bengal-snacks-jhalmuri",
+    "title": "Jhalmuri",
+    "state": "West Bengal",
+    "mealType": "Snacks",
+    "diet": "Vegan",
+    "time": "10 mins",
+    "servings": "2 Servings",
+    "heroImage": "./assets/images/jhalmuri.png",
+    "steps": [
+      "In a large bowl or paper cone, mix muri with mustard oil so it coats lightly.",
+      "Add chopped onion, green chilli, cucumber, tomato, peanuts, bhujia, spices, lemon juice and coriander.",
+      "Toss vigorously so everything is evenly distributed. Serve immediately."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Muri (puffed rice)",
+        "qty": "3 cups",
+        "checked": true
+      },
+      {
+        "name": "Mustard oil",
+        "qty": "1-2 tsp",
+        "checked": true
+      },
+      {
+        "name": "Chopped onion",
+        "qty": "1/4 cup",
+        "checked": true
+      },
+      {
+        "name": "Green chilli",
+        "qty": "1-2",
+        "checked": true
+      },
+      {
+        "name": "Cucumber, tomato (optional)",
+        "qty": "few pieces",
+        "checked": true
+      },
+      {
+        "name": "Roasted peanuts",
+        "qty": "2 tbsp",
+        "checked": true
+      },
+      {
+        "name": "Bhujia or chanachur",
+        "qty": "2 tbsp",
+        "checked": true
+      },
+      {
+        "name": "Lemon juice",
+        "qty": "1 tbsp",
+        "checked": true
+      },
+      {
+        "name": "Black salt, roasted cumin powder, chilli powder",
+        "qty": "to taste",
+        "checked": true
+      },
+      {
+        "name": "Fresh coriander",
+        "qty": "handful",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Street-style jhalmuri is mixed and eaten on the spot so the muri stays crisp."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Omit onion for a milder version."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "west-bengal-snacks-beguni",
+    "title": "Beguni",
+    "state": "West Bengal",
+    "mealType": "Snacks",
+    "diet": "Vegetarian",
+    "time": "25 mins",
+    "servings": "4 Servings",
+    "heroImage": "./assets/images/beguni.png",
+    "steps": [
+      "Slice brinjal into thin rounds or long slices. Lightly salt and keep aside.",
+      "Make a thick batter with besan, rice flour, spices, salt and water. Add a pinch of soda.",
+      "Dip each slice in batter and deep-fry in hot mustard oil till golden and crisp.",
+      "Drain and serve hot with puffed rice or as a tea-time snack."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Brinjal (eggplant)",
+        "qty": "1 large",
+        "checked": true
+      },
+      {
+        "name": "Besan (gram flour)",
+        "qty": "1 cup",
+        "checked": true
+      },
+      {
+        "name": "Rice flour (optional)",
+        "qty": "2 tbsp",
+        "checked": true
+      },
+      {
+        "name": "Turmeric, chilli powder, salt",
+        "qty": "to taste",
+        "checked": true
+      },
+      {
+        "name": "Baking soda",
+        "qty": "a pinch",
+        "checked": true
+      },
+      {
+        "name": "Mustard oil for deep frying",
+        "qty": "as needed",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Mustard oil gives the authentic telebhaja flavour."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Serve immediately for maximum crispness."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "west-bengal-snacks-puchka",
+    "title": "Puchka (Phuchka)",
+    "state": "West Bengal",
+    "mealType": "Snacks",
+    "diet": "Vegetarian",
+    "time": "30 mins (plus prep)",
+    "servings": "4 Servings",
+    "heroImage": "./assets/images/puchka.png",
+    "steps": [
+      "Mash boiled potatoes with salt, black salt, cumin and chilli powder. Mix in boiled peas.",
+      "Prepare tangy-spicy tamarind water seasoned with black salt, cumin, chilli and mint if desired.",
+      "Crack a small hole on top of each puchka shell, fill with potato mixture, top with onion and coriander, then dip or pour the tamarind water.",
+      "Eat immediately in one bite."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Puchka shells (semolina/flour)",
+        "qty": "30-40",
+        "checked": true
+      },
+      {
+        "name": "Boiled potatoes",
+        "qty": "3",
+        "checked": true
+      },
+      {
+        "name": "Boiled black chickpeas or yellow peas",
+        "qty": "1/2 cup",
+        "checked": true
+      },
+      {
+        "name": "Tamarind water / spicy pani",
+        "qty": "2 cups",
+        "checked": true
+      },
+      {
+        "name": "Black salt, roasted cumin, chilli powder",
+        "qty": "to taste",
+        "checked": true
+      },
+      {
+        "name": "Chopped onion, green chilli, coriander",
+        "qty": "for topping",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Kolkata-style puchka has a sharper, more tangy water than Mumbai pani puri."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Freshly made shells are ideal."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "west-bengal-snacks-aloo-chop",
+    "title": "Aloo Chop",
+    "state": "West Bengal",
+    "mealType": "Snacks",
+    "diet": "Vegetarian",
+    "time": "40 mins",
+    "servings": "6-8 pieces",
+    "heroImage": "./assets/images/aloo_chop.png",
+    "steps": [
+      "Mash boiled potatoes. Sauté onion, ginger, green chilli and spices. Mix into the mash. Shape into flat oval chops.",
+      "Dip in thin besan batter or beaten egg, roll in breadcrumbs.",
+      "Deep-fry in hot oil till golden brown and crisp.",
+      "Serve hot with kasundi or tomato sauce."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Boiled potatoes",
+        "qty": "4 large",
+        "checked": true
+      },
+      {
+        "name": "Onion, green chilli, ginger",
+        "qty": "for filling",
+        "checked": true
+      },
+      {
+        "name": "Breadcrumbs or suji",
+        "qty": "for coating",
+        "checked": true
+      },
+      {
+        "name": "Besan or egg (for binding)",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Mustard oil for frying",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Spices (cumin, garam masala, chilli)",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "A classic evening snack with muri or tea."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Fish or mutton chop versions are also popular non-veg variants."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "west-bengal-breakfast-doi-chire",
+    "title": "Doi Chire",
+    "state": "West Bengal",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "time": "15 mins",
+    "servings": "2 Servings",
+    "heroImage": "./assets/images/doi_chire.png",
+    "steps": [
+      "Rinse chire briefly and drain well (or soak very lightly if thick variety).",
+      "Whisk yogurt with sugar/jaggery and a little milk if needed for pouring consistency.",
+      "Mix the drained chire into the sweetened yogurt. Add sliced banana or fruit.",
+      "Serve chilled or at room temperature."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Chire (flattened rice / poha)",
+        "qty": "1.5 cups",
+        "checked": true
+      },
+      {
+        "name": "Thick yogurt (doi)",
+        "qty": "1 cup",
+        "checked": true
+      },
+      {
+        "name": "Sugar or jaggery",
+        "qty": "to taste",
+        "checked": true
+      },
+      {
+        "name": "Milk (optional)",
+        "qty": "2-3 tbsp",
+        "checked": true
+      },
+      {
+        "name": "Ripe banana or seasonal fruit",
+        "qty": "1",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "A light, cooling traditional breakfast especially in summer."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Use good quality thick Bengali doi for best results."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "west-bengal-lunch-machher-jhol",
+    "title": "Machher Jhol",
+    "state": "West Bengal",
+    "mealType": "Lunch",
+    "diet": "Non-Vegetarian",
+    "time": "30 mins",
+    "servings": "4 Servings",
+    "heroImage": "./assets/images/machher_jhol.png",
+    "steps": [
+      "Marinate fish with turmeric and salt. Lightly fry and set aside.",
+      "In the same oil fry potato wedges. Temper cumin/panch phoron, add ginger, tomato and spice powders.",
+      "Add water to make a light gravy, season, then add fried potatoes and fish.",
+      "Simmer 8-10 mins. Finish with green chillies and coriander. Serve with steamed rice."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Rohu or Katla fish pieces",
+        "qty": "500 g",
+        "checked": true
+      },
+      {
+        "name": "Potato",
+        "qty": "2",
+        "checked": true
+      },
+      {
+        "name": "Tomato",
+        "qty": "1",
+        "checked": true
+      },
+      {
+        "name": "Ginger paste",
+        "qty": "1 tbsp",
+        "checked": true
+      },
+      {
+        "name": "Cumin powder, turmeric, chilli powder",
+        "qty": "1 tsp each",
+        "checked": true
+      },
+      {
+        "name": "Panch phoron or cumin seeds",
+        "qty": "1 tsp",
+        "checked": true
+      },
+      {
+        "name": "Mustard oil",
+        "qty": "4 tbsp",
+        "checked": true
+      },
+      {
+        "name": "Green chillies",
+        "qty": "3",
+        "checked": true
+      },
+      {
+        "name": "Coriander leaves",
+        "qty": "for garnish",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "The classic everyday Bengali fish curry – light, slightly spicy and runny."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Mustard oil is non-negotiable for authentic taste."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "west-bengal-dinner-dimer-dalna",
+    "title": "Dimer Dalna",
+    "state": "West Bengal",
+    "mealType": "Dinner",
+    "diet": "Eggetarian",
+    "time": "35 mins",
+    "servings": "4 Servings",
+    "heroImage": "./assets/images/dimer_dalna.png",
+    "steps": [
+      "Hard-boil eggs, peel and lightly fry with turmeric till golden. Fry potato cubes separately.",
+      "Make a gravy: temper whole spices, fry onion till golden, add ginger-garlic, tomato and spice powders. Cook till oil separates.",
+      "Add water, fried potatoes and eggs. Simmer till gravy thickens slightly.",
+      "Finish with garam masala. Serve with rice or luchi."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Eggs",
+        "qty": "6",
+        "checked": true
+      },
+      {
+        "name": "Potato",
+        "qty": "2",
+        "checked": true
+      },
+      {
+        "name": "Onion",
+        "qty": "2",
+        "checked": true
+      },
+      {
+        "name": "Tomato",
+        "qty": "1",
+        "checked": true
+      },
+      {
+        "name": "Ginger-garlic paste",
+        "qty": "1 tbsp",
+        "checked": true
+      },
+      {
+        "name": "Turmeric, chilli, cumin, garam masala",
+        "qty": "to taste",
+        "checked": true
+      },
+      {
+        "name": "Mustard oil",
+        "qty": "3 tbsp",
+        "checked": true
+      },
+      {
+        "name": "Bay leaf, whole spices",
+        "qty": "few",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "A comforting everyday egg curry popular across Bengali homes."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Some versions are made niramish (no onion-garlic) for festive days."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  }
+]

@@ -1,0 +1,484 @@
+[
+  {
+    "_id": "puducherry-breakfast-idli-sambar",
+    "title": "Idli with Sambar & Chutney",
+    "state": "Puducherry",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains onion and garlic in the sambar - not consumed by Jains. For Jain version, use sambar without onion-garlic.",
+    "image": "idli_sambar.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "description": "Classic South Indian steamed rice-lentil cakes served with mild sambar and coconut chutney. A daily staple across Puducherry, often slightly milder in spice than pure Tamil Nadu versions due to Creole influence.",
+    "ingredients": [
+      "Idli batter (fermented rice + urad dal)",
+      "Toor dal, tamarind, mixed vegetables for sambar",
+      "Coconut, green chillies, curry leaves for chutney",
+      "Mustard seeds, hing, turmeric"
+    ],
+    "steps": [
+      "Steam idlis in moulds until fluffy.",
+      "Prepare sambar by cooking dal with tamarind and vegetables, temper with mustard and curry leaves.",
+      "Grind fresh coconut chutney.",
+      "Serve hot idlis with sambar and chutney."
+    ],
+    "tips": [
+      "Often eaten with filter coffee.",
+      "Puducherry versions may use less chilli heat."
+    ],
+    "prepTime": "20 minutes (plus batter fermentation)",
+    "cookTime": "15 minutes",
+    "servings": 4,
+    "research": {
+      "status": "unverified",
+      "sourceUrls": []
+    }
+  },
+  {
+    "_id": "puducherry-breakfast-baguette-croissant",
+    "title": "Baguette or Croissant with Coffee",
+    "state": "Puducherry",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "jainFriendly": true,
+    "jainNotes": "Ingredients are Jain-compatible (baguette/croissant, butter, jam, coffee). Ensure croissant is made with vegetarian butter. Use plain baguette to avoid any egg wash concerns.",
+    "image": "baguette_croissant.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "description": "French colonial legacy breakfast of fresh baguette or flaky croissant, often with butter, jam or local cheese, paired with strong filter coffee or café au lait. Still widely available in White Town bakeries.",
+    "ingredients": [
+      "Fresh baguette or croissant",
+      "Butter or jam",
+      "Filter coffee or café au lait"
+    ],
+    "steps": [
+      "Warm the bread if desired.",
+      "Serve with butter/jam and hot coffee."
+    ],
+    "tips": [
+      "Bakeries in the French Quarter maintain traditional recipes.",
+      "Can be made fully plain for stricter diets."
+    ],
+    "prepTime": "5 minutes",
+    "cookTime": "0 minutes",
+    "servings": 2,
+    "research": {
+      "status": "unverified",
+      "sourceUrls": []
+    }
+  },
+  {
+    "_id": "puducherry-breakfast-masala-dosa",
+    "title": "Masala Dosa",
+    "state": "Puducherry",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains onion and potato (root vegetable) - not consumed by Jains.",
+    "image": "masala_dosa.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "description": "Crispy fermented rice-lentil crepe filled with spiced potato masala, served with sambar and chutneys. Ubiquitous in Puducherry and slightly adapted in local Creole homes.",
+    "ingredients": [
+      "Dosa batter",
+      "Boiled potatoes, onion, mustard, curry leaves, turmeric for filling",
+      "Sambar and coconut/tomato chutney"
+    ],
+    "steps": [
+      "Spread thin batter on hot tawa to form crepe.",
+      "Place potato filling in centre, fold and crisp.",
+      "Serve with sambar and chutneys."
+    ],
+    "tips": [
+      "Some local spots serve egg dosa or meat-gravy variations."
+    ],
+    "prepTime": "20 minutes (plus batter)",
+    "cookTime": "10 minutes",
+    "servings": 3,
+    "research": {
+      "status": "unverified",
+      "sourceUrls": []
+    }
+  },
+  {
+    "_id": "puducherry-breakfast-egg-dosa",
+    "title": "Egg Dosa",
+    "state": "Puducherry",
+    "mealType": "Breakfast",
+    "diet": "Eggetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains eggs and onion - not consumed by Jains.",
+    "image": "egg_dosa.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "description": "Local favourite where a thin dosa is topped or filled with a fried or scrambled egg, often served with meat gravy or sambar in non-veg eateries.",
+    "ingredients": [
+      "Dosa batter",
+      "Eggs",
+      "Salt, pepper, optional onion/chilli",
+      "Side of sambar or light meat gravy"
+    ],
+    "steps": [
+      "Spread dosa batter on hot tawa.",
+      "Crack an egg on top, spread lightly, cook until set.",
+      "Fold and serve hot with chutney or gravy."
+    ],
+    "tips": [
+      "Popular at places like Rolex and local tea shops."
+    ],
+    "prepTime": "10 minutes",
+    "cookTime": "8 minutes",
+    "servings": 2,
+    "research": {
+      "status": "unverified",
+      "sourceUrls": []
+    }
+  },
+  {
+    "_id": "puducherry-lunch-vegetable-poriyal-thali",
+    "title": "Vegetable Poriyal & Rice Thali",
+    "state": "Puducherry",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains onion and garlic - not consumed by Jains. For Jain version, omit onion-garlic.",
+    "image": "veg_thali.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "description": "Everyday Tamil-style meal of steamed rice with multiple vegetable poriyals (stir-fries), kootu, sambar or rasam, pickle and curd. Milder spice profile common in Creole households.",
+    "ingredients": [
+      "Rice",
+      "Seasonal vegetables (beans, carrot, cabbage, etc.) for poriyal",
+      "Coconut, mustard, curry leaves, onion for tempering",
+      "Dal, tamarind, garlic for sambar/rasam"
+    ],
+    "steps": [
+      "Cook rice.",
+      "Stir-fry chopped vegetables with coconut and tempering for poriyals.",
+      "Prepare sambar or rasam with onion and garlic.",
+      "Serve as a complete thali on banana leaf if traditional."
+    ],
+    "tips": [
+      "Banana-leaf service is still common in local restaurants."
+    ],
+    "prepTime": "25 minutes",
+    "cookTime": "30 minutes",
+    "servings": 4,
+    "research": {
+      "status": "unverified",
+      "sourceUrls": []
+    }
+  },
+  {
+    "_id": "puducherry-lunch-fish-assad-curry",
+    "title": "Fish Assad Curry (Meen Assad)",
+    "state": "Puducherry",
+    "mealType": "Lunch",
+    "diet": "Non-Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains fish and onion - not consumed by Jains.",
+    "image": "fish_assad.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "description": "Quintessential Pondicherrian fish curry — coconut-milk based, flavoured with anise, curry leaves and finished with lime. Milder and creamier than typical Tamil fish kuzhambu due to French Creole influence.",
+    "ingredients": [
+      "Fresh fish (seer, pomfret or local catch)",
+      "Coconut milk",
+      "Anise/fennel, curry leaves, ginger-garlic",
+      "Tamarind or tomatoes, mild spices",
+      "Lime juice"
+    ],
+    "steps": [
+      "Marinate fish lightly.",
+      "Prepare a mild spice-coconut gravy.",
+      "Simmer fish gently in the gravy until cooked.",
+      "Finish with lime juice and fresh curry leaves."
+    ],
+    "tips": [
+      "Often served with rice or appam.",
+      "Signature dish of Creole home cooking."
+    ],
+    "prepTime": "20 minutes",
+    "cookTime": "25 minutes",
+    "servings": 4,
+    "research": {
+      "status": "unverified",
+      "sourceUrls": []
+    }
+  },
+  {
+    "_id": "puducherry-lunch-meen-puyabaise",
+    "title": "Meen Puyabaise",
+    "state": "Puducherry",
+    "mealType": "Lunch",
+    "diet": "Non-Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains mixed seafood and onion - not consumed by Jains.",
+    "image": "meen_puyabaise.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "description": "Local adaptation of French bouillabaisse — mixed seafood (fish, prawns, crab, mussels) in a turmeric-tamarind broth, often finished with ghee. A true Franco-Tamil Creole classic.",
+    "ingredients": [
+      "Mixed seafood (fish, prawns, crab, shellfish)",
+      "Tamarind, turmeric, mild spices",
+      "Onion, tomato, curry leaves",
+      "Ghee, coconut milk (optional)"
+    ],
+    "steps": [
+      "Prepare a light broth with tamarind and turmeric.",
+      "Add aromatics and simmer.",
+      "Add seafood in stages according to cooking time.",
+      "Finish with ghee and serve with bread or rice."
+    ],
+    "tips": [
+      "Best with very fresh coastal catch.",
+      "Still prepared in traditional Creole homes and select restaurants."
+    ],
+    "prepTime": "25 minutes",
+    "cookTime": "35 minutes",
+    "servings": 5,
+    "research": {
+      "status": "unverified",
+      "sourceUrls": []
+    }
+  },
+  {
+    "_id": "puducherry-lunch-kadugu-yerra",
+    "title": "Kadugu Yerra (Mustard Prawn Curry)",
+    "state": "Puducherry",
+    "mealType": "Lunch",
+    "diet": "Non-Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains prawns, onion, garlic - not consumed by Jains.",
+    "image": "kadugu_yerra.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "description": "Spicy-yet-restrained mustard-based prawn curry cooked with coconut milk, potatoes and fenugreek. A popular local seafood dish reflecting Tamil-Portuguese-French layers.",
+    "ingredients": [
+      "Fresh prawns",
+      "Mustard seeds/paste, fenugreek",
+      "Coconut milk, potatoes",
+      "Onion, tomato, curry leaves, mild spices"
+    ],
+    "steps": [
+      "Clean and marinate prawns.",
+      "Temper mustard and fenugreek, sauté aromatics.",
+      "Add potatoes and coconut milk gravy.",
+      "Simmer prawns until just cooked."
+    ],
+    "tips": [
+      "Pairs well with rice or appam."
+    ],
+    "prepTime": "15 minutes",
+    "cookTime": "20 minutes",
+    "servings": 4,
+    "research": {
+      "status": "unverified",
+      "sourceUrls": []
+    }
+  },
+  {
+    "_id": "puducherry-dinner-mutton-sambar",
+    "title": "Mutton Sambar",
+    "state": "Puducherry",
+    "mealType": "Dinner",
+    "diet": "Non-Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains mutton and onion - not consumed by Jains.",
+    "image": "mutton_sambar.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "description": "Creole-style mutton sambar — tender goat meat cooked in a mildly spiced lentil-tamarind gravy, often milder than pure Tamil versions and sometimes finished with coconut.",
+    "ingredients": [
+      "Mutton (goat)",
+      "Toor dal, tamarind",
+      "Mixed vegetables, sambar powder (mild)",
+      "Coconut (optional), curry leaves"
+    ],
+    "steps": [
+      "Pressure-cook mutton until tender.",
+      "Cook dal with tamarind and vegetables.",
+      "Combine and simmer with meat.",
+      "Temper and serve with rice or idli."
+    ],
+    "tips": [
+      "A classic of Franco-Indian Catholic households."
+    ],
+    "prepTime": "20 minutes",
+    "cookTime": "45–60 minutes",
+    "servings": 4,
+    "research": {
+      "status": "unverified",
+      "sourceUrls": []
+    }
+  },
+  {
+    "_id": "puducherry-dinner-egg-curry",
+    "title": "Puducherry Egg Curry",
+    "state": "Puducherry",
+    "mealType": "Dinner",
+    "diet": "Eggetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains eggs and onion - not consumed by Jains.",
+    "image": "egg_curry.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "description": "Eggs simmered in a fragrant tomato-coconut gravy with cinnamon, cloves and cardamom. Comforting local dish often served with rice or chapati.",
+    "ingredients": [
+      "Hard-boiled eggs",
+      "Onion, tomato, coconut milk",
+      "Whole spices (cinnamon, cloves, cardamom)",
+      "Ginger-garlic, mild chilli powder"
+    ],
+    "steps": [
+      "Hard-boil and peel eggs.",
+      "Prepare a mild onion-tomato-coconut gravy with whole spices.",
+      "Add eggs and simmer gently.",
+      "Garnish and serve."
+    ],
+    "tips": [
+      "Common in both home and restaurant menus."
+    ],
+    "prepTime": "15 minutes",
+    "cookTime": "20 minutes",
+    "servings": 4,
+    "research": {
+      "status": "unverified",
+      "sourceUrls": []
+    }
+  },
+  {
+    "_id": "puducherry-dinner-ratatouille-style",
+    "title": "Pondicherry-style Ratatouille",
+    "state": "Puducherry",
+    "mealType": "Dinner",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains onion and garlic - not consumed by Jains. For Jain version, omit onion-garlic.",
+    "image": "ratatouille.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "description": "French ratatouille adapted with local Indian vegetables and a light touch of spices or curry leaves. Served as a main or side in Creole restaurants.",
+    "ingredients": [
+      "Eggplant, zucchini, tomato, bell pepper, onion",
+      "Olive oil or ghee, garlic, herbs",
+      "Optional mild spices or curry leaves"
+    ],
+    "steps": [
+      "Chop vegetables uniformly.",
+      "Sauté or layer and slow-cook until soft and flavours meld.",
+      "Season simply and serve with rice or bread."
+    ],
+    "tips": [
+      "Often the main vegetarian option in French-influenced restaurants."
+    ],
+    "prepTime": "20 minutes",
+    "cookTime": "35 minutes",
+    "servings": 4,
+    "research": {
+      "status": "unverified",
+      "sourceUrls": []
+    }
+  },
+  {
+    "_id": "puducherry-snacks-crepes",
+    "title": "Crepes (Sweet or Savoury)",
+    "state": "Puducherry",
+    "mealType": "Snacks",
+    "diet": "Eggetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains eggs and dairy - not consumed by Jains.",
+    "image": "crepes.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "description": "Thin French-style crepes, both sweet (with sugar, chocolate, fruit) and savoury, widely available in cafés and bakeries of the French Quarter.",
+    "ingredients": [
+      "Flour, eggs, milk, butter for batter",
+      "Sweet fillings: sugar, chocolate, fruit jam",
+      "Savoury options: cheese, vegetables"
+    ],
+    "steps": [
+      "Make thin batter and rest.",
+      "Cook thin crepes on a hot pan.",
+      "Fill and fold or roll as desired."
+    ],
+    "tips": [
+      "A direct French colonial contribution still thriving."
+    ],
+    "prepTime": "15 minutes + rest",
+    "cookTime": "15 minutes",
+    "servings": 4,
+    "research": {
+      "status": "unverified",
+      "sourceUrls": []
+    }
+  },
+  {
+    "_id": "puducherry-snacks-vadai",
+    "title": "Medu Vadai / Potato Vadai",
+    "state": "Puducherry",
+    "mealType": "Snacks",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains onion and potato (root vegetable) - not consumed by Jains.",
+    "image": "vadai.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "description": "Crispy deep-fried lentil or potato fritters, a common tea-time and street snack across Puducherry, sometimes with local French-influenced variations.",
+    "ingredients": [
+      "Urad dal or boiled potatoes",
+      "Onion, green chilli, curry leaves, ginger",
+      "Oil for deep frying"
+    ],
+    "steps": [
+      "Grind or mash ingredients into a thick batter/dough.",
+      "Shape into rings or rounds.",
+      "Deep-fry until golden and crisp.",
+      "Serve with chutney or sambar."
+    ],
+    "tips": [
+      "Often paired with filter coffee."
+    ],
+    "prepTime": "20 minutes (plus soaking)",
+    "cookTime": "15 minutes",
+    "servings": 4,
+    "research": {
+      "status": "unverified",
+      "sourceUrls": []
+    }
+  },
+  {
+    "_id": "puducherry-snacks-mutton-roll",
+    "title": "Mutton Roll",
+    "state": "Puducherry",
+    "mealType": "Snacks",
+    "diet": "Non-Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains mutton and onion - not consumed by Jains.",
+    "image": "mutton_roll.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "description": "Spiced minced mutton wrapped in paratha or flatbread, a popular street and café snack reflecting the non-veg Creole and Tamil street-food culture of Puducherry.",
+    "ingredients": [
+      "Minced mutton",
+      "Onion, spices, ginger-garlic",
+      "Paratha or flatbread"
+    ],
+    "steps": [
+      "Cook spiced minced mutton until dry and flavourful.",
+      "Warm paratha, place filling, roll tightly.",
+      "Serve hot, sometimes with sauce or pickle."
+    ],
+    "tips": [
+      "Widely available at street stalls and small eateries."
+    ],
+    "prepTime": "20 minutes",
+    "cookTime": "25 minutes",
+    "servings": 4,
+    "research": {
+      "status": "unverified",
+      "sourceUrls": []
+    }
+  }
+]

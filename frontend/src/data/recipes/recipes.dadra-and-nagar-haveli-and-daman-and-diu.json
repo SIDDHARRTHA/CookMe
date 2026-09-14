@@ -1,0 +1,631 @@
+[
+  {
+    "id": "dnh-dd-breakfast-khaman-dhokla",
+    "title": "Khaman Dhokla",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "time": "",
+    "servings": 4,
+    "heroImage": "./assets/images/khaman_dhokla.png",
+    "steps": [
+      "Prepare a smooth batter with besan, yogurt, water, and salt.",
+      "Add Eno/fruit salt just before steaming and mix gently.",
+      "Steam the batter in a greased pan for 15-20 minutes.",
+      "Prepare a tempering with mustard seeds, sesame, curry leaves, and green chillies.",
+      "Pour the tempering over the cooled dhokla and cut into squares."
+    ],
+    "fullIngredients": [
+      {
+        "name": "1.5 cups besan (gram flour)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Yogurt or lemon juice + water",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "1 tsp Eno/fruit salt or baking soda",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Turmeric, sugar, salt, green chilli-ginger paste",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Mustard seeds, sesame, curry leaves, green chillies for tempering",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Oil as needed",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Soft, spongy texture comes from the leavening and proper steaming."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "A quintessential breakfast and snack item in Gujarati-influenced cuisine."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "dnh-dd-breakfast-dal-dhokli",
+    "title": "Dal Dhokli",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "time": "",
+    "servings": 4,
+    "heroImage": "./assets/images/dal_dhokli.png",
+    "steps": [
+      "Boil the toor dal until soft and mash it well.",
+      "Knead wheat flour with spices and oil to make a stiff dough.",
+      "Roll the dough into thin rotis and cut into diamond shapes (dhokli).",
+      "Prepare a spicy dal with tomatoes, jaggery, tamarind, and peanuts.",
+      "Drop the dhokli pieces into the boiling dal and simmer until cooked through."
+    ],
+    "fullIngredients": [
+      {
+        "name": "1 cup toor dal",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "1 cup whole wheat flour",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Onion, tomato, ginger-garlic paste",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Turmeric, red chilli powder, coriander powder, cumin",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Jaggery, tamarind or kokum",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Peanuts, curry leaves, mustard seeds",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Oil or ghee",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Salt to taste",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Comfort food that combines dal and wheat pieces."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Slightly sweet-tangy flavour is characteristic of Gujarati-style cooking."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "dnh-dd-lunch-ubadiyu",
+    "title": "Ubadiyu (Gujarati Barbecue)",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "time": "",
+    "servings": 6,
+    "heroImage": "./assets/images/ubadiyu.png",
+    "steps": [
+      "Prepare a paste of garlic, green chillies, ginger, and coriander.",
+      "Stuff the paste into the vegetables (eggplants, potatoes).",
+      "Layer the vegetables and beans inside an earthen pot.",
+      "Seal the pot with cabbage or banana leaves.",
+      "Roast slowly over a wood fire or charcoal until tender."
+    ],
+    "fullIngredients": [
+      {
+        "name": "500 g papdi (green beans)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "500 g purple yam",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "500 g sweet potatoes",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "250 g potatoes",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "250 g small eggplants",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "6 cabbage leaves",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Coriander, mint, and garlic stalks",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Garlic paste, green chilli paste, ginger paste",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Fresh turmeric paste",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Groundnut (coarsely crushed), sesame seeds",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Coriander-cumin powder, garam masala",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Ajwain (carom seeds), hing (asafoetida)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Salt, oil",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "The dish is unique for its fragrance and earthiness from kalar (Indian nettle) and kamboi (black honey shrub) ."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Best enjoyed during winter when ingredients are in season ."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "dnh-dd-lunch-fish-curry",
+    "title": "Traditional Fish Curry",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "mealType": "Lunch",
+    "diet": "Non-Vegetarian",
+    "time": "",
+    "servings": 4,
+    "heroImage": "./assets/images/fish_curry.png",
+    "steps": [
+      "Clean the fish and marinate with a pinch of turmeric.",
+      "Prepare a base paste with onion, ginger, garlic, and spices.",
+      "Heat oil, temper with mustard seeds and curry leaves.",
+      "Add the spice paste and sauté, then add coconut milk and tamarind.",
+      "Simmer the fish gently in the curry until cooked."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Fresh fish (seer, pomfret, or local catch)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Coconut milk",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Onion, ginger-garlic paste",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Turmeric, red chilli powder, coriander powder",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Tamarind or kokum",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Curry leaves, mustard seeds",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Salt, oil",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Fish is a staple food in Daman and Diu, available fresh from the Arabian Sea ."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "The Portuguese influence adds unique preparation methods distinct from other Indian coastal cuisines ."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "dnh-dd-lunch-crab-curry",
+    "title": "Crab Curry",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "mealType": "Lunch",
+    "diet": "Non-Vegetarian",
+    "time": "",
+    "servings": 4,
+    "heroImage": "./assets/images/crab_curry.png",
+    "steps": [
+      "Clean and crack the fresh crab pieces.",
+      "Sauté onions, ginger, garlic, and tomatoes until soft.",
+      "Add turmeric, red chilli powder, and crab pieces.",
+      "Pour in coconut milk and simmer gently.",
+      "Cook until the crab shells turn vibrant red and the meat is cooked."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Fresh crab (cut into pieces)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Coconut milk",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Onion, tomato",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Garlic, ginger",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Piri piri or green chillies",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Turmeric, red chilli powder",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Salt, oil",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Crab is traditionally eaten by hand to facilitate extraction of meat ."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "A common dish in Daman and Diu reflecting the Portuguese influence on local cuisine ."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "dnh-dd-lunch-patra-ni-macchi",
+    "title": "Patra ni Macchi",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "mealType": "Lunch",
+    "diet": "Non-Vegetarian",
+    "time": "",
+    "servings": 4,
+    "heroImage": "./assets/images/patra_ni_macchi.png",
+    "steps": [
+      "Marinate fish fillets with salt and lemon juice.",
+      "Prepare a green chutney using coconut, coriander, mint, garlic, and green chillies.",
+      "Coat each fish fillet generously with the green chutney.",
+      "Wrap the coated fish securely in banana leaves.",
+      "Steam for 15-20 minutes until the fish is flaky and cooked."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Fresh fish fillets (pomfret or kingfish)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Coconut (grated)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Coriander leaves, mint leaves",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Green chillies, garlic",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Lemon juice",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Spices (cumin, coriander powder)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Banana leaves for wrapping",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Salt",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "The banana leaf wrapping keeps the fish moist and infuses it with a subtle aroma ."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Represents the sophisticated seafood preparation influenced by Parsi and Portuguese traditions ."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "dnh-dd-lunch-salli-boti",
+    "title": "Salli Boti",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "mealType": "Lunch",
+    "diet": "Non-Vegetarian",
+    "time": "",
+    "servings": 4,
+    "heroImage": "./assets/images/salli_boti.png",
+    "steps": [
+      "Marinate mutton pieces with ginger-garlic paste and salt.",
+      "Sauté onions until golden, then add tomatoes and spices.",
+      "Add the mutton and cook slowly until tender.",
+      "Reduce the gravy until rich and thick.",
+      "Serve hot topped generously with crispy potato straws (salli)."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Mutton (tender pieces)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Onion, tomato",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Ginger-garlic paste",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Spices (coriander, cumin, garam masala)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Red chilli powder, turmeric",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Potato straws (salli) for topping",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Oil or ghee",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Salt",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "The crispy potato straws (salli) add a delightful crunch to the rich, tangy gravy ."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Combines Persian cooking methods with local ingredients."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "dnh-dd-dinner-vindaloo",
+    "title": "Vindaloo",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "mealType": "Dinner",
+    "diet": "Non-Vegetarian",
+    "time": "",
+    "servings": 4,
+    "heroImage": "./assets/images/vindaloo.png",
+    "steps": [
+      "Marinate pork in vinegar, garlic, ginger, and ground spices overnight.",
+      "Heat oil and fry onions until deep brown.",
+      "Add the marinated pork and sear well on all sides.",
+      "Add a little water and simmer slowly until the meat is very tender.",
+      "Adjust seasoning; the curry should be spicy and tangy."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Pork (preferably with some fat)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Vinegar (Goan or palm vinegar)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Garlic, ginger",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Dried red chillies",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Cumin, mustard seeds",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Cinnamon, cloves, peppercorns",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Onion, salt, oil",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Derived from Portuguese 'vinha d'alhos' (wine & garlic) ."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "The Portuguese colonial influence on Daman and Diu's cuisine is strongly reflected in this dish."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "dnh-dd-snacks-bebinca",
+    "title": "Bebinca",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "mealType": "Snacks",
+    "diet": "Eggetarian",
+    "time": "",
+    "servings": 8,
+    "heroImage": "./assets/images/bebinca.png",
+    "steps": [
+      "Prepare a batter of coconut milk, egg yolks, sugar, flour, and nutmeg.",
+      "Grease a deep pan with ghee and heat it.",
+      "Pour a thin layer of batter and bake/broil until cooked and golden brown.",
+      "Add more ghee, pour the next layer, and repeat the process.",
+      "Continue layering until all batter is used; cool before slicing."
+    ],
+    "fullIngredients": [
+      {
+        "name": "2 cups coconut milk",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "8-10 egg yolks",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Sugar",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Flour",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Ghee or butter",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Nutmeg or cardamom",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "A Portuguese legacy still thriving in Daman and Diu's culinary scene ."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Often enjoyed during festive occasions ."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  }
+]

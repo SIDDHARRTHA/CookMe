@@ -1,0 +1,421 @@
+[
+  {
+    "_id": "assam-breakfast-jolpan-komal-saul",
+    "title": "Komal Saul Jolpan",
+    "state": "Assam",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "jainFriendly": true,
+    "jainNotes": "Ingredients are Jain-compatible. Use curd without gelatin and pure jaggery. Can be made vegan with plant-based milk.",
+    "image": "komal_saul_jolpan.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "20 mins (soaking)",
+    "servings": "2 Servings",
+    "ingredients": [
+      { "name": "Komal Saul (soft rice)", "qty": "1 cup" },
+      { "name": "Curd or milk", "qty": "1 cup" },
+      { "name": "Jaggery", "qty": "to taste" },
+      { "name": "Ripe banana (optional)", "qty": "1" }
+    ],
+    "recipe": [
+      "Soak Komal Saul in warm water for 15–25 minutes until soft (no cooking required).",
+      "Drain and mix with curd or milk and jaggery. Add sliced banana if desired.",
+      "Serve as a light traditional Assamese breakfast (jolpan)."
+    ],
+    "tips": [
+      "Unique GI-tagged rice that needs only soaking – a farmer's quick meal.",
+      "Part of classic jolpan culture with Assam tea."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "assam-breakfast-til-pitha",
+    "title": "Til Pitha",
+    "state": "Assam",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "jainFriendly": true,
+    "jainNotes": "Ingredients are Jain-compatible. Ensure jaggery is pure and free from animal-based processing agents.",
+    "image": "til_pitha.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "40 mins",
+    "servings": "8–10 pieces",
+    "ingredients": [
+      { "name": "Bora saul (sticky rice) flour", "qty": "2 cups" },
+      { "name": "Black sesame seeds (til)", "qty": "1 cup" },
+      { "name": "Jaggery", "qty": "3/4 cup" },
+      { "name": "Water", "qty": "as needed" }
+    ],
+    "recipe": [
+      "Dry-roast sesame seeds and grind coarsely with jaggery to make the filling.",
+      "Make a thin batter or dough with rice flour and water. Spread thinly on a hot tawa or leaf.",
+      "Place filling in the centre, fold or roll, and cook both sides till done.",
+      "Serve warm as a festive Bihu breakfast or snack."
+    ],
+    "tips": [
+      "Iconic Bihu pitha – crispy outside, sweet sesame-jaggery inside.",
+      "Made especially during Magh Bihu."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "assam-breakfast-poita-bhat",
+    "title": "Poita Bhat",
+    "state": "Assam",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains onion - not consumed by Jains. For Jain version, omit onion and use only green chilli and salt.",
+    "image": "poita_bhat.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "10 mins (+ overnight)",
+    "servings": "2 Servings",
+    "ingredients": [
+      { "name": "Cooked leftover rice", "qty": "2 cups" },
+      { "name": "Water", "qty": "to cover" },
+      { "name": "Mustard oil, green chilli, onion, salt", "qty": "to taste" },
+      { "name": "Optional: mashed potato or fried fish", "qty": "as desired" }
+    ],
+    "recipe": [
+      "Soak cooked rice in water overnight to ferment lightly.",
+      "In the morning, drain excess water if preferred. Mix with mustard oil, chopped green chilli, onion and salt.",
+      "Serve with aloo pitika or any side."
+    ],
+    "tips": [
+      "Cooling summer breakfast of rural Assam – probiotic and refreshing.",
+      "Simple and zero-waste use of leftover rice."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "assam-lunch-masor-tenga",
+    "title": "Masor Tenga",
+    "state": "Assam",
+    "mealType": "Lunch",
+    "diet": "Non-Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains fish - not consumed by Jains.",
+    "image": "masor_tenga.png",
+    "wikipediaImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Masor_Tenga.jpg",
+    "imageSource": "wikimedia_commons_verified",
+    "time": "30 mins",
+    "servings": "4 Servings",
+    "ingredients": [
+      { "name": "Freshwater fish (rohu, puthi, etc.)", "qty": "500 g" },
+      { "name": "Tomato or ou tenga / thekera / lemon", "qty": "for souring" },
+      { "name": "Mustard oil, turmeric, green chilli, fenugreek or cumin", "qty": "to taste" },
+      { "name": "Salt, coriander leaves", "qty": "as needed" }
+    ],
+    "recipe": [
+      "Lightly fry fish pieces with turmeric and salt in mustard oil; set aside.",
+      "In the same oil temper fenugreek/cumin and green chilli. Add tomato or chosen souring agent and cook till soft.",
+      "Add water, salt and the fried fish. Simmer gently till the broth is light, sour and flavourful.",
+      "Garnish with coriander. Serve with steamed rice as the closing dish of a meal."
+    ],
+    "tips": [
+      "Signature sour fish curry of Assam – light, tangy and minimal spice.",
+      "Traditionally ends the meal after khar."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "assam-lunch-khar",
+    "title": "Khar (e.g. Raw Papaya or Xaak Khar)",
+    "state": "Assam",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains garlic - not consumed by Jains. For Jain version, omit garlic.",
+    "image": "khar.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "35 mins",
+    "servings": "3 Servings",
+    "ingredients": [
+      { "name": "Raw papaya or mustard greens / any vegetable", "qty": "2 cups" },
+      { "name": "Kola khar (banana ash filtrate) or baking soda substitute", "qty": "2–3 tbsp" },
+      { "name": "Mustard oil, garlic, green chilli, salt", "qty": "to taste" }
+    ],
+    "recipe": [
+      "Prepare or use filtered banana-ash water (kola khar).",
+      "Cook the vegetable with a little mustard oil, garlic and green chilli.",
+      "Add the khar liquid and simmer till the vegetable is soft and the dish has a distinctive alkaline flavour.",
+      "Serve as the traditional opening dish of an Assamese meal with rice."
+    ],
+    "tips": [
+      "Unique alkaline starter that defines Assamese thali structure.",
+      "Traditionally made from sun-dried banana peel ash."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "assam-lunch-aloo-pitika",
+    "title": "Aloo Pitika",
+    "state": "Assam",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains onion and potato (root vegetable) - not consumed by Jains.",
+    "image": "aloo_pitika.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "20 mins",
+    "servings": "3 Servings",
+    "ingredients": [
+      { "name": "Boiled potatoes", "qty": "4 medium" },
+      { "name": "Raw mustard oil", "qty": "2–3 tbsp" },
+      { "name": "Onion, green chilli, coriander, salt", "qty": "to taste" }
+    ],
+    "recipe": [
+      "Mash the boiled potatoes while still warm.",
+      "Mix in raw mustard oil, finely chopped onion, green chilli, coriander and salt.",
+      "Serve as a side with rice, dal and tenga or khar."
+    ],
+    "tips": [
+      "Simple, pungent mash that appears in almost every Assamese thali.",
+      "The raw mustard oil is essential for authentic flavour."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "assam-dinner-pork-with-bamboo-shoot",
+    "title": "Pork with Bamboo Shoot (Gahori Kharisa)",
+    "state": "Assam",
+    "mealType": "Dinner",
+    "diet": "Non-Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains pork, onion, garlic - not consumed by Jains.",
+    "image": "pork_bamboo_shoot.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "60 mins",
+    "servings": "4 Servings",
+    "ingredients": [
+      { "name": "Pork (preferably with fat)", "qty": "500 g" },
+      { "name": "Fermented bamboo shoot (khorisa)", "qty": "1/2 cup" },
+      { "name": "Ginger, garlic, green chilli, onion", "qty": "as needed" },
+      { "name": "Mustard oil, salt", "qty": "to taste" }
+    ],
+    "recipe": [
+      "Cut pork into pieces. Heat mustard oil, sauté onion, ginger, garlic and chilli.",
+      "Add pork and cook till it releases fat and browns lightly.",
+      "Add fermented bamboo shoot and salt. Cover and simmer till pork is tender and flavours meld.",
+      "Serve with steamed rice."
+    ],
+    "tips": [
+      "Popular among many communities in Assam – the fermented bamboo shoot gives distinctive tang.",
+      "Minimal spices allow the pork and khorisa to shine."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "assam-dinner-duck-curry",
+    "title": "Assamese Duck Curry (Hanhor Mangxo)",
+    "state": "Assam",
+    "mealType": "Dinner",
+    "diet": "Non-Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains duck, onion, garlic - not consumed by Jains.",
+    "image": "duck_curry.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "70 mins",
+    "servings": "4 Servings",
+    "ingredients": [
+      { "name": "Duck pieces", "qty": "750 g" },
+      { "name": "Potato, onion, ginger-garlic, green chilli", "qty": "as needed" },
+      { "name": "Mustard oil, turmeric, black pepper, salt", "qty": "to taste" }
+    ],
+    "recipe": [
+      "Heat mustard oil, sauté onion, ginger-garlic and chilli. Add duck pieces and brown well.",
+      "Add turmeric, pepper, salt and potato. Add a little water and slow-cook till duck is tender and gravy is rich.",
+      "Serve with rice."
+    ],
+    "tips": [
+      "Duck is highly prized in Assamese cuisine, especially for festive occasions.",
+      "Often cooked with minimal spices to highlight the meat."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "assam-snacks-kholasapori-pitha-plain",
+    "title": "Kholasapori Pitha (Plain)",
+    "state": "Assam",
+    "mealType": "Snacks",
+    "diet": "Vegetarian",
+    "jainFriendly": true,
+    "jainNotes": "Plain version is Jain-compatible (rice flour, water, salt, mustard oil). Avoid vegetable/onion additions.",
+    "image": "kholasapori_pitha.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "25 mins",
+    "servings": "8–10 pieces",
+    "ingredients": [
+      { "name": "Rice flour", "qty": "1.5 cups" },
+      { "name": "Water, salt", "qty": "as needed" },
+      { "name": "Mustard oil for cooking", "qty": "as needed" }
+    ],
+    "recipe": [
+      "Make a pouring batter of rice flour, water and salt.",
+      "Heat a pan or tawa with a little mustard oil. Pour and spread the batter into thin circles.",
+      "Cook both sides till golden and crisp at the edges.",
+      "Serve hot with jaggery or tea."
+    ],
+    "tips": [
+      "Also called pani pitha or bhurbhuri pitha – simple everyday rice pancake.",
+      "Popular breakfast or tea-time item."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "assam-snacks-kholasapori-pitha-vegetable",
+    "title": "Kholasapori Pitha with Vegetables",
+    "state": "Assam",
+    "mealType": "Snacks",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains onion and vegetables - not consumed by Jains.",
+    "image": "kholasapori_pitha.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "25 mins",
+    "servings": "8–10 pieces",
+    "ingredients": [
+      { "name": "Rice flour", "qty": "1.5 cups" },
+      { "name": "Water, salt", "qty": "as needed" },
+      { "name": "Chopped onion and vegetables", "qty": "as desired" },
+      { "name": "Mustard oil for cooking", "qty": "as needed" }
+    ],
+    "recipe": [
+      "Make a pouring batter of rice flour, water and salt. Add chopped vegetables and onion.",
+      "Heat a pan or tawa with a little mustard oil. Pour and spread the batter into thin circles.",
+      "Cook both sides till golden and crisp at the edges.",
+      "Serve hot with tea."
+    ],
+    "tips": [
+      "Savory version with vegetables – common tea-time snack.",
+      "Crispy outside, soft inside."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "assam-snacks-narikol-laru",
+    "title": "Narikol Laru",
+    "state": "Assam",
+    "mealType": "Snacks",
+    "diet": "Vegetarian",
+    "jainFriendly": true,
+    "jainNotes": "Ingredients are Jain-compatible. Ensure jaggery is pure and free from animal-based processing agents.",
+    "image": "narikol_laru.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "30 mins",
+    "servings": "15–20 pieces",
+    "ingredients": [
+      { "name": "Fresh grated coconut", "qty": "2 cups" },
+      { "name": "Jaggery", "qty": "1 cup" },
+      { "name": "Cardamom (optional)", "qty": "to taste" }
+    ],
+    "recipe": [
+      "Cook grated coconut and jaggery together on low heat, stirring continuously, till the mixture thickens and leaves the sides of the pan.",
+      "Add cardamom if using. Cool slightly and shape into small balls (laru).",
+      "Store in an airtight container."
+    ],
+    "tips": [
+      "Classic Assamese sweet for Bihu and everyday tea-time.",
+      "Simple two-ingredient delight."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "assam-lunch-xaak",
+    "title": "Lai Xaak / Mixed Greens Stir-fry",
+    "state": "Assam",
+    "mealType": "Lunch",
+    "diet": "Vegan",
+    "jainFriendly": false,
+    "jainNotes": "Contains garlic - not consumed by Jains. For Jain version, omit garlic.",
+    "image": "lai_xaak.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "15 mins",
+    "servings": "3 Servings",
+    "ingredients": [
+      { "name": "Lai xaak or mixed local greens", "qty": "4 cups" },
+      { "name": "Mustard oil, garlic, green chilli, salt", "qty": "to taste" }
+    ],
+    "recipe": [
+      "Heat mustard oil, add crushed garlic and green chilli.",
+      "Add the washed greens and salt. Stir-fry on high heat till wilted but still bright.",
+      "Serve as a dry side with rice."
+    ],
+    "tips": [
+      "Everyday green side dish – Assam has a huge variety of xaak (leafy greens).",
+      "Minimal oil and quick cooking preserve nutrients and flavour."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "assam-dinner-ou-tenga-fish",
+    "title": "Ou Tenga with Fish",
+    "state": "Assam",
+    "mealType": "Dinner",
+    "diet": "Non-Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains fish - not consumed by Jains.",
+    "image": "ou_tenga.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "35 mins",
+    "servings": "3 Servings",
+    "ingredients": [
+      { "name": "Ou tenga (elephant apple)", "qty": "1 medium" },
+      { "name": "Fish pieces", "qty": "400 g" },
+      { "name": "Mustard oil, turmeric, green chilli, salt", "qty": "to taste" }
+    ],
+    "recipe": [
+      "Cut ou tenga into pieces. Lightly fry fish with turmeric and salt.",
+      "Temper mustard oil with green chilli, add ou tenga and turmeric. Cook till soft.",
+      "Add fish, water and salt. Simmer into a light sour curry.",
+      "Serve with rice."
+    ],
+    "tips": [
+      "Ou tenga is a classic local souring agent for tenga dishes.",
+      "Gives a unique fruity sourness distinct from tomato or lemon."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "assam-dinner-ou-tenga-vegetarian",
+    "title": "Ou Tenga with Vegetables",
+    "state": "Assam",
+    "mealType": "Dinner",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains onion - not consumed by Jains. For Jain version, omit onion.",
+    "image": "ou_tenga.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "25 mins",
+    "servings": "3 Servings",
+    "ingredients": [
+      { "name": "Ou tenga (elephant apple)", "qty": "1 medium" },
+      { "name": "Mixed vegetables (potato, brinjal, pumpkin)", "qty": "2 cups" },
+      { "name": "Mustard oil, turmeric, green chilli, salt", "qty": "to taste" }
+    ],
+    "recipe": [
+      "Cut ou tenga into pieces. Heat mustard oil, add green chilli and vegetables.",
+      "Add ou tenga, turmeric and salt. Cook till vegetables are soft.",
+      "Add water and simmer into a light sour vegetable curry.",
+      "Serve with rice."
+    ],
+    "tips": [
+      "Vegetarian version of the classic sour curry.",
+      "Ou tenga gives a unique fruity sourness distinct from tomato or lemon."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  }
+]

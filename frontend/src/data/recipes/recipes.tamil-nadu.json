@@ -1,0 +1,779 @@
+[
+  {
+    "id": "tamil-nadu-breakfast-idli",
+    "title": "Idli",
+    "state": "Tamil Nadu",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "time": "25 mins (+ fermentation)",
+    "servings": "12–15 pieces",
+    "heroImage": "./assets/images/idli.png",
+    "steps": [
+      "Soak rice and urad dal (with fenugreek if using) separately for 4–6 hours. Grind urad dal to a fluffy batter and rice to a slightly coarse batter. Mix, add salt and ferment overnight or 8–12 hours.",
+      "Grease idli moulds. Pour batter into moulds and steam for 10–12 minutes till a toothpick comes out clean.",
+      "Serve hot with sambar, coconut chutney and milagai podi mixed with oil/ghee."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Idli rice / parboiled rice",
+        "qty": "2 cups",
+        "checked": true
+      },
+      {
+        "name": "Urad dal (whole or split)",
+        "qty": "1/2 cup",
+        "checked": true
+      },
+      {
+        "name": "Fenugreek seeds (optional)",
+        "qty": "1/2 tsp",
+        "checked": true
+      },
+      {
+        "name": "Salt",
+        "qty": "to taste",
+        "checked": true
+      },
+      {
+        "name": "Water",
+        "qty": "as needed",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Soft, spongy texture comes from proper fermentation and grinding."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "A healthy, oil-free steamed breakfast staple across Tamil Nadu."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "tamil-nadu-breakfast-ven-pongal",
+    "title": "Ven Pongal",
+    "state": "Tamil Nadu",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "time": "30 mins",
+    "servings": "3 Servings",
+    "heroImage": "./assets/images/ven_pongal.png",
+    "steps": [
+      "Dry-roast moong dal lightly. Pressure-cook rice and moong dal together with enough water till soft and mushy.",
+      "In ghee, temper cumin, peppercorns, cashews, ginger, green chillies and curry leaves.",
+      "Pour the tempering over the cooked rice-dal mixture. Mix well, adjust salt and consistency with hot water if needed.",
+      "Serve hot with sambar and coconut chutney."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Raw rice",
+        "qty": "1 cup",
+        "checked": true
+      },
+      {
+        "name": "Moong dal",
+        "qty": "1/2 cup",
+        "checked": true
+      },
+      {
+        "name": "Black peppercorns, cumin seeds",
+        "qty": "1 tsp each",
+        "checked": true
+      },
+      {
+        "name": "Ginger, green chillies, curry leaves, cashews",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Ghee",
+        "qty": "3–4 tbsp",
+        "checked": true
+      },
+      {
+        "name": "Salt",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Also called Khara Pongal. Generous ghee and whole pepper-cumin are essential."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Festival and everyday comfort breakfast."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "tamil-nadu-breakfast-masala-dosa",
+    "title": "Masala Dosa",
+    "state": "Tamil Nadu",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "time": "30 mins (+ fermentation)",
+    "servings": "4 Servings",
+    "heroImage": "./assets/images/masala_dosa.png",
+    "steps": [
+      "Prepare or use well-fermented dosa batter of pouring consistency.",
+      "For potato masala: Boil and mash potatoes. Temper mustard, curry leaves, green chillies and onion; add turmeric and salt. Mix with potatoes.",
+      "Heat a tawa, pour and spread batter into a thin circle. Drizzle oil/ghee. Place potato filling in the centre, fold and roast till crisp.",
+      "Serve hot with sambar and coconut chutney."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Dosa batter",
+        "qty": "3 cups",
+        "checked": true
+      },
+      {
+        "name": "Potatoes",
+        "qty": "4 medium",
+        "checked": true
+      },
+      {
+        "name": "Onion, green chillies, curry leaves, mustard, turmeric",
+        "qty": "for filling",
+        "checked": true
+      },
+      {
+        "name": "Oil or ghee",
+        "qty": "for roasting",
+        "checked": true
+      },
+      {
+        "name": "Salt",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Crispy exterior and soft spiced potato filling define a good masala dosa."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "A global ambassador of Tamil / South Indian breakfast."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "tamil-nadu-breakfast-adai",
+    "title": "Adai",
+    "state": "Tamil Nadu",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "time": "35 mins (+ soaking)",
+    "servings": "8–10 pieces",
+    "heroImage": "./assets/images/adai.png",
+    "steps": [
+      "Soak rice and dals for 3–4 hours. Grind coarsely with red chilli and fennel (do not make a fine batter). Add salt.",
+      "Mix in finely chopped onion, green chillies, curry leaves and coriander.",
+      "Heat a tawa, pour a ladle of thick batter and spread into a thick circle. Drizzle oil and cook on both sides till golden and crisp.",
+      "Serve with avocado chutney, jaggery or any spicy chutney."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Rice + mixed dals (chana, toor, urad, moong)",
+        "qty": "2 cups total",
+        "checked": true
+      },
+      {
+        "name": "Onion, green chillies, curry leaves, coriander",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Fennel seeds, red chilli, salt",
+        "qty": "to taste",
+        "checked": true
+      },
+      {
+        "name": "Oil",
+        "qty": "for roasting",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Protein-rich thicker cousin of dosa, popular in Tamil Nadu households."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Coarse texture is characteristic."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "tamil-nadu-lunch-sambar",
+    "title": "Sambar",
+    "state": "Tamil Nadu",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "time": "40 mins",
+    "servings": "4 Servings",
+    "heroImage": "./assets/images/sambar.png",
+    "steps": [
+      "Pressure-cook toor dal till soft. Extract tamarind pulp.",
+      "Cook vegetables in tamarind water with turmeric and salt till tender. Add sambar powder and cooked dal. Simmer.",
+      "Temper mustard, fenugreek, dry red chilli, curry leaves and hing in oil/ghee. Pour over the sambar.",
+      "Serve with rice, idli, dosa or vada."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Toor dal",
+        "qty": "1 cup",
+        "checked": true
+      },
+      {
+        "name": "Mixed vegetables (drumstick, brinjal, pumpkin, shallots, tomato)",
+        "qty": "2 cups",
+        "checked": true
+      },
+      {
+        "name": "Tamarind",
+        "qty": "small lemon-sized",
+        "checked": true
+      },
+      {
+        "name": "Sambar powder",
+        "qty": "2–3 tbsp",
+        "checked": true
+      },
+      {
+        "name": "Mustard, fenugreek, dry red chilli, curry leaves, asafoetida",
+        "qty": "for tempering",
+        "checked": true
+      },
+      {
+        "name": "Oil or ghee, salt",
+        "qty": "as needed",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "The balance of tamarind sourness, dal body and fresh ground spices is key."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Arachuvitta sambar (freshly ground spices) is preferred in many Tamil homes."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "tamil-nadu-lunch-rasam",
+    "title": "Rasam",
+    "state": "Tamil Nadu",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "time": "25 mins",
+    "servings": "4 Servings",
+    "heroImage": "./assets/images/rasam.png",
+    "steps": [
+      "Extract tamarind water. Cook with tomato, rasam powder/crushed spices, salt and a little turmeric till the raw smell disappears.",
+      "Add crushed garlic if using and simmer briefly. Do not boil vigorously after this stage.",
+      "Temper mustard, dry red chilli, curry leaves and hing. Pour over the rasam. Finish with coriander leaves.",
+      "Serve with rice or as a light soup."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Tamarind",
+        "qty": "small piece",
+        "checked": true
+      },
+      {
+        "name": "Tomato",
+        "qty": "1–2",
+        "checked": true
+      },
+      {
+        "name": "Rasam powder or crushed pepper-cumin-coriander",
+        "qty": "to taste",
+        "checked": true
+      },
+      {
+        "name": "Garlic, curry leaves, coriander leaves",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Mustard, dry red chilli, asafoetida",
+        "qty": "for tempering",
+        "checked": true
+      },
+      {
+        "name": "Salt",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Thinner and more aromatic than sambar; often the second course in a Tamil meal."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Pepper-cumin rasam and tomato rasam are everyday favourites."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "tamil-nadu-lunch-puliyodarai",
+    "title": "Puliyodarai (Tamarind Rice)",
+    "state": "Tamil Nadu",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "time": "30 mins",
+    "servings": "4 Servings",
+    "heroImage": "./assets/images/puliyodarai.png",
+    "steps": [
+      "Heat sesame oil, temper mustard, dals, peanuts, dry red chilli, fenugreek and curry leaves. Add turmeric, hing, tamarind extract, salt and a little jaggery. Cook till the mixture thickens and oil separates (pulikachal).",
+      "Mix the spice paste thoroughly with cooled cooked rice.",
+      "Rest for some time so flavours absorb. Serve with appalam and yogurt."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Cooked rice",
+        "qty": "3 cups",
+        "checked": true
+      },
+      {
+        "name": "Tamarind paste / thick extract",
+        "qty": "3–4 tbsp",
+        "checked": true
+      },
+      {
+        "name": "Sesame oil, mustard, chana dal, urad dal, peanuts, dry red chilli, curry leaves, fenugreek",
+        "qty": "for tempering",
+        "checked": true
+      },
+      {
+        "name": "Turmeric, asafoetida, jaggery, salt",
+        "qty": "to taste",
+        "checked": true
+      },
+      {
+        "name": "Sesame seeds or roasted coconut (optional)",
+        "qty": "for flavour",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Temple-style and travel-friendly rice; tastes better after a few hours."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Sesame oil is traditional and gives authentic aroma."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "tamil-nadu-dinner-chettinad-chicken",
+    "title": "Chettinad Chicken",
+    "state": "Tamil Nadu",
+    "mealType": "Dinner",
+    "diet": "Non-Vegetarian",
+    "time": "50 mins",
+    "servings": "4 Servings",
+    "heroImage": "./assets/images/chettinad_chicken.png",
+    "steps": [
+      "Dry-roast and grind the whole spices to make fresh Chettinad masala.",
+      "Heat oil, sauté onion, curry leaves and ginger-garlic. Add tomato and the ground masala. Cook till oil separates.",
+      "Add chicken, salt and a little water. Cover and cook till tender and the gravy is thick and aromatic.",
+      "Finish with crushed pepper if desired. Serve with rice, dosa, appam or parotta."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Chicken (bone-in)",
+        "qty": "750 g",
+        "checked": true
+      },
+      {
+        "name": "Onion, tomato",
+        "qty": "2 each",
+        "checked": true
+      },
+      {
+        "name": "Chettinad spice mix (fennel, pepper, coriander, cinnamon, star anise, kalpasi, red chilli)",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Ginger-garlic paste, curry leaves, coconut (optional)",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Oil, salt",
+        "qty": "as needed",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Freshly ground spices and kalpasi (stone flower) give the distinctive Chettinad flavour."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "One of the most famous non-vegetarian dishes from Tamil Nadu."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "tamil-nadu-dinner-curd-rice",
+    "title": "Thayir Sadam (Curd Rice)",
+    "state": "Tamil Nadu",
+    "mealType": "Dinner",
+    "diet": "Vegetarian",
+    "time": "15 mins",
+    "servings": "3 Servings",
+    "heroImage": "./assets/images/thayir_sadam.png",
+    "steps": [
+      "Mash the cooked rice lightly while still warm. Mix with curd, a little milk and salt till creamy.",
+      "Temper mustard, urad dal, green chilli, ginger, curry leaves and hing in oil/ghee. Pour over the rice.",
+      "Mix well and garnish with coriander and optional fruits.",
+      "Serve chilled or at room temperature with pickle and appalam."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Cooked rice",
+        "qty": "2 cups",
+        "checked": true
+      },
+      {
+        "name": "Fresh curd / yogurt",
+        "qty": "1.5 cups",
+        "checked": true
+      },
+      {
+        "name": "Milk (optional, for creaminess)",
+        "qty": "1/4 cup",
+        "checked": true
+      },
+      {
+        "name": "Mustard, urad dal, green chilli, ginger, curry leaves, asafoetida",
+        "qty": "for tempering",
+        "checked": true
+      },
+      {
+        "name": "Coriander, pomegranate or grapes (optional)",
+        "qty": "for garnish",
+        "checked": true
+      },
+      {
+        "name": "Salt",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "The classic cooling finisher of a Tamil meal."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Best made with slightly overcooked soft rice."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "tamil-nadu-snacks-medu-vada",
+    "title": "Medu Vada",
+    "state": "Tamil Nadu",
+    "mealType": "Snacks",
+    "diet": "Vegetarian",
+    "time": "30 mins (+ soaking)",
+    "servings": "10–12 pieces",
+    "heroImage": "./assets/images/medu_vada.png",
+    "steps": [
+      "Soak urad dal for 3–4 hours. Drain and grind to a smooth, fluffy batter with minimal water. Add salt, green chillies, ginger, curry leaves, pepper and cumin. Mix well (add onion if using).",
+      "Wet hands, shape into doughnut-like rings and slide into hot oil. Fry on medium heat till golden and crisp outside, soft inside.",
+      "Serve hot with sambar and coconut chutney."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Urad dal",
+        "qty": "1 cup",
+        "checked": true
+      },
+      {
+        "name": "Green chillies, ginger, curry leaves, black pepper, cumin",
+        "qty": "to taste",
+        "checked": true
+      },
+      {
+        "name": "Onion (optional), salt",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Oil for deep frying",
+        "qty": "as needed",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Fluffy batter and medium-hot oil are key to soft interiors."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Classic accompaniment to idli in a tiffin platter."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "tamil-nadu-snacks-murukku",
+    "title": "Murukku",
+    "state": "Tamil Nadu",
+    "mealType": "Snacks",
+    "diet": "Vegetarian",
+    "time": "45 mins",
+    "servings": "many",
+    "heroImage": "./assets/images/murukku.png",
+    "steps": [
+      "Mix rice flour, urad flour, spices, salt and melted butter/oil. Add water to form a soft, non-sticky dough.",
+      "Load into a murukku press with star or spiral plate. Extrude into hot oil in circular shapes.",
+      "Fry on medium heat till golden and crisp. Drain and cool completely.",
+      "Store in airtight containers."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Rice flour",
+        "qty": "2 cups",
+        "checked": true
+      },
+      {
+        "name": "Urad dal flour",
+        "qty": "1/2 cup",
+        "checked": true
+      },
+      {
+        "name": "Butter or oil, cumin, sesame, asafoetida, chilli powder",
+        "qty": "to taste",
+        "checked": true
+      },
+      {
+        "name": "Salt, water",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Oil for deep frying",
+        "qty": "as needed",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "A quintessential Tamil snack for festivals and tea-time."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Dough consistency determines crispness."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "tamil-nadu-snacks-kuzhi-paniyaram",
+    "title": "Kuzhi Paniyaram",
+    "state": "Tamil Nadu",
+    "mealType": "Snacks",
+    "diet": "Vegetarian",
+    "time": "25 mins",
+    "servings": "15–20 pieces",
+    "heroImage": "./assets/images/kuzhi_paniyaram.png",
+    "steps": [
+      "Temper mustard, urad dal, curry leaves, green chillies and onion. Mix into the idli/dosa batter along with coriander.",
+      "Heat a kuzhi paniyaram pan, add a few drops of oil in each cavity. Pour batter to fill three-quarters.",
+      "Cover and cook till the bottom is golden, flip and cook the other side.",
+      "Serve hot with coconut chutney or sambar."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Idli / dosa batter",
+        "qty": "2 cups",
+        "checked": true
+      },
+      {
+        "name": "Onion, green chillies, curry leaves, coriander",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Mustard, urad dal (for tempering)",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Oil",
+        "qty": "for the pan",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Excellent way to use leftover batter. Soft and slightly crisp."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Popular in Chettinad and across Tamil Nadu."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "tamil-nadu-lunch-poriyal",
+    "title": "Beans Poriyal (or Mixed Vegetable Poriyal)",
+    "state": "Tamil Nadu",
+    "mealType": "Lunch",
+    "diet": "Vegan",
+    "time": "20 mins",
+    "servings": "3 Servings",
+    "heroImage": "./assets/images/beans_poriyal.png",
+    "steps": [
+      "Temper mustard, urad dal, dry red chilli and curry leaves in oil. Add the chopped vegetable, turmeric and salt.",
+      "Sprinkle a little water, cover and cook till tender but still bright.",
+      "Add grated coconut, mix well and cook for another minute.",
+      "Serve as a dry side with rice, sambar and rasam."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Beans or any vegetable (cabbage, carrot, beans)",
+        "qty": "3 cups chopped",
+        "checked": true
+      },
+      {
+        "name": "Grated coconut",
+        "qty": "1/4 cup",
+        "checked": true
+      },
+      {
+        "name": "Mustard, urad dal, dry red chilli, curry leaves",
+        "qty": "for tempering",
+        "checked": true
+      },
+      {
+        "name": "Turmeric, salt",
+        "qty": "to taste",
+        "checked": true
+      },
+      {
+        "name": "Oil",
+        "qty": "1–2 tbsp",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Poriyal is the everyday dry vegetable side in a Tamil meal."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Coconut is added at the end for freshness."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "tamil-nadu-dinner-meen-kuzhambu",
+    "title": "Meen Kuzhambu (Fish Curry)",
+    "state": "Tamil Nadu",
+    "mealType": "Dinner",
+    "diet": "Non-Vegetarian",
+    "time": "35 mins",
+    "servings": "4 Servings",
+    "heroImage": "./assets/images/meen_kuzhambu.png",
+    "steps": [
+      "Extract tamarind water. Lightly marinate fish with turmeric and salt.",
+      "Heat oil, temper mustard, fenugreek and curry leaves. Sauté shallots, garlic and tomato. Add spice powders and tamarind water. Bring to a boil.",
+      "Gently add fish pieces and simmer on low heat till cooked (do not over-stir).",
+      "Rest for some time before serving. Serve with rice."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Fish (seer, mackerel or local)",
+        "qty": "500 g",
+        "checked": true
+      },
+      {
+        "name": "Tamarind",
+        "qty": "small lemon-sized",
+        "checked": true
+      },
+      {
+        "name": "Shallots or onion, tomato, garlic",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Red chilli powder, coriander powder, turmeric, fenugreek",
+        "qty": "to taste",
+        "checked": true
+      },
+      {
+        "name": "Sesame oil or gingelly oil, mustard, curry leaves",
+        "qty": "for tempering",
+        "checked": true
+      },
+      {
+        "name": "Salt",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Coastal Tamil Nadu style uses gingelly oil and tamarind for the characteristic tang."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Best made a few hours ahead so flavours develop."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  }
+]

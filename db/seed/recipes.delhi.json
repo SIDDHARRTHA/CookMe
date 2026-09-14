@@ -1,0 +1,431 @@
+[
+  {
+    "_id": "delhi-breakfast-chole-bhature",
+    "title": "Chole Bhature",
+    "state": "Delhi",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "image": "chole_bhature.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "description": "A Delhi street-food classic of spicy chickpea curry (chole) served with large, fluffy deep-fried bread (bhature). Often accompanied by pickled onions, green chillies and a glass of lassi.",
+    "ingredients": [
+      "Chickpeas, tea leaves or amchur for colour and tang",
+      "Onion, tomato, ginger-garlic, chole masala, garam masala",
+      "Maida, yogurt, oil for bhature"
+    ],
+    "steps": [
+      "Soak and cook chickpeas with tea or spices until soft.",
+      "Prepare a spicy onion-tomato gravy and simmer the chickpeas in it.",
+      "Knead a soft dough for bhature, rest, roll and deep-fry until puffed and golden.",
+      "Serve hot chole with bhature, onion and pickle."
+    ],
+    "tips": [
+      "The best versions have soft, airy bhature and deeply flavoured, slightly sour chole."
+    ],
+    "prepTime": "20 minutes + soaking",
+    "cookTime": "40 minutes",
+    "servings": "3–4",
+    "research": {
+      "status": "unverified",
+      "sourceUrls": []
+    }
+  },
+  {
+    "_id": "delhi-breakfast-stuffed-paratha",
+    "title": "Stuffed Paratha (Paranthe Wali Gali style)",
+    "state": "Delhi",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "image": "stuffed_paratha.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "description": "Crispy, ghee-fried stuffed flatbreads from the legendary Paranthe Wali Gali in Chandni Chowk. Classic fillings include aloo, gobhi, paneer, dal or mixed vegetables, served with pickle, chutney and curd.",
+    "ingredients": [
+      "Whole wheat flour, water, salt",
+      "Potato / cauliflower / paneer filling with spices",
+      "Ghee or oil for frying"
+    ],
+    "steps": [
+      "Prepare a soft dough and a well-spiced stuffing.",
+      "Stuff, seal and roll into parathas.",
+      "Shallow-fry on a tawa with generous ghee until golden and crisp on both sides.",
+      "Serve hot with pickle and yogurt."
+    ],
+    "tips": [
+      "Traditional shops in Paranthe Wali Gali have been serving these since the 19th century."
+    ],
+    "prepTime": "25 minutes",
+    "cookTime": "20 minutes",
+    "servings": "3–4",
+    "research": {
+      "status": "unverified",
+      "sourceUrls": []
+    }
+  },
+  {
+    "_id": "delhi-breakfast-nihari",
+    "title": "Nihari with Khameeri Roti",
+    "state": "Delhi",
+    "mealType": "Breakfast",
+    "diet": "Non-Vegetarian",
+    "jainFriendly": false,
+    "image": "nihari.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "description": "Slow-cooked overnight mutton (or beef) stew enriched with marrow, spices and a wheat-flour thickening. Traditionally eaten for breakfast with soft khameeri roti. A classic Mughlai dish of Old Delhi.",
+    "ingredients": [
+      "Mutton with bones and marrow",
+      "Ginger, garlic, whole spices, wheat flour for thickening",
+      "Ghee, fried onions"
+    ],
+    "steps": [
+      "Slow-cook the meat overnight or for many hours with spices until extremely tender.",
+      "Thicken the gravy with a wheat-flour slurry if needed.",
+      "Finish with fried onions and ginger.",
+      "Serve with khameeri or naan-style bread."
+    ],
+    "tips": [
+      "The name comes from the Arabic ‘nahar’ (morning); it was traditionally a morning meal for labourers and soldiers."
+    ],
+    "prepTime": "20 minutes",
+    "cookTime": "6–8 hours (or overnight)",
+    "servings": "4–6",
+    "research": {
+      "status": "unverified",
+      "sourceUrls": []
+    }
+  },
+  {
+    "_id": "delhi-lunch-butter-chicken",
+    "title": "Butter Chicken (Murgh Makhani)",
+    "state": "Delhi",
+    "mealType": "Lunch",
+    "diet": "Non-Vegetarian",
+    "jainFriendly": false,
+    "image": "butter_chicken.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "description": "Delhi’s most famous culinary export — tandoori chicken simmered in a silky tomato-butter-cream gravy. Invented at Moti Mahal in the 1950s and now a global icon of Indian cuisine.",
+    "ingredients": [
+      "Tandoori or grilled chicken pieces",
+      "Tomato puree, butter, cream, kasuri methi",
+      "Ginger, garlic, mild spices, sugar or honey for balance"
+    ],
+    "steps": [
+      "Prepare or use leftover tandoori chicken.",
+      "Cook a smooth tomato-based gravy with butter and spices.",
+      "Add chicken and simmer gently; finish with cream and kasuri methi.",
+      "Serve with naan or rice."
+    ],
+    "tips": [
+      "Authentic Delhi versions are mildly spiced and rely on the smokiness of the tandoori chicken."
+    ],
+    "prepTime": "20 minutes (plus tandoori chicken)",
+    "cookTime": "25 minutes",
+    "servings": "4",
+    "research": {
+      "status": "unverified",
+      "sourceUrls": []
+    }
+  },
+  {
+    "_id": "delhi-lunch-dal-makhani",
+    "title": "Dal Makhani",
+    "state": "Delhi",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "image": "dal_makhani.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "description": "Slow-cooked black lentils (urad) and kidney beans finished with butter and cream. A rich Punjabi dish that became a Delhi restaurant classic and is now inseparable from the city’s North Indian repertoire.",
+    "ingredients": [
+      "Whole black urad dal, rajma",
+      "Tomato, butter, cream, ginger-garlic",
+      "Kasuri methi, garam masala"
+    ],
+    "steps": [
+      "Soak and slow-cook the dals until very soft (often overnight).",
+      "Prepare a tomato-butter base and combine with the dals.",
+      "Simmer on low heat for a long time, finishing with cream and kasuri methi.",
+      "Serve with naan or rice."
+    ],
+    "tips": [
+      "The longer it cooks, the better the flavour and texture."
+    ],
+    "prepTime": "15 minutes + soaking",
+    "cookTime": "2–4 hours",
+    "servings": "4–6",
+    "research": {
+      "status": "unverified",
+      "sourceUrls": []
+    }
+  },
+  {
+    "_id": "delhi-lunch-seekh-kebab",
+    "title": "Seekh Kebab",
+    "state": "Delhi",
+    "mealType": "Lunch",
+    "diet": "Non-Vegetarian",
+    "jainFriendly": false,
+    "image": "seekh_kebab.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "description": "Minced meat mixed with spices, moulded onto skewers and grilled over charcoal. A Mughlai staple of Old Delhi, often served with mint chutney, onion and roomali roti.",
+    "ingredients": [
+      "Minced mutton or chicken",
+      "Ginger, garlic, green chilli, garam masala, coriander",
+      "Fat for binding, oil for grilling"
+    ],
+    "steps": [
+      "Mix minced meat thoroughly with spices and bind well.",
+      "Shape onto skewers.",
+      "Grill over charcoal until cooked and lightly charred.",
+      "Serve hot with chutney and onion rings."
+    ],
+    "tips": [
+      "The smoky charcoal flavour is essential to authentic Old Delhi kebabs."
+    ],
+    "prepTime": "25 minutes",
+    "cookTime": "15–20 minutes",
+    "servings": "4",
+    "research": {
+      "status": "unverified",
+      "sourceUrls": []
+    }
+  },
+  {
+    "_id": "delhi-dinner-mutton-korma",
+    "title": "Mutton Korma",
+    "state": "Delhi",
+    "mealType": "Dinner",
+    "diet": "Non-Vegetarian",
+    "jainFriendly": false,
+    "image": "mutton_korma.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "description": "Rich, aromatic Mughlai-style mutton cooked in a yogurt and fried-onion gravy with whole spices. A classic of Old Delhi restaurants such as Karim’s.",
+    "ingredients": [
+      "Mutton pieces",
+      "Yogurt, fried onions (birista), whole spices",
+      "Ginger-garlic, ghee or oil"
+    ],
+    "steps": [
+      "Marinate mutton in yogurt and spices.",
+      "Cook with fried onions and whole spices on low heat until tender and the gravy is rich.",
+      "Finish with a touch of cream or more ghee if desired.",
+      "Serve with naan or sheermal."
+    ],
+    "tips": [
+      "Patience and low heat yield the best results."
+    ],
+    "prepTime": "20 minutes + marination",
+    "cookTime": "60–90 minutes",
+    "servings": "4",
+    "research": {
+      "status": "unverified",
+      "sourceUrls": []
+    }
+  },
+  {
+    "_id": "delhi-dinner-paneer-butter-masala",
+    "title": "Paneer Butter Masala",
+    "state": "Delhi",
+    "mealType": "Dinner",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "image": "paneer_butter_masala.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "description": "Soft paneer cubes in a creamy tomato-butter gravy, the vegetarian counterpart to butter chicken. Extremely popular across Delhi restaurants and homes.",
+    "ingredients": [
+      "Paneer cubes",
+      "Tomato puree, butter, cream, kasuri methi",
+      "Ginger, garlic, mild spices"
+    ],
+    "steps": [
+      "Prepare a smooth tomato-butter gravy.",
+      "Add paneer and simmer gently.",
+      "Finish with cream and kasuri methi.",
+      "Serve with naan or rice."
+    ],
+    "tips": [
+      "Do not overcook the paneer or it becomes rubbery."
+    ],
+    "prepTime": "15 minutes",
+    "cookTime": "20 minutes",
+    "servings": "4",
+    "research": {
+      "status": "unverified",
+      "sourceUrls": []
+    }
+  },
+  {
+    "_id": "delhi-snacks-aloo-tikki-chaat",
+    "title": "Aloo Tikki Chaat",
+    "state": "Delhi",
+    "mealType": "Snacks",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "image": "aloo_tikki_chaat.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "description": "Crispy potato patties topped with yogurt, tamarind and mint chutneys, chopped onion, sev and chaat masala. One of Delhi’s most beloved street-food chaat preparations.",
+    "ingredients": [
+      "Boiled potatoes, spices for tikki",
+      "Yogurt, tamarind chutney, green chutney",
+      "Onion, sev, chaat masala, coriander"
+    ],
+    "steps": [
+      "Mash potatoes with spices, shape into patties and shallow-fry until crisp.",
+      "Place on a plate, top with yogurt and both chutneys.",
+      "Garnish with onion, sev and chaat masala.",
+      "Serve immediately."
+    ],
+    "tips": [
+      "The contrast of hot crispy tikki and cool yogurt is key."
+    ],
+    "prepTime": "20 minutes",
+    "cookTime": "15 minutes",
+    "servings": "3–4",
+    "research": {
+      "status": "unverified",
+      "sourceUrls": []
+    }
+  },
+  {
+    "_id": "delhi-snacks-gol-gappe",
+    "title": "Gol Gappe (Pani Puri)",
+    "state": "Delhi",
+    "mealType": "Snacks",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "image": "gol_gappe.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "description": "Crisp hollow puris filled with spicy, tangy flavoured water (pani), mashed potato or chickpeas, and chutneys. Delhi’s favourite interactive street snack, also known as pani puri.",
+    "ingredients": [
+      "Pani puri shells",
+      "Spicy mint-coriander pani, sweet tamarind pani",
+      "Boiled potato or chickpeas, chaat masala"
+    ],
+    "steps": [
+      "Prepare the flavoured waters and potato filling.",
+      "Crack a small hole in each puri, fill with potato and dunk into the pani.",
+      "Eat in one bite.",
+      "Repeat."
+    ],
+    "tips": [
+      "The pani should be ice-cold and perfectly balanced between spicy and tangy."
+    ],
+    "prepTime": "30 minutes",
+    "cookTime": "0 minutes (assembly)",
+    "servings": "4",
+    "research": {
+      "status": "unverified",
+      "sourceUrls": []
+    }
+  },
+  {
+    "_id": "delhi-snacks-samosa",
+    "title": "Samosa",
+    "state": "Delhi",
+    "mealType": "Snacks",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "image": "samosa.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "description": "Crispy triangular pastry filled with spiced potato and peas, deep-fried until golden. A ubiquitous Delhi tea-time and street snack, often served with green and tamarind chutneys.",
+    "ingredients": [
+      "Maida dough",
+      "Boiled potato, peas, cumin, coriander, chilli, garam masala",
+      "Oil for deep frying"
+    ],
+    "steps": [
+      "Prepare a stiff dough and a spiced potato filling.",
+      "Shape into cones or triangles, fill and seal.",
+      "Deep-fry until crisp and golden.",
+      "Serve with chutneys."
+    ],
+    "tips": [
+      "The pastry should be crisp; the filling well-spiced but not watery."
+    ],
+    "prepTime": "30 minutes",
+    "cookTime": "20 minutes",
+    "servings": "8–10 pieces",
+    "research": {
+      "status": "unverified",
+      "sourceUrls": []
+    }
+  },
+  {
+    "_id": "delhi-snacks-jalebi",
+    "title": "Jalebi",
+    "state": "Delhi",
+    "mealType": "Snacks",
+    "diet": "Vegetarian",
+    "jainFriendly": true,
+    "image": "jalebi.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "description": "Crisp, syrup-soaked spiral sweets made from fermented batter and deep-fried. A classic Old Delhi sweet, often eaten with rabri or simply hot from the kadhai.",
+    "ingredients": [
+      "Maida, yogurt or fermented starter, water",
+      "Sugar syrup flavoured with cardamom or saffron",
+      "Oil or ghee for frying"
+    ],
+    "steps": [
+      "Prepare a fermented batter of the right consistency.",
+      "Pipe spirals into hot oil and fry until crisp and golden.",
+      "Immediately soak in warm sugar syrup.",
+      "Serve hot or warm."
+    ],
+    "tips": [
+      "Best eaten fresh; they lose crispness if left too long."
+    ],
+    "prepTime": "20 minutes + fermentation",
+    "cookTime": "20 minutes",
+    "servings": "6–8",
+    "research": {
+      "status": "unverified",
+      "sourceUrls": []
+    }
+  },
+  {
+    "_id": "delhi-snacks-dahi-bhalla",
+    "title": "Dahi Bhalla",
+    "state": "Delhi",
+    "mealType": "Snacks",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "image": "dahi_bhalla.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "description": "Soft lentil dumplings (bhalla) soaked in creamy yogurt, topped with sweet and spicy chutneys, sev and chaat masala. A refined and popular chaat of Old Delhi.",
+    "ingredients": [
+      "Urad dal for bhalla",
+      "Thick yogurt, tamarind chutney, green chutney",
+      "Sev, chaat masala, coriander"
+    ],
+    "steps": [
+      "Soak, grind and deep-fry soft urad dal dumplings.",
+      "Soak them in water, then in seasoned yogurt.",
+      "Top with chutneys, sev and chaat masala.",
+      "Serve chilled or at room temperature."
+    ],
+    "tips": [
+      "The bhalla should be soft and absorbent."
+    ],
+    "prepTime": "30 minutes + soaking",
+    "cookTime": "20 minutes",
+    "servings": "4",
+    "research": {
+      "status": "unverified",
+      "sourceUrls": []
+    }
+  }
+]

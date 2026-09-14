@@ -1,0 +1,733 @@
+[
+  {
+    "id": "ladakh-breakfast-kholak",
+    "title": "Kholak (Tsampa with Butter Tea)",
+    "state": "Ladakh",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "time": "",
+    "servings": 1,
+    "heroImage": "./assets/images/kholak.png",
+    "steps": [
+      "Place roasted barley flour (tsampa) in a bowl.",
+      "Pour hot butter tea (or salted tea) over the flour.",
+      "Add a small piece of yak or cow butter if desired.",
+      "Knead the mixture with your fingers into a soft, edible dough.",
+      "Eat directly with your hands."
+    ],
+    "fullIngredients": [
+      {
+        "name": "1 cup roasted barley flour (tsampa/namphey)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "1–2 cups hot butter tea (or plain salted tea)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "1–2 tsp yak or cow butter (optional extra)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Pinch of salt if needed",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Traditionally eaten any time of day; perfect trekking food."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Can be made with water or diluted chhang in some valleys for variation."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "ladakh-breakfast-khambir",
+    "title": "Khambir (Tagi) with Butter Tea",
+    "state": "Ladakh",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "time": "",
+    "servings": 4,
+    "heroImage": "./assets/images/khambir.png",
+    "steps": [
+      "Knead whole wheat flour, yeast, salt, and warm water into a soft dough.",
+      "Let the dough ferment and rise for a few hours.",
+      "Shape into thick, round breads.",
+      "Cook on a hot iron griddle, then roast directly over an open flame until crusty.",
+      "Serve warm with hot butter tea."
+    ],
+    "fullIngredients": [
+      {
+        "name": "2 cups whole wheat flour",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "1 tsp yeast or traditional starter",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Warm water as needed",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Salt to taste",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Butter tea for serving",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Keeps well for several days at room temperature."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Symbol of hospitality in Ladakhi homes."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "ladakh-breakfast-paba",
+    "title": "Paba",
+    "state": "Ladakh",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "time": "",
+    "servings": 2,
+    "heroImage": "./assets/images/paba.png",
+    "steps": [
+      "Boil water in a pot with a pinch of salt.",
+      "Slowly whisk in the mixed roasted flour (barley, wheat, buckwheat).",
+      "Stir continuously to prevent lumps until it forms a thick, dough-like consistency.",
+      "Cook for a few more minutes until done.",
+      "Serve hot with a dollop of ghee or butter."
+    ],
+    "fullIngredients": [
+      {
+        "name": "1 cup mixed roasted flour (barley + pea/wheat/buckwheat)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Boiling water",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Ghee or butter for serving",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Salt",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Highly sustaining field food traditionally carried to work."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "ladakh-lunch-vegetable-skyu",
+    "title": "Vegetable Skyu",
+    "state": "Ladakh",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "time": "",
+    "servings": 4,
+    "heroImage": "./assets/images/vegetable_skyu.png",
+    "steps": [
+      "Knead wheat flour and water into a stiff dough and shape into small thumb-sized pasta pieces.",
+      "Boil water or a light broth with diced carrots, turnips, and potatoes.",
+      "Add the shaped pasta (skyu) to the boiling broth.",
+      "Simmer until the pasta and vegetables are fully cooked.",
+      "Season with salt, pepper, and fresh herbs."
+    ],
+    "fullIngredients": [
+      {
+        "name": "2 cups wheat flour",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Water for dough",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "2–3 carrots, diced",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "1–2 turnips or potatoes, diced",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Onion, ginger (optional traditional use is minimal)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Local greens or dried vegetables",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Salt, black pepper, fresh herbs (cilantro, celery greens)",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Sometimes made with milk (oma-skyu) for creamier version."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Root vegetables are traditional; omit for stricter diets."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "ladakh-lunch-chutagi",
+    "title": "Chutagi (Chhutagi)",
+    "state": "Ladakh",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "time": "",
+    "servings": 4,
+    "heroImage": "./assets/images/chutagi.png",
+    "steps": [
+      "Knead wheat flour into a dough, roll out, and shape into distinctive 'bow-tie' pasta.",
+      "Prepare a rich vegetable soup with carrots, turnips, peas, and spinach.",
+      "Drop the chutagi pasta into the simmering soup.",
+      "Cook until the pasta is tender and the broth thickens slightly.",
+      "Serve hot in deep bowls."
+    ],
+    "fullIngredients": [
+      {
+        "name": "2 cups wheat flour",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Water",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Carrots, turnips, potatoes, peas, spinach or local greens",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Onion, garlic/ginger (minimal traditional use)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Salt, pepper, local herbs",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Often prepared during harvest season for energy."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Meat version with goat trotters exists for non-veg."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "ladakh-lunch-vegetable-thukpa",
+    "title": "Vegetable Thukpa",
+    "state": "Ladakh",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "time": "",
+    "servings": 3,
+    "heroImage": "./assets/images/vegetable_thukpa.png",
+    "steps": [
+      "Prepare a flavorful vegetable broth using local greens, carrots, and onions.",
+      "Prepare fresh noodles or use dried noodles.",
+      "Add the noodles to the boiling broth.",
+      "Simmer until the noodles and vegetables are cooked.",
+      "Season with salt, pepper, and soy sauce if desired."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Wheat or barley noodles (fresh or dried)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Carrots, cabbage, spinach or local greens",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Onion, ginger, garlic (light use)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Salt, black pepper, cilantro",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Vegetable stock or water",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Variants include thenthuk (hand-pulled) and gyathuk."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Widely available in Leh restaurants in both veg and non-veg forms."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "ladakh-lunch-mutton-skyu",
+    "title": "Mutton Skyu",
+    "state": "Ladakh",
+    "mealType": "Lunch",
+    "diet": "Non-Vegetarian",
+    "time": "",
+    "servings": 4,
+    "heroImage": "./assets/images/mutton_skyu.png",
+    "steps": [
+      "Boil mutton pieces to create a rich meat broth.",
+      "Knead wheat flour and shape into small thumb-sized pasta pieces (skyu).",
+      "Add diced root vegetables to the mutton broth.",
+      "Drop the skyu pasta into the boiling broth.",
+      "Simmer until the pasta is cooked and absorbs the meaty flavor."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Wheat flour for pasta",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Mutton pieces (on bone preferred)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Carrots, turnips, potatoes",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Onion, ginger",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Salt, pepper, local herbs",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Ideal winter dish for warmth and calories."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "ladakh-dinner-vegetable-momos",
+    "title": "Vegetable Momos (Mokmok)",
+    "state": "Ladakh",
+    "mealType": "Dinner",
+    "diet": "Vegetarian",
+    "time": "",
+    "servings": 4,
+    "heroImage": "./assets/images/vegetable_momos.png",
+    "steps": [
+      "Prepare a smooth dough of wheat flour and water.",
+      "Finely chop cabbage, carrots, onions, and season with salt and pepper.",
+      "Roll dough into thin circles and place a spoonful of vegetable filling in the center.",
+      "Pleat and seal to form dumplings.",
+      "Steam for 10-15 minutes until fully cooked."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Wheat flour for wrappers",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Cabbage, carrot, onion, spinach or local greens",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Ginger, garlic, salt, pepper",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Oil for dough if needed",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Mokthuk is the version served in soup."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "ladakh-dinner-mutton-momos",
+    "title": "Mutton Momos",
+    "state": "Ladakh",
+    "mealType": "Dinner",
+    "diet": "Non-Vegetarian",
+    "time": "",
+    "servings": 4,
+    "heroImage": "./assets/images/mutton_momos.png",
+    "steps": [
+      "Prepare a smooth dough of wheat flour and water.",
+      "Mix minced mutton with finely chopped onions, garlic, salt, and pepper.",
+      "Roll dough into thin circles and place the meat filling in the center.",
+      "Pleat and seal to form dumplings.",
+      "Steam for 15-20 minutes until the meat is thoroughly cooked."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Wheat flour",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Minced mutton or lamb",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Onion, ginger, garlic",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Salt, black pepper, a little oil",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Yak meat was traditional but is now restricted; mutton is the common substitute."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "ladakh-dinner-yarkhandi-pulao",
+    "title": "Yarkhandi Pulao",
+    "state": "Ladakh",
+    "mealType": "Dinner",
+    "diet": "Non-Vegetarian",
+    "time": "",
+    "servings": 6,
+    "heroImage": "./assets/images/yarkhandi_pulao.png",
+    "steps": [
+      "Soak rice for 30 minutes.",
+      "Sauté onions, garlic, and mutton pieces in oil until browned.",
+      "Add julienned carrots and whole spices, then pour in water to make a broth.",
+      "Add the soaked rice and simmer.",
+      "Cook until the rice is tender and the liquid is absorbed."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Basmati or local rice",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Mutton pieces (preferably on bone)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Carrots (julienned)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Raisins, apricot kernels or dried apricots",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Nuts",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Ghee or animal fat",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Minimal whole spices (shahi jeera etc.)",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Rice was historically a luxury grain in the region."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Modern versions are less fatty than the traditional ones."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "ladakh-dinner-tingmo",
+    "title": "Tingmo (Timok) with Vegetable Stew",
+    "state": "Ladakh",
+    "mealType": "Dinner",
+    "diet": "Vegetarian",
+    "time": "",
+    "servings": 4,
+    "heroImage": "./assets/images/tingmo.png",
+    "steps": [
+      "Knead wheat flour, yeast, and water into a soft dough and let it ferment.",
+      "Roll the dough out, brush with a little oil, and fold into intricate bun shapes.",
+      "Let the shaped buns rest for a second rise.",
+      "Steam the buns for 15-20 minutes until fluffy and cooked.",
+      "Serve hot with stews or curries."
+    ],
+    "fullIngredients": [
+      {
+        "name": "2 cups refined or wheat flour",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Yeast, sugar, warm water, oil",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Vegetable stew or dal for serving (contains onion, garlic)",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Also eaten as a snack or with butter tea."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "ladakh-snacks-steamed-momos",
+    "title": "Steamed Vegetable Momos",
+    "state": "Ladakh",
+    "mealType": "Snacks",
+    "diet": "Vegetarian",
+    "time": "",
+    "servings": 2,
+    "heroImage": "./assets/images/steamed_momos_snack.png",
+    "steps": [
+      "Prepare a basic dough and a savory filling (veg or meat).",
+      "Roll out small wrappers and fill them.",
+      "Seal the momos by crimping the edges.",
+      "Steam vigorously for 12-15 minutes.",
+      "Serve hot as a snack with fiery chili sauce."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Wheat flour for wrappers",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Cabbage, carrot, onion, spinach or local greens",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Ginger, garlic, salt, pepper",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Oil for dough if needed",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Ubiquitous snack; also available fried or in soup (mokthuk)."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "ladakh-snacks-khambir-snack",
+    "title": "Khambir (Snack)",
+    "state": "Ladakh",
+    "mealType": "Snacks",
+    "diet": "Vegetarian",
+    "time": "",
+    "servings": 4,
+    "heroImage": "./assets/images/khambir_snack.png",
+    "steps": [
+      "Tear freshly baked or leftover khambir (local bread) into bite-sized pieces.",
+      "Serve the pieces on a platter.",
+      "Prepare a hot cup of butter tea or savory dip.",
+      "Dip the bread pieces into the tea or dip before eating.",
+      "Enjoy as a quick, sustaining afternoon snack."
+    ],
+    "fullIngredients": [
+      {
+        "name": "2 cups whole wheat flour",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "1 tsp yeast or traditional starter",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Warm water as needed",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Salt to taste",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Keeps for days; ideal travel food."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "ladakh-snacks-butter-tea",
+    "title": "Gur Gur Chai (Butter Tea)",
+    "state": "Ladakh",
+    "mealType": "Snacks",
+    "diet": "Vegetarian",
+    "time": "",
+    "servings": 3,
+    "heroImage": "./assets/images/butter_tea.png",
+    "steps": [
+      "Boil water with strong black tea leaves until a dark decoction forms.",
+      "Strain the tea into a traditional wooden churner (or modern blender).",
+      "Add a generous lump of yak butter (or cow butter) and salt.",
+      "Churn or blend vigorously until the tea becomes creamy and frothy.",
+      "Serve piping hot."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Strong black or green tea leaves",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Yak or cow butter",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Salt",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Hot water (sometimes a little milk)",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Acquired taste for most outsiders; essential for hydration and warmth at altitude."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Often drunk throughout the day with khambir or tsampa."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  }
+]

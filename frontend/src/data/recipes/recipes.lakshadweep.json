@@ -1,0 +1,829 @@
+[
+  {
+    "id": "lakshadweep-breakfast-farata",
+    "title": "Farata with Rairiha (Fish Curry)",
+    "state": "Lakshadweep",
+    "mealType": "Breakfast",
+    "diet": "Non-Vegetarian",
+    "time": "Prep: 20 minutes | Cook: 25 minutes",
+    "servings": 4,
+    "heroImage": "./assets/images/farata.png",
+    "description": "A traditional Minicoy breakfast of rectangular maida parathas, pan-cooked until golden-brown, served with Rairiha - a fiery red fish curry made with coconut milk, garlic, onions, and chilli powder .",
+    "steps": [
+      "Knead flour with water and a little ghee into a soft dough.",
+      "Roll into rectangular parathas and cook on a hot pan until golden-brown on both sides.",
+      "Prepare Rairiha: Cook fish with coconut milk, onion, garlic, curry leaves, and chilli powder into a spicy curry.",
+      "Serve hot faratas with the fish curry."
+    ],
+    "fullIngredients": [
+      {
+        "name": "2 cups all-purpose flour (maida)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Ghee for cooking",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Fresh fish (tuna)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Coconut milk",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Onion, garlic, curry leaves",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Red chilli powder, salt",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tip": "Rairiha does not use kokum or tamarind - coconut milk provides the body .",
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Rairiha does not use kokum or tamarind - coconut milk provides the body ."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "A popular breakfast combo in Minicoy Island."
+      }
+    ]
+  },
+  {
+    "id": "lakshadweep-breakfast-kilanji",
+    "title": "Kilanji",
+    "state": "Lakshadweep",
+    "mealType": "Breakfast",
+    "diet": "Eggetarian",
+    "time": "Prep: 15 minutes + soaking | Cook: 20 minutes",
+    "servings": 4,
+    "heroImage": "./assets/images/kilanji.png",
+    "description": "An ultra-thin rice and egg-based crepe paired with a sweet coconut, banana, and jaggery/sugar concoction. A staple at festivities and special gatherings across Lakshadweep .",
+    "steps": [
+      "Soak rice for a few hours, then blend with eggs into a smooth batter .",
+      "Strain the batter to ensure a smooth consistency.",
+      "Heat a greased pan and pour a thin layer of batter, swirling to cover the pan .",
+      "Cook until edges lift, then fold like a crepe or dosa.",
+      "Prepare the sauce by mixing coconut milk, sugar/jaggery, and chopped banana .",
+      "Top the crepes with the sweet sauce and serve."
+    ],
+    "fullIngredients": [
+      {
+        "name": "1 cup rice (soaked)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "2 eggs",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Oil or ghee for cooking",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Coconut milk",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Sugar or jaggery",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "1 ripe banana",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tip": "Described as 'island simplicity at its finest' - light, creamy, and comforting .",
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Described as 'island simplicity at its finest' - light, creamy, and comforting ."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Often served during weddings and festive gatherings ."
+      }
+    ]
+  },
+  {
+    "id": "lakshadweep-breakfast-kiraliappam",
+    "title": "Kiraliappam with Rairiha",
+    "state": "Lakshadweep",
+    "mealType": "Breakfast",
+    "diet": "Non-Vegetarian",
+    "time": "Prep: 20 minutes | Cook: 20 minutes",
+    "servings": 4,
+    "heroImage": "./assets/images/kiraliappam.png",
+    "description": "A popular Minicoy breakfast item - rice-flour pancakes dipped in coconut milk, served with Rairiha (spicy fish curry) .",
+    "steps": [
+      "Make a smooth batter with rice flour and water.",
+      "Cook thin pancakes on a hot tawa.",
+      "Prepare Rairiha fish curry with coconut milk, onion, garlic, and spices.",
+      "Serve the pancakes with the curry for dipping."
+    ],
+    "fullIngredients": [
+      {
+        "name": "1.5 cups rice flour",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Coconut milk",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Fresh fish (tuna)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Onion, garlic, curry leaves",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Red chilli powder, salt",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tip": "The rice-flour pancakes are often dipped in coconut milk before eating .",
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "The rice-flour pancakes are often dipped in coconut milk before eating ."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "A traditional breakfast in Minicoy Island."
+      }
+    ]
+  },
+  {
+    "id": "lakshadweep-lunch-mus-kavaab",
+    "title": "Mus Kavaab (Tuna Curry)",
+    "state": "Lakshadweep",
+    "mealType": "Lunch",
+    "diet": "Non-Vegetarian",
+    "time": "Prep: 20 minutes | Cook: 25 minutes",
+    "servings": 4,
+    "heroImage": "./assets/images/mus_kavaab.png",
+    "description": "A signature Minicoy dish - boneless tuna marinated in coconut, turmeric, chilli powder, coriander powder, cardamom, and cloves, then cooked with onions, tomatoes, and curry leaves .",
+    "steps": [
+      "Grind coconut with spice powders, cardamom, and cloves into a fine paste .",
+      "Sauté onions and tomatoes with curry leaves until soft.",
+      "Add the masala paste and water, bring to a boil.",
+      "Add fish chunks and simmer for about 10 minutes until cooked .",
+      "Serve hot with steamed rice."
+    ],
+    "fullIngredients": [
+      {
+        "name": "500 g boneless tuna (mus)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "1 cup grated coconut",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Turmeric powder, red chilli powder, coriander powder",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Cardamom, cloves",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Onion, tomato, curry leaves",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Salt, oil",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tip": "'Mus' means fish and 'kavab' translates to curry .",
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "'Mus' means fish and 'kavab' translates to curry ."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Best paired with steamed rice for a classic meal ."
+      }
+    ]
+  },
+  {
+    "id": "lakshadweep-lunch-maasu-podichath",
+    "title": "Maasu Podichath (Dried Tuna Mix)",
+    "state": "Lakshadweep",
+    "mealType": "Lunch",
+    "diet": "Non-Vegetarian",
+    "time": "Prep: 15 minutes | Cook: 0 minutes",
+    "servings": 4,
+    "heroImage": "./assets/images/maasu_podichath.png",
+    "description": "A traditional Lakshadweep dish where dried tuna (maasu) is ground into fine pieces and mixed with grated coconut, onion, garlic, turmeric, and chilli powder. Served as a side dish with rice or chapathi .",
+    "steps": [
+      "Cut the dried tuna into small pieces.",
+      "Grind the pieces until fine .",
+      "Transfer to a bowl and add all other ingredients .",
+      "Mix well by hand.",
+      "Serve with chapathi, pooris, or plain rice ."
+    ],
+    "fullIngredients": [
+      {
+        "name": "1 piece dried tuna (maasu)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "1/2 cup grated coconut",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "1 onion (finely chopped)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "1 tsp chopped ginger-garlic",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Turmeric powder",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "1 tsp chilli powder",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Salt to taste",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tip": "A versatile dish that goes well with chapathi, pooris, or plain rice .",
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "A versatile dish that goes well with chapathi, pooris, or plain rice ."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Dried tuna is a specialty of the Lakshadweep islands ."
+      }
+    ]
+  },
+  {
+    "id": "lakshadweep-lunch-mas-huni",
+    "title": "Mas Huni",
+    "state": "Lakshadweep",
+    "mealType": "Lunch",
+    "diet": "Non-Vegetarian",
+    "time": "Prep: 15 minutes | Cook: 10 minutes",
+    "servings": 3,
+    "heroImage": "./assets/images/mas_huni.png",
+    "description": "A Maldivian-inspired dish popular in Minicoy - finely chopped tuna mixed with grated coconut, onions, and green chilli. Typically eaten with Malabar Parotta or steamed rice .",
+    "steps": [
+      "Cook tuna and flake it finely.",
+      "Mix with grated coconut, onion, green chilli, and salt.",
+      "Add a squeeze of lime juice.",
+      "Serve with Malabar Parotta or steamed rice."
+    ],
+    "fullIngredients": [
+      {
+        "name": "200 g cooked tuna (finely chopped)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "1/2 cup grated coconut",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "1 onion (finely chopped)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Green chilli to taste",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Salt, lime juice",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tip": "Popular in Minicoy due to its proximity to Maldives .",
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Popular in Minicoy due to its proximity to Maldives ."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "A light, fresh-tasting dish perfect for lunch."
+      }
+    ]
+  },
+  {
+    "id": "lakshadweep-lunch-sannath",
+    "title": "Sannath (Slow-Cooked Tuna Curry)",
+    "state": "Lakshadweep",
+    "mealType": "Lunch",
+    "diet": "Non-Vegetarian",
+    "time": "Prep: 20 minutes | Cook: 30 minutes",
+    "servings": 4,
+    "heroImage": "./assets/images/sannath.png",
+    "description": "A thick semi-fish gravy made with a masala of ground vegetables and ajwain, featuring slowly simmered tuna in coconut curry. Often garnished with lemon juice and green chillies .",
+    "steps": [
+      "Prepare a masala paste with ground vegetables and ajwain.",
+      "Slowly simmer tuna in coconut milk with the masala paste.",
+      "Cook until the gravy thickens.",
+      "Garnish with lemon juice and green chillies before serving ."
+    ],
+    "fullIngredients": [
+      {
+        "name": "500 g tuna",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Coconut milk",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Ground vegetable masala (onion, tomato, etc.)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Ajwain (carom seeds)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Green chilli, lemon juice",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Salt",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tip": "A thick, flavourful tuna curry unique to Minicoy cuisine.",
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "A thick, flavourful tuna curry unique to Minicoy cuisine."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Best paired with Kirufoli (rice-flour crepe) ."
+      }
+    ]
+  },
+  {
+    "id": "lakshadweep-lunch-vegetable-kurma",
+    "title": "Vegetable Kurma",
+    "state": "Lakshadweep",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "time": "Prep: 15 minutes | Cook: 20 minutes",
+    "servings": 4,
+    "heroImage": "./assets/images/vegetable_kurma.png",
+    "description": "Mixed vegetables cooked in a creamy coconut-based curry, influenced by Malabari cuisine and often served with chapati or rice .",
+    "steps": [
+      "Sauté onion, garlic, ginger, and green chilli in oil.",
+      "Add vegetables and cook for a few minutes.",
+      "Add coconut milk and spices, simmer until vegetables are tender.",
+      "Garnish with curry leaves and serve with rice or chapati."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Mixed vegetables (carrots, beans, peas, cauliflower)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Coconut milk",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Onion, garlic, ginger",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Green chilli, curry leaves",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Spices (coriander, turmeric, garam masala)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Salt, oil",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tip": "A popular vegetarian option influenced by Kerala's Malabar cuisine .",
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "A popular vegetarian option influenced by Kerala's Malabar cuisine ."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Coconut milk gives the curry its creamy texture."
+      }
+    ]
+  },
+  {
+    "id": "lakshadweep-dinner-octopus-fry",
+    "title": "Octopus Fry",
+    "state": "Lakshadweep",
+    "mealType": "Dinner",
+    "diet": "Non-Vegetarian",
+    "time": "Prep: 20 minutes + marination | Cook: 20 minutes",
+    "servings": 4,
+    "heroImage": "./assets/images/octopus_fry.png",
+    "description": "A Lakshadweep specialty - tender octopus pieces marinated with local spices, pepper, and curry leaves, then deep-fried or shallow-fried until crispy .",
+    "steps": [
+      "Clean and cut octopus into bite-sized pieces.",
+      "Marinate with chilli powder, turmeric, pepper, ginger-garlic, and salt for 30 minutes.",
+      "Heat oil and shallow-fry until golden and crisp .",
+      "Garnish with curry leaves and serve hot."
+    ],
+    "fullIngredients": [
+      {
+        "name": "500 g octopus (cleaned)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Red chilli powder, turmeric",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Black pepper, curry leaves",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Ginger-garlic paste",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Salt, oil for frying",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tip": "A rare treat in most of India - a unique Lakshadweep delicacy .",
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "A rare treat in most of India - a unique Lakshadweep delicacy ."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Can be pan-fried for a healthier version."
+      }
+    ]
+  },
+  {
+    "id": "lakshadweep-dinner-garudiya",
+    "title": "Garudiya (Full Meal Platter)",
+    "state": "Lakshadweep",
+    "mealType": "Dinner",
+    "diet": "Non-Vegetarian",
+    "time": "Prep: 30 minutes | Cook: 40 minutes",
+    "servings": 4,
+    "heroImage": "./assets/images/garudiya.png",
+    "description": "A complete Minicoy meal platter including clear tuna soup (Garudiya), Rihakuru fish sauce, Lonumirus (salty chilli-garlic paste), Mas-huni chutney, and rice .",
+    "steps": [
+      "Prepare clear tuna soup (Garudiya) by simmering tuna with spices.",
+      "Serve with rice, Rihakuru sauce, Lonumirus paste, and Mas-huni chutney .",
+      "The meal is traditionally eaten as a complete platter."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Tuna (for soup)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Rice",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Rihakuru (fermented fish sauce)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Lonumirus (chilli-garlic paste)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Mas-huni (dry fish-coconut chutney)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Salt, lime",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tip": "Rihakuru is a traditional fish sauce made by cooking fish in sea water for a week - it can stay for years without preservatives .",
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Rihakuru is a traditional fish sauce made by cooking fish in sea water for a week - it can stay for years without preservatives ."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "A traditional meal showcasing Minicoy's distinct culinary heritage."
+      }
+    ]
+  },
+  {
+    "id": "lakshadweep-dinner-thalassery-biryani-seafood",
+    "title": "Thalassery Seafood Biryani",
+    "state": "Lakshadweep",
+    "mealType": "Dinner",
+    "diet": "Non-Vegetarian",
+    "time": "Prep: 25 minutes | Cook: 45 minutes",
+    "servings": 6,
+    "heroImage": "./assets/images/thalassery_biryani.png",
+    "description": "A fragrant Kerala-style biryani adapted to Lakshadweep's coastal taste - made with seafood (fish or prawns) and chicken, cooked with coconut milk and local spices .",
+    "steps": [
+      "Partially cook rice with whole spices.",
+      "Prepare a masala gravy with onion, ginger-garlic, and seafood/chicken.",
+      "Layer rice and meat gravy in a pot, add coconut milk and saffron.",
+      "Seal and cook on dum until done.",
+      "Serve with raita."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Basmati rice",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Fish or prawns or chicken",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Coconut milk",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Onion, ginger-garlic",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Biryani spices (cardamom, cloves, cinnamon)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Mint, coriander, saffron",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Ghee, salt",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tip": "A coastal twist on the beloved biryani - coconut, coriander, and saffron give it a special flavour .",
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "A coastal twist on the beloved biryani - coconut, coriander, and saffron give it a special flavour ."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Kavaratti Biryani is a local version with local spices ."
+      }
+    ]
+  },
+  {
+    "id": "lakshadweep-snacks-batla-appam",
+    "title": "Batla Appam",
+    "state": "Lakshadweep",
+    "mealType": "Snacks",
+    "diet": "Eggetarian",
+    "time": "Prep: 20 minutes | Cook: 15 minutes",
+    "servings": 6,
+    "heroImage": "./assets/images/batla_appam.png",
+    "description": "A sweet Androth Island delicacy resembling Southern Indian idlis but distinct in preparation - made with eggs, flour, sugar, and cardamom, steamed and served during festivities .",
+    "steps": [
+      "Mix flour, eggs, sugar, cardamom, and salt into a smooth batter.",
+      "Pour into greased moulds (like idli moulds).",
+      "Steam for 12-15 minutes until cooked through .",
+      "Serve warm as a festive sweet."
+    ],
+    "fullIngredients": [
+      {
+        "name": "2 cups flour",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "3-4 eggs",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Sugar",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Cardamom powder",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Pinch of salt",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tip": "A festive favourite on Androth Island .",
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "A festive favourite on Androth Island ."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Similar to idlis but sweeter and made with eggs."
+      }
+    ]
+  },
+  {
+    "id": "lakshadweep-snacks-kadalakka",
+    "title": "Kadalakka (Bengal Gram Cake)",
+    "state": "Lakshadweep",
+    "mealType": "Snacks",
+    "diet": "Eggetarian",
+    "time": "Prep: 20 minutes + soaking | Cook: 25 minutes",
+    "servings": 8,
+    "heroImage": "./assets/images/kadalakka.png",
+    "description": "A classic local dessert - a moist, wholesome cake made with chana dal (Bengal gram), eggs, cashews, and raisins. Also known as kadalakka pola or kadala pathil .",
+    "steps": [
+      "Grind soaked chana dal into a fine paste.",
+      "Mix with eggs, sugar, cardamom, and nuts.",
+      "Pour into a greased pan and steam or pressure-cook until set .",
+      "Cool and cut into pieces."
+    ],
+    "fullIngredients": [
+      {
+        "name": "1 cup chana dal (soaked)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "3-4 eggs",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Sugar or jaggery",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Cashews, raisins",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Cardamom powder",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Ghee",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tip": "Often prepared in a pressure cooker for the perfect texture .",
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Often prepared in a pressure cooker for the perfect texture ."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "A nutritious sweet with generous amounts of cashews and raisins ."
+      }
+    ]
+  },
+  {
+    "id": "lakshadweep-snacks-coconut-halwa",
+    "title": "Lakshadweep Coconut Halwa (Aluva / Dweep Unda)",
+    "state": "Lakshadweep",
+    "mealType": "Snacks",
+    "diet": "Vegetarian",
+    "time": "Prep: 30 minutes | Cook: 40 minutes",
+    "servings": 15,
+    "heroImage": "./assets/images/coconut_halwa.png",
+    "description": "A traditional Lakshadweep halwa made from grated coconut, coconut water, and katti (local jaggery). Often packaged in dried banana leaves for long shelf life - historically carried by Haj pilgrims for 45-60 day sea journeys .",
+    "steps": [
+      "Grate coconut kernels manually using traditional graters .",
+      "Melt katti (jaggery) in a pan - can be diluted with coconut water for enhanced taste .",
+      "Heat the mixture until it reaches one-string consistency.",
+      "Add coconut gratings and mix until uniformly coated .",
+      "Stir continuously under low flame until the mixture adheres to the ladle without sticking to the vessel .",
+      "Shape into balls while still hot.",
+      "Package in dried banana leaves, tied with banana leaf fibre ."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Fresh grated coconut (from 12-20 slightly immature coconuts)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Coconut water",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Katti (local jaggery/coconut sap sugar)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Fresh coconut petiole for stirring (traditional)",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tip": "Traditional ladle is made from fresh coconut petiole - believed to make stirring easier .",
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Traditional ladle is made from fresh coconut petiole - believed to make stirring easier ."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Long shelf life - can stay fresh for months due to low moisture content (9-13%) ."
+      }
+    ]
+  }
+]

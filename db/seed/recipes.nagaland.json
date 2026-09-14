@@ -1,0 +1,402 @@
+[
+  {
+    "_id": "nagaland-breakfast-galho-smoked-pork",
+    "title": "Galho with Smoked Pork",
+    "state": "Nagaland",
+    "mealType": "Breakfast",
+    "diet": "Non-Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains pork - not consumed by Jains.",
+    "image": "galho.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "40 mins",
+    "servings": "4 Servings",
+    "ingredients": [
+      { "name": "Rice", "qty": "1.5 cups" },
+      { "name": "Smoked pork", "qty": "200–300 g" },
+      { "name": "Local greens, ginger, chilli, salt", "qty": "to taste" }
+    ],
+    "recipe": [
+      "Cook rice with smoked pork, local greens, ginger and chilli, adding enough water for a porridge-like consistency.",
+      "Simmer till everything is soft and the flavours meld.",
+      "Serve hot – a comforting one-pot meal popular among Angami and other tribes."
+    ],
+    "tips": [
+      "Naga-style khichdi/porridge with smoked pork.",
+      "Smoked meat gives the classic flavour."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "nagaland-breakfast-galho-vegetable",
+    "title": "Galho with Vegetables",
+    "state": "Nagaland",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains onion and garlic - not consumed by Jains. For Jain version, omit onion-garlic.",
+    "image": "galho.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "35 mins",
+    "servings": "4 Servings",
+    "ingredients": [
+      { "name": "Rice", "qty": "1.5 cups" },
+      { "name": "Mixed vegetables, local greens", "qty": "as available" },
+      { "name": "Onion, garlic, ginger, chilli, salt", "qty": "to taste" }
+    ],
+    "recipe": [
+      "Cook rice with mixed vegetables, local greens, onion, garlic, ginger and chilli, adding enough water for a porridge-like consistency.",
+      "Simmer till everything is soft and the flavours meld.",
+      "Serve hot – a comforting one-pot meal."
+    ],
+    "tips": [
+      "Vegetarian version of the Naga-style khichdi/porridge.",
+      "Hearty and nourishing."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "nagaland-breakfast-rice-boiled-vegetables",
+    "title": "Steamed Rice with Boiled Vegetables & Chutney",
+    "state": "Nagaland",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains fermented bamboo shoot chutney - may contain onion/garlic depending on preparation. Verify chutney ingredients for Jain compliance.",
+    "image": "naga_rice_vegetables.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "30 mins",
+    "servings": "3 Servings",
+    "ingredients": [
+      { "name": "Rice", "qty": "1.5 cups" },
+      { "name": "Seasonal local greens and vegetables", "qty": "as available" },
+      { "name": "Naga chilli or king chilli chutney, salt", "qty": "to taste" }
+    ],
+    "recipe": [
+      "Steam or boil rice. Separately boil or steam seasonal greens and vegetables with minimal seasoning.",
+      "Serve with a fiery Naga chilli or fermented bamboo-shoot chutney.",
+      "A simple, everyday start to the day."
+    ],
+    "tips": [
+      "Many Naga households begin the day with plain rice, boiled vegetables and a strong chutney.",
+      "Fermented or fresh chilli chutneys are essential."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "nagaland-lunch-smoked-pork-bamboo-shoot",
+    "title": "Smoked Pork with Bamboo Shoot",
+    "state": "Nagaland",
+    "mealType": "Lunch",
+    "diet": "Non-Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains pork - not consumed by Jains.",
+    "image": "smoked_pork_bamboo.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "60 mins",
+    "servings": "4 Servings",
+    "ingredients": [
+      { "name": "Smoked pork", "qty": "500–700 g" },
+      { "name": "Fermented or fresh bamboo shoot", "qty": "1–1.5 cups" },
+      { "name": "Green chilli, ginger, salt", "qty": "to taste" }
+    ],
+    "recipe": [
+      "Boil or simmer the smoked pork until tender. Add fermented or fresh bamboo shoot, chilli and ginger.",
+      "Cook till the flavours blend and the gravy is well reduced.",
+      "Serve with steamed rice – one of the most iconic Naga dishes."
+    ],
+    "tips": [
+      "The smokiness of the pork and the tang of bamboo shoot define the dish.",
+      "Minimal spices; the ingredients speak for themselves."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "nagaland-lunch-smoked-pork-axone",
+    "title": "Smoked Pork with Axone (Akhuni)",
+    "state": "Nagaland",
+    "mealType": "Lunch",
+    "diet": "Non-Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains pork - not consumed by Jains.",
+    "image": "smoked_pork_axone.png",
+    "wikipediaImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Naga_Smoked_Pork_with_Axone_(Fermented_Soyabeans).jpg",
+    "imageSource": "wikimedia_commons_verified",
+    "time": "50 mins",
+    "servings": "4 Servings",
+    "ingredients": [
+      { "name": "Smoked pork", "qty": "500 g" },
+      { "name": "Axone (fermented soybean)", "qty": "2–3 tbsp" },
+      { "name": "Green chilli, ginger, salt", "qty": "to taste" }
+    ],
+    "recipe": [
+      "Cook smoked pork with a little water till tender. Add mashed axone, chilli and ginger.",
+      "Simmer until the pungent, umami-rich gravy coats the meat.",
+      "Serve with rice – a Sümi Naga speciality now loved across the state."
+    ],
+    "tips": [
+      "Axone is intensely aromatic (and polarising for newcomers) but deeply flavourful.",
+      "Use sparingly at first if unfamiliar."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "nagaland-lunch-anishi-pork",
+    "title": "Pork with Anishi",
+    "state": "Nagaland",
+    "mealType": "Lunch",
+    "diet": "Non-Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains pork - not consumed by Jains.",
+    "image": "anishi_pork.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "55 mins",
+    "servings": "4 Servings",
+    "ingredients": [
+      { "name": "Pork (fresh or smoked)", "qty": "500 g" },
+      { "name": "Anishi (fermented & smoked taro leaf patties)", "qty": "as needed" },
+      { "name": "Chilli, salt", "qty": "to taste" }
+    ],
+    "recipe": [
+      "Cook pork till tender. Crumble or break the anishi patties into the pot.",
+      "Simmer so the dark, earthy anishi forms a thick gravy with the pork.",
+      "Serve with rice – an Ao Naga classic."
+    ],
+    "tips": [
+      "Anishi is made by fermenting and smoking taro leaves into dense, coal-like patties.",
+      "Gives a unique dark colour and deep flavour."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "nagaland-dinner-axone-chicken",
+    "title": "Chicken with Axone",
+    "state": "Nagaland",
+    "mealType": "Dinner",
+    "diet": "Non-Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains chicken - not consumed by Jains.",
+    "image": "axone_chicken.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "45 mins",
+    "servings": "4 Servings",
+    "ingredients": [
+      { "name": "Chicken", "qty": "750 g" },
+      { "name": "Axone (fermented soybean)", "qty": "2 tbsp" },
+      { "name": "Ginger, garlic, green chilli, salt", "qty": "to taste" }
+    ],
+    "recipe": [
+      "Cook chicken with ginger, garlic and chilli. Add axone and a little water.",
+      "Simmer till the chicken is tender and the gravy is rich and aromatic.",
+      "Serve with rice."
+    ],
+    "tips": [
+      "A lighter alternative to pork-axone combinations.",
+      "Still carries the signature fermented soybean punch."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "nagaland-dinner-fish-bamboo-shoot",
+    "title": "Fish with Bamboo Shoot",
+    "state": "Nagaland",
+    "mealType": "Dinner",
+    "diet": "Non-Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains fish - not consumed by Jains.",
+    "image": "fish_bamboo_shoot.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "35 mins",
+    "servings": "3 Servings",
+    "ingredients": [
+      { "name": "Fresh or smoked fish", "qty": "500 g" },
+      { "name": "Fermented or fresh bamboo shoot", "qty": "1 cup" },
+      { "name": "Green chilli, ginger, salt", "qty": "to taste" }
+    ],
+    "recipe": [
+      "Cook the fish gently with bamboo shoot, chilli and ginger.",
+      "Simmer till the fish is done and the flavours have blended.",
+      "Serve with rice – common in riverine and many tribal households."
+    ],
+    "tips": [
+      "Bamboo shoot pairs especially well with fish.",
+      "Can also be cooked inside bamboo tubes for a traditional smoked version."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "nagaland-snacks-boiled-yam",
+    "title": "Boiled Yam",
+    "state": "Nagaland",
+    "mealType": "Snacks",
+    "diet": "Vegan",
+    "jainFriendly": false,
+    "jainNotes": "Contains yam (root vegetable) - not consumed by Jains.",
+    "image": "boiled_yam.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "25 mins",
+    "servings": "2–3 Servings",
+    "ingredients": [
+      { "name": "Yam", "qty": "as needed" },
+      { "name": "Salt", "qty": "to taste" }
+    ],
+    "recipe": [
+      "Boil or steam yam until soft.",
+      "Peel and eat with a sprinkle of salt or a side of chilli chutney.",
+      "A simple, filling snack or light meal."
+    ],
+    "tips": [
+      "Common everyday snack across many Naga tribes.",
+      "Often eaten with tea."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "nagaland-snacks-boiled-sweet-potato",
+    "title": "Boiled Sweet Potato",
+    "state": "Nagaland",
+    "mealType": "Snacks",
+    "diet": "Vegan",
+    "jainFriendly": false,
+    "jainNotes": "Contains sweet potato (root vegetable) - not consumed by Jains.",
+    "image": "boiled_yam.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "25 mins",
+    "servings": "2–3 Servings",
+    "ingredients": [
+      { "name": "Sweet potato", "qty": "as needed" },
+      { "name": "Salt", "qty": "to taste" }
+    ],
+    "recipe": [
+      "Boil or steam sweet potato until soft.",
+      "Peel and eat with a sprinkle of salt or a side of chilli chutney.",
+      "A simple, filling snack or light meal."
+    ],
+    "tips": [
+      "Common everyday snack across many Naga tribes.",
+      "Often eaten with tea."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "nagaland-snacks-roasted-naga-dal",
+    "title": "Roasted Naga Dal",
+    "state": "Nagaland",
+    "mealType": "Snacks",
+    "diet": "Vegan",
+    "jainFriendly": true,
+    "jainNotes": "Ingredients are Jain-compatible (roasted dal, salt). No onion, garlic, or root vegetables.",
+    "image": "roasted_naga_dal.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "15 mins",
+    "servings": "2 Servings",
+    "ingredients": [
+      { "name": "Local Naga dal / dried beans", "qty": "1 cup" },
+      { "name": "Salt water", "qty": "as needed" }
+    ],
+    "recipe": [
+      "Dry-roast the dal in a pan until aromatic and slightly browned.",
+      "Sprinkle with salt water and stir till the water is absorbed.",
+      "Eat as a crunchy, protein-rich snack."
+    ],
+    "tips": [
+      "Simple roasted bean snack popular in several communities.",
+      "Portable and long-lasting."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "nagaland-lunch-akibiye",
+    "title": "Akibiye",
+    "state": "Nagaland",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains colocasia (arbi) - a root vegetable not consumed by Jains.",
+    "image": "akibiye.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "40 mins",
+    "servings": "3 Servings",
+    "ingredients": [
+      { "name": "Colocasia (arbi) + bamboo shoot", "qty": "as needed" },
+      { "name": "Local vegetables, chilli, salt", "qty": "to taste" }
+    ],
+    "recipe": [
+      "Cook colocasia and bamboo shoot with other available vegetables into a thick gravy.",
+      "Season simply with chilli and salt.",
+      "Serve with rice – a Sümi Naga mixed-vegetable preparation."
+    ],
+    "tips": [
+      "Hearty vegetarian option using local tubers and bamboo shoot.",
+      "Thick, comforting consistency."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "nagaland-dinner-hinkeju",
+    "title": "Hinkeju (Mixed Boiled Vegetables)",
+    "state": "Nagaland",
+    "mealType": "Dinner",
+    "diet": "Vegan",
+    "jainFriendly": true,
+    "jainNotes": "Ingredients appear Jain-compatible (seasonal greens, beans, pumpkin, salt). No onion, garlic, or root vegetables. Verify chutney/side accompaniments.",
+    "image": "hinkeju.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "30 mins",
+    "servings": "3 Servings",
+    "ingredients": [
+      { "name": "Seasonal local greens, beans, pumpkin, etc.", "qty": "as available" },
+      { "name": "Salt, optional chilli", "qty": "to taste" }
+    ],
+    "recipe": [
+      "Boil or steam a mixture of available seasonal vegetables and greens with minimal seasoning.",
+      "Serve as a simple side with rice and a meat dish or chutney.",
+      "Everyday vegetable component of a Naga meal."
+    ],
+    "tips": [
+      "Naga meals almost always include boiled or steamed vegetables alongside meat and rice.",
+      "Freshness of the produce is key."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "nagaland-snacks-sticky-rice",
+    "title": "Sticky Rice / Ashetsang",
+    "state": "Nagaland",
+    "mealType": "Snacks",
+    "diet": "Vegan",
+    "jainFriendly": true,
+    "jainNotes": "Ingredients are Jain-compatible (sticky rice, optional salt/sugar). No onion, garlic, or root vegetables.",
+    "image": "sticky_rice.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "30 mins",
+    "servings": "3 Servings",
+    "ingredients": [
+      { "name": "Sticky / glutinous rice", "qty": "1.5 cups" },
+      { "name": "Salt or sugar (optional)", "qty": "to taste" }
+    ],
+    "recipe": [
+      "Soak and steam sticky rice until soft and translucent.",
+      "Eat plain, lightly salted, or slightly sweetened as a snack or side.",
+      "Common across many Naga communities."
+    ],
+    "tips": [
+      "Simple steamed sticky rice – versatile as snack or accompaniment.",
+      "Often carried for journeys or field work."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  }
+]

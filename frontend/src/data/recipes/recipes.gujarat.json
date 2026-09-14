@@ -1,0 +1,732 @@
+[
+  {
+    "id": "gujarat-breakfast-khaman-dhokla",
+    "title": "Khaman Dhokla",
+    "state": "Gujarat",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "time": "30 mins",
+    "servings": "4 Servings",
+    "heroImage": "./assets/images/khaman_dhokla.png",
+    "steps": [
+      "Mix besan with yogurt/water, turmeric, sugar, salt and chilli-ginger paste into a smooth batter. Just before steaming, add Eno and mix gently.",
+      "Pour into a greased steaming tray and steam for 12–15 minutes till a toothpick comes out clean. Cool slightly and cut into squares.",
+      "Temper mustard, sesame, curry leaves and green chillies in oil. Pour over the dhokla. Garnish with coconut and coriander.",
+      "Serve with green chutney and sweet tamarind chutney."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Besan (gram flour)",
+        "qty": "1.5 cups",
+        "checked": true
+      },
+      {
+        "name": "Yogurt or lemon juice + water",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Eno / fruit salt or baking soda",
+        "qty": "1 tsp",
+        "checked": true
+      },
+      {
+        "name": "Turmeric, sugar, salt, green chilli-ginger paste",
+        "qty": "to taste",
+        "checked": true
+      },
+      {
+        "name": "Mustard seeds, sesame, curry leaves, green chillies, grated coconut, coriander",
+        "qty": "for tempering",
+        "checked": true
+      },
+      {
+        "name": "Oil",
+        "qty": "as needed",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Soft, spongy texture comes from the leavening and proper steaming."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "A quintessential Gujarati breakfast and farsan."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "gujarat-breakfast-methi-thepla",
+    "title": "Methi Thepla",
+    "state": "Gujarat",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "time": "35 mins",
+    "servings": "10–12 pieces",
+    "heroImage": "./assets/images/methi_thepla.png",
+    "steps": [
+      "Mix flour, chopped methi, spices, salt, yogurt and a little oil. Knead into a soft dough. Rest 15 minutes.",
+      "Divide into balls, roll into thin theplas.",
+      "Cook on a hot tawa with a little oil/ghee on both sides till golden spots appear.",
+      "Serve with yogurt, pickle or chunda."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Whole wheat flour",
+        "qty": "2 cups",
+        "checked": true
+      },
+      {
+        "name": "Fresh methi (fenugreek) leaves",
+        "qty": "1 cup chopped",
+        "checked": true
+      },
+      {
+        "name": "Yogurt, turmeric, red chilli powder, cumin, coriander powder, ajwain",
+        "qty": "to taste",
+        "checked": true
+      },
+      {
+        "name": "Oil or ghee",
+        "qty": "for dough and roasting",
+        "checked": true
+      },
+      {
+        "name": "Salt",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Excellent travel food – stays soft for days."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Methi gives a distinctive slightly bitter, aromatic flavour."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "gujarat-breakfast-fafda",
+    "title": "Fafda",
+    "state": "Gujarat",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "time": "40 mins",
+    "servings": "15–20 pieces",
+    "heroImage": "./assets/images/fafda.png",
+    "steps": [
+      "Mix besan with ajwain, pepper, salt, turmeric and oil. Add water gradually to form a stiff dough.",
+      "Take small portions, press and drag on a wooden board or marble with the palm to form long thin strips (or use a press).",
+      "Deep-fry in medium-hot oil till crisp and light golden.",
+      "Serve hot with fried green chillies, raw papaya chutney and often with jalebi."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Besan (gram flour)",
+        "qty": "2 cups",
+        "checked": true
+      },
+      {
+        "name": "Ajwain, black pepper, salt, turmeric",
+        "qty": "to taste",
+        "checked": true
+      },
+      {
+        "name": "Oil or ghee for dough",
+        "qty": "2 tbsp",
+        "checked": true
+      },
+      {
+        "name": "Oil for deep frying",
+        "qty": "as needed",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Classic Gujarati Sunday breakfast combo is fafda-jalebi."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Crispness depends on dough stiffness and oil temperature."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "gujarat-lunch-undhiyu",
+    "title": "Undhiyu",
+    "state": "Gujarat",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "time": "75 mins",
+    "servings": "6 Servings",
+    "heroImage": "./assets/images/undhiyu.png",
+    "steps": [
+      "Prepare a green masala of coconut, coriander, chillies, ginger and spices. Stuff some vegetables (brinjal, potato) with it.",
+      "Layer the vegetables and muthiya in a heavy pot or traditional earthen pot with the remaining masala and a little oil/water.",
+      "Cook covered on low heat (or traditionally upside-down in an earthen pot) till all vegetables are tender and flavours meld.",
+      "Serve hot with puri or rotli, especially during winter and Uttarayan."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Mixed winter vegetables (surti papdi, purple yam, raw banana, brinjal, potato, sweet potato)",
+        "qty": "as available",
+        "checked": true
+      },
+      {
+        "name": "Muthiya (spiced fenugreek or bottle-gourd dumplings)",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Fresh coconut, coriander, green chilli, ginger, garlic (optional)",
+        "qty": "for masala",
+        "checked": true
+      },
+      {
+        "name": "Sesame seeds, spices, oil or ghee",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Salt",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "The name means ‘upside-down’ referring to the traditional cooking method."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "A celebratory winter dish of South Gujarat / Surat style."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "gujarat-lunch-gujarati-kadhi",
+    "title": "Gujarati Kadhi",
+    "state": "Gujarat",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "time": "30 mins",
+    "servings": "4 Servings",
+    "heroImage": "./assets/images/gujarati_kadhi.png",
+    "steps": [
+      "Whisk yogurt with besan, turmeric, salt, sugar/jaggery and water into a smooth mixture. Cook on medium heat, stirring continuously, till it thickens and the raw smell disappears.",
+      "Temper mustard, cumin, dry red chilli, curry leaves, ginger, green chilli and hing in oil/ghee. Pour over the kadhi.",
+      "Simmer a few more minutes. Serve with khichdi, rice or thepla."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Yogurt / curd",
+        "qty": "2 cups",
+        "checked": true
+      },
+      {
+        "name": "Besan (gram flour)",
+        "qty": "2–3 tbsp",
+        "checked": true
+      },
+      {
+        "name": "Ginger, green chilli, curry leaves, mustard, cumin, dry red chilli, asafoetida",
+        "qty": "for tempering",
+        "checked": true
+      },
+      {
+        "name": "Sugar or jaggery, turmeric, salt",
+        "qty": "to taste",
+        "checked": true
+      },
+      {
+        "name": "Oil or ghee",
+        "qty": "as needed",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Distinctively sweet-sour and thinner than Punjabi kadhi."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "A daily staple in Gujarati homes."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "gujarat-lunch-dal-dhokli",
+    "title": "Dal Dhokli",
+    "state": "Gujarat",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "time": "45 mins",
+    "servings": "4 Servings",
+    "heroImage": "./assets/images/dal_dhokli.png",
+    "steps": [
+      "Pressure-cook toor dal with turmeric. Prepare a dough of wheat flour with spices and a little oil; roll thin and cut into diamond or square pieces (dhokli).",
+      "Bring the dal to a boil with water, spices, jaggery, tamarind/kokum and peanuts. Drop the dhokli pieces in and cook till they are soft and the dal thickens.",
+      "Temper mustard, cumin, curry leaves and hing. Pour over the dal dhokli.",
+      "Serve hot as a one-pot meal."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Toor dal",
+        "qty": "1 cup",
+        "checked": true
+      },
+      {
+        "name": "Whole wheat flour",
+        "qty": "1 cup (for dhokli)",
+        "checked": true
+      },
+      {
+        "name": "Turmeric, red chilli powder, coriander powder, cumin, asafoetida, jaggery, tamarind or kokum",
+        "qty": "to taste",
+        "checked": true
+      },
+      {
+        "name": "Peanuts, curry leaves, mustard, oil or ghee",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Salt",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Comfort food that combines dal and ‘pasta-like’ wheat pieces."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Slightly sweet-tangy flavour is characteristic of Gujarati style."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "gujarat-dinner-khichdi",
+    "title": "Gujarati Khichdi",
+    "state": "Gujarat",
+    "mealType": "Dinner",
+    "diet": "Vegetarian",
+    "time": "30 mins",
+    "servings": "3 Servings",
+    "heroImage": "./assets/images/gujarati_khichdi.png",
+    "steps": [
+      "Wash rice and moong dal. Pressure-cook with turmeric, salt and enough water till soft and porridge-like.",
+      "Temper cumin and hing in ghee and pour over the khichdi. Mix well.",
+      "Serve hot with Gujarati kadhi, papad, pickle and a dollop of ghee."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Rice",
+        "qty": "1 cup",
+        "checked": true
+      },
+      {
+        "name": "Moong dal (split yellow)",
+        "qty": "1/2 cup",
+        "checked": true
+      },
+      {
+        "name": "Turmeric, cumin, asafoetida, ghee",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Salt",
+        "qty": "to taste",
+        "checked": true
+      },
+      {
+        "name": "Optional vegetables or peanuts",
+        "qty": "as desired",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "The ultimate light, comforting Gujarati dinner."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Vaghareli (tempered) or plain versions are both common."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "gujarat-dinner-bajra-rotla",
+    "title": "Bajra Rotla",
+    "state": "Gujarat",
+    "mealType": "Dinner",
+    "diet": "Vegan",
+    "time": "25 mins",
+    "servings": "4 pieces",
+    "heroImage": "./assets/images/bajra_rotla.png",
+    "steps": [
+      "Knead bajra flour with hot water and salt into a soft dough. Divide and pat into thick rotlas with wet hands.",
+      "Cook on a hot tawa on both sides, then finish on open flame for charred spots if possible.",
+      "Serve hot with white butter, jaggery, garlic chutney or any shaak."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Bajra (pearl millet) flour",
+        "qty": "2 cups",
+        "checked": true
+      },
+      {
+        "name": "Hot water and salt",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Ghee or white butter (optional for serving)",
+        "qty": "as needed",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Traditional winter and rural staple, especially in Saurashtra and North Gujarat."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Best eaten fresh as it hardens on cooling."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "gujarat-snacks-khandvi",
+    "title": "Khandvi",
+    "state": "Gujarat",
+    "mealType": "Snacks",
+    "diet": "Vegetarian",
+    "time": "35 mins",
+    "servings": "4 Servings",
+    "heroImage": "./assets/images/khandvi.png",
+    "steps": [
+      "Whisk besan with yogurt-water, turmeric, salt and chilli-ginger into a lump-free batter. Cook on low-medium heat, stirring continuously, till thick and glossy.",
+      "Quickly spread the mixture thinly on a greased plate or marble surface. Cool slightly and cut into strips. Roll each strip tightly.",
+      "Temper mustard, sesame and curry leaves in oil. Pour over the khandvi rolls. Garnish with coconut and coriander.",
+      "Serve with green chutney."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Besan (gram flour)",
+        "qty": "1 cup",
+        "checked": true
+      },
+      {
+        "name": "Yogurt + water",
+        "qty": "2–2.5 cups total",
+        "checked": true
+      },
+      {
+        "name": "Turmeric, ginger-green chilli paste, salt",
+        "qty": "to taste",
+        "checked": true
+      },
+      {
+        "name": "Mustard seeds, sesame, curry leaves, grated coconut, coriander",
+        "qty": "for tempering",
+        "checked": true
+      },
+      {
+        "name": "Oil",
+        "qty": "as needed",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Smooth, thin spreading and quick rolling are the skills to master."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "An elegant, melt-in-the-mouth Gujarati farsan."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "gujarat-snacks-handvo",
+    "title": "Handvo",
+    "state": "Gujarat",
+    "mealType": "Snacks",
+    "diet": "Vegetarian",
+    "time": "60 mins (+ soaking/fermentation)",
+    "servings": "6–8 pieces",
+    "heroImage": "./assets/images/handvo.png",
+    "steps": [
+      "Soak rice and dals, grind with yogurt into a coarse batter. Ferment a few hours. Mix in grated bottle gourd, spices, salt and sugar. Add Eno just before cooking.",
+      "Heat oil in a pan or handvo pot, temper mustard, sesame and curry leaves. Pour the batter, cover and cook on low heat till the bottom is crisp and the top is set. Flip if needed.",
+      "Cut into wedges and serve with green chutney or pickle."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Rice + mixed dals (toor, chana, urad)",
+        "qty": "1.5 cups total",
+        "checked": true
+      },
+      {
+        "name": "Bottle gourd or mixed vegetables, yogurt",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Ginger-green chilli, turmeric, sugar, salt, Eno",
+        "qty": "to taste",
+        "checked": true
+      },
+      {
+        "name": "Mustard, sesame, curry leaves, oil",
+        "qty": "for tempering and cooking",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Crispy exterior and soft, savoury interior."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "A popular tea-time and picnic dish."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "gujarat-snacks-gathiya",
+    "title": "Gathiya",
+    "state": "Gujarat",
+    "mealType": "Snacks",
+    "diet": "Vegetarian",
+    "time": "40 mins",
+    "servings": "many",
+    "heroImage": "./assets/images/gathiya.png",
+    "steps": [
+      "Mix besan with spices, salt and a little oil. Add water to form a soft but pliable dough.",
+      "Using a gathiya press or sev maker with appropriate plate, extrude into hot oil. Fry till crisp and light golden.",
+      "Drain and cool. Store in airtight containers.",
+      "Serve as a tea-time snack or with fafda-jalebi style breakfasts."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Besan (gram flour)",
+        "qty": "2 cups",
+        "checked": true
+      },
+      {
+        "name": "Ajwain, black pepper, salt, turmeric, baking soda (pinch)",
+        "qty": "to taste",
+        "checked": true
+      },
+      {
+        "name": "Oil for dough and deep frying",
+        "qty": "as needed",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Bhavnagri, nylon and vanela are popular regional variations."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Ajwain and pepper give the characteristic flavour."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "gujarat-lunch-ringan-no-olo",
+    "title": "Ringan no Olo (Baingan Bharta style)",
+    "state": "Gujarat",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "time": "40 mins",
+    "servings": "3 Servings",
+    "heroImage": "./assets/images/ringan_no_olo.png",
+    "steps": [
+      "Roast the brinjal over open flame or in oven till the skin chars and the flesh is soft. Peel and mash.",
+      "Temper oil with cumin, add onion, green chilli and garlic if using; cook till soft. Add tomato and spices. Cook till oil separates.",
+      "Add the mashed brinjal, salt and mix well. Cook a few more minutes. Finish with coriander.",
+      "Serve with bajra rotla, rotli or khichdi."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Large brinjal / eggplant",
+        "qty": "2",
+        "checked": true
+      },
+      {
+        "name": "Onion, tomato, green chilli, garlic (optional)",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Coriander powder, cumin, turmeric, red chilli, garam masala",
+        "qty": "to taste",
+        "checked": true
+      },
+      {
+        "name": "Oil or ghee, coriander leaves",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Salt",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "A rustic Kathiyawadi / Saurashtra favourite."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Smoky flavour from open-flame roasting is essential."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "gujarat-breakfast-khakhra",
+    "title": "Khakhra",
+    "state": "Gujarat",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "time": "40 mins",
+    "servings": "10–12 pieces",
+    "heroImage": "./assets/images/khakhra.png",
+    "steps": [
+      "Mix flour with spices, salt and a little oil. Knead into a stiff dough. Rest 15 minutes.",
+      "Roll into very thin rounds. Dry-roast on a tawa on low heat, pressing with a cloth or press, till completely crisp and light brown on both sides.",
+      "Cool and store in airtight containers.",
+      "Serve with pickle, chunda, yogurt or tea."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Whole wheat flour",
+        "qty": "2 cups",
+        "checked": true
+      },
+      {
+        "name": "Oil or ghee, turmeric, red chilli powder, cumin, ajwain, salt",
+        "qty": "to taste",
+        "checked": true
+      },
+      {
+        "name": "Water",
+        "qty": "as needed",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "A healthy, long-lasting crispy flatbread – perfect for travel and breakfast."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Masala and methi versions are popular."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "gujarat-dinner-sev-tomato-shaak",
+    "title": "Sev Tameta nu Shaak",
+    "state": "Gujarat",
+    "mealType": "Dinner",
+    "diet": "Vegetarian",
+    "time": "25 mins",
+    "servings": "3 Servings",
+    "heroImage": "./assets/images/sev_tameta_shaak.png",
+    "steps": [
+      "Temper mustard, cumin, hing and curry leaves in oil. Add chopped tomatoes, turmeric, chilli powder, coriander powder, sugar and salt. Cook till tomatoes soften and turn pulpy.",
+      "Add a little water if needed. Just before serving, mix in the sev so it stays crisp.",
+      "Garnish with coriander. Serve with rotli or khichdi."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Tomatoes",
+        "qty": "4–5",
+        "checked": true
+      },
+      {
+        "name": "Nylon sev or thin sev",
+        "qty": "1–1.5 cups",
+        "checked": true
+      },
+      {
+        "name": "Mustard, cumin, asafoetida, turmeric, red chilli powder, coriander powder, sugar",
+        "qty": "to taste",
+        "checked": true
+      },
+      {
+        "name": "Oil, curry leaves, coriander",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Salt",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "A quick, everyday Gujarati shaak that balances sweet, sour and spicy."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Add sev at the end to retain crunch."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  }
+]

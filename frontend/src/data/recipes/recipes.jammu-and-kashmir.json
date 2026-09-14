@@ -1,0 +1,1481 @@
+[
+  {
+    "id": "jammu-kashmir-breakfast-harissa",
+    "title": "Harissa (Winter Meat Porridge)",
+    "state": "Jammu and Kashmir",
+    "mealType": "Breakfast",
+    "diet": "Non-Vegetarian",
+    "time": "",
+    "servings": 4,
+    "heroImage": "./assets/images/harissa.png",
+    "steps": [
+      "Slow-cook mutton overnight with spices until the meat is extremely tender.",
+      "Cook Kashmiri rice separately until soft.",
+      "Combine the meat and rice, then pound continuously until a smooth paste forms.",
+      "Season with green and black cardamom, cinnamon, and cloves.",
+      "Serve hot topped with smoking hot ghee and local bread."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Mutton (lamb)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Rice (Kashmiri rice preferred)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Green cardamom",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Black cardamom",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Cinnamon",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Cloves",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Ghee for serving",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Kander czot (local bread) for serving",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Best enjoyed early morning during winter months ."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "A plate of harissa costs around INR 600-1,200 depending on the shop ."
+      },
+      {
+        "title": "Tip 3",
+        "desc": "Believed to have Persian origins, introduced to Kashmir via the Silk Route ."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "jammu-kashmir-breakfast-kaladi-kulcha",
+    "title": "Kaladi Kulcha",
+    "state": "Jammu and Kashmir",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "time": "",
+    "servings": 2,
+    "heroImage": "./assets/images/kaladi_kulcha.png",
+    "steps": [
+      "Heat a pan and pan-fry the Kaladi cheese in its own fat until crisp outside and gooey inside.",
+      "Lightly toast the kulchas on the pan.",
+      "Place the fried Kaladi inside the kulcha.",
+      "Top with chopped onions, tomatoes, and both green and red chutneys.",
+      "Serve immediately while hot."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Kaladi cheese (GI-tagged Jammu specialty)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Fresh kulchas or buns",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Onion (finely chopped)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Tomato (finely chopped)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Green chilli",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Coriander leaves",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Green and red chutney",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Kaladi has received the GI tag ."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Often described as the 'mozzarella of Kashmir' for its stretchy, gooey texture ."
+      },
+      {
+        "title": "Tip 3",
+        "desc": "Can be served as a bun (Kaladi Bun) or with kulcha ."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "jammu-kashmir-breakfast-gheur",
+    "title": "Gheur (Crispy Pancake)",
+    "state": "Jammu and Kashmir",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "time": "",
+    "servings": 4,
+    "heroImage": "./assets/images/gheur.png",
+    "steps": [
+      "Prepare a thin batter with maida, salt, ajwain, and water.",
+      "Heat oil in a shallow pan.",
+      "Pour the batter in a lacy, circular pattern (like a crepe/pancake).",
+      "Sprinkle crushed peas and coriander on top.",
+      "Fry until crisp and golden, then serve."
+    ],
+    "fullIngredients": [
+      {
+        "name": "All-purpose flour (maida)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Salt",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Ajwain seeds (carom)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Peas (coarsely crushed)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Coriander (finely chopped)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Oil for frying",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "For extra flavour, consider adding a pinch of cardamom powder or other spices ."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "The batter consistency should be thick enough to hold its shape but not so thick that it becomes difficult to spread ."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "jammu-kashmir-lunch-rogan-josh",
+    "title": "Rogan Josh",
+    "state": "Jammu and Kashmir",
+    "mealType": "Lunch",
+    "diet": "Non-Vegetarian",
+    "time": "",
+    "servings": 4,
+    "heroImage": "./assets/images/rogan_josh.png",
+    "steps": [
+      "Heat mustard oil, temper with whole spices, and sear the mutton pieces.",
+      "Add a mixture of yogurt, fennel powder, dry ginger powder, and Kashmiri red chilli.",
+      "Stir well to prevent the yogurt from splitting.",
+      "Cover and slow-cook until the mutton is completely tender.",
+      "The final gravy should be rich red and aromatic."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Mutton (lamb)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Mustard oil",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Kashmiri red chilli powder",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Fennel powder (saunf)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Dry ginger powder (saunth)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Cardamom",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Yogurt",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Onion",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Garlic",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Salt",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "The red colour comes from Kashmiri chilli, not tomatoes ."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Best accompanied by plain or spiced basmati rice ."
+      },
+      {
+        "title": "Tip 3",
+        "desc": "Considered the dish that announces a serious meal has begun ."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "jammu-kashmir-lunch-gushtaba",
+    "title": "Gushtaba",
+    "state": "Jammu and Kashmir",
+    "mealType": "Lunch",
+    "diet": "Non-Vegetarian",
+    "time": "",
+    "servings": 4,
+    "heroImage": "./assets/images/gushtaba.png",
+    "steps": [
+      "Pound mutton continuously with fat on a stone block until extremely smooth and spongy.",
+      "Shape the pounded meat into large meatballs.",
+      "Prepare a delicate gravy using yogurt, saffron, and mild whole spices.",
+      "Gently poach the meatballs in the boiling yogurt gravy.",
+      "Simmer until the meatballs are cooked and the gravy thickens slightly."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Finely pounded mutton",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Yogurt",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Saffron",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Whole spices (cardamom, cloves)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Onion",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Garlic",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Ghee",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "No chilli fire - flavour comes from saffron and yogurt ."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Often called the 'grand finale' of a Wazwan banquet ."
+      },
+      {
+        "title": "Tip 3",
+        "desc": "The meat is traditionally pounded overnight on flat stones - a technique that enhances texture and flavour ."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "jammu-kashmir-lunch-rista",
+    "title": "Rista",
+    "state": "Jammu and Kashmir",
+    "mealType": "Lunch",
+    "diet": "Non-Vegetarian",
+    "time": "",
+    "servings": 4,
+    "heroImage": "./assets/images/rista.png",
+    "steps": [
+      "Pound minced mutton with spices until it forms a very fine, cohesive paste.",
+      "Shape the pounded meat into small, smooth meatballs.",
+      "Prepare a vibrant red gravy using Kashmiri red chilli paste and dyer's alkanet (ratanjot).",
+      "Poach the meatballs in the red gravy.",
+      "Simmer until cooked through and tender."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Minced mutton",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Kashmiri red chilli paste",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Fennel powder",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Garlic",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Dyer's alkanet (for red colour)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Salt",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "If Gushtaba is elegant, Rista is bold ."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Wakes up the palate with its deep spice and luxurious mouthfeel ."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "jammu-kashmir-lunch-rajma-chawal",
+    "title": "Rajma Chawal",
+    "state": "Jammu and Kashmir",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "time": "",
+    "servings": 4,
+    "heroImage": "./assets/images/rajma_chawal.png",
+    "steps": [
+      "Soak rajma overnight, then boil until tender.",
+      "Prepare a base with desi ghee, onion, ginger-garlic paste, and tomato puree.",
+      "Add spices (cinnamon, bay leaves) and the boiled rajma.",
+      "Simmer until the flavors meld and the gravy thickens.",
+      "Serve hot over rice alongside anardana chutney."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Rajma (red kidney beans, preferably Bhaderwah)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Rice",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Onion",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Tomato puree",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Ginger-garlic paste",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Cinnamon, bay leaves",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Desi ghee",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Anardana chutney for serving",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Bhaderwah Rajma has a GI tag and is known for superior taste ."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "A complete vegetarian meal suitable for lunch or dinner ."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "jammu-kashmir-lunch-yakhni",
+    "title": "Yakhni Mutton",
+    "state": "Jammu and Kashmir",
+    "mealType": "Lunch",
+    "diet": "Non-Vegetarian",
+    "time": "",
+    "servings": 4,
+    "heroImage": "./assets/images/yakhni.png",
+    "steps": [
+      "Boil mutton pieces with garlic, fennel, and whole spices until tender.",
+      "Strain the stock and keep the mutton aside.",
+      "Whisk yogurt with a little flour (to prevent splitting) and bring to a gentle boil.",
+      "Add the mutton pieces and the strained stock back into the yogurt.",
+      "Simmer briefly, finish with a touch of ghee and serve."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Mutton (lamb)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Yogurt",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Bay leaf",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Cardamom",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Cloves",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Fennel powder",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Onion",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Garlic",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Ghee",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Aromatic rather than fiery - perfect for cold evenings ."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "The gravy is often sipped like a spiced soup ."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "jammu-kashmir-lunch-nadru-yakhni",
+    "title": "Nadru Yakhni (Lotus Stem in Yogurt Gravy)",
+    "state": "Jammu and Kashmir",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "time": "",
+    "servings": 4,
+    "heroImage": "./assets/images/nadru_yakhni.png",
+    "steps": [
+      "Clean, slice, and parboil the lotus stem (nadru).",
+      "Whisk yogurt well and bring it to a simmer on low heat.",
+      "Add fennel powder, dry ginger powder, and cardamom.",
+      "Add the parboiled lotus stem to the yogurt base.",
+      "Simmer until the nadru is tender and absorbs the flavors."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Lotus stem (nadru)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Yogurt",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Fennel powder (saunf)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Dry ginger powder (saunth)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Kashmiri red chilli powder",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Cardamom",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Mustard oil",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Salt",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "A signature vegetarian dish of Kashmiri Pandit cuisine."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Lotus stem is prized for its crunchy texture."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "jammu-kashmir-lunch-chaman-kaliya",
+    "title": "Chaman Kaliya (Paneer Curry)",
+    "state": "Jammu and Kashmir",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "time": "",
+    "servings": 4,
+    "heroImage": "./assets/images/chaman_kaliya.png",
+    "steps": [
+      "Lightly pan-fry paneer cubes in ghee and soak in warm water to keep them soft.",
+      "Prepare a gravy using tomato puree, whisked yogurt, and ginger-garlic paste.",
+      "Add fennel powder, dry ginger powder, and Kashmiri chilli powder.",
+      "Add the paneer cubes to the gravy.",
+      "Simmer until the gravy thickens and coats the paneer."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Paneer (cottage cheese)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Yogurt",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Tomato puree",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Onion",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Ginger-garlic paste",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Fennel powder",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Dry ginger powder",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Kashmiri red chilli powder",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Ghee",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Salt",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "A Kashmiri staple for special occasions."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "The gravy should be rich, creamy and aromatic."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "jammu-kashmir-lunch-haak",
+    "title": "Haak (Kashmiri Collard Greens)",
+    "state": "Jammu and Kashmir",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "time": "",
+    "servings": 4,
+    "heroImage": "./assets/images/haak.png",
+    "steps": [
+      "Wash the collard greens thoroughly but keep the leaves whole.",
+      "Heat mustard oil until it smokes, then add garlic, ginger, and green chillies.",
+      "Add the haak leaves and a little water.",
+      "Cover and steam briefly so the leaves retain their vibrant green color.",
+      "Season with salt and serve."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Haak (Kashmiri collard greens)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Garlic",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Ginger",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Green chilli",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Mustard oil",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Salt",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "A daily staple in Kashmiri homes."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Often served with rice and other dishes."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "jammu-kashmir-dinner-dum-aloo",
+    "title": "Dum Aloo",
+    "state": "Jammu and Kashmir",
+    "mealType": "Dinner",
+    "diet": "Vegetarian",
+    "time": "",
+    "servings": 4,
+    "heroImage": "./assets/images/dum_aloo.png",
+    "steps": [
+      "Parboil baby potatoes, peel them, and prick with a fork.",
+      "Deep-fry the potatoes in mustard oil until golden and crisp.",
+      "Prepare a spicy yogurt-based gravy with fennel powder, dry ginger powder, and Kashmiri red chilli.",
+      "Add the fried potatoes to the gravy and seal the pot.",
+      "Cook on 'dum' (slow heat) until the potatoes absorb the flavors."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Baby potatoes",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Mustard oil",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Fennel seed powder (saunf)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Dry ginger powder (saunth)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Black cardamom",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Caraway seeds (shahi jeera)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Curd (yogurt)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Asafoetida (hing)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Salt",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "The name combines aloo (potatoes) and dum (steam/breath) - referring to the slow cooking method ."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Garnished with strips of ginger and coriander leaves ."
+      },
+      {
+        "title": "Tip 3",
+        "desc": "Cooking dum aloo is considered an art because it takes a lot of time and patience ."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "jammu-kashmir-dinner-tabak-maaz",
+    "title": "Tabak Maaz",
+    "state": "Jammu and Kashmir",
+    "mealType": "Dinner",
+    "diet": "Non-Vegetarian",
+    "time": "",
+    "servings": 4,
+    "heroImage": "./assets/images/tabak_maaz.png",
+    "steps": [
+      "Boil lamb ribs in milk with cloves, cardamom, and cinnamon until tender.",
+      "Remove the ribs and let them cool.",
+      "Heat a generous amount of ghee in a pan.",
+      "Shallow fry the boiled ribs in the ghee until the exterior is deeply crisp and brown.",
+      "Serve immediately as a hot appetizer."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Lamb ribs",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Milk",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Spices (cloves, cardamom, cinnamon)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Ghee",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Salt",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Gives a wonderful contrast of textures - crispy outside, buttery within ."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Usually served as an appetiser in Wazwan feasts ."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "jammu-kashmir-dinner-marchwangan-korma",
+    "title": "Marchwangan Korma",
+    "state": "Jammu and Kashmir",
+    "mealType": "Dinner",
+    "diet": "Non-Vegetarian",
+    "time": "",
+    "servings": 4,
+    "heroImage": "./assets/images/marchwangan_korma.png",
+    "steps": [
+      "Heat mustard oil and sear the chicken or mutton pieces.",
+      "Add browned onions, garlic, and aromatic spices.",
+      "Prepare a fiery paste using dried Kashmiri chillies and fennel powder.",
+      "Stir the chilli paste into the meat and add water.",
+      "Simmer until the meat is cooked and the gravy is thick and intensely spicy."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Chicken or mutton",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Dried Kashmiri chillies",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Fennel powder",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Onion (browned)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Garlic",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Aromatic spices",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Mustard oil",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Brings serious chilli character to the table - intensely red but balanced rather than scorching ."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Unlike cream-heavy North Indian kormas, this one stays sharp, fragrant and oil-slicked ."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "jammu-kashmir-dinner-woste-haak-nadru",
+    "title": "Woste Haak te Nadru (Red Spinach with Lotus Stem)",
+    "state": "Jammu and Kashmir",
+    "mealType": "Dinner",
+    "diet": "Vegetarian",
+    "time": "",
+    "servings": 4,
+    "heroImage": "./assets/images/woste_haak_nadru.png",
+    "steps": [
+      "Clean and chop the red spinach; slice and parboil the lotus stem.",
+      "Heat mustard oil, temper with cumin seeds and Kashmiri chilli powder.",
+      "Add the lotus stem and sauté briefly.",
+      "Add the red spinach and beaten curd.",
+      "Cook until the spinach wilts and the lotus stem is tender."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Red spinach (woste haak)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Lotus stem (nadru)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Mustard oil",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Cumin seeds",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Kashmiri red chilli powder",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Curd (beaten)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Salt",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Red spinach is usually available during winter season ."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Traditionally served with steamed rice ."
+      },
+      {
+        "title": "Tip 3",
+        "desc": "Add salt and spices at the end to avoid overseasoning as leafy vegetables reduce in volume ."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "jammu-kashmir-lunch-kashmiri-pulao",
+    "title": "Kashmiri Pulao",
+    "state": "Jammu and Kashmir",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "time": "",
+    "servings": 4,
+    "heroImage": "./assets/images/kashmiri_pulao.png",
+    "steps": [
+      "Soak basmati rice for 30 minutes.",
+      "Heat ghee, temper with whole spices, and sauté sliced onions until golden.",
+      "Add the soaked rice and stir gently.",
+      "Add water infused with saffron, and cook until the rice is fluffy.",
+      "Garnish generously with fried nuts, raisins, and dried fruits."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Basmati rice",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Ghee",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Cinnamon, cardamom, cloves",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Nuts (cashews, almonds)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Dried fruits (raisins, apricots)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Saffron",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Onion",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Garlic",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Served as part of the traditional Wazwan meal ."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "A popular vegetarian option on the Katra-Srinagar Vande Bharat Express ."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "jammu-kashmir-lunch-mongkhasar",
+    "title": "Mongkhasar (Rice and Lentil Porridge)",
+    "state": "Jammu and Kashmir",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "time": "",
+    "servings": 2,
+    "heroImage": "./assets/images/mongkhasar.png",
+    "steps": [
+      "Wash and soak rice and the lentils (masoor and moong dal).",
+      "Heat mustard oil or ghee, temper with whole spices, and sauté onions and ginger-garlic.",
+      "Add the rice, lentils, powdered spices, and green chillies.",
+      "Add enough water and cook until it forms a thick, porridge-like consistency.",
+      "Serve hot with a dollop of ghee."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Rice",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Masoor dal (red lentils)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Moong dal (with skin)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Mustard oil",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Onion",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Ginger-garlic paste",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Cinnamon, cardamom, cloves, bay leaves",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Cumin seeds",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Turmeric, coriander, fennel powder",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Green chillies",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Garam masala",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Ghee",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Keep stirring from time to time while cooking ."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Best served with yoghurt ."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "jammu-kashmir-snacks-ambal",
+    "title": "Ambal (Sweet and Sour Pumpkin Curry)",
+    "state": "Jammu and Kashmir",
+    "mealType": "Snacks",
+    "diet": "Vegetarian",
+    "time": "",
+    "servings": 4,
+    "heroImage": "./assets/images/ambal.png",
+    "steps": [
+      "Cube the pumpkin and set aside.",
+      "Heat mustard oil and temper with cumin, coriander, and turmeric.",
+      "Add onions and garlic, sautéing until soft.",
+      "Add the pumpkin, tamarind pulp, and jaggery.",
+      "Simmer until the pumpkin is tender and the sweet-and-sour flavors balance."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Pumpkin",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Jaggery or sugar",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Tamarind",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Onion",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Garlic",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Spices (cumin, coriander, turmeric)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Mustard oil",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "A sweet and sour pumpkin curry in Dogra style ."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Also known as Ambal Kaddu ."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "jammu-kashmir-beverage-kahwa",
+    "title": "Kahwa (Kashmiri Green Tea)",
+    "state": "Jammu and Kashmir",
+    "mealType": "Beverage",
+    "diet": "Vegetarian",
+    "time": "",
+    "servings": 4,
+    "heroImage": "./assets/images/kahwa.png",
+    "steps": [
+      "Boil water with crushed cardamom, cinnamon, and a few saffron strands.",
+      "Add green tea leaves and turn off the heat, letting it steep briefly.",
+      "Strain the tea into cups.",
+      "Add finely slivered almonds.",
+      "Sweeten with sugar or honey as desired."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Green tea leaves",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Saffron strands",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Cardamom",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Cinnamon",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Almonds",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Sugar or honey (optional)",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "A traditional Kashmiri welcoming drink ."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Served on the Katra-Srinagar Vande Bharat Express as part of the local menu ."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "jammu-kashmir-beverage-noon-chai",
+    "title": "Noon Chai (Kashmiri Salted Pink Tea)",
+    "state": "Jammu and Kashmir",
+    "mealType": "Beverage",
+    "diet": "Vegetarian",
+    "time": "",
+    "servings": 4,
+    "heroImage": "./assets/images/noon_chai.png",
+    "steps": [
+      "Boil green tea leaves in water with a pinch of baking soda until the water reduces.",
+      "Add cold water and aerate the tea by ladling it repeatedly to bring out the pink color.",
+      "Add milk and salt to taste.",
+      "Bring to a boil again.",
+      "Serve hot, often alongside traditional breads."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Green tea leaves (specifically noon chai leaves)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Baking soda",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Milk",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Salt",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Water",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "The pink colour comes from the reaction of baking soda with the tea."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Often served with Kashmiri bread like kulcha or girda."
+      },
+      {
+        "title": "Tip 3",
+        "desc": "A staple in Kashmiri households, especially during winter."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "jammu-kashmir-lunch-modur-pulao",
+    "title": "Modur Pulao (Kashmiri Sweet Pulao)",
+    "state": "Jammu and Kashmir",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "time": "",
+    "servings": 4,
+    "heroImage": "./assets/images/modur_pulao.png",
+    "steps": [
+      "Cook basmati rice until just tender.",
+      "In a separate pan, heat ghee and temper with cardamom.",
+      "Add milk, sugar, and saffron to make a sweet syrup.",
+      "Gently fold the cooked rice into the sweet syrup.",
+      "Garnish heavily with fried nuts, raisins, and fried onions."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Basmati rice",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Milk",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Sugar",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Saffron",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Cardamom",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Nuts (almonds, pistachios)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Raisins",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Onion (sliced, fried)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Ghee",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "A festive sweet pulao often served at weddings."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "The caramelized onions give it a distinctive sweet flavour."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  }
+]

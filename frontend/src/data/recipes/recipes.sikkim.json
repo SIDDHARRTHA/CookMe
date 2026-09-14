@@ -1,0 +1,643 @@
+[
+  {
+    "id": "sikkim-breakfast-sel-roti",
+    "title": "Sel Roti",
+    "state": "Sikkim",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "time": "40 mins (+ soaking)",
+    "servings": "10–12 pieces",
+    "heroImage": "./assets/images/sel_roti.png",
+    "steps": [
+      "Soak rice, grind into a smooth batter. Mix with sugar, a little milk and cardamom to a pouring consistency. Ferment lightly if desired.",
+      "Heat oil in a deep pan. Pour the batter in a circular ring shape using a ladle or cloth cone.",
+      "Deep-fry till golden and crisp on both sides.",
+      "Serve with potato curry, achar or as a festive snack with tea."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Rice flour or soaked rice ground",
+        "qty": "2 cups",
+        "checked": true
+      },
+      {
+        "name": "Sugar or jaggery, milk or water",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Cardamom, ghee or oil for frying",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Ring-shaped sweet rice bread – essential for Dashain and Tihar."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Crisp outside, soft inside; a Nepali-Sikkimese classic."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "sikkim-breakfast-chicken-thukpa",
+    "title": "Chicken Thukpa",
+    "state": "Sikkim",
+    "mealType": "Breakfast",
+    "diet": "Non-Vegetarian",
+    "time": "40 mins",
+    "servings": "3 Servings",
+    "heroImage": "./assets/images/thukpa.png",
+    "steps": [
+      "Make a clear broth by simmering chicken bones with ginger, garlic and onion.",
+      "Add noodles, chopped chicken meat and vegetables. Cook till noodles are done and flavours meld.",
+      "Season with salt, pepper and a little soy. Serve hot with chilli paste on the side."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Wheat noodles",
+        "qty": "200 g",
+        "checked": true
+      },
+      {
+        "name": "Chicken (boneless or bone-in)",
+        "qty": "200 g",
+        "checked": true
+      },
+      {
+        "name": "Onion, garlic, ginger, green chilli, carrot, cabbage",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Soy sauce, salt, pepper, local spices",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Hearty Tibetan-influenced noodle soup – perfect for cold mornings."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "A staple comfort food in Sikkim."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "sikkim-breakfast-veg-thukpa",
+    "title": "Vegetable Thukpa",
+    "state": "Sikkim",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "time": "35 mins",
+    "servings": "3 Servings",
+    "heroImage": "./assets/images/thukpa.png",
+    "steps": [
+      "Make a clear broth by simmering vegetables with ginger, garlic and onion.",
+      "Add noodles and chopped vegetables. Cook till noodles are done and flavours meld.",
+      "Season with salt, pepper and a little soy. Serve hot with chilli paste on the side."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Wheat noodles",
+        "qty": "200 g",
+        "checked": true
+      },
+      {
+        "name": "Mixed vegetables (cabbage, carrot, beans, capsicum)",
+        "qty": "2 cups",
+        "checked": true
+      },
+      {
+        "name": "Onion, garlic, ginger, green chilli",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Soy sauce, salt, pepper, local spices",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Vegetarian version of the classic Himalayan noodle soup."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Perfect for cold mornings and monsoon days."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "sikkim-breakfast-chicken-momo",
+    "title": "Chicken Momo",
+    "state": "Sikkim",
+    "mealType": "Breakfast",
+    "diet": "Non-Vegetarian",
+    "time": "50 mins",
+    "servings": "20–25 pieces",
+    "heroImage": "./assets/images/momos.png",
+    "steps": [
+      "Knead a soft dough for wrappers. Rest.",
+      "Mix minced chicken with finely chopped onion, ginger, garlic, cabbage and seasoning.",
+      "Roll thin wrappers, fill, pleat and steam in a bamboo steamer or momo steamer for 10–12 minutes.",
+      "Serve hot with spicy tomato-chilli chutney."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Flour for wrappers",
+        "qty": "2 cups",
+        "checked": true
+      },
+      {
+        "name": "Minced chicken",
+        "qty": "300 g",
+        "checked": true
+      },
+      {
+        "name": "Onion, ginger, garlic, cabbage, salt, pepper",
+        "qty": "to taste",
+        "checked": true
+      },
+      {
+        "name": "Tomato-chilli achar for serving",
+        "qty": "as needed",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Sikkim's most beloved dish – Bhutia/Tibetan style with thicker skin in some homes."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Steamed or kothey (pan-fried) versions both popular."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "sikkim-breakfast-veg-momo",
+    "title": "Vegetable Momo",
+    "state": "Sikkim",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "time": "45 mins",
+    "servings": "20–25 pieces",
+    "heroImage": "./assets/images/momos.png",
+    "steps": [
+      "Knead a soft dough for wrappers. Rest.",
+      "Mix finely chopped vegetables with ginger, garlic and seasoning.",
+      "Roll thin wrappers, fill, pleat and steam in a bamboo steamer or momo steamer for 10–12 minutes.",
+      "Serve hot with spicy tomato-chilli chutney."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Flour for wrappers",
+        "qty": "2 cups",
+        "checked": true
+      },
+      {
+        "name": "Mixed vegetables (cabbage, onion, carrot)",
+        "qty": "2 cups",
+        "checked": true
+      },
+      {
+        "name": "Ginger, garlic, salt, pepper",
+        "qty": "to taste",
+        "checked": true
+      },
+      {
+        "name": "Tomato-chilli achar for serving",
+        "qty": "as needed",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Vegetarian version of Sikkim's most beloved dish."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Steamed or kothey (pan-fried) versions both popular."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "sikkim-lunch-phagshapa",
+    "title": "Phagshapa",
+    "state": "Sikkim",
+    "mealType": "Lunch",
+    "diet": "Non-Vegetarian",
+    "time": "60 mins",
+    "servings": "4 Servings",
+    "heroImage": "./assets/images/phagshapa.png",
+    "steps": [
+      "Cut pork into strips. Slice radish into similar pieces.",
+      "In a pot, combine pork, radish, dried red chillies and salt. Add a little water.",
+      "Slow-cook till the pork fat renders, radish softens and the dish becomes a rich, spicy stew (no extra oil needed).",
+      "Serve with red or white rice."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Pork belly or fatty pork strips",
+        "qty": "500 g",
+        "checked": true
+      },
+      {
+        "name": "Radish",
+        "qty": "2 medium",
+        "checked": true
+      },
+      {
+        "name": "Dried red chillies, salt, garlic (optional)",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Iconic Bhutia dish – pork fat provides all the richness."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Milder than many Himalayan meat dishes but deeply flavourful."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "sikkim-lunch-gundruk-ko-jhol",
+    "title": "Gundruk ko Jhol",
+    "state": "Sikkim",
+    "mealType": "Lunch",
+    "diet": "Vegan",
+    "time": "30 mins",
+    "servings": "3 Servings",
+    "heroImage": "./assets/images/gundruk_jhol.png",
+    "steps": [
+      "Soak gundruk briefly if very dry. Heat mustard oil, sauté onion, garlic and chilli.",
+      "Add tomato and turmeric, then the gundruk. Add water and simmer into a light, tangy soup.",
+      "Serve with rice as a sour, probiotic side."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Dried gundruk (fermented leafy greens)",
+        "qty": "1 cup",
+        "checked": true
+      },
+      {
+        "name": "Tomato, onion, garlic, green chilli",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Mustard oil, turmeric, salt",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Fermented mustard/radish/cauliflower leaves – a winter staple and digestive aid."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "The sour flavour is distinctive and highly valued."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "sikkim-lunch-kinema",
+    "title": "Kinema Curry",
+    "state": "Sikkim",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "time": "25 mins",
+    "servings": "3 Servings",
+    "heroImage": "./assets/images/kinema.png",
+    "steps": [
+      "Heat oil, sauté onion, ginger, garlic and chilli. Add tomato and turmeric.",
+      "Add kinema and a little water. Simmer till the flavours blend and the curry thickens slightly.",
+      "Serve with rice or as a side."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Kinema (fermented soybeans)",
+        "qty": "1 cup",
+        "checked": true
+      },
+      {
+        "name": "Onion, tomato, green chilli, ginger, garlic",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Turmeric, salt, mustard oil",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Fermented soybean product unique to the eastern Himalayas – strong, umami flavour."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "An acquired taste but highly nutritious."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "sikkim-dinner-sha-phaley",
+    "title": "Sha Phaley",
+    "state": "Sikkim",
+    "mealType": "Dinner",
+    "diet": "Non-Vegetarian",
+    "time": "45 mins",
+    "servings": "8–10 pieces",
+    "heroImage": "./assets/images/sha_phaley.png",
+    "steps": [
+      "Knead a soft dough. Prepare a spiced minced meat and cabbage filling.",
+      "Roll dough into circles, place filling, fold into half-moons and seal.",
+      "Shallow-fry till golden and crisp on both sides.",
+      "Serve hot with tomato-chilli dip or tea."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Flour for dough",
+        "qty": "2 cups",
+        "checked": true
+      },
+      {
+        "name": "Minced meat (beef or pork) + cabbage",
+        "qty": "300 g",
+        "checked": true
+      },
+      {
+        "name": "Onion, ginger, garlic, salt, pepper",
+        "qty": "to taste",
+        "checked": true
+      },
+      {
+        "name": "Oil for shallow frying",
+        "qty": "as needed",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Tibetan-style fried stuffed bread – popular snack or light meal."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Crisp exterior and juicy filling."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "sikkim-dinner-dal-bhat",
+    "title": "Dal Bhat Tarkari",
+    "state": "Sikkim",
+    "mealType": "Dinner",
+    "diet": "Vegetarian",
+    "time": "40 mins",
+    "servings": "3 Servings",
+    "heroImage": "./assets/images/dal_bhat.png",
+    "steps": [
+      "Cook rice and dal separately. Prepare a simple vegetable curry (tarkari) with onion, garlic and spices.",
+      "Serve the classic combination of rice, dal, tarkari and achar on a plate.",
+      "Add a side of gundruk or kinema for authentic Sikkimese flavour."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Rice",
+        "qty": "1.5 cups",
+        "checked": true
+      },
+      {
+        "name": "Lentils (dal)",
+        "qty": "1 cup",
+        "checked": true
+      },
+      {
+        "name": "Seasonal vegetable tarkari",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Achar (pickle), gundruk or kinema on the side",
+        "qty": "as desired",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "The everyday meal pattern of most Sikkimese households (Nepali influence)."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Simple, balanced and nourishing."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "sikkim-snacks-chhurpi",
+    "title": "Chhurpi",
+    "state": "Sikkim",
+    "mealType": "Snacks",
+    "diet": "Vegetarian",
+    "time": "varies (fermented)",
+    "servings": "as needed",
+    "heroImage": "./assets/images/chhurpi.png",
+    "steps": [
+      "Soft chhurpi is made by curdling buttermilk and draining; eaten fresh as a side or in soups.",
+      "Hard chhurpi is further dried and becomes a long-lasting chewable cheese.",
+      "Serve soft chhurpi with rice or as a snack; hard variety is chewed like gum."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Yak or cow milk buttermilk",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Salt",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Traditional Himalayan cheese – soft and hard varieties."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "High-protein, long-shelf-life food suited to mountain life."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "sikkim-snacks-ningro",
+    "title": "Ningro (Fiddlehead Fern)",
+    "state": "Sikkim",
+    "mealType": "Snacks",
+    "diet": "Vegan",
+    "time": "20 mins",
+    "servings": "3 Servings",
+    "heroImage": "./assets/images/ningro.png",
+    "steps": [
+      "Clean the fiddlehead ferns thoroughly. Blanch if desired.",
+      "Heat mustard oil, add garlic and dry red chilli. Stir-fry the ningro with salt till tender-crisp.",
+      "Serve as a seasonal side or snack."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Fresh fiddlehead ferns (ningro)",
+        "qty": "300 g",
+        "checked": true
+      },
+      {
+        "name": "Garlic, dry red chilli, salt",
+        "qty": "to taste",
+        "checked": true
+      },
+      {
+        "name": "Mustard oil",
+        "qty": "as needed",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Monsoon forest vegetable unique to the eastern Himalayas."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Mild, slightly mucilaginous texture when cooked."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "sikkim-lunch-bamboo-shoot-curry",
+    "title": "Bamboo Shoot Curry",
+    "state": "Sikkim",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "time": "35 mins",
+    "servings": "3 Servings",
+    "heroImage": "./assets/images/bamboo_shoot_curry.png",
+    "steps": [
+      "If using fresh bamboo shoot, boil to remove bitterness. Fermented ones can be used directly.",
+      "Sauté onion and chilli in mustard oil. Add bamboo shoot, turmeric and salt. Add a little water and simmer.",
+      "Serve with rice."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Fresh or fermented bamboo shoot",
+        "qty": "2 cups",
+        "checked": true
+      },
+      {
+        "name": "Potato (optional)",
+        "qty": "as desired",
+        "checked": true
+      },
+      {
+        "name": "Onion, chilli, turmeric, salt, mustard oil",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Common in Lepcha and other communities – fermented versions add tang."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Pairs well with dal bhat."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "sikkim-dinner-dhindo",
+    "title": "Dhindo",
+    "state": "Sikkim",
+    "mealType": "Dinner",
+    "diet": "Vegan",
+    "time": "20 mins",
+    "servings": "3 Servings",
+    "heroImage": "./assets/images/dhindo.png",
+    "steps": [
+      "Bring water to a boil with salt. Gradually add the flour while stirring vigorously with a wooden stick to avoid lumps.",
+      "Cook on low heat, stirring continuously, till it forms a thick, soft dough that pulls away from the sides.",
+      "Serve scoops with dal, gundruk, achar or any side."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Buckwheat, millet or maize flour",
+        "qty": "1.5 cups",
+        "checked": true
+      },
+      {
+        "name": "Water, salt",
+        "qty": "as needed",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Traditional dense porridge of millet/buckwheat – filling mountain staple."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Eaten by hand, often with multiple accompaniments."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  }
+]

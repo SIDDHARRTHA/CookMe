@@ -1,0 +1,669 @@
+[
+  {
+    "id": "goa-breakfast-ros-omelette",
+    "title": "Ros Omelette",
+    "state": "Goa",
+    "mealType": "Breakfast",
+    "diet": "Eggetarian",
+    "time": "25 mins",
+    "servings": "2 Servings",
+    "heroImage": "./assets/images/ros_omelette.png",
+    "steps": [
+      "Beat eggs with salt. Make a fluffy omelette on a hot pan.",
+      "Heat the ros (gravy) separately. Place the omelette on a plate and pour the hot gravy generously over it.",
+      "Top with chopped onion, green chilli and coriander. Serve immediately with soft Goan pao or poi."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Eggs",
+        "qty": "4",
+        "checked": true
+      },
+      {
+        "name": "Leftover chicken or mutton xacuti / ros gravy",
+        "qty": "1–1.5 cups",
+        "checked": true
+      },
+      {
+        "name": "Onion, green chilli, coriander",
+        "qty": "for garnish",
+        "checked": true
+      },
+      {
+        "name": "Goan pao or poi",
+        "qty": "for serving",
+        "checked": true
+      },
+      {
+        "name": "Oil or butter, salt",
+        "qty": "as needed",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Street-food classic – best with leftover spicy xacuti-style gravy."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "The contrast of soft omelette and rich, spicy ros is the signature."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "goa-breakfast-pao-bhaji",
+    "title": "Pão Bhaji (Goan Style)",
+    "state": "Goa",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "time": "30 mins",
+    "servings": "3 Servings",
+    "heroImage": "./assets/images/pao_bhaji.png",
+    "steps": [
+      "Prepare a mildly spiced vegetable or dried-pea bhaji tempered with coconut and local spices.",
+      "Warm the fresh Goan bread (pao/poi).",
+      "Serve the hot bhaji with the bread for dunking."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Goan pao or poi",
+        "qty": "6–8 pieces",
+        "checked": true
+      },
+      {
+        "name": "Mixed vegetables or dried peas / potato bhaji",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Onion, tomato, coconut, spices",
+        "qty": "for bhaji",
+        "checked": true
+      },
+      {
+        "name": "Butter or oil",
+        "qty": "as needed",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Everyday Goan breakfast – fresh bakery bread is essential."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Hindu and Catholic homes both enjoy variations of this."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "goa-breakfast-sanna",
+    "title": "Sanna",
+    "state": "Goa",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "time": "40 mins (+ fermentation)",
+    "servings": "10–12 pieces",
+    "heroImage": "./assets/images/sanna.png",
+    "steps": [
+      "Soak rice, grind with coconut into a smooth batter. Ferment with toddy or yeast overnight until light and airy.",
+      "Add a little sugar and salt. Pour into greased moulds or idli plates.",
+      "Steam for 12–15 minutes till soft and spongy.",
+      "Serve with sorpotel, vindaloo or any spicy curry, or simply with coconut."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Rice",
+        "qty": "2 cups",
+        "checked": true
+      },
+      {
+        "name": "Coconut (grated) or toddy for fermentation",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Sugar, yeast or traditional toddy starter",
+        "qty": "to taste",
+        "checked": true
+      },
+      {
+        "name": "Salt",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Goan equivalent of idli, traditionally fermented with toddy (palm sap)."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Soft, slightly sweet and perfect for mopping up rich gravies."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "goa-lunch-fish-curry-rice",
+    "title": "Fish Curry Rice (Xit Kodi)",
+    "state": "Goa",
+    "mealType": "Lunch",
+    "diet": "Non-Vegetarian",
+    "time": "40 mins",
+    "servings": "4 Servings",
+    "heroImage": "./assets/images/fish_curry_rice.png",
+    "steps": [
+      "Grind coconut with red chillies, coriander, garlic and a little water into a smooth paste.",
+      "Extract kokum or tamarind water. Sauté onion and curry leaves, add the masala paste and kokum water. Bring to a boil.",
+      "Gently add fish pieces and simmer on low heat till cooked. Do not over-stir.",
+      "Serve with steamed rice, fried fish, sol kadhi and pickle."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Fresh fish (mackerel, kingfish, pomfret)",
+        "qty": "500–600 g",
+        "checked": true
+      },
+      {
+        "name": "Grated coconut",
+        "qty": "1 cup",
+        "checked": true
+      },
+      {
+        "name": "Kokum or tamarind, red chillies, turmeric, coriander, garlic",
+        "qty": "to taste",
+        "checked": true
+      },
+      {
+        "name": "Onion, green chilli, curry leaves",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Rice for serving",
+        "qty": "as needed",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "The everyday staple of Goan homes – Xit (rice) + Kodi (curry)."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Fresh fish and coconut are non-negotiable for authentic flavour."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "goa-lunch-pork-vindaloo",
+    "title": "Pork Vindaloo",
+    "state": "Goa",
+    "mealType": "Lunch",
+    "diet": "Non-Vegetarian",
+    "time": "90 mins (+ marination)",
+    "servings": "4 Servings",
+    "heroImage": "./assets/images/pork_vindaloo.png",
+    "steps": [
+      "Grind chillies, garlic, spices with vinegar into a paste. Marinate pork for several hours or overnight.",
+      "Heat oil, brown onions, add the marinated pork and cook on medium heat. Add a little water if needed and simmer till the meat is tender and the gravy is thick and tangy.",
+      "The dish should be spicy, sour and deeply aromatic.",
+      "Serve with sannas, pao or rice."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Pork (preferably with some fat)",
+        "qty": "750 g",
+        "checked": true
+      },
+      {
+        "name": "Goan vinegar or palm vinegar, garlic, dried red chillies",
+        "qty": "for marinade",
+        "checked": true
+      },
+      {
+        "name": "Cumin, mustard seeds, cinnamon, cloves, peppercorns",
+        "qty": "to taste",
+        "checked": true
+      },
+      {
+        "name": "Onion, ginger, salt, oil",
+        "qty": "as needed",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Derived from Portuguese 'vinha d'alhos' (wine & garlic); traditional Goan version uses palm vinegar and no potatoes."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Best made a day ahead – flavours improve."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "goa-lunch-chicken-xacuti",
+    "title": "Chicken Xacuti",
+    "state": "Goa",
+    "mealType": "Lunch",
+    "diet": "Non-Vegetarian",
+    "time": "60 mins",
+    "servings": "4 Servings",
+    "heroImage": "./assets/images/chicken_xacuti.png",
+    "steps": [
+      "Dry-roast coconut and whole spices; grind into a fine paste with a little water.",
+      "Sauté onion, ginger-garlic and tomato. Add the xacuti masala and cook till oil separates.",
+      "Add chicken, salt and tamarind extract. Simmer till chicken is cooked and gravy is thick and aromatic.",
+      "Serve with rice, pao or poi."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Chicken",
+        "qty": "750 g",
+        "checked": true
+      },
+      {
+        "name": "Grated coconut (roasted)",
+        "qty": "1 cup",
+        "checked": true
+      },
+      {
+        "name": "Poppy seeds, dried red chillies, peppercorns, fennel, cinnamon, star anise",
+        "qty": "for masala",
+        "checked": true
+      },
+      {
+        "name": "Onion, tomato, ginger-garlic, tamarind",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Oil, salt",
+        "qty": "as needed",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "One of Goa's most complex and fragrant curries – the roasted coconut and whole spices define it."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Leftover gravy is excellent for Ros Omelette."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "goa-dinner-chicken-cafreal",
+    "title": "Chicken Cafreal",
+    "state": "Goa",
+    "mealType": "Dinner",
+    "diet": "Non-Vegetarian",
+    "time": "50 mins (+ marination)",
+    "servings": "4 Servings",
+    "heroImage": "./assets/images/chicken_cafreal.png",
+    "steps": [
+      "Grind coriander, green chillies, garlic, ginger and whole spices with lime/vinegar into a bright green paste.",
+      "Marinate chicken thoroughly for at least 1–2 hours.",
+      "Cook in a pan with a little oil on medium heat till the chicken is done and the masala coats it well (can also be grilled).",
+      "Serve with salad, fries or pao."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Chicken (preferably bone-in)",
+        "qty": "750 g",
+        "checked": true
+      },
+      {
+        "name": "Fresh coriander leaves, green chillies, garlic, ginger",
+        "qty": "for green masala",
+        "checked": true
+      },
+      {
+        "name": "Cinnamon, cloves, peppercorns, lime juice or vinegar",
+        "qty": "to taste",
+        "checked": true
+      },
+      {
+        "name": "Oil, salt",
+        "qty": "as needed",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Believed to have African (Mozambican) roots via Portuguese influence."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "The vibrant green colour and fresh coriander flavour are signature."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "goa-dinner-sorpotel",
+    "title": "Sorpotel",
+    "state": "Goa",
+    "mealType": "Dinner",
+    "diet": "Non-Vegetarian",
+    "time": "120 mins",
+    "servings": "6 Servings",
+    "heroImage": "./assets/images/sorpotel.png",
+    "steps": [
+      "Boil the pork pieces and offal separately, cool and dice into small cubes.",
+      "Grind chillies, garlic, ginger and spices with vinegar into a paste.",
+      "Fry the diced meat, add the masala and onions, and cook slowly with vinegar and a little stock till the gravy is thick, dark and intensely spicy-sour.",
+      "Best made 1–2 days ahead. Serve with sannas or pao."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Pork (meat + liver + heart, traditional)",
+        "qty": "1 kg total",
+        "checked": true
+      },
+      {
+        "name": "Goan vinegar, dried red chillies, garlic, ginger",
+        "qty": "for masala",
+        "checked": true
+      },
+      {
+        "name": "Cumin, peppercorns, cloves, cinnamon",
+        "qty": "to taste",
+        "checked": true
+      },
+      {
+        "name": "Onion, oil, salt",
+        "qty": "as needed",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Festive and wedding centrepiece of Goan Catholic cuisine."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "The vinegar and slow cooking develop deep, complex flavour."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "goa-snacks-choriz-pao",
+    "title": "Choriz Pão",
+    "state": "Goa",
+    "mealType": "Snacks",
+    "diet": "Non-Vegetarian",
+    "time": "20 mins",
+    "servings": "4 sandwiches",
+    "heroImage": "./assets/images/choriz_pao.png",
+    "steps": [
+      "Remove chouriço from casings or slice. Fry in a pan till the fat renders and the sausage is cooked and slightly crisp. Add sliced onion and a splash of vinegar if desired.",
+      "Split the warm pao, stuff generously with the cooked choriz mixture.",
+      "Serve hot as a snack or light meal."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Goan chouriço (pork sausages)",
+        "qty": "4–6 links",
+        "checked": true
+      },
+      {
+        "name": "Onion, green chilli, vinegar",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Fresh Goan pao",
+        "qty": "4 pieces",
+        "checked": true
+      },
+      {
+        "name": "Oil",
+        "qty": "as needed",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Iconic Goan street and home snack."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "The spicy, vinegary sausage is the star – good bread is essential."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "goa-snacks-prawn-rissois",
+    "title": "Prawn Rissois",
+    "state": "Goa",
+    "mealType": "Snacks",
+    "diet": "Non-Vegetarian",
+    "time": "45 mins",
+    "servings": "15–20 pieces",
+    "heroImage": "./assets/images/prawn_rissois.png",
+    "steps": [
+      "Make a thick béchamel, mix in sautéed prawns, onion, chilli and coriander. Cool completely.",
+      "Shape into small crescents or ovals, dip in egg and coat with breadcrumbs.",
+      "Deep-fry till golden and crisp.",
+      "Serve hot as a tea-time or party snack."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Prawns (chopped)",
+        "qty": "200 g",
+        "checked": true
+      },
+      {
+        "name": "Milk, flour, butter (for béchamel)",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Onion, garlic, green chilli, coriander",
+        "qty": "to taste",
+        "checked": true
+      },
+      {
+        "name": "Breadcrumbs, egg for coating",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Oil for deep frying",
+        "qty": "as needed",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Portuguese-influenced Goan tea-time favourite."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Creamy prawn filling and crisp coating are key."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "goa-dinner-khatkhate",
+    "title": "Khatkhate",
+    "state": "Goa",
+    "mealType": "Dinner",
+    "diet": "Vegetarian",
+    "time": "45 mins",
+    "servings": "4 Servings",
+    "heroImage": "./assets/images/khatkhate.png",
+    "steps": [
+      "Cook dal and vegetables separately or together till soft.",
+      "Grind coconut with chillies and spices. Add to the vegetables along with tamarind extract and simmer.",
+      "Temper mustard and curry leaves in oil and pour over.",
+      "Serve with rice as a mixed-vegetable stew."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Mixed vegetables (pumpkin, brinjal, beans, potato, drumstick, etc.)",
+        "qty": "4 cups",
+        "checked": true
+      },
+      {
+        "name": "Toor dal or mixed dal",
+        "qty": "1/2 cup",
+        "checked": true
+      },
+      {
+        "name": "Coconut, red chillies, tamarind, spices",
+        "qty": "for masala",
+        "checked": true
+      },
+      {
+        "name": "Oil, mustard, curry leaves",
+        "qty": "for tempering",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Traditional Goan Hindu mixed-vegetable dish, often festive."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Showcases seasonal local produce."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "goa-lunch-sol-kadhi",
+    "title": "Sol Kadhi",
+    "state": "Goa",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "time": "15 mins",
+    "servings": "4 glasses",
+    "heroImage": "./assets/images/sol_kadhi.png",
+    "steps": [
+      "Soak kokum in warm water, extract the pinkish liquid.",
+      "Mix with fresh coconut milk, crushed green chilli, garlic, cumin and salt.",
+      "Chill if desired. Garnish with coriander.",
+      "Serve as a cooling digestive drink with fish curry rice or any Goan meal."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Kokum (sol)",
+        "qty": "8–10 pieces",
+        "checked": true
+      },
+      {
+        "name": "Fresh coconut milk",
+        "qty": "2 cups",
+        "checked": true
+      },
+      {
+        "name": "Green chilli, garlic, cumin, salt",
+        "qty": "to taste",
+        "checked": true
+      },
+      {
+        "name": "Coriander for garnish",
+        "qty": "as needed",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Essential accompaniment and digestive in Goan thalis."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "The kokum gives a unique sour-pink colour and flavour."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "goa-snacks-bebinca",
+    "title": "Bebinca",
+    "state": "Goa",
+    "mealType": "Snacks",
+    "diet": "Eggetarian",
+    "time": "90 mins",
+    "servings": "8–10 slices",
+    "heroImage": "./assets/images/bebinca.png",
+    "steps": [
+      "Mix coconut milk, egg yolks, sugar, flour and nutmeg into a smooth batter.",
+      "In a baking dish, pour a thin layer of batter and bake or grill till set and golden. Brush with ghee.",
+      "Repeat layering and baking until all batter is used (traditionally 7–16 layers).",
+      "Cool completely, slice and serve."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Coconut milk",
+        "qty": "2 cups",
+        "checked": true
+      },
+      {
+        "name": "Egg yolks",
+        "qty": "8–10",
+        "checked": true
+      },
+      {
+        "name": "Sugar, flour, ghee or butter",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Nutmeg or cardamom",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Iconic multi-layered Goan dessert, traditionally baked in a clay oven."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Time-consuming but the caramelised layers are worth it."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  }
+]

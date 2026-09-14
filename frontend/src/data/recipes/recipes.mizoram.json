@@ -1,0 +1,525 @@
+[
+  {
+    "id": "mizoram-breakfast-bai-saum",
+    "title": "Bai with Sa-um (Fermented Pork Fat)",
+    "state": "Mizoram",
+    "mealType": "Breakfast",
+    "diet": "Non-Vegetarian",
+    "time": "40 mins",
+    "servings": "4 Servings",
+    "heroImage": "./assets/images/bai.png",
+    "steps": [
+      "Boil seasonal vegetables and bamboo shoot with a little sa-um and salt.",
+      "Add local herbs and chilli towards the end. Simmer into a light, flavourful stew.",
+      "Serve with steamed rice – the quintessential Mizo everyday dish."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Seasonal vegetables (pumpkin leaves, beans, spinach, etc.)",
+        "qty": "as available",
+        "checked": true
+      },
+      {
+        "name": "Bamboo shoot, sa-um (fermented pork fat), chilli, salt",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Local herbs (bahkhawr, chingit)",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Classic Bai with fermented pork fat – the most traditional version."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Sa-um gives the distinctive deep, savoury flavour."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "mizoram-breakfast-bai-bekang",
+    "title": "Bai with Bekang (Vegetarian)",
+    "state": "Mizoram",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "time": "35 mins",
+    "servings": "4 Servings",
+    "heroImage": "./assets/images/bai.png",
+    "steps": [
+      "Boil seasonal vegetables and bamboo shoot with bekang and salt.",
+      "Add local herbs and chilli towards the end. Simmer into a light, flavourful stew.",
+      "Serve with steamed rice – a vegetarian version of the quintessential Mizo dish."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Seasonal vegetables (pumpkin leaves, beans, spinach, etc.)",
+        "qty": "as available",
+        "checked": true
+      },
+      {
+        "name": "Bamboo shoot, bekang (fermented soybean), chilli, salt",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Local herbs (bahkhawr, chingit)",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Vegetarian version of Bai using fermented soybean."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Bekang gives a unique fermented depth without meat."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "mizoram-breakfast-sawhchiar",
+    "title": "Sawhchiar",
+    "state": "Mizoram",
+    "mealType": "Breakfast",
+    "diet": "Non-Vegetarian",
+    "time": "50 mins",
+    "servings": "4 Servings",
+    "heroImage": "./assets/images/sawhchiar.png",
+    "steps": [
+      "Cook rice and meat together with onion, ginger, garlic and herbs, adding enough water for a soft, porridge-like consistency.",
+      "Simmer until the rice breaks down and the flavours meld.",
+      "Serve hot – a comforting rice-and-meat porridge."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Rice",
+        "qty": "1.5 cups",
+        "checked": true
+      },
+      {
+        "name": "Chicken or pork",
+        "qty": "300–400 g",
+        "checked": true
+      },
+      {
+        "name": "Onion, ginger, garlic, local herbs, salt",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Mizo-style congee – warming and filling."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Anthur (roselle) leaves can be added for a tangy note."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "mizoram-breakfast-chhum-han",
+    "title": "Chhum Han",
+    "state": "Mizoram",
+    "mealType": "Breakfast",
+    "diet": "Vegan",
+    "time": "25 mins",
+    "servings": "3 Servings",
+    "heroImage": "./assets/images/chhum_han.png",
+    "steps": [
+      "Steam or boil the vegetables with ginger and a little chilli until just tender.",
+      "Season lightly with salt. Serve as a clean, simple side with rice."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Mixed seasonal vegetables (greens, beans, etc.)",
+        "qty": "4 cups",
+        "checked": true
+      },
+      {
+        "name": "Ginger, green chilli, salt",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Oil-free steamed vegetables – highlights natural flavours."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "A light and healthy accompaniment."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "mizoram-lunch-vawksa-rep",
+    "title": "Vawksa Rep",
+    "state": "Mizoram",
+    "mealType": "Lunch",
+    "diet": "Non-Vegetarian",
+    "time": "45 mins",
+    "servings": "4 Servings",
+    "heroImage": "./assets/images/vawksa_rep.png",
+    "steps": [
+      "Cook the smoked pork until tender. Add bamboo shoot, chilli and herbs.",
+      "Simmer so the smoky meat and tangy bamboo shoot flavours combine.",
+      "Serve with rice – one of the most loved Mizo dishes."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Smoked pork",
+        "qty": "500–700 g",
+        "checked": true
+      },
+      {
+        "name": "Bamboo shoot, green chilli, local herbs",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Salt",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Smoking the pork over wood is traditional and essential for authentic taste."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Bamboo shoot cuts the richness."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "mizoram-lunch-bai-vegetable",
+    "title": "Vegetable Bai",
+    "state": "Mizoram",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "time": "35 mins",
+    "servings": "3 Servings",
+    "heroImage": "./assets/images/vegetable_bai.png",
+    "steps": [
+      "Boil the vegetables with bekang, onion, garlic, chilli and salt into a light stew.",
+      "Finish with fresh local herbs. Serve with rice."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Seasonal greens and vegetables",
+        "qty": "as available",
+        "checked": true
+      },
+      {
+        "name": "Bekang (fermented soybean), onion, garlic, local herbs, chilli, salt",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Vegetarian version of the classic Bai with added onion and garlic for flavour."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Simple and nutritious."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "mizoram-lunch-hmarcha-rawt",
+    "title": "Hmarcha Rawt",
+    "state": "Mizoram",
+    "mealType": "Lunch",
+    "diet": "Vegan",
+    "time": "10 mins",
+    "servings": "4 Servings",
+    "heroImage": "./assets/images/hmarcha_rawt.png",
+    "steps": [
+      "Crush or pound fresh chillies with salt and garlic (and tomato if desired) into a coarse, fiery chutney.",
+      "Serve as the essential spicy accompaniment to any Mizo meal."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Fresh green or red chilli",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Salt, garlic, tomato (optional)",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "The classic Mizo chilli chutney – tangy, spicy and addictive."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Adjust heat to preference."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "mizoram-dinner-pork-mustard",
+    "title": "Smoked Pork with Mustard Leaves",
+    "state": "Mizoram",
+    "mealType": "Dinner",
+    "diet": "Non-Vegetarian",
+    "time": "50 mins",
+    "servings": "4 Servings",
+    "heroImage": "./assets/images/pork_mustard_leaves.png",
+    "steps": [
+      "Cook the pork until tender. Add mustard leaves and continue cooking until the greens wilt and the flavours blend.",
+      "Season simply. Serve with rice."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Smoked or fresh pork",
+        "qty": "600 g",
+        "checked": true
+      },
+      {
+        "name": "Mustard leaves",
+        "qty": "2–3 cups",
+        "checked": true
+      },
+      {
+        "name": "Salt, chilli",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Mustard leaves add a distinctive peppery note to the rich pork."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "A classic combination."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "mizoram-dinner-sanpiau",
+    "title": "Sanpiau",
+    "state": "Mizoram",
+    "mealType": "Dinner",
+    "diet": "Non-Vegetarian",
+    "time": "40 mins",
+    "servings": "3 Servings",
+    "heroImage": "./assets/images/sanpiau.png",
+    "steps": [
+      "Prepare a soft rice porridge. Top with layers of crispy fried rice wafers, chilli chutney, fried chicken or fish, onion and coriander.",
+      "Eat mixed together – a popular street-food style dish."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Rice porridge base",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Fried chicken or fish, chilli chutney, crispy rice wafers, onion, coriander",
+        "qty": "for topping",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Street-food favourite in Aizawl and beyond."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "The contrast of soft porridge and crunchy toppings is key."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "mizoram-snacks-chhangban",
+    "title": "Chhangban",
+    "state": "Mizoram",
+    "mealType": "Snacks",
+    "diet": "Vegan",
+    "time": "30 mins (+ soaking)",
+    "servings": "8–10 pieces",
+    "heroImage": "./assets/images/chhangban.png",
+    "steps": [
+      "Soak and grind sticky rice into a paste or use whole grains. Steam or cook into dense rice cakes or bread-like pieces.",
+      "Eat plain, with jaggery, or as a snack with tea."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Sticky rice",
+        "qty": "2 cups",
+        "checked": true
+      },
+      {
+        "name": "Salt or jaggery (optional)",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Traditional sticky-rice snack – portable and filling."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Often carried to the fields."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "mizoram-snacks-bekang",
+    "title": "Bekang",
+    "state": "Mizoram",
+    "mealType": "Snacks",
+    "diet": "Vegan",
+    "time": "Fermentation time + 10 mins",
+    "servings": "as needed",
+    "heroImage": "./assets/images/bekang.png",
+    "steps": [
+      "Bekang is traditionally prepared by fermenting cooked soybeans. Once ready, it can be eaten as is or lightly seasoned.",
+      "Use as a side, snack, or flavouring agent in Bai and other dishes."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Fermented soybeans (bekang)",
+        "qty": "as available",
+        "checked": true
+      },
+      {
+        "name": "Salt, chilli (optional)",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Mizo fermented soybean – similar to Japanese natto in concept."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Pungent and protein-rich."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "mizoram-lunch-bamboo-shoot-fry",
+    "title": "Bamboo Shoot Stir-fry",
+    "state": "Mizoram",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "time": "25 mins",
+    "servings": "3 Servings",
+    "heroImage": "./assets/images/bamboo_shoot_fry.png",
+    "steps": [
+      "Slice bamboo shoot and stir-fry briefly with onion, garlic, chilli, herbs and a touch of oil.",
+      "Season with salt. Serve as a crisp side with rice."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Fresh bamboo shoot",
+        "qty": "2 cups",
+        "checked": true
+      },
+      {
+        "name": "Onion, garlic, local herbs, green chilli, salt, a little oil",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Highlights the fresh, crunchy texture of young bamboo shoot."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Minimal seasoning preserves the natural taste."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "mizoram-dinner-dal",
+    "title": "Simple Dal",
+    "state": "Mizoram",
+    "mealType": "Dinner",
+    "diet": "Vegetarian",
+    "time": "30 mins",
+    "servings": "3 Servings",
+    "heroImage": "./assets/images/mizo_dal.png",
+    "steps": [
+      "Boil the lentils with onion, garlic and salt until soft. Keep the consistency light.",
+      "Optionally temper with a little chilli or herbs. Serve with rice as a simple side."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Lentils (yellow or red)",
+        "qty": "1 cup",
+        "checked": true
+      },
+      {
+        "name": "Onion, garlic, salt, optional chilli or local herbs",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Mizos use dal more sparingly than in mainland India; it is a supporting dish."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Kept mild to complement other flavours."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  }
+]

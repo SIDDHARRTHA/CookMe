@@ -1,0 +1,581 @@
+[
+  {
+    "id": "andaman-nicobar-breakfast-idli-dosa",
+    "title": "Idli / Dosa with Coconut Chutney",
+    "state": "Andaman and Nicobar Islands",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "time": "Prep: 15 minutes (plus batter) | Cook: 15 minutes",
+    "servings": 4,
+    "heroImage": "./assets/images/idli_dosa.png",
+    "description": "South Indian-style steamed rice cakes or crispy crepes widely available due to Tamil and other settler communities. Served with coconut chutney and mild sambar, reflecting the islands' multi-cultural breakfast culture.",
+    "steps": [
+      "Steam idlis or cook thin dosas on a hot tawa.",
+      "Grind fresh coconut chutney with chillies and temper.",
+      "Serve hot with chutney and optional sambar."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Idli or dosa batter (rice + urad dal)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Fresh coconut, green chillies, curry leaves for chutney",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Mild sambar (optional)",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tip": "Common at tiffin centres in Port Blair and larger islands.",
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Common at tiffin centres in Port Blair and larger islands."
+      }
+    ]
+  },
+  {
+    "id": "andaman-nicobar-breakfast-panta-bhat",
+    "title": "Panta Bhat with Small Fish",
+    "state": "Andaman and Nicobar Islands",
+    "mealType": "Breakfast",
+    "diet": "Non-Vegetarian",
+    "time": "Prep: 5 minutes + overnight soak | Cook: 10 minutes",
+    "servings": 2,
+    "heroImage": "./assets/images/panta_bhat.png",
+    "description": "Bengali-influenced fermented leftover rice soaked overnight, often eaten with small fried fish, salt, onion and green chilli. A cooling, everyday breakfast among Bengali settler communities.",
+    "steps": [
+      "Soak cooked rice in water overnight.",
+      "Drain lightly in the morning.",
+      "Serve with lightly fried small fish, salt and raw onion/chilli."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Cooked rice (previous day)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Water for soaking",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Small fish, mustard oil, salt",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Onion, green chilli (optional)",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tip": "Traditionally a simple, hydrating summer breakfast.",
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Traditionally a simple, hydrating summer breakfast."
+      }
+    ]
+  },
+  {
+    "id": "andaman-nicobar-lunch-fish-curry",
+    "title": "Andaman Fish Curry",
+    "state": "Andaman and Nicobar Islands",
+    "mealType": "Lunch",
+    "diet": "Non-Vegetarian",
+    "time": "Prep: 15 minutes | Cook: 20 minutes",
+    "servings": 4,
+    "heroImage": "./assets/images/fish_curry.png",
+    "description": "The islands' everyday staple — fresh local fish (snapper, kingfish, reef fish) simmered in coconut milk with turmeric, mustard seeds, curry leaves and a touch of tamarind. Styles vary by community (Bengali mustard-based or South Indian coconut-based).",
+    "steps": [
+      "Marinate fish lightly with turmeric and salt.",
+      "Temper mustard seeds and curry leaves; sauté aromatics.",
+      "Add spices, coconut milk and tamarind; bring to a gentle simmer.",
+      "Add fish and cook until just done. Serve with steamed rice."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Fresh fish pieces (500 g)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Coconut milk",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Turmeric, chilli powder, mustard seeds, curry leaves",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Onion, ginger-garlic, tamarind or tomato",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Salt, oil",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tip": "Use the freshest catch possible; do not overcook the fish.",
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Use the freshest catch possible; do not overcook the fish."
+      }
+    ]
+  },
+  {
+    "id": "andaman-nicobar-lunch-coconut-prawn-curry",
+    "title": "Coconut Prawn Curry",
+    "state": "Andaman and Nicobar Islands",
+    "mealType": "Lunch",
+    "diet": "Non-Vegetarian",
+    "time": "Prep: 15 minutes | Cook: 15 minutes",
+    "servings": 4,
+    "heroImage": "./assets/images/coconut_prawn_curry.png",
+    "description": "Juicy prawns cooked in a creamy coconut-milk gravy with curry leaves, ginger and mild spices. A tropical island classic that balances sweetness of prawns with gentle heat.",
+    "steps": [
+      "Sauté onion, ginger-garlic and curry leaves.",
+      "Add spices and a little water or thin coconut milk.",
+      "Add prawns and cook briefly.",
+      "Pour thick coconut milk and simmer gently until prawns are cooked."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Fresh prawns (cleaned)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Thick coconut milk",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Onion, ginger, garlic, green chillies",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Curry leaves, turmeric, mild chilli powder",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Oil, salt",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tip": "Do not boil vigorously after adding thick coconut milk.",
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Do not boil vigorously after adding thick coconut milk."
+      }
+    ]
+  },
+  {
+    "id": "andaman-nicobar-lunch-crab-curry",
+    "title": "Crab Curry / Crab Masala",
+    "state": "Andaman and Nicobar Islands",
+    "mealType": "Lunch",
+    "diet": "Non-Vegetarian",
+    "time": "Prep: 20 minutes | Cook: 25 minutes",
+    "servings": 4,
+    "heroImage": "./assets/images/crab_curry.png",
+    "description": "Mud crab or local crab cooked in a rich onion-tomato-coconut masala. Messy, spicy and deeply flavourful — a signature island seafood experience.",
+    "steps": [
+      "Sauté onion, ginger-garlic and spices into a thick masala.",
+      "Add tomato and cook until soft.",
+      "Add crabs and a little water or coconut milk; cover and cook until shells turn red and meat is done.",
+      "Finish with fresh coriander."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Fresh crabs (cleaned and cracked)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Onion, tomato, ginger-garlic",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Coconut (grated or milk), chilli powder, turmeric",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Curry leaves, coriander powder",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tip": "Eat with hands; the joy is in extracting the meat.",
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Eat with hands; the joy is in extracting the meat."
+      }
+    ]
+  },
+  {
+    "id": "andaman-nicobar-lunch-vegetable-coconut-stew",
+    "title": "Vegetable Coconut Stew / Chilli Curry",
+    "state": "Andaman and Nicobar Islands",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "time": "Prep: 15 minutes | Cook: 20 minutes",
+    "servings": 4,
+    "heroImage": "./assets/images/veg_coconut_stew.png",
+    "description": "Mild coconut-milk based vegetable curry with local produce (pumpkin, drumstick, beans, etc.) and green chillies. One of the more authentic vegetarian preparations available on the islands.",
+    "steps": [
+      "Temper mustard and curry leaves.",
+      "Add onion, vegetables and a little water; cook until almost tender.",
+      "Pour coconut milk and simmer gently.",
+      "Season and serve with rice."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Mixed vegetables (pumpkin, beans, carrot, drumstick)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Coconut milk",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Onion, green chillies, curry leaves, mustard seeds",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Turmeric, salt",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tip": "Keep spices light to let the coconut and vegetables shine.",
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Keep spices light to let the coconut and vegetables shine."
+      }
+    ]
+  },
+  {
+    "id": "andaman-nicobar-dinner-grilled-lobster",
+    "title": "Grilled Lobster",
+    "state": "Andaman and Nicobar Islands",
+    "mealType": "Dinner",
+    "diet": "Non-Vegetarian",
+    "time": "Prep: 15 minutes | Cook: 15–20 minutes",
+    "servings": 2,
+    "heroImage": "./assets/images/grilled_lobster.png",
+    "description": "Fresh lobster split and grilled with butter, garlic, chilli and lemon. A beach-shack and restaurant favourite on Havelock (Swaraj Dweep) and around Port Blair, highlighting the natural sweetness of the seafood.",
+    "steps": [
+      "Split lobster lengthwise and clean.",
+      "Brush with butter-garlic-chilli mixture.",
+      "Grill over charcoal or in a hot oven until flesh is opaque and slightly charred.",
+      "Serve with lemon wedges."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Fresh lobster",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Butter or oil, garlic, chilli, lemon",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Salt, black pepper, local spices (optional)",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tip": "Best when the lobster is extremely fresh.",
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Best when the lobster is extremely fresh."
+      }
+    ]
+  },
+  {
+    "id": "andaman-nicobar-dinner-bamboo-chicken",
+    "title": "Bamboo Chicken",
+    "state": "Andaman and Nicobar Islands",
+    "mealType": "Dinner",
+    "diet": "Non-Vegetarian",
+    "time": "Prep: 30 minutes + marination | Cook: 45–60 minutes",
+    "servings": 4,
+    "heroImage": "./assets/images/bamboo_chicken.png",
+    "description": "Chicken marinated with local spices and herbs, stuffed into a hollow bamboo and slow-roasted over an open fire. An indigenous-style preparation that imparts a unique smoky, earthy flavour.",
+    "steps": [
+      "Marinate chicken thoroughly.",
+      "Stuff into cleaned bamboo and seal the ends.",
+      "Roast slowly over open fire, turning occasionally, until cooked through.",
+      "Open bamboo and serve the aromatic chicken."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Chicken pieces",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Local spices, garlic, ginger, green chillies",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Herbs, salt",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Hollow bamboo section",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tip": "Traditionally cooked during outdoor gatherings or forest treks.",
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Traditionally cooked during outdoor gatherings or forest treks."
+      }
+    ]
+  },
+  {
+    "id": "andaman-nicobar-dinner-machher-jhol",
+    "title": "Macher Jhol (Bengali-style Fish Curry)",
+    "state": "Andaman and Nicobar Islands",
+    "mealType": "Dinner",
+    "diet": "Non-Vegetarian",
+    "time": "Prep: 15 minutes | Cook: 25 minutes",
+    "servings": 4,
+    "heroImage": "./assets/images/macher_jhol.png",
+    "description": "Light mustard-oil based fish curry with potatoes and cauliflower or other vegetables, seasoned with panch phoron and green chillies. Popular among the large Bengali settler population.",
+    "steps": [
+      "Lightly fry fish pieces in mustard oil.",
+      "Temper panch phoron; add vegetables and turmeric.",
+      "Add water to make a light gravy; simmer.",
+      "Return fish and cook gently. Serve with rice."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Fish pieces",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Potato, cauliflower or other vegetables",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Mustard oil, panch phoron, turmeric, green chillies",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Onion (optional), salt",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tip": "Keep the gravy thin and light — classic Bengali style.",
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Keep the gravy thin and light — classic Bengali style."
+      }
+    ]
+  },
+  {
+    "id": "andaman-nicobar-snacks-fish-fry",
+    "title": "Fish Fry / Fish Pakora",
+    "state": "Andaman and Nicobar Islands",
+    "mealType": "Snacks",
+    "diet": "Non-Vegetarian",
+    "time": "Prep: 15 minutes | Cook: 10–15 minutes",
+    "servings": 4,
+    "heroImage": "./assets/images/fish_fry.png",
+    "description": "Fresh fish pieces marinated with spices and either shallow-fried or coated in besan batter and deep-fried. A ubiquitous beach and market snack across the islands.",
+    "steps": [
+      "Marinate fish with spices and lemon.",
+      "For fry: shallow-fry until crisp.",
+      "For pakora: coat in spiced besan batter and deep-fry.",
+      "Serve hot with chutney or lemon."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Fish fillets or small whole fish",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Turmeric, chilli powder, salt, lemon",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Besan (for pakora version), oil for frying",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tip": "Best with the day's catch.",
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Best with the day's catch."
+      }
+    ]
+  },
+  {
+    "id": "andaman-nicobar-snacks-squid-fry",
+    "title": "Squid Fry",
+    "state": "Andaman and Nicobar Islands",
+    "mealType": "Snacks",
+    "diet": "Non-Vegetarian",
+    "time": "Prep: 15 minutes | Cook: 8 minutes",
+    "servings": 3,
+    "heroImage": "./assets/images/squid_fry.png",
+    "description": "Tender squid rings or pieces tossed with turmeric, chilli, pepper and curry leaves, then quickly fried. A popular coastal snack and starter.",
+    "steps": [
+      "Marinate squid briefly with spices.",
+      "Heat oil, add curry leaves, then squid.",
+      "Stir-fry on high heat until just cooked and slightly crisp.",
+      "Serve immediately."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Fresh squid, cleaned and cut",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Turmeric, chilli powder, black pepper, salt",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Curry leaves, oil",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tip": "Overcooking makes squid rubbery — keep the cooking time short.",
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Overcooking makes squid rubbery — keep the cooking time short."
+      }
+    ]
+  },
+  {
+    "id": "andaman-nicobar-snacks-coconut-ladoo",
+    "title": "Coconut Ladoo",
+    "state": "Andaman and Nicobar Islands",
+    "mealType": "Snacks",
+    "diet": "Vegetarian",
+    "time": "Prep: 10 minutes | Cook: 15 minutes",
+    "servings": 15,
+    "heroImage": "./assets/images/coconut_ladoo.png",
+    "description": "Simple sweet made from freshly grated coconut and jaggery or sugar, rolled into small balls. A traditional island treat that highlights the abundant local coconut.",
+    "steps": [
+      "Cook grated coconut with jaggery until the mixture thickens and leaves the sides.",
+      "Add cardamom if using.",
+      "Cool slightly and roll into small ladoos."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Freshly grated coconut",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Jaggery or sugar",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Cardamom powder (optional)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Ghee (optional)",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tip": "Use fresh coconut for the best flavour and texture.",
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Use fresh coconut for the best flavour and texture."
+      }
+    ]
+  },
+  {
+    "id": "andaman-nicobar-snacks-banana-chips",
+    "title": "Banana Chips",
+    "state": "Andaman and Nicobar Islands",
+    "mealType": "Snacks",
+    "diet": "Vegetarian",
+    "time": "Prep: 15 minutes | Cook: 15 minutes",
+    "servings": 4,
+    "heroImage": "./assets/images/banana_chips.png",
+    "description": "Thinly sliced raw banana deep-fried until crisp and lightly salted. A popular local snack influenced by South Indian traditions and widely available in markets.",
+    "steps": [
+      "Peel and thinly slice the banana.",
+      "Deep-fry in hot oil until golden and crisp.",
+      "Drain, sprinkle salt and store in an airtight container."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Raw bananas",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Oil for deep frying",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Salt",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tip": "Best when made fresh; they lose crispness over time.",
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Best when made fresh; they lose crispness over time."
+      }
+    ]
+  }
+]

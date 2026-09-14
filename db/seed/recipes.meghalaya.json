@@ -1,0 +1,380 @@
+[
+  {
+    "_id": "meghalaya-breakfast-putharo",
+    "title": "Putharo",
+    "state": "Meghalaya",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "jainFriendly": true,
+    "jainNotes": "Ingredients are Jain-compatible (rice flour, water/coconut milk). Serve with vegetarian sides only for Jain-friendly meal.",
+    "image": "putharo.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "30 mins",
+    "servings": "6–8 pieces",
+    "ingredients": [
+      { "name": "Rice flour", "qty": "2 cups" },
+      { "name": "Water or coconut milk", "qty": "as needed" },
+      { "name": "Salt or a little jaggery (optional)", "qty": "to taste" }
+    ],
+    "recipe": [
+      "Mix rice flour with water (or coconut milk) into a smooth batter of pouring consistency.",
+      "Pour into a traditional earthen pan (sarao) or steamer and cook till soft and spongy.",
+      "Serve hot with vegetarian sides like sesame dal, turmeric rice or red tea."
+    ],
+    "tips": [
+      "Soft steamed rice flatbread – classic Khasi breakfast item.",
+      "Traditionally paired with pork curry, but can be enjoyed with vegetarian sides."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "meghalaya-breakfast-pukhlein",
+    "title": "Pukhlein",
+    "state": "Meghalaya",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "jainFriendly": true,
+    "jainNotes": "Ingredients are Jain-compatible (rice flour, jaggery, oil).",
+    "image": "pukhlein.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "25 mins",
+    "servings": "10–12 pieces",
+    "ingredients": [
+      { "name": "Rice flour", "qty": "2 cups" },
+      { "name": "Jaggery", "qty": "3/4 cup" },
+      { "name": "Water", "qty": "as needed" },
+      { "name": "Oil for frying", "qty": "as needed" }
+    ],
+    "recipe": [
+      "Mix rice flour with melted jaggery and a little water into a thick dough.",
+      "Shape into small discs or balls and deep-fry till golden and crisp outside.",
+      "Serve as a sweet snack with tea."
+    ],
+    "tips": [
+      "Popular Khasi fried rice cake – crispy exterior, chewy and mildly sweet inside.",
+      "Common street and tea-time snack."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "meghalaya-breakfast-pumaloi",
+    "title": "Pumaloi",
+    "state": "Meghalaya",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "jainFriendly": true,
+    "jainNotes": "Ingredients are Jain-compatible (powdered rice, coconut, water, salt). Ensure coconut is fresh and pure.",
+    "image": "pumaloi.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "35 mins",
+    "servings": "6 Servings",
+    "ingredients": [
+      { "name": "Powdered rice", "qty": "2 cups" },
+      { "name": "Grated coconut (optional)", "qty": "1/2 cup" },
+      { "name": "Water, salt", "qty": "as needed" }
+    ],
+    "recipe": [
+      "Mix powdered rice with water (and grated coconut if using) into a smooth batter.",
+      "Steam in a traditional pot or steamer till cooked through and soft.",
+      "Serve warm as a light breakfast or side."
+    ],
+    "tips": [
+      "Steamed powdered-rice cake – oil-free and nutritious.",
+      "A gentle, everyday Khasi breakfast item."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "meghalaya-lunch-jadoh",
+    "title": "Jadoh",
+    "state": "Meghalaya",
+    "mealType": "Lunch",
+    "diet": "Non-Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains pork - not consumed by Jains.",
+    "image": "jadoh.png",
+    "wikipediaImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Jadoh_(Meghalaya.JPG",
+    "imageSource": "wikimedia_commons_verified",
+    "time": "50 mins",
+    "servings": "4 Servings",
+    "ingredients": [
+      { "name": "Local red or white rice", "qty": "2 cups" },
+      { "name": "Pork (meat, fat, sometimes blood)", "qty": "400 g" },
+      { "name": "Turmeric, bay leaf, ginger, salt", "qty": "to taste" }
+    ],
+    "recipe": [
+      "Cook pork pieces with turmeric, ginger and salt till the fat renders and meat is tender.",
+      "Add washed rice and enough water. Cook together so the rice absorbs the pork juices and fat.",
+      "Serve hot, often with dohkhlieh, tungrymbai or a simple vegetable side."
+    ],
+    "tips": [
+      "Signature Khasi one-pot rice-and-pork dish – the state's most iconic meal.",
+      "The rice should be richly flavoured and slightly oily from the pork."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "meghalaya-lunch-dohkhlieh",
+    "title": "Dohkhlieh",
+    "state": "Meghalaya",
+    "mealType": "Lunch",
+    "diet": "Non-Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains pork and onion - not consumed by Jains.",
+    "image": "dohkhlieh.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "30 mins",
+    "servings": "3 Servings",
+    "ingredients": [
+      { "name": "Boiled pork (preferably with some fat)", "qty": "300 g" },
+      { "name": "Onion, green chilli, ginger", "qty": "as needed" },
+      { "name": "Salt, lime or local herbs", "qty": "to taste" }
+    ],
+    "recipe": [
+      "Boil pork till tender, then shred or finely chop while still warm.",
+      "Mix with finely sliced onion, green chilli, crushed ginger, salt and a squeeze of lime.",
+      "Serve at room temperature as a refreshing meat salad alongside jadoh or rice."
+    ],
+    "tips": [
+      "Classic Khasi pork salad – light, pungent and herb-fresh.",
+      "A perfect counterpoint to richer rice dishes."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "meghalaya-lunch-tungrymbai-vegetarian",
+    "title": "Tungrymbai (Vegetarian)",
+    "state": "Meghalaya",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains onion and garlic - not consumed by Jains. For Jain version, omit onion-garlic.",
+    "image": "tungrymbai.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "35 mins",
+    "servings": "3 Servings",
+    "ingredients": [
+      { "name": "Fermented soybeans (tungrymbai)", "qty": "1 cup" },
+      { "name": "Black sesame, ginger, garlic, onion, chilli", "qty": "as needed" },
+      { "name": "Mustard oil or local fat", "qty": "as needed" }
+    ],
+    "recipe": [
+      "Sauté onion, ginger, garlic and chilli in oil.",
+      "Add the fermented soybeans and black sesame. Mix well and simmer till the flavours meld.",
+      "Serve as a strong-flavoured side with rice or jadoh."
+    ],
+    "tips": [
+      "Fermented soybean dish with a powerful, earthy aroma – an acquired taste.",
+      "Vegetarian version of the traditional Khasi preparation."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "meghalaya-lunch-tungrymbai-with-pork",
+    "title": "Tungrymbai with Pork",
+    "state": "Meghalaya",
+    "mealType": "Lunch",
+    "diet": "Non-Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains pork, onion, garlic - not consumed by Jains.",
+    "image": "tungrymbai.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "40 mins (+ fermentation)",
+    "servings": "3 Servings",
+    "ingredients": [
+      { "name": "Fermented soybeans (tungrymbai)", "qty": "1 cup" },
+      { "name": "Pork", "qty": "200 g" },
+      { "name": "Black sesame, ginger, garlic, onion, chilli", "qty": "as needed" },
+      { "name": "Mustard oil or local fat", "qty": "as needed" }
+    ],
+    "recipe": [
+      "Sauté onion, ginger, garlic and chilli. Add chopped pork and cook till done.",
+      "Add the fermented soybeans and black sesame. Mix well and simmer till the flavours meld.",
+      "Serve as a strong-flavoured side with rice or jadoh."
+    ],
+    "tips": [
+      "Traditional Tungrymbai with pork - the classic Khasi preparation.",
+      "Fermented soybean dish with a powerful, earthy aroma."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "meghalaya-dinner-dohneiiong",
+    "title": "Dohneiiong",
+    "state": "Meghalaya",
+    "mealType": "Dinner",
+    "diet": "Non-Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains pork - not consumed by Jains.",
+    "image": "dohneiiong.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "50 mins",
+    "servings": "4 Servings",
+    "ingredients": [
+      { "name": "Pork", "qty": "500 g" },
+      { "name": "Black sesame seeds (neiiong)", "qty": "1/2 cup" },
+      { "name": "Ginger, garlic, chilli, salt", "qty": "to taste" }
+    ],
+    "recipe": [
+      "Dry-roast and grind black sesame seeds into a paste.",
+      "Cook pork with ginger, garlic and chilli till tender. Add the sesame paste and simmer till the gravy thickens and coats the meat.",
+      "Serve with rice."
+    ],
+    "tips": [
+      "Pork in rich black sesame sauce – nutty, dark and deeply flavourful.",
+      "A Jaintia and Khasi favourite."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "meghalaya-dinner-nakham-bitchi",
+    "title": "Nakham Bitchi",
+    "state": "Meghalaya",
+    "mealType": "Dinner",
+    "diet": "Non-Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains dried fish, onion, garlic - not consumed by Jains.",
+    "image": "nakham_bitchi.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "30 mins",
+    "servings": "3 Servings",
+    "ingredients": [
+      { "name": "Dried fish (nakham)", "qty": "100 g" },
+      { "name": "Chilli, ginger, garlic, onion", "qty": "as needed" },
+      { "name": "Local soda or alkali (optional), salt", "qty": "to taste" }
+    ],
+    "recipe": [
+      "Soak dried fish briefly. Make a spicy paste with chilli, ginger and garlic.",
+      "Cook the fish with the paste and a little water into a thick, fiery gravy or soup.",
+      "Serve with rice – a classic Garo preparation."
+    ],
+    "tips": [
+      "Spicy dried-fish dish from Garo cuisine.",
+      "Intense flavour typical of smoked and dried ingredients used in the hills."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "meghalaya-snacks-ja-stem",
+    "title": "Ja Stem (Turmeric Rice)",
+    "state": "Meghalaya",
+    "mealType": "Snacks",
+    "diet": "Vegan",
+    "jainFriendly": true,
+    "jainNotes": "Ingredients are Jain-compatible (rice, turmeric, salt).",
+    "image": "ja_stem.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "25 mins",
+    "servings": "3 Servings",
+    "ingredients": [
+      { "name": "Rice", "qty": "1.5 cups" },
+      { "name": "Fresh turmeric or powder", "qty": "to colour" },
+      { "name": "Salt", "qty": "to taste" }
+    ],
+    "recipe": [
+      "Cook rice with turmeric and salt till fluffy and yellow.",
+      "Serve plain or with simple sides, pickles or as part of a light meal."
+    ],
+    "tips": [
+      "Simple turmeric-coloured rice – a vegetarian option in Khasi homes.",
+      "Often eaten with sesame dal or vegetable sides."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "meghalaya-snacks-tungtap",
+    "title": "Tungtap",
+    "state": "Meghalaya",
+    "mealType": "Snacks",
+    "diet": "Non-Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains fermented/smoked fish, onion - not consumed by Jains.",
+    "image": "tungtap.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "15 mins",
+    "servings": "as needed",
+    "ingredients": [
+      { "name": "Fermented/smoked fish", "qty": "as needed" },
+      { "name": "Chilli, onion, ginger, salt", "qty": "to taste" }
+    ],
+    "recipe": [
+      "Pound or finely chop the fermented smoked fish with chilli, onion and ginger.",
+      "Mix into a strong, pungent chutney or relish.",
+      "Serve as a side with rice or any meal."
+    ],
+    "tips": [
+      "Powerful fermented fish chutney – used sparingly for its intense flavour.",
+      "A classic Khasi condiment."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "meghalaya-lunch-dai-sboh",
+    "title": "Dai Sboh (Black Sesame Dal)",
+    "state": "Meghalaya",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains onion and garlic - not consumed by Jains. For Jain version, omit onion-garlic.",
+    "image": "dai_sboh.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "35 mins",
+    "servings": "3 Servings",
+    "ingredients": [
+      { "name": "Lentils", "qty": "1 cup" },
+      { "name": "Black sesame seeds", "qty": "1/4 cup" },
+      { "name": "Ginger, chilli, onion, garlic, salt", "qty": "to taste" }
+    ],
+    "recipe": [
+      "Cook lentils till soft. Roast and grind black sesame.",
+      "Sauté onion and garlic, then mix the sesame paste into the dal along with ginger and chilli. Simmer briefly.",
+      "Serve with rice or ja stem."
+    ],
+    "tips": [
+      "Nutty black-sesame lentil preparation – a vegetarian Khasi favourite.",
+      "Pairs well with turmeric rice."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "meghalaya-dinner-wak-tangsek-pura",
+    "title": "Wak Tangsek Pura",
+    "state": "Meghalaya",
+    "mealType": "Dinner",
+    "diet": "Non-Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains pork - not consumed by Jains.",
+    "image": "wak_tangsek_pura.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "55 mins",
+    "servings": "4 Servings",
+    "ingredients": [
+      { "name": "Pork", "qty": "500 g" },
+      { "name": "Green leafy vegetables", "qty": "2 cups" },
+      { "name": "Powdered rice, indigenous soda (karchi)", "qty": "as needed" },
+      { "name": "Salt, chilli", "qty": "to taste" }
+    ],
+    "recipe": [
+      "Cook pork with a little indigenous alkali/soda till tender.",
+      "Add chopped greens and powdered rice to thicken. Season and simmer.",
+      "Serve with rice – a traditional Garo pork-and-greens dish."
+    ],
+    "tips": [
+      "Garo specialty using local alkali (from ash) for distinctive flavour and texture.",
+      "Hearty and rustic."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  }
+]

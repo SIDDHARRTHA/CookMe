@@ -1,0 +1,438 @@
+[
+  {
+    "_id": "rajasthan-breakfast-pyaaz-kachori",
+    "title": "Pyaaz Kachori",
+    "state": "Rajasthan",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "image": "pyaaz_kachori.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "45 mins",
+    "servings": "8–10 pieces",
+    "ingredients": [
+      { "name": "Maida (all-purpose flour)", "qty": "2 cups" },
+      { "name": "Onion", "qty": "3–4 large" },
+      { "name": "Fennel seeds, coriander seeds, red chilli powder, amchur, garam masala", "qty": "to taste" },
+      { "name": "Green chillies, ginger, coriander leaves", "qty": "as needed" },
+      { "name": "Oil or ghee for dough and deep frying", "qty": "as needed" },
+      { "name": "Salt", "qty": "to taste" }
+    ],
+    "recipe": [
+      "Knead a stiff dough with maida, salt, a little oil/ghee and water. Rest 20–30 minutes.",
+      "For filling: Heat oil, add fennel and coriander seeds, then finely chopped onion. Cook till golden. Add spice powders, green chillies, ginger and salt. Cool completely.",
+      "Divide dough into balls, stuff with onion mixture, seal and flatten slightly. Deep-fry on medium heat till golden and crisp.",
+      "Serve hot with tamarind and green chutneys."
+    ],
+    "tips": [
+      "Jaipur and Jodhpur are famous for flaky pyaaz kachori.",
+      "Do not overcrowd the pan while frying for even crispness."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "rajasthan-breakfast-mirchi-bada",
+    "title": "Mirchi Bada",
+    "state": "Rajasthan",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "image": "mirchi_bada.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "30 mins",
+    "servings": "6–8 pieces",
+    "ingredients": [
+      { "name": "Large green chillies (Bhavnagri or similar)", "qty": "8–10" },
+      { "name": "Boiled potatoes", "qty": "3–4" },
+      { "name": "Besan (gram flour)", "qty": "1.5 cups" },
+      { "name": "Amchur, red chilli powder, garam masala, coriander powder", "qty": "to taste" },
+      { "name": "Oil for deep frying", "qty": "as needed" },
+      { "name": "Salt", "qty": "to taste" }
+    ],
+    "recipe": [
+      "Slit green chillies lengthwise and remove seeds if less heat is preferred.",
+      "Mash boiled potatoes with spice powders, amchur and salt. Stuff into the chillies.",
+      "Make a thick besan batter with water, salt and a pinch of chilli powder.",
+      "Dip stuffed chillies in batter and deep-fry till golden and crisp.",
+      "Serve hot with green chutney or tamarind chutney."
+    ],
+    "tips": [
+      "A classic Rajasthani street breakfast and tea-time snack.",
+      "Choose milder large chillies for better balance."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "rajasthan-breakfast-bajre-ki-roti",
+    "title": "Bajre ki Roti with Lehsun Chutney",
+    "state": "Rajasthan",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "image": "bajre_ki_roti.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "25 mins",
+    "servings": "4 Servings",
+    "ingredients": [
+      { "name": "Bajra (pearl millet) flour", "qty": "2 cups" },
+      { "name": "Hot water and salt", "qty": "as needed" },
+      { "name": "Garlic", "qty": "10–12 cloves" },
+      { "name": "Red chilli powder, salt, lemon juice or amchur", "qty": "to taste" },
+      { "name": "Ghee or oil", "qty": "for serving" }
+    ],
+    "recipe": [
+      "Knead bajra flour with hot water and salt into a soft dough. Divide and pat into thick rotis with wet hands.",
+      "Cook on a hot tawa on both sides, then finish on open flame if possible for charred spots.",
+      "For lehsun chutney: Pound or grind garlic with red chilli powder, salt and a little water or lemon. Adjust spice.",
+      "Serve hot bajra roti smeared with ghee alongside the garlic chutney."
+    ],
+    "tips": [
+      "Bajra is a desert staple and highly nutritious.",
+      "Eat the roti fresh as it hardens on cooling."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "rajasthan-lunch-dal-baati-churma",
+    "title": "Dal Baati Churma",
+    "state": "Rajasthan",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "image": "dal_baati_churma.png",
+    "wikipediaImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Rajasthani_dal-bati-churma_thali_01.jpg",
+    "imageSource": "wikimedia_commons_verified",
+    "time": "75 mins",
+    "servings": "4 Servings",
+    "ingredients": [
+      { "name": "Whole wheat flour", "qty": "2 cups (for baati)" },
+      { "name": "Toor dal + chana dal + moong dal (mixed)", "qty": "1.5 cups" },
+      { "name": "Ghee", "qty": "generous amount" },
+      { "name": "Jaggery or powdered sugar, cardamom (for churma)", "qty": "as needed" },
+      { "name": "Cumin, asafoetida, red chilli, turmeric, garam masala", "qty": "for dal" },
+      { "name": "Salt", "qty": "to taste" }
+    ],
+    "recipe": [
+      "For baati: Knead wheat flour with salt, a little ghee and water into a stiff dough. Shape into round balls, make a small dent, and bake in a traditional oven, tandoor or modern oven till hard and golden. Dip in melted ghee.",
+      "For dal: Pressure-cook mixed dals. Temper with cumin, hing, chilli and spices. Simmer to desired consistency.",
+      "For churma: Crush a few baked baatis, roast with ghee, mix powdered jaggery/sugar and cardamom.",
+      "Serve baati cracked open and soaked in ghee with dal and sweet churma on the side."
+    ],
+    "tips": [
+      "The iconic Rajasthani trinity. Traditionally baatis were baked in sand or embers.",
+      "Generous ghee is essential for authentic taste."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "rajasthan-lunch-gatte-ki-sabzi",
+    "title": "Gatte ki Sabzi",
+    "state": "Rajasthan",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "image": "gatte_ki_sabzi.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "40 mins",
+    "servings": "4 Servings",
+    "ingredients": [
+      { "name": "Besan (gram flour)", "qty": "1.5 cups" },
+      { "name": "Yogurt / curd", "qty": "1 cup" },
+      { "name": "Red chilli powder, turmeric, coriander powder, garam masala, ajwain", "qty": "to taste" },
+      { "name": "Onion, tomato (optional), ginger-garlic", "qty": "as needed" },
+      { "name": "Oil or ghee, cumin, asafoetida, curry leaves", "qty": "for tempering" },
+      { "name": "Salt", "qty": "to taste" }
+    ],
+    "recipe": [
+      "Mix besan with spices, ajwain, salt and a little oil/yogurt to form a stiff dough. Shape into long cylinders (gatte). Boil in water 12–15 minutes till they float. Cool and slice into rounds.",
+      "Whisk yogurt with spice powders. Temper cumin, hing and optional onion/tomato in oil/ghee. Add the yogurt mixture and cook on low heat till it thickens (stir continuously to avoid curdling).",
+      "Add the gatte pieces and simmer 5–7 minutes. Adjust consistency with water.",
+      "Serve with roti, bajra roti or rice."
+    ],
+    "tips": [
+      "A signature Rajasthani dish that uses no fresh vegetables – perfect for the desert climate.",
+      "Jain versions omit onion and garlic."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "rajasthan-lunch-ker-sangri",
+    "title": "Ker Sangri",
+    "state": "Rajasthan",
+    "mealType": "Lunch",
+    "diet": "Vegan",
+    "jainFriendly": true,
+    "image": "ker_sangri.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "35 mins (+ soaking)",
+    "servings": "3 Servings",
+    "ingredients": [
+      { "name": "Dried ker (desert berries)", "qty": "1/2 cup" },
+      { "name": "Dried sangri (desert beans)", "qty": "1 cup" },
+      { "name": "Red chilli powder, turmeric, coriander powder, amchur, garam masala", "qty": "to taste" },
+      { "name": "Mustard oil or ghee, cumin, asafoetida", "qty": "for tempering" },
+      { "name": "Salt", "qty": "to taste" }
+    ],
+    "recipe": [
+      "Soak ker and sangri in water for at least 4–6 hours or overnight. Drain and rinse well.",
+      "Pressure-cook or boil till soft. Drain.",
+      "Heat mustard oil till smoking, cool slightly. Temper cumin and hing. Add the ker-sangri, spice powders and salt. Sauté on medium heat till well coated and slightly dry.",
+      "Finish with amchur. Serve with bajra roti or regular roti."
+    ],
+    "tips": [
+      "Iconic desert dish made from local hardy plants that grow in arid conditions.",
+      "Has a unique tangy-spicy flavour and long shelf life."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "rajasthan-dinner-laal-maas",
+    "title": "Laal Maas",
+    "state": "Rajasthan",
+    "mealType": "Dinner",
+    "diet": "Non-Vegetarian",
+    "jainFriendly": false,
+    "image": "laal_maas.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "75 mins",
+    "servings": "4 Servings",
+    "ingredients": [
+      { "name": "Mutton (preferably on bone)", "qty": "750 g" },
+      { "name": "Mathania red chillies or Kashmiri + hot red chillies", "qty": "10–15" },
+      { "name": "Yogurt", "qty": "1 cup" },
+      { "name": "Onion, garlic, ginger", "qty": "as needed" },
+      { "name": "Ghee or oil, whole spices (cardamom, cinnamon, cloves)", "qty": "as needed" },
+      { "name": "Salt", "qty": "to taste" }
+    ],
+    "recipe": [
+      "Soak red chillies and grind to a fine paste. Marinate mutton with yogurt, chilli paste, salt and ginger-garlic for at least 1 hour.",
+      "Heat ghee, add whole spices and sliced onion. Cook till golden. Add the marinated mutton and sear well.",
+      "Add a little water, cover and slow-cook (or pressure-cook) till mutton is tender and the gravy turns deep red and thick.",
+      "Finish with a tempering of ghee and garlic if desired. Serve with bajra roti, missi roti or rice."
+    ],
+    "tips": [
+      "The signature fiery red colour and heat come from Mathania chillies.",
+      "A royal Rajput dish traditionally cooked with minimal water."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "rajasthan-dinner-safed-maas",
+    "title": "Safed Maas",
+    "state": "Rajasthan",
+    "mealType": "Dinner",
+    "diet": "Non-Vegetarian",
+    "jainFriendly": false,
+    "image": "safed_maas.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "70 mins",
+    "servings": "4 Servings",
+    "ingredients": [
+      { "name": "Mutton", "qty": "750 g" },
+      { "name": "Yogurt, cashew paste, poppy seed paste, almond paste", "qty": "as needed" },
+      { "name": "Onion, ginger-garlic, green cardamom, white pepper", "qty": "to taste" },
+      { "name": "Ghee, cream (optional)", "qty": "as needed" },
+      { "name": "Salt", "qty": "to taste" }
+    ],
+    "recipe": [
+      "Marinate mutton with yogurt, salt and ginger-garlic.",
+      "Heat ghee, add whole spices and sliced onion. Cook till soft but not browned (to keep the gravy white).",
+      "Add the mutton and cook. Stir in cashew, poppy and almond pastes. Add water or stock and simmer till tender.",
+      "Finish with white pepper and a little cream if desired. The gravy should remain pale.",
+      "Serve with roti or rice."
+    ],
+    "tips": [
+      "The ‘white’ counterpart to Laal Maas – mild, rich and nutty.",
+      "Royal court influence is evident in the use of dry fruits and dairy."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "rajasthan-snacks-bedmi-poori",
+    "title": "Bedmi Poori",
+    "state": "Rajasthan",
+    "mealType": "Snacks",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "image": "bedmi_poori.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "40 mins",
+    "servings": "10–12 pieces",
+    "ingredients": [
+      { "name": "Whole wheat flour", "qty": "2 cups" },
+      { "name": "Urad dal (soaked and ground)", "qty": "1/2 cup" },
+      { "name": "Fennel, coriander seeds, red chilli, asafoetida, ginger", "qty": "to taste" },
+      { "name": "Oil for deep frying", "qty": "as needed" },
+      { "name": "Salt", "qty": "to taste" }
+    ],
+    "recipe": [
+      "Mix wheat flour with the spiced urad dal paste, salt and a little oil. Knead into a stiff dough. Rest 20 minutes.",
+      "Roll into small pooris and deep-fry till puffed and golden.",
+      "Serve hot with aloo sabzi or kadhi."
+    ],
+    "tips": [
+      "Also popular in parts of UP and Rajasthan as a breakfast or snack.",
+      "The urad dal makes the poori flavourful and slightly crisp."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "rajasthan-snacks-bikaneri-bhujia",
+    "title": "Bikaneri Bhujia",
+    "state": "Rajasthan",
+    "mealType": "Snacks",
+    "diet": "Vegetarian",
+    "jainFriendly": true,
+    "image": "bikaneri_bhujia.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "45 mins",
+    "servings": "many",
+    "ingredients": [
+      { "name": "Moth dal flour or besan + moth flour", "qty": "2 cups" },
+      { "name": "Pepper, cloves, cardamom, cinnamon (ground)", "qty": "to taste" },
+      { "name": "Salt, oil for dough and frying", "qty": "as needed" },
+      { "name": "Water", "qty": "as needed" }
+    ],
+    "recipe": [
+      "Mix the flour with spice powders, salt and a little oil. Add water to form a soft, pipeable dough.",
+      "Heat oil. Using a sev press or bhujia maker with fine holes, extrude the dough directly into hot oil in circular motions.",
+      "Fry till crisp and light golden. Drain and cool completely.",
+      "Store in airtight containers."
+    ],
+    "tips": [
+      "GI-tagged specialty of Bikaner.",
+      "The unique peppery flavour distinguishes it from regular sev."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "rajasthan-lunch-panchmel-dal",
+    "title": "Panchmel Dal",
+    "state": "Rajasthan",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "jainFriendly": true,
+    "image": "panchmel_dal.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "40 mins",
+    "servings": "4 Servings",
+    "ingredients": [
+      { "name": "Five dals (toor, chana, moong, urad, masoor)", "qty": "1.5 cups total" },
+      { "name": "Turmeric, red chilli, coriander powder, garam masala, amchur", "qty": "to taste" },
+      { "name": "Cumin, asafoetida, dry red chilli, ghee", "qty": "for tempering" },
+      { "name": "Salt", "qty": "to taste" }
+    ],
+    "recipe": [
+      "Wash and pressure-cook the five dals with turmeric till soft. Mash lightly.",
+      "Temper ghee with cumin, hing and dry red chilli. Add the cooked dal, remaining spices and salt. Simmer 5–7 minutes.",
+      "Adjust consistency. Finish with a spoon of pure ghee.",
+      "Serve with baati, roti or rice."
+    ],
+    "tips": [
+      "Panchmel means five-mix – a classic Rajasthani mixed dal.",
+      "Often served as part of dal-baati."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "rajasthan-dinner-papad-ki-sabzi",
+    "title": "Papad ki Sabzi",
+    "state": "Rajasthan",
+    "mealType": "Dinner",
+    "diet": "Vegetarian",
+    "jainFriendly": true,
+    "image": "papad_ki_sabzi.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "25 mins",
+    "servings": "3 Servings",
+    "ingredients": [
+      { "name": "Urad dal papad", "qty": "6–8" },
+      { "name": "Yogurt", "qty": "1 cup" },
+      { "name": "Red chilli powder, turmeric, coriander powder, garam masala", "qty": "to taste" },
+      { "name": "Cumin, asafoetida, ghee or oil", "qty": "for tempering" },
+      { "name": "Salt", "qty": "to taste" }
+    ],
+    "recipe": [
+      "Break papads into pieces. Lightly roast or fry if desired.",
+      "Whisk yogurt with spice powders. Temper cumin and hing in ghee. Add the yogurt mixture and cook on low heat, stirring continuously.",
+      "Add papad pieces and a little water. Simmer 3–4 minutes till papads soften but do not disintegrate completely.",
+      "Serve with roti or bajra roti."
+    ],
+    "tips": [
+      "A clever desert dish that turns preserved papad into a curry.",
+      "Cook briefly so papads retain some texture."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "rajasthan-snacks-kalmi-vada",
+    "title": "Kalmi Vada",
+    "state": "Rajasthan",
+    "mealType": "Snacks",
+    "diet": "Vegetarian",
+    "jainFriendly": true,
+    "image": "kalmi_vada.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "35 mins (+ soaking)",
+    "servings": "10–12 pieces",
+    "ingredients": [
+      { "name": "Moong dal (yellow or green)", "qty": "1 cup" },
+      { "name": "Fennel, coriander seeds, red chilli, ginger, green chilli", "qty": "to taste" },
+      { "name": "Salt, oil for deep frying", "qty": "as needed" }
+    ],
+    "recipe": [
+      "Soak moong dal for 3–4 hours. Drain and grind coarsely with spices and salt (do not make a fine paste).",
+      "Shape into small flat discs or logs.",
+      "Deep-fry on medium heat till crisp and golden.",
+      "Serve with green chutney or as a tea-time snack."
+    ],
+    "tips": [
+      "A traditional Rajasthani dal-based snack.",
+      "Coarse texture gives the characteristic bite."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "rajasthan-breakfast-kadhi-kachori",
+    "title": "Kadhi Kachori",
+    "state": "Rajasthan",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "image": "kadhi_kachori.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "50 mins",
+    "servings": "4 Servings",
+    "ingredients": [
+      { "name": "Kachori (lentil or onion stuffed)", "qty": "6–8" },
+      { "name": "Yogurt, besan", "qty": "for kadhi" },
+      { "name": "Cumin, mustard, fenugreek seeds, dry red chilli, curry leaves", "qty": "for tempering" },
+      { "name": "Turmeric, red chilli powder, salt", "qty": "to taste" },
+      { "name": "Oil or ghee", "qty": "as needed" }
+    ],
+    "recipe": [
+      "Prepare or use ready spicy kachoris.",
+      "For kadhi: Whisk yogurt with besan, turmeric, chilli powder and water. Cook on medium heat, stirring, till it thickens and the raw smell disappears.",
+      "Temper with cumin, mustard, fenugreek, dry red chilli and curry leaves in ghee. Pour over the kadhi.",
+      "Serve hot kadhi with kachoris dipped or on the side."
+    ],
+    "tips": [
+      "A popular Rajasthani breakfast combination, especially in Jaipur and Ajmer.",
+      "The kadhi is usually thinner than Gujarati or Punjabi versions."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  }
+]

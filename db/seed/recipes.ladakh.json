@@ -1,0 +1,508 @@
+[
+  {
+    "_id": "ladakh-breakfast-kholak",
+    "title": "Kholak (Tsampa with Butter Tea)",
+    "state": "Ladakh",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "jainFriendly": true,
+    "jainNotes": "Ingredients are Jain-compatible (roasted barley flour, butter tea, salt). Use cow butter instead of yak butter if preferred. Chhang variation is optional - omit for Jain version.",
+    "image": "kholak.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "description": "The ultimate quick Ladakhi breakfast of roasted barley flour (tsampa/namphey) mixed into salty butter tea (gur gur chai) and kneaded into a soft dough or porridge. Highly nutritious, portable, and ideal for high-altitude life.",
+    "ingredients": [
+      "1 cup roasted barley flour (tsampa/namphey)",
+      "1–2 cups hot butter tea (or plain salted tea)",
+      "1–2 tsp yak or cow butter (optional extra)",
+      "Pinch of salt if needed"
+    ],
+    "steps": [
+      "Prepare or heat salted butter tea.",
+      "Place tsampa in a bowl, pour a little hot butter tea over it.",
+      "Mix and knead with fingers into a soft dough or thicker porridge consistency.",
+      "Eat as is, or with a little extra butter."
+    ],
+    "tips": [
+      "Traditionally eaten any time of day; perfect trekking food.",
+      "Can be made with water or diluted chhang in some valleys for variation."
+    ],
+    "prepTime": "5 minutes",
+    "cookTime": "0 minutes",
+    "servings": 1,
+    "research": {
+      "status": "unverified",
+      "sourceUrls": []
+    }
+  },
+  {
+    "_id": "ladakh-breakfast-khambir",
+    "title": "Khambir (Tagi) with Butter Tea",
+    "state": "Ladakh",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "jainFriendly": true,
+    "jainNotes": "Ingredients are Jain-compatible (whole wheat flour, yeast/starter, salt, butter tea). No onion, garlic, or root vegetables.",
+    "image": "khambir.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "description": "Traditional Ladakhi whole-wheat sourdough flatbread, slightly sour and dense, baked on a hot stone then over open fire. Staple breakfast bread served with gur gur chai (butter tea).",
+    "ingredients": [
+      "2 cups whole wheat flour",
+      "1 tsp yeast or traditional starter",
+      "Warm water as needed",
+      "Salt to taste",
+      "Butter tea for serving"
+    ],
+    "steps": [
+      "Knead flour, yeast/starter, salt and water into a soft dough. Ferment overnight or several hours.",
+      "Shape into thick rounds.",
+      "Bake first on a hot stone or pan, then finish directly over low fire or coals for a firm crust.",
+      "Serve warm with butter tea, apricot jam, or plain butter."
+    ],
+    "tips": [
+      "Keeps well for several days at room temperature.",
+      "Symbol of hospitality in Ladakhi homes."
+    ],
+    "prepTime": "15 minutes + fermentation",
+    "cookTime": "20–30 minutes",
+    "servings": 4,
+    "research": {
+      "status": "unverified",
+      "sourceUrls": []
+    }
+  },
+  {
+    "_id": "ladakh-breakfast-paba",
+    "title": "Paba",
+    "state": "Ladakh",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "jainFriendly": true,
+    "jainNotes": "Ingredients are Jain-compatible (mixed roasted flours, ghee/butter, salt). No onion, garlic, or root vegetables.",
+    "image": "paba.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "description": "Dense multi-grain bread or pudding made from roasted barley, peas, wheat or buckwheat flour mixed with boiling water. Slathered with ghee and eaten with vegetables or dal.",
+    "ingredients": [
+      "1 cup mixed roasted flour (barley + pea/wheat/buckwheat)",
+      "Boiling water",
+      "Ghee or butter for serving",
+      "Salt"
+    ],
+    "steps": [
+      "Mix the roasted flours with salt.",
+      "Pour boiling water and stir vigorously into a thick dough or soft pudding consistency.",
+      "Shape into a loaf or serve as is.",
+      "Serve hot with ghee and simple vegetables or lentils."
+    ],
+    "tips": [
+      "Highly sustaining field food traditionally carried to work."
+    ],
+    "prepTime": "5 minutes",
+    "cookTime": "5 minutes",
+    "servings": 2,
+    "research": {
+      "status": "unverified",
+      "sourceUrls": []
+    }
+  },
+  {
+    "_id": "ladakh-lunch-vegetable-skyu",
+    "title": "Vegetable Skyu",
+    "state": "Ladakh",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains root vegetables (carrots, turnips, potatoes) - not consumed by Jains.",
+    "image": "vegetable_skyu.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "description": "Iconic Ladakhi one-pot stew of hand-shaped thumbprint wheat pasta cooked with root vegetables in a mild broth. True local dish (not purely Tibetan).",
+    "ingredients": [
+      "2 cups wheat flour",
+      "Water for dough",
+      "2–3 carrots, diced",
+      "1–2 turnips or potatoes, diced",
+      "Onion, ginger (optional traditional use is minimal)",
+      "Local greens or dried vegetables",
+      "Salt, black pepper, fresh herbs (cilantro, celery greens)"
+    ],
+    "steps": [
+      "Knead firm dough, roll into ropes, pinch into small ear/shell shapes.",
+      "Sauté aromatics lightly if using, add vegetables and water/broth.",
+      "Simmer until vegetables soften, then add pasta pieces.",
+      "Cook until pasta is tender. Adjust seasoning and serve hot."
+    ],
+    "tips": [
+      "Sometimes made with milk (oma-skyu) for creamier version.",
+      "Root vegetables are traditional; omit for stricter diets."
+    ],
+    "prepTime": "25 minutes",
+    "cookTime": "30–40 minutes",
+    "servings": 4,
+    "research": {
+      "status": "unverified",
+      "sourceUrls": []
+    }
+  },
+  {
+    "_id": "ladakh-lunch-chutagi",
+    "title": "Chutagi (Chhutagi)",
+    "state": "Ladakh",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains root vegetables (carrots, turnips, potatoes) - not consumed by Jains.",
+    "image": "chutagi.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "description": "'Water bread' – bow-tie or ear-shaped whole-wheat pasta cooked in a hearty vegetable broth. Festive yet everyday Ladakhi pasta stew.",
+    "ingredients": [
+      "2 cups wheat flour",
+      "Water",
+      "Carrots, turnips, potatoes, peas, spinach or local greens",
+      "Onion, garlic/ginger (minimal traditional use)",
+      "Salt, pepper, local herbs"
+    ],
+    "steps": [
+      "Make dough, roll out, cut into circles then pinch into bow-tie shapes.",
+      "Prepare vegetable broth with chopped roots and greens.",
+      "Add pasta shapes and simmer until cooked through.",
+      "Serve piping hot."
+    ],
+    "tips": [
+      "Often prepared during harvest season for energy.",
+      "Meat version with goat trotters exists for non-veg."
+    ],
+    "prepTime": "30 minutes",
+    "cookTime": "30 minutes",
+    "servings": 4,
+    "research": {
+      "status": "unverified",
+      "sourceUrls": []
+    }
+  },
+  {
+    "_id": "ladakh-lunch-vegetable-thukpa",
+    "title": "Vegetable Thukpa",
+    "state": "Ladakh",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains onion, ginger, garlic - not consumed by Jains. For Jain version, omit onion-garlic.",
+    "image": "vegetable_thukpa.png",
+    "wikipediaImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Thukpa_(27989841733).jpg",
+    "imageSource": "wikimedia_commons_verified",
+    "description": "Clear noodle soup of Tibetan origin fully adopted in Ladakh. Hand-pulled or cut wheat/barley noodles in a light vegetable broth with local greens.",
+    "ingredients": [
+      "Wheat or barley noodles (fresh or dried)",
+      "Carrots, cabbage, spinach or local greens",
+      "Onion, ginger, garlic (light use)",
+      "Salt, black pepper, cilantro",
+      "Vegetable stock or water"
+    ],
+    "steps": [
+      "Prepare clear vegetable broth.",
+      "Add chopped vegetables and simmer.",
+      "Cook noodles separately or in the broth until tender.",
+      "Season and garnish with fresh herbs. Serve hot."
+    ],
+    "tips": [
+      "Variants include thenthuk (hand-pulled) and gyathuk.",
+      "Widely available in Leh restaurants in both veg and non-veg forms."
+    ],
+    "prepTime": "15 minutes",
+    "cookTime": "25 minutes",
+    "servings": 3,
+    "research": {
+      "status": "unverified",
+      "sourceUrls": []
+    }
+  },
+  {
+    "_id": "ladakh-lunch-mutton-skyu",
+    "title": "Mutton Skyu",
+    "state": "Ladakh",
+    "mealType": "Lunch",
+    "diet": "Non-Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains mutton and onion - not consumed by Jains.",
+    "image": "mutton_skyu.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "description": "Hearty version of the classic Ladakhi pasta stew cooked with mutton or bone broth, root vegetables and hand-shaped wheat pieces.",
+    "ingredients": [
+      "Wheat flour for pasta",
+      "Mutton pieces (on bone preferred)",
+      "Carrots, turnips, potatoes",
+      "Onion, ginger",
+      "Salt, pepper, local herbs"
+    ],
+    "steps": [
+      "Pressure-cook or simmer mutton until tender; reserve broth.",
+      "Shape dough into small ear-shaped pieces.",
+      "Add vegetables and pasta to the broth and cook until done.",
+      "Return meat and adjust seasoning."
+    ],
+    "tips": [
+      "Ideal winter dish for warmth and calories."
+    ],
+    "prepTime": "30 minutes",
+    "cookTime": "60–90 minutes",
+    "servings": 4,
+    "research": {
+      "status": "unverified",
+      "sourceUrls": []
+    }
+  },
+  {
+    "_id": "ladakh-dinner-vegetable-momos",
+    "title": "Vegetable Momos (Mokmok)",
+    "state": "Ladakh",
+    "mealType": "Dinner",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains onion, garlic - not consumed by Jains. For Jain version, omit onion-garlic.",
+    "image": "vegetable_momos.png",
+    "wikipediaImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Steamed_momos_-_Tibetan_cuisine.jpg",
+    "imageSource": "wikimedia_commons_verified",
+    "description": "Steamed dumplings of Tibetan origin, now a Ladakhi staple. Thin wheat wrappers filled with mixed vegetables, served with chilli chutney or clear soup.",
+    "ingredients": [
+      "Wheat flour for wrappers",
+      "Cabbage, carrot, onion, spinach or local greens",
+      "Ginger, garlic, salt, pepper",
+      "Oil for dough if needed"
+    ],
+    "steps": [
+      "Knead soft dough and rest.",
+      "Finely chop and season vegetable filling.",
+      "Roll thin circles, fill, and pleat into half-moon or round shapes.",
+      "Steam 12–15 minutes until cooked. Serve with spicy tomato-chilli chutney."
+    ],
+    "tips": [
+      "Mokthuk is the version served in soup."
+    ],
+    "prepTime": "40 minutes",
+    "cookTime": "15 minutes",
+    "servings": 4,
+    "research": {
+      "status": "unverified",
+      "sourceUrls": []
+    }
+  },
+  {
+    "_id": "ladakh-dinner-mutton-momos",
+    "title": "Mutton Momos",
+    "state": "Ladakh",
+    "mealType": "Dinner",
+    "diet": "Non-Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains mutton and onion - not consumed by Jains.",
+    "image": "mutton_momos.png",
+    "wikipediaImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Steamed_momos_-_Tibetan_cuisine.jpg",
+    "imageSource": "wikimedia_commons_verified",
+    "description": "Classic meat-filled steamed dumplings popular across Ladakh. Minced mutton or lamb seasoned simply, wrapped and steamed.",
+    "ingredients": [
+      "Wheat flour",
+      "Minced mutton or lamb",
+      "Onion, ginger, garlic",
+      "Salt, black pepper, a little oil"
+    ],
+    "steps": [
+      "Prepare dough and rest.",
+      "Mix minced meat with finely chopped aromatics and seasoning.",
+      "Fill and pleat dumplings.",
+      "Steam until fully cooked (about 15 minutes). Serve with chilli sauce."
+    ],
+    "tips": [
+      "Yak meat was traditional but is now restricted; mutton is the common substitute."
+    ],
+    "prepTime": "40 minutes",
+    "cookTime": "15 minutes",
+    "servings": 4,
+    "research": {
+      "status": "unverified",
+      "sourceUrls": []
+    }
+  },
+  {
+    "_id": "ladakh-dinner-yarkhandi-pulao",
+    "title": "Yarkhandi Pulao",
+    "state": "Ladakh",
+    "mealType": "Dinner",
+    "diet": "Non-Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains mutton and onion - not consumed by Jains.",
+    "image": "yarkhandi_pulao.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "description": "Festive, rich rice dish brought via the Silk Route by Yarkhandi traders. Slow-cooked mutton with rice, dried fruits, nuts and animal fat – once considered haute cuisine of Ladakh.",
+    "ingredients": [
+      "Basmati or local rice",
+      "Mutton pieces (preferably on bone)",
+      "Carrots (julienned)",
+      "Raisins, apricot kernels or dried apricots",
+      "Nuts",
+      "Ghee or animal fat",
+      "Minimal whole spices (shahi jeera etc.)"
+    ],
+    "steps": [
+      "Slow-cook mutton until very tender.",
+      "Fry carrots, nuts and dried fruits in ghee.",
+      "Layer or mix with soaked rice and the meat broth.",
+      "Cook until rice is done and flavours meld. Serve with clear soup on the side."
+    ],
+    "tips": [
+      "Rice was historically a luxury grain in the region.",
+      "Modern versions are less fatty than the traditional ones."
+    ],
+    "prepTime": "20 minutes",
+    "cookTime": "90–120 minutes",
+    "servings": 6,
+    "research": {
+      "status": "unverified",
+      "sourceUrls": []
+    }
+  },
+  {
+    "_id": "ladakh-dinner-tingmo",
+    "title": "Tingmo (Timok) with Vegetable Stew",
+    "state": "Ladakh",
+    "mealType": "Dinner",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains onion and garlic in the vegetable stew - not consumed by Jains. For Jain version, serve with Jain-friendly stew (no onion-garlic).",
+    "image": "tingmo.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "description": "Soft steamed Tibetan-style leavened buns popular in Ladakh, usually eaten with a simple vegetable or meat stew or dal.",
+    "ingredients": [
+      "2 cups refined or wheat flour",
+      "Yeast, sugar, warm water, oil",
+      "Vegetable stew or dal for serving (contains onion, garlic)"
+    ],
+    "steps": [
+      "Prepare soft yeasted dough and proof.",
+      "Shape into flower-like or round steamed buns.",
+      "Steam 15–20 minutes until fluffy.",
+      "Serve hot with stew or dal."
+    ],
+    "tips": [
+      "Also eaten as a snack or with butter tea."
+    ],
+    "prepTime": "20 minutes + proofing",
+    "cookTime": "20 minutes",
+    "servings": 4,
+    "research": {
+      "status": "unverified",
+      "sourceUrls": []
+    }
+  },
+  {
+    "_id": "ladakh-snacks-steamed-momos",
+    "title": "Steamed Vegetable Momos",
+    "state": "Ladakh",
+    "mealType": "Snacks",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains onion, garlic - not consumed by Jains. For Jain version, omit onion-garlic.",
+    "image": "steamed_momos_snack.png",
+    "wikipediaImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Steamed_momos_-_Tibetan_cuisine.jpg",
+    "imageSource": "wikimedia_commons_verified",
+    "description": "Smaller portion of vegetable momos commonly sold as street or café snack throughout Leh and Ladakh towns.",
+    "ingredients": [
+      "Wheat flour for wrappers",
+      "Cabbage, carrot, onion, spinach or local greens",
+      "Ginger, garlic, salt, pepper",
+      "Oil for dough if needed"
+    ],
+    "steps": [
+      "Knead soft dough and rest.",
+      "Finely chop and season vegetable filling.",
+      "Roll thin circles, fill, and pleat into half-moon or round shapes.",
+      "Steam 12–15 minutes until cooked. Serve with spicy tomato-chilli chutney."
+    ],
+    "tips": [
+      "Ubiquitous snack; also available fried or in soup (mokthuk)."
+    ],
+    "prepTime": "30 minutes",
+    "cookTime": "12–15 minutes",
+    "servings": 2,
+    "research": {
+      "status": "unverified",
+      "sourceUrls": []
+    }
+  },
+  {
+    "_id": "ladakh-snacks-khambir-snack",
+    "title": "Khambir (Snack)",
+    "state": "Ladakh",
+    "mealType": "Snacks",
+    "diet": "Vegetarian",
+    "jainFriendly": true,
+    "jainNotes": "Ingredients are Jain-compatible (whole wheat flour, yeast/starter, salt). No onion, garlic, or root vegetables.",
+    "image": "khambir_snack.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "description": "Thick sourdough Ladakhi bread torn and eaten plain, with butter, apricot jam, or local cheese as a simple anytime snack.",
+    "ingredients": [
+      "2 cups whole wheat flour",
+      "1 tsp yeast or traditional starter",
+      "Warm water as needed",
+      "Salt to taste"
+    ],
+    "steps": [
+      "Knead flour, yeast/starter, salt and water into a soft dough. Ferment overnight or several hours.",
+      "Shape into thick rounds.",
+      "Bake first on a hot stone or pan, then finish directly over low fire or coals for a firm crust.",
+      "Serve at room temperature or lightly warmed with butter, jam, or cheese."
+    ],
+    "tips": [
+      "Keeps for days; ideal travel food."
+    ],
+    "prepTime": "15 minutes + fermentation",
+    "cookTime": "25 minutes",
+    "servings": 4,
+    "research": {
+      "status": "unverified",
+      "sourceUrls": []
+    }
+  },
+  {
+    "_id": "ladakh-snacks-butter-tea",
+    "title": "Gur Gur Chai (Butter Tea)",
+    "state": "Ladakh",
+    "mealType": "Snacks",
+    "diet": "Vegetarian",
+    "jainFriendly": true,
+    "jainNotes": "Ingredients are Jain-compatible (tea, butter, salt). Use cow butter instead of yak butter if preferred.",
+    "image": "butter_tea.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "description": "Salty yak-butter tea churned until frothy. More than a drink – a daily high-calorie staple and cultural ritual of Ladakh and the wider Himalayan region.",
+    "ingredients": [
+      "Strong black or green tea leaves",
+      "Yak or cow butter",
+      "Salt",
+      "Hot water (sometimes a little milk)"
+    ],
+    "steps": [
+      "Brew strong tea concentrate.",
+      "Add salt and butter.",
+      "Churn vigorously in a dongmo (traditional churn) or modern blender until emulsified and frothy.",
+      "Serve hot in small bowls."
+    ],
+    "tips": [
+      "Acquired taste for most outsiders; essential for hydration and warmth at altitude.",
+      "Often drunk throughout the day with khambir or tsampa."
+    ],
+    "prepTime": "5 minutes",
+    "cookTime": "10–15 minutes",
+    "servings": 3,
+    "research": {
+      "status": "unverified",
+      "sourceUrls": []
+    }
+  }
+]

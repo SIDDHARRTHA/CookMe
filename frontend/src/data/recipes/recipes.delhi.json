@@ -1,0 +1,962 @@
+[
+  {
+    "id": "delhi-breakfast-chole-bhature",
+    "title": "Chole Bhature",
+    "state": "Delhi",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "time": "",
+    "servings": 4,
+    "heroImage": "./assets/images/chole_bhature.png",
+    "steps": [
+      "Soak chickpeas overnight, then boil with tea leaves for color.",
+      "Prepare a rich gravy with onion, tomato, ginger, garlic, and chole masala.",
+      "Simmer the boiled chickpeas in the gravy until thick and flavorful.",
+      "Prepare a dough of maida and sooji, and let it rest.",
+      "Roll into bhaturas and deep-fry in hot oil until puffed and golden."
+    ],
+    "fullIngredients": [
+      {
+        "name": "2 cups maida (all-purpose flour)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "½ cup sooji (semolina)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "1 cup chickpeas (soaked overnight)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Onion, tomato, ginger-garlic paste",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Chole masala, black cardamom, pomegranate seeds",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Tea leaves (for colour)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Oil for deep frying",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Ghee for tempering",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Salt to taste",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "A Sunday breakfast and filling lunch favorite in Delhi ."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Ask for extra onions and a green chilli on the side - it cuts through the richness perfectly ."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "delhi-breakfast-bedmi-puri",
+    "title": "Bedmi Puri with Aloo Sabzi",
+    "state": "Delhi",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "time": "",
+    "servings": 4,
+    "heroImage": "./assets/images/bedmi_puri.png",
+    "steps": [
+      "Soak and coarsely grind the urad dal with ginger, chillies, and spices.",
+      "Knead wheat flour with the spiced dal mixture and a little oil into a dough.",
+      "Prepare a tangy aloo sabzi (potato curry) with tomatoes and cumin.",
+      "Roll the dough into small puris and deep-fry until crisp.",
+      "Serve hot puris alongside the spicy aloo sabzi."
+    ],
+    "fullIngredients": [
+      {
+        "name": "3 cups whole wheat flour",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "1 cup dhuli urad dal (skinned black lentil)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "2 inch ginger",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "3-4 green chillies",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Fennel powder, coriander powder",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Red chilli powder, dry mango powder",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Hing (asafoetida)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Potatoes for aloo sabzi",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Cumin seeds, green chilli, coriander",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Oil for frying",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Salt to taste",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "The dough should be tight just like poori dough ."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Double frying method ensures the poories fluff up properly ."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "delhi-breakfast-nihari",
+    "title": "Nihari",
+    "state": "Delhi",
+    "mealType": "Breakfast",
+    "diet": "Non-Vegetarian",
+    "time": "",
+    "servings": 4,
+    "heroImage": "./assets/images/nihari.png",
+    "steps": [
+      "Slow-cook mutton on the bone with whole spices, ginger-garlic, and chillies.",
+      "Allow it to simmer gently overnight or for several hours until very tender.",
+      "Prepare a slurry of wheat flour and water, and stir it into the gravy.",
+      "Cook until the gravy thickens and oil floats to the top.",
+      "Serve hot garnished with ginger juliennes and fresh coriander."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Mutton (on bone)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Whole spices (cinnamon, cardamom, cloves)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Ginger-garlic paste",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Kashmiri red chilli powder",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Wheat flour (for thickening)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Ghee",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Salt",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "The nihari counters near Jama Masjid open before 7 AM and run out by mid morning ."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Set an alarm - this is a breakfast-only affair."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "delhi-lunch-butter-chicken",
+    "title": "Butter Chicken (Murgh Makhani)",
+    "state": "Delhi",
+    "mealType": "Lunch",
+    "diet": "Non-Vegetarian",
+    "time": "",
+    "servings": 4,
+    "heroImage": "./assets/images/butter_chicken.png",
+    "steps": [
+      "Marinate chicken in yogurt and spices, then roast or grill.",
+      "Prepare a rich makhani sauce using tomato puree, butter, and cream.",
+      "Season the sauce with kasuri methi, honey, and garam masala.",
+      "Add the cooked chicken to the sauce and simmer gently.",
+      "Serve hot, garnished with a swirl of cream."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Boneless chicken",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Yogurt, ginger-garlic paste",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Tomato puree, butter, cream",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Kasuri methi, honey or sugar",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Garam masala, red chilli powder",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Salt",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "The original version at Moti Mahal in Daryaganj is still the gold standard ."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "The dal makhani here is equally important, slow-cooked overnight with butter and cream ."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "delhi-lunch-kebabs",
+    "title": "Mughlai Kebabs (Seekh/Shami)",
+    "state": "Delhi",
+    "mealType": "Lunch",
+    "diet": "Non-Vegetarian",
+    "time": "",
+    "servings": 4,
+    "heroImage": "./assets/images/kebabs.png",
+    "steps": [
+      "Mix minced meat with finely chopped onion, ginger-garlic, and green chillies.",
+      "Season with garam masala, red chilli powder, and coriander.",
+      "Shape the mixture onto skewers (for seekh) or into patties (for shami).",
+      "Grill, pan-fry, or roast until cooked through and slightly charred.",
+      "Serve hot with mint chutney and onion rings."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Minced mutton or chicken",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Onion, ginger-garlic",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Green chillies, coriander",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Garam masala, red chilli powder",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Ghee or oil",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Salt",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Old Delhi areas around Jama Masjid are packed with kebab legends like Karim's and Qureshi Kebab Corner ."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "The smoky charcoal aroma is the hallmark of authentic Delhi kebabs."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "delhi-snacks-gol-gappa",
+    "title": "Gol Gappa (Pani Puri)",
+    "state": "Delhi",
+    "mealType": "Snacks",
+    "diet": "Vegetarian",
+    "time": "",
+    "servings": 1,
+    "heroImage": "./assets/images/gol_gappa.png",
+    "steps": [
+      "Prepare hollow wheat puris and lightly crack the top of each.",
+      "Stuff each puri with a little mashed potato and boiled chickpeas.",
+      "Prepare a spicy mint-coriander water and a sweet tamarind water.",
+      "Fill the stuffed puris with a mixture of both waters.",
+      "Serve immediately for a burst of flavor."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Hollow puris (wheat flour)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Mashed potato, chickpeas",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Tamarind water (sweet)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Mint-coriander water (spicy)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Chaat masala, black salt",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Green chilli",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Ask for 'teekha paani' if you want the hot version ."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Most vendors give you a sweet tamarind shot at the end - don't skip it ."
+      },
+      {
+        "title": "Tip 3",
+        "desc": "Best at Chandni Chowk, Rajouri Garden, Lajpat Nagar ."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "delhi-snacks-aloo-tikki",
+    "title": "Aloo Tikki Chaat",
+    "state": "Delhi",
+    "mealType": "Snacks",
+    "diet": "Vegetarian",
+    "time": "",
+    "servings": 2,
+    "heroImage": "./assets/images/aloo_tikki.png",
+    "steps": [
+      "Mash boiled potatoes and form into flat patties (tikkis).",
+      "Shallow fry the tikkis on a hot tawa until very crisp and golden.",
+      "Place tikkis on a plate and crush them slightly.",
+      "Top with beaten yogurt, sweet tamarind chutney, and spicy green chutney.",
+      "Garnish with sev, raw onions, and chaat masala."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Boiled potatoes",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Yogurt",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Tamarind chutney (sweet)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Green chutney (spicy)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Sev, raw onion",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Chaat masala, salt",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Oil for frying",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Bishan Swaroop at Chandni Chowk has been making just three dishes since 1923 - the aloo tikki is reason enough to visit ."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Ask for 'loaded' - all toppings, no holding back ."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "delhi-snacks-samosa",
+    "title": "Samosa",
+    "state": "Delhi",
+    "mealType": "Snacks",
+    "diet": "Vegetarian",
+    "time": "",
+    "servings": 4,
+    "heroImage": "./assets/images/samosa.png",
+    "steps": [
+      "Prepare a firm dough with maida, oil, and salt; let it rest.",
+      "Prepare a spiced filling of boiled potatoes, peas, cumin, and coriander.",
+      "Roll out the dough, cut into halves, and form into cones.",
+      "Stuff cones with the potato mixture and seal the edges tightly.",
+      "Deep-fry on low-medium heat until crisp and golden brown."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Maida for pastry",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Boiled potatoes, peas",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Cumin, coriander, garam masala, amchur",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Green chilli, ginger",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Oil for deep frying",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Salt",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Delhi is widely regarded as the home of the perfect samosa."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Best enjoyed with chai, especially on rainy evenings ."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "delhi-snacks-momos",
+    "title": "Momos (Steamed Dumplings)",
+    "state": "Delhi",
+    "mealType": "Snacks",
+    "diet": "Vegetarian",
+    "time": "",
+    "servings": 4,
+    "heroImage": "./assets/images/momos.png",
+    "steps": [
+      "Prepare a smooth dough of wheat flour and water.",
+      "Finely chop cabbage, onion, and carrots; mix with ginger, garlic, and soy sauce.",
+      "Roll dough into thin circles and place a spoonful of filling in the center.",
+      "Pleat and seal the edges to form dumplings.",
+      "Steam for 10-12 minutes until cooked and serve with spicy red chutney."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Wheat flour for wrappers",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Cabbage, onion, carrot for filling",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Ginger, garlic, green chilli",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Salt, pepper, soy sauce",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Spicy red chutney for serving",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Lajpat Nagar, Amar Colony, Majnu Ka Tila are popular momo destinations ."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Dolma Aunty Momos and Hunger Strike have become cult favourites ."
+      },
+      {
+        "title": "Tip 3",
+        "desc": "Momos at Rs 60-100 a plate make them one of the best value local food options ."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "delhi-snacks-dahi-bhalla",
+    "title": "Dahi Bhalla",
+    "state": "Delhi",
+    "mealType": "Snacks",
+    "diet": "Vegetarian",
+    "time": "",
+    "servings": 4,
+    "heroImage": "./assets/images/dahi_bhalla.png",
+    "steps": [
+      "Soak urad dal, grind to a fluffy batter, and deep-fry into round bhallas.",
+      "Soak the fried bhallas in warm water until soft, then squeeze out excess water.",
+      "Place bhallas on a plate and cover completely with thick beaten yogurt.",
+      "Drizzle with sweet tamarind chutney and spicy green chutney.",
+      "Sprinkle with roasted cumin powder, black salt, and coriander."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Urad dal for bhallas",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Yogurt (beaten)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Tamarind chutney (sweet)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Green chutney (spicy)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Cumin powder, black salt",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Sev, coriander",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Natraj Dahi Bhalla Corner in Chandni Chowk is a long-time favourite ."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "delhi-snacks-parathas",
+    "title": "Parathas (Stuffed Flatbread)",
+    "state": "Delhi",
+    "mealType": "Snacks",
+    "diet": "Vegetarian",
+    "time": "",
+    "servings": 4,
+    "heroImage": "./assets/images/parathas.png",
+    "steps": [
+      "Prepare a soft dough of whole wheat flour and let it rest.",
+      "Prepare a spiced stuffing (potato, paneer, or mixed vegetables).",
+      "Roll a small portion of dough, place the stuffing in the center, and seal.",
+      "Roll out gently into a flatbread.",
+      "Cook on a hot tawa with generous amounts of ghee or butter until golden and crisp."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Whole wheat flour",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Stuffing (potato, paneer, gobhi, or mixed vegetables)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Ghee or butter for cooking",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Spices (amchur, garam masala, salt)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Pickles and curries for serving",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Parathe Wali Gali in Chandni Chowk has been frying parathas for over a century ."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "PT Gaya Prashad Shiv Charan is among the oldest surviving shops ."
+      },
+      {
+        "title": "Tip 3",
+        "desc": "Come hungry. Order two - one savoury, one sweet ."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "delhi-snacks-jalebi",
+    "title": "Jalebi",
+    "state": "Delhi",
+    "mealType": "Snacks",
+    "diet": "Vegetarian",
+    "time": "",
+    "servings": 4,
+    "heroImage": "./assets/images/jalebi.png",
+    "steps": [
+      "Prepare a fermented batter of maida and water.",
+      "Prepare a warm sugar syrup flavored with cardamom.",
+      "Pipe the batter into hot ghee in a spiral shape.",
+      "Fry until crisp and golden brown on both sides.",
+      "Immediately soak the fried jalebis in the warm syrup for a few minutes."
+    ],
+    "fullIngredients": [
+      {
+        "name": "All-purpose flour (maida)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Sugar for syrup",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Ghee for frying",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Cardamom (optional)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Water",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Old Famous Jalebi Wala at Dariba Kalan fries them in pure desi ghee ."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Pair your jalebi with a glass of rabri (thickened, sweetened milk) - non-negotiable ."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "delhi-snacks-ram-ladoo",
+    "title": "Ram Ladoo",
+    "state": "Delhi",
+    "mealType": "Snacks",
+    "diet": "Vegetarian",
+    "time": "",
+    "servings": 4,
+    "heroImage": "./assets/images/ram_ladoo.png",
+    "steps": [
+      "Soak moong dal, chana dal, and urad dal for a few hours.",
+      "Grind into a coarse, fluffy batter with ginger and green chillies.",
+      "Deep-fry small spoonfuls of batter until golden and crisp.",
+      "Grate radish and mix with radish leaves and lemon juice.",
+      "Serve the hot ladoos topped with grated radish and tangy green chutney."
+    ],
+    "fullIngredients": [
+      {
+        "name": "1 cup soaked moong dal",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "½ cup soaked chana dal",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "½ cup soaked urad dal",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Ginger, green chillies",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Radish leaves",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Garlic cloves",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Lemon juice, bhuna jeera powder",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Chaat masala powder",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Oil for deep frying",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "A popular Delhi street snack, especially in winter ."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Best eaten fresh and hot from the fryer."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "delhi-snacks-kulfi",
+    "title": "Kulfi",
+    "state": "Delhi",
+    "mealType": "Snacks",
+    "diet": "Vegetarian",
+    "time": "",
+    "servings": 4,
+    "heroImage": "./assets/images/kulfi.png",
+    "steps": [
+      "Reduce full cream milk on a slow flame until thickened and rich.",
+      "Stir in sugar, cardamom powder, and rose water.",
+      "Add chopped nuts (almonds, pistachios) and mix well.",
+      "Pour the mixture into kulfi molds and freeze until set.",
+      "Unmold and serve cold, optionally with falooda."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Full cream milk",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Sugar",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Cardamom powder",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Rose water (optional)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Nuts (almonds, pistachios)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Falooda (optional)",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "The kulfi counters near Chandni Chowk and the old kulfiwala near Gali Paranthe Wali are the ones to find ."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "delhi-snacks-kachori",
+    "title": "Kachori",
+    "state": "Delhi",
+    "mealType": "Snacks",
+    "diet": "Vegetarian",
+    "time": "",
+    "servings": 4,
+    "heroImage": "./assets/images/kachori.png",
+    "steps": [
+      "Prepare a stiff dough with wheat flour and oil.",
+      "Prepare a spiced filling using dal or peas, onion, ginger, and spices.",
+      "Stuff small portions of dough with the filling and flatten slightly.",
+      "Deep-fry on a very low flame until thoroughly crisp and golden.",
+      "Serve hot with spicy potato curry or chutneys."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Wheat flour for outer covering",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Spiced dal or pea filling",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Onion, green chilli, ginger",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Spices, salt",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Oil for deep frying",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Matar (pea) kachori and pyaz (onion) kachori are especially popular in Delhi ."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  }
+]

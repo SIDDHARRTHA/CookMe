@@ -1,0 +1,678 @@
+[
+  {
+    "id": "jharkhand-breakfast-dhuska-chana-dal",
+    "title": "Dhuska with Chana Dal",
+    "state": "Jharkhand",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "time": "30 mins (+ soaking)",
+    "servings": "10–12 pieces",
+    "heroImage": "./assets/images/dhuska.png",
+    "steps": [
+      "Soak rice and chana dal, grind into a slightly coarse batter with green chilli, ginger and salt. Ferment briefly if desired.",
+      "Heat oil and deep-fry spoonfuls of batter into thick, golden, crispy discs.",
+      "Serve hot with ghugni, potato curry or chutney."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Rice + chana dal",
+        "qty": "1.5 cups total (soaked)",
+        "checked": true
+      },
+      {
+        "name": "Green chilli, ginger, cumin, salt",
+        "qty": "to taste",
+        "checked": true
+      },
+      {
+        "name": "Oil for deep frying",
+        "qty": "as needed",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Iconic Jharkhand breakfast and street snack – crisp outside, soft inside."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Best eaten fresh from the oil."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "jharkhand-breakfast-dhuska-urad-dal",
+    "title": "Dhuska with Urad Dal",
+    "state": "Jharkhand",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "time": "30 mins (+ soaking)",
+    "servings": "10–12 pieces",
+    "heroImage": "./assets/images/dhuska.png",
+    "steps": [
+      "Soak rice and urad dal, grind into a slightly coarse batter with green chilli, ginger and salt. Ferment briefly if desired.",
+      "Heat oil and deep-fry spoonfuls of batter into thick, golden, crispy discs.",
+      "Serve hot with ghugni, potato curry or chutney."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Rice + urad dal",
+        "qty": "1.5 cups total (soaked)",
+        "checked": true
+      },
+      {
+        "name": "Green chilli, ginger, cumin, salt",
+        "qty": "to taste",
+        "checked": true
+      },
+      {
+        "name": "Oil for deep frying",
+        "qty": "as needed",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Iconic Jharkhand breakfast and street snack made with urad dal."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Crisp outside, soft inside."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "jharkhand-breakfast-chilka-roti-chana-dal",
+    "title": "Chilka Roti with Chana Dal",
+    "state": "Jharkhand",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "time": "25 mins (+ soaking)",
+    "servings": "6–8 pieces",
+    "heroImage": "./assets/images/chilka_roti.png",
+    "steps": [
+      "Soak rice and chana dal overnight. Grind into a smooth batter and add salt.",
+      "Heat a tawa, grease lightly, pour and spread the batter into a thin pancake. Cook both sides till golden.",
+      "Serve with chutney, vegetable curry or meat curry."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Rice + chana dal",
+        "qty": "2 cups total (soaked)",
+        "checked": true
+      },
+      {
+        "name": "Salt, water",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Oil for cooking",
+        "qty": "as needed",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Traditional rice-and-chana dal pancake of the Chotanagpur region."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Light yet filling."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "jharkhand-breakfast-chilka-roti-urad-dal",
+    "title": "Chilka Roti with Urad Dal",
+    "state": "Jharkhand",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "time": "25 mins (+ soaking)",
+    "servings": "6–8 pieces",
+    "heroImage": "./assets/images/chilka_roti.png",
+    "steps": [
+      "Soak rice and urad dal overnight. Grind into a smooth batter and add salt.",
+      "Heat a tawa, grease lightly, pour and spread the batter into a thin pancake. Cook both sides till golden.",
+      "Serve with chutney, vegetable curry or meat curry."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Rice + urad dal",
+        "qty": "2 cups total (soaked)",
+        "checked": true
+      },
+      {
+        "name": "Salt, water",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Oil for cooking",
+        "qty": "as needed",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Traditional rice-and-urad dal pancake of the Chotanagpur region."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Light yet filling."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "jharkhand-breakfast-litti-chokha",
+    "title": "Litti Chokha",
+    "state": "Jharkhand",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "time": "60 mins",
+    "servings": "4 Servings",
+    "heroImage": "./assets/images/litti_chokha.png",
+    "steps": [
+      "Prepare spiced sattu stuffing with mustard oil and aromatics. Stuff into wheat dough balls and seal.",
+      "Roast over charcoal or bake till the crust is crisp and slightly charred.",
+      "Make chokha by roasting and mashing brinjal, tomato and potato with onion, green chilli and mustard oil.",
+      "Dip hot littis in ghee and serve with chokha."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Whole wheat flour",
+        "qty": "2 cups",
+        "checked": true
+      },
+      {
+        "name": "Sattu, mustard oil, garlic, ginger, green chilli, ajwain, lemon, salt",
+        "qty": "for stuffing",
+        "checked": true
+      },
+      {
+        "name": "Brinjal, tomato, potato for chokha",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Onion, green chilli, mustard oil for chokha",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Ghee for dipping",
+        "qty": "generous",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Shared with Bihar but equally iconic in Jharkhand – rustic, smoky and satisfying."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Traditional open-fire roasting is ideal."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "jharkhand-lunch-rugda",
+    "title": "Rugda (Rugra) Curry",
+    "state": "Jharkhand",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "time": "30 mins",
+    "servings": "3 Servings",
+    "heroImage": "./assets/images/rugda.png",
+    "steps": [
+      "Clean the rugda thoroughly. Heat mustard oil, sauté onion, garlic and chilli.",
+      "Add the mushrooms, turmeric and salt. Cook till tender and well-flavoured.",
+      "Serve with rice – a seasonal forest delicacy."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Fresh rugda (wild mushrooms)",
+        "qty": "300 g",
+        "checked": true
+      },
+      {
+        "name": "Onion, garlic, green chilli, turmeric, salt",
+        "qty": "to taste",
+        "checked": true
+      },
+      {
+        "name": "Mustard oil",
+        "qty": "as needed",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Wild mushroom prized in Jharkhand tribal cuisine – available mainly in the monsoon/early winter."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Simple preparation highlights the natural flavour."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "jharkhand-lunch-ghugni-black-chickpeas",
+    "title": "Ghugni with Black Chickpeas",
+    "state": "Jharkhand",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "time": "40 mins (+ soaking)",
+    "servings": "3 Servings",
+    "heroImage": "./assets/images/ghugni.png",
+    "steps": [
+      "Pressure-cook the soaked black chickpeas. Prepare a spicy onion-tomato gravy with mustard oil.",
+      "Add the chickpeas and simmer. Garnish with onion, green chilli, coriander and lemon.",
+      "Serve hot, often with muri (puffed rice) or as a side."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Black chickpeas",
+        "qty": "1.5 cups (soaked)",
+        "checked": true
+      },
+      {
+        "name": "Onion, tomato, ginger, green chilli, spices",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Mustard oil, lemon, coriander for garnish",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Everyday protein-rich curry made with black chickpeas."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Often eaten with puffed rice as muri-ghugni."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "jharkhand-lunch-ghugni-white-peas",
+    "title": "Ghugni with White Peas",
+    "state": "Jharkhand",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "time": "40 mins (+ soaking)",
+    "servings": "3 Servings",
+    "heroImage": "./assets/images/ghugni.png",
+    "steps": [
+      "Pressure-cook the soaked white peas. Prepare a spicy onion-tomato gravy with mustard oil.",
+      "Add the peas and simmer. Garnish with onion, green chilli, coriander and lemon.",
+      "Serve hot, often with muri (puffed rice) or as a side."
+    ],
+    "fullIngredients": [
+      {
+        "name": "White peas",
+        "qty": "1.5 cups (soaked)",
+        "checked": true
+      },
+      {
+        "name": "Onion, tomato, ginger, green chilli, spices",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Mustard oil, lemon, coriander for garnish",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Everyday protein-rich curry made with white peas."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Often eaten with puffed rice as muri-ghugni."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "jharkhand-lunch-dal-pitha",
+    "title": "Dal Pitha",
+    "state": "Jharkhand",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "time": "50 mins",
+    "servings": "4 Servings",
+    "heroImage": "./assets/images/dal_pitha.png",
+    "steps": [
+      "Cook and grind spiced chana dal into a filling. Make a soft rice-flour dough.",
+      "Stuff, shape into parcels and steam (often in leaves) till cooked.",
+      "Serve with green chutney or mustard dip."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Rice flour for outer covering",
+        "qty": "2 cups",
+        "checked": true
+      },
+      {
+        "name": "Chana dal for filling",
+        "qty": "1 cup",
+        "checked": true
+      },
+      {
+        "name": "Ginger, garlic, green chilli, cumin, salt",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Steamed rice-flour dumplings with spiced dal – light and traditional winter dish."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Similar to Bihari versions but firmly part of Jharkhand home cooking."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "jharkhand-dinner-mutton-curry",
+    "title": "Jharkhandi Mutton Curry",
+    "state": "Jharkhand",
+    "mealType": "Dinner",
+    "diet": "Non-Vegetarian",
+    "time": "70 mins",
+    "servings": "4 Servings",
+    "heroImage": "./assets/images/jharkhand_mutton.png",
+    "steps": [
+      "Marinate mutton with yogurt and spices. Sauté onion and ginger-garlic in mustard oil.",
+      "Add the mutton and cook till tender in a rich, spiced gravy.",
+      "Serve with rice or roti – common at celebrations and in non-tribal as well as tribal homes."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Mutton",
+        "qty": "750 g",
+        "checked": true
+      },
+      {
+        "name": "Onion, tomato, ginger-garlic, yogurt",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Garam masala, red chilli, turmeric, mustard oil",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Hearty meat curry – mustard oil gives the characteristic aroma."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Slow cooking is preferred."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "jharkhand-dinner-koinar-saag",
+    "title": "Koinar Saag",
+    "state": "Jharkhand",
+    "mealType": "Dinner",
+    "diet": "Vegan",
+    "time": "20 mins",
+    "servings": "3 Servings",
+    "heroImage": "./assets/images/koinar_saag.png",
+    "steps": [
+      "Wash and chop the koinar leaves. Heat mustard oil, add crushed garlic and chilli.",
+      "Add the greens and salt. Stir-fry till just wilted and flavourful.",
+      "Serve as a simple side with rice."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Koinar leaves",
+        "qty": "4 cups",
+        "checked": true
+      },
+      {
+        "name": "Garlic, green chilli, mustard oil, salt",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Popular local leafy green of Jharkhand – nutritious and everyday."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Minimal cooking preserves nutrients and colour."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "jharkhand-snacks-thekua",
+    "title": "Thekua",
+    "state": "Jharkhand",
+    "mealType": "Snacks",
+    "diet": "Vegetarian",
+    "time": "40 mins",
+    "servings": "20–25 pieces",
+    "heroImage": "./assets/images/thekua.png",
+    "steps": [
+      "Melt jaggery with a little water. Mix into wheat flour with ghee and cardamom to form a stiff dough.",
+      "Shape into discs (use traditional moulds if available) and deep-fry on medium heat till golden and crisp.",
+      "Cool and store. Especially made for Chhath Puja."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Whole wheat flour",
+        "qty": "2 cups",
+        "checked": true
+      },
+      {
+        "name": "Jaggery",
+        "qty": "1 cup",
+        "checked": true
+      },
+      {
+        "name": "Ghee, cardamom, fennel (optional)",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Oil or ghee for deep frying",
+        "qty": "as needed",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Iconic Chhath festival sweet shared with Bihar – crisp, mildly sweet and long-lasting."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Ghee in the dough improves flavour."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "jharkhand-snacks-arsa",
+    "title": "Arsa Roti",
+    "state": "Jharkhand",
+    "mealType": "Snacks",
+    "diet": "Vegetarian",
+    "time": "50 mins (+ soaking)",
+    "servings": "15–20 pieces",
+    "heroImage": "./assets/images/arsa.png",
+    "steps": [
+      "Soak rice, grind into a paste. Cook jaggery into a thick syrup and mix with the rice paste.",
+      "Shape into small discs and deep-fry till golden and crisp.",
+      "Cool and store. A festive sweet."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Rice",
+        "qty": "2 cups (soaked)",
+        "checked": true
+      },
+      {
+        "name": "Jaggery or sugar",
+        "qty": "1.5 cups",
+        "checked": true
+      },
+      {
+        "name": "Oil for deep frying",
+        "qty": "as needed",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Traditional rice-jaggery sweet of the region – made during festivals."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Crisp exterior with sweet interior."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "jharkhand-lunch-bhaat-dal-toor",
+    "title": "Bhaat Dal with Toor Dal & Saag",
+    "state": "Jharkhand",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "time": "35 mins",
+    "servings": "3 Servings",
+    "heroImage": "./assets/images/bhaat_dal.png",
+    "steps": [
+      "Cook rice and a simple tempered toor dal.",
+      "Prepare a side of seasonal saag stir-fried with garlic and green chilli in mustard oil.",
+      "Serve the everyday Jharkhandi plate of rice, dal and greens with pickle."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Rice",
+        "qty": "1.5 cups",
+        "checked": true
+      },
+      {
+        "name": "Toor dal",
+        "qty": "1 cup",
+        "checked": true
+      },
+      {
+        "name": "Seasonal saag (greens) with garlic, green chilli, mustard oil",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Mustard oil tempering, salt",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "The daily meal of most households – simple, balanced and rice-centric."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Mustard oil is the preferred cooking medium."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "jharkhand-dinner-pork-curry",
+    "title": "Tribal-style Pork Curry",
+    "state": "Jharkhand",
+    "mealType": "Dinner",
+    "diet": "Non-Vegetarian",
+    "time": "60 mins",
+    "servings": "4 Servings",
+    "heroImage": "./assets/images/pork_curry.png",
+    "steps": [
+      "Cut pork into pieces. Sauté onion, garlic, ginger and chilli in mustard oil.",
+      "Add the pork and cook slowly till tender, using minimal water so the meat cooks in its own fat and juices.",
+      "Season simply. Serve with rice – common in many tribal communities."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Pork",
+        "qty": "750 g",
+        "checked": true
+      },
+      {
+        "name": "Onion, garlic, ginger, green chilli",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Local spices, mustard oil, salt",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Pork is widely eaten in tribal Jharkhand – preparations are often simple and robust."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Slow cooking on low heat yields the best texture."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  }
+]

@@ -1,0 +1,379 @@
+[
+  {
+    "_id": "dnh-dd-breakfast-khaman-dhokla",
+    "title": "Khaman Dhokla",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains ginger in the batter. For Jain version, use only green chilli and omit ginger.",
+    "image": "khaman_dhokla.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "description": "A popular Gujarati-origin steamed snack made from fermented chickpea batter. Soft, fluffy, and slightly tangy, it is a staple breakfast item across the region, reflecting strong Gujarati culinary influence .",
+    "ingredients": [
+      "1.5 cups besan (gram flour)",
+      "Yogurt or lemon juice + water",
+      "1 tsp Eno/fruit salt or baking soda",
+      "Turmeric, sugar, salt, green chilli-ginger paste",
+      "Mustard seeds, sesame, curry leaves, green chillies for tempering",
+      "Oil as needed"
+    ],
+    "steps": [
+      "Mix besan with yogurt/water, turmeric, sugar, salt and chilli-ginger paste into a smooth batter.",
+      "Just before steaming, add Eno and mix gently.",
+      "Pour into a greased steaming tray and steam for 12–15 minutes.",
+      "Cool slightly and cut into squares.",
+      "Temper mustard, sesame, curry leaves and green chillies in oil and pour over the dhokla.",
+      "Garnish with coconut and coriander.",
+      "Serve with green chutney and sweet tamarind chutney."
+    ],
+    "tips": [
+      "Soft, spongy texture comes from the leavening and proper steaming.",
+      "A quintessential breakfast and snack item in Gujarati-influenced cuisine."
+    ],
+    "prepTime": "15 minutes",
+    "cookTime": "15 minutes",
+    "servings": 4,
+    "research": {
+      "status": "unverified",
+      "sourceUrls": ["https://www.slurrp.com/article/must-try-iconic-dishes-from-daman-and-diu-when-visiting-the-coastal-territory-1730811438843"]
+    }
+  },
+  {
+    "_id": "dnh-dd-breakfast-dal-dhokli",
+    "title": "Dal Dhokli",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains onion and garlic - not consumed by Jains. For Jain version, omit onion-garlic.",
+    "image": "dal_dhokli.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "description": "A comforting Gujarati-style one-pot meal featuring wheat dumplings cooked in a spiced lentil broth. Widely popular in the region due to strong Gujarati culinary influence, this dish combines earthy lentil flavours with soft, chewy dumplings .",
+    "ingredients": [
+      "1 cup toor dal",
+      "1 cup whole wheat flour",
+      "Onion, tomato, ginger-garlic paste",
+      "Turmeric, red chilli powder, coriander powder, cumin",
+      "Jaggery, tamarind or kokum",
+      "Peanuts, curry leaves, mustard seeds",
+      "Oil or ghee",
+      "Salt to taste"
+    ],
+    "steps": [
+      "Pressure-cook toor dal with turmeric.",
+      "Prepare a dough with wheat flour, spices, and a little oil.",
+      "Roll thin and cut into diamond or square pieces (dhokli).",
+      "Bring dal to a boil with water, spices, jaggery, tamarind, and peanuts.",
+      "Drop the dhokli pieces in and cook until they are soft and the dal thickens.",
+      "Temper with mustard, cumin, curry leaves and hing.",
+      "Serve hot."
+    ],
+    "tips": [
+      "Comfort food that combines dal and wheat pieces.",
+      "Slightly sweet-tangy flavour is characteristic of Gujarati-style cooking."
+    ],
+    "prepTime": "20 minutes",
+    "cookTime": "25 minutes",
+    "servings": 4,
+    "research": {
+      "status": "unverified",
+      "sourceUrls": ["https://www.slurrp.com/article/must-try-iconic-dishes-from-daman-and-diu-when-visiting-the-coastal-territory-1730811438843"]
+    }
+  },
+  {
+    "_id": "dnh-dd-lunch-ubadiyu",
+    "title": "Ubadiyu (Gujarati Barbecue)",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains root vegetables (potato, sweet potato, purple yam) and garlic - not consumed by Jains.",
+    "image": "ubadiyu.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "description": "A local delicacy and seasonal winter dish from South Gujarat and Dadra and Nagar Haveli. Vegetables and beans are slow-cooked in an earthen pot placed upside down over fire, giving it a smoky barbecue-like flavour. Often called the 'Gujarati Barbecue' .",
+    "ingredients": [
+      "500 g papdi (green beans)",
+      "500 g purple yam",
+      "500 g sweet potatoes",
+      "250 g potatoes",
+      "250 g small eggplants",
+      "6 cabbage leaves",
+      "Coriander, mint, and garlic stalks",
+      "Garlic paste, green chilli paste, ginger paste",
+      "Fresh turmeric paste",
+      "Groundnut (coarsely crushed), sesame seeds",
+      "Coriander-cumin powder, garam masala",
+      "Ajwain (carom seeds), hing (asafoetida)",
+      "Salt, oil"
+    ],
+    "steps": [
+      "Make pastes of coriander, garlic, green chilli, ginger, and turmeric .",
+      "Wash and cut all vegetables. In a large bowl, mix vegetables with the spice paste .",
+      "In a large pressure cooker or pot, add water. Arrange cabbage leaves at the bottom, followed by half of the green stalks .",
+      "Evenly spread the marinated vegetables on top. Cover with remaining green stalks .",
+      "Cover the pot and place on medium-high heat for 30 minutes, then continue cooking on medium heat until done .",
+      "Discard the green stalks when cooked.",
+      "Serve hot with green chutney and matho (spiced buttermilk) ."
+    ],
+    "tips": [
+      "The dish is unique for its fragrance and earthiness from kalar (Indian nettle) and kamboi (black honey shrub) .",
+      "Best enjoyed during winter when ingredients are in season ."
+    ],
+    "prepTime": "30 minutes",
+    "cookTime": "45 minutes",
+    "servings": 6,
+    "research": {
+      "status": "unverified",
+      "sourceUrls": ["https://en.wikipedia.org/?curid=72724674", "https://www.timesnownews.com/web-stories/food/ubadiyu-dadra-and-nagar-havelis-unique-gujarati-delicacy-favourite-for-dinner/photostory/114036889.cms"]
+    }
+  },
+  {
+    "_id": "dnh-dd-lunch-fish-curry",
+    "title": "Traditional Fish Curry",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "mealType": "Lunch",
+    "diet": "Non-Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains fish and onion - not consumed by Jains.",
+    "image": "fish_curry.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "description": "The heart of Daman and Diu's coastal cuisine - freshly caught fish cooked in a coconut-based sauce infused with turmeric, red chilli, and coriander. The balance of heat and flavour with creamy coconut makes this curry rich and satisfying .",
+    "ingredients": [
+      "Fresh fish (seer, pomfret, or local catch)",
+      "Coconut milk",
+      "Onion, ginger-garlic paste",
+      "Turmeric, red chilli powder, coriander powder",
+      "Tamarind or kokum",
+      "Curry leaves, mustard seeds",
+      "Salt, oil"
+    ],
+    "steps": [
+      "Marinate fish with turmeric and salt.",
+      "Sauté onion, ginger, and garlic in oil.",
+      "Add spice powders and cook until fragrant.",
+      "Add tamarind extract and coconut milk, bring to a simmer.",
+      "Add fish pieces and cook gently until done.",
+      "Garnish with curry leaves and serve with steamed rice."
+    ],
+    "tips": [
+      "Fish is a staple food in Daman and Diu, available fresh from the Arabian Sea .",
+      "The Portuguese influence adds unique preparation methods distinct from other Indian coastal cuisines ."
+    ],
+    "prepTime": "20 minutes",
+    "cookTime": "25 minutes",
+    "servings": 4,
+    "research": {
+      "status": "unverified",
+      "sourceUrls": ["https://www.timesnownews.com/lifestyle/food/news/ubadiyu-to-patra-ni-macchi-8-most-iconic-foods-daman-and-diu-to-try-when-visiting-the-coastal-territory-article-114870697", "https://www.slurrp.com/article/must-try-iconic-dishes-from-daman-and-diu-when-visiting-the-coastal-territory-1730811438843"]
+    }
+  },
+  {
+    "_id": "dnh-dd-lunch-crab-curry",
+    "title": "Crab Curry",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "mealType": "Lunch",
+    "diet": "Non-Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains crab and onion - not consumed by Jains.",
+    "image": "crab_curry.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "description": "A coastal seafood dish popular in Daman and Diu, reflecting the region's Portuguese colonial influence. Fresh crab is cooked in a yellow curry with onion, tomato, garlic, coconut, and spices, prepared in the traditional Indo-Portuguese style common to the coastal territories .",
+    "ingredients": [
+      "Fresh crab (cut into pieces)",
+      "Coconut milk",
+      "Onion, tomato",
+      "Garlic, ginger",
+      "Piri piri or green chillies",
+      "Turmeric, red chilli powder",
+      "Salt, oil"
+    ],
+    "steps": [
+      "Clean and cut crab into pieces.",
+      "Sauté onion, garlic, ginger, and tomato in oil.",
+      "Add spice powders and cook until fragrant.",
+      "Add crab pieces and cook for a few minutes.",
+      "Add coconut milk and simmer for about 30 minutes .",
+      "Serve with white rice and papad ."
+    ],
+    "tips": [
+      "Crab is traditionally eaten by hand to facilitate extraction of meat .",
+      "A common dish in Daman and Diu reflecting the Portuguese influence on local cuisine ."
+    ],
+    "prepTime": "20 minutes",
+    "cookTime": "35 minutes",
+    "servings": 4,
+    "research": {
+      "status": "unverified",
+      "sourceUrls": ["https://en.m.wikipedia.org/wiki/Crab_Curry_(Goan)"]
+    }
+  },
+  {
+    "_id": "dnh-dd-lunch-patra-ni-macchi",
+    "title": "Patra ni Macchi",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "mealType": "Lunch",
+    "diet": "Non-Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains fish and coconut - not consumed by Jains.",
+    "image": "patra_ni_macchi.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "description": "A celebrated Parsi dish popular in the coastal regions, including Daman and Diu - fresh fish fillets marinated in a vibrant green chutney of coconut, coriander, mint, and aromatic spices, then wrapped in banana leaves and steamed to perfection .",
+    "ingredients": [
+      "Fresh fish fillets (pomfret or kingfish)",
+      "Coconut (grated)",
+      "Coriander leaves, mint leaves",
+      "Green chillies, garlic",
+      "Lemon juice",
+      "Spices (cumin, coriander powder)",
+      "Banana leaves for wrapping",
+      "Salt"
+    ],
+    "steps": [
+      "Grind coconut, coriander, mint, green chillies, garlic, and spices into a smooth chutney .",
+      "Marinate fish fillets in the green chutney for 30 minutes.",
+      "Wrap each fillet in a banana leaf and secure .",
+      "Steam until the fish is tender and cooked through .",
+      "Serve hot with steamed rice."
+    ],
+    "tips": [
+      "The banana leaf wrapping keeps the fish moist and infuses it with a subtle aroma .",
+      "Represents the sophisticated seafood preparation influenced by Parsi and Portuguese traditions ."
+    ],
+    "prepTime": "25 minutes + marination",
+    "cookTime": "20 minutes",
+    "servings": 4,
+    "research": {
+      "status": "unverified",
+      "sourceUrls": ["https://www.timesnownews.com/lifestyle/food/news/ubadiyu-to-patra-ni-macchi-8-most-iconic-foods-daman-and-diu-to-try-when-visiting-the-coastal-territory-article-114870697", "https://www.slurrp.com/article/must-try-iconic-dishes-from-daman-and-diu-when-visiting-the-coastal-territory-1730811438843"]
+    }
+  },
+  {
+    "_id": "dnh-dd-lunch-salli-boti",
+    "title": "Salli Boti",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "mealType": "Lunch",
+    "diet": "Non-Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains mutton and onion - not consumed by Jains.",
+    "image": "salli_boti.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "description": "A Parsi meat dish popular in the region - tender mutton cooked in a rich, spiced tomato gravy, topped with crispy potato straws (salli). This dish perfectly represents the multicultural Parsi influence in Daman and Diu's cuisine .",
+    "ingredients": [
+      "Mutton (tender pieces)",
+      "Onion, tomato",
+      "Ginger-garlic paste",
+      "Spices (coriander, cumin, garam masala)",
+      "Red chilli powder, turmeric",
+      "Potato straws (salli) for topping",
+      "Oil or ghee",
+      "Salt"
+    ],
+    "steps": [
+      "Sauté onion and ginger-garlic in oil.",
+      "Add tomato and cook until soft.",
+      "Add mutton and spice powders, cook until browned.",
+      "Add water and slow-cook until mutton is tender.",
+      "Finish with garam masala.",
+      "Top with crispy potato straws before serving.",
+      "Serve with roti or rice."
+    ],
+    "tips": [
+      "The crispy potato straws (salli) add a delightful crunch to the rich, tangy gravy .",
+      "Combines Persian cooking methods with local ingredients."
+    ],
+    "prepTime": "20 minutes",
+    "cookTime": "45 minutes",
+    "servings": 4,
+    "research": {
+      "status": "unverified",
+      "sourceUrls": ["https://www.timesnownews.com/lifestyle/food/news/ubadiyu-to-patra-ni-macchi-8-most-iconic-foods-daman-and-diu-to-try-when-visiting-the-coastal-territory-article-114870697", "https://www.slurrp.com/article/must-try-iconic-dishes-from-daman-and-diu-when-visiting-the-coastal-territory-1730811438843"]
+    }
+  },
+  {
+    "_id": "dnh-dd-dinner-vindaloo",
+    "title": "Vindaloo",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "mealType": "Dinner",
+    "diet": "Non-Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains pork and garlic - not consumed by Jains.",
+    "image": "vindaloo.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "description": "A Portuguese-influenced dish popular in the coastal territories - pork cooked with garlic, vinegar, and a blend of spices. The name comes from the Portuguese 'vinha d'alhos' (wine and garlic). A classic representation of the Indo-Portuguese culinary fusion found in Daman and Diu.",
+    "ingredients": [
+      "Pork (preferably with some fat)",
+      "Vinegar (Goan or palm vinegar)",
+      "Garlic, ginger",
+      "Dried red chillies",
+      "Cumin, mustard seeds",
+      "Cinnamon, cloves, peppercorns",
+      "Onion, salt, oil"
+    ],
+    "steps": [
+      "Grind chillies, garlic, spices with vinegar into a paste.",
+      "Marinate pork in the paste for several hours or overnight.",
+      "Heat oil, brown onions, add marinated pork.",
+      "Cook on medium heat until tender and gravy thickens.",
+      "Serve with sannas, pao, or rice."
+    ],
+    "tips": [
+      "Derived from Portuguese 'vinha d'alhos' (wine & garlic) .",
+      "The Portuguese colonial influence on Daman and Diu's cuisine is strongly reflected in this dish."
+    ],
+    "prepTime": "20 minutes + marination",
+    "cookTime": "60 minutes",
+    "servings": 4,
+    "research": {
+      "status": "unverified",
+      "sourceUrls": ["https://164.100.114.181/sites/default/files/2026-04/Divya-Bharat-A-WIndow-to-the-Soul-of-India-Web.pdf"]
+    }
+  },
+  {
+    "_id": "dnh-dd-snacks-bebinca",
+    "title": "Bebinca",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "mealType": "Snacks",
+    "diet": "Eggetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains eggs - not consumed by Jains.",
+    "image": "bebinca.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "description": "A traditional Portuguese-influenced layered dessert popular in the coastal territories - made with coconut milk, eggs, flour, and sugar. Each layer is baked separately, creating unique textures and flavours. A sweet legacy of the region's Portuguese colonial past.",
+    "ingredients": [
+      "2 cups coconut milk",
+      "8-10 egg yolks",
+      "Sugar",
+      "Flour",
+      "Ghee or butter",
+      "Nutmeg or cardamom"
+    ],
+    "steps": [
+      "Mix coconut milk, egg yolks, sugar, flour, and nutmeg into a smooth batter.",
+      "In a baking dish, pour a thin layer of batter and bake or grill until set and golden.",
+      "Brush with ghee.",
+      "Repeat layering and baking until all batter is used (traditionally 7-16 layers).",
+      "Cool completely, slice and serve."
+    ],
+    "tips": [
+      "A Portuguese legacy still thriving in Daman and Diu's culinary scene .",
+      "Often enjoyed during festive occasions ."
+    ],
+    "prepTime": "20 minutes",
+    "cookTime": "60 minutes",
+    "servings": 8,
+    "research": {
+      "status": "unverified",
+      "sourceUrls": ["https://www.slurrp.com/article/must-try-iconic-dishes-from-daman-and-diu-when-visiting-the-coastal-territory-1730811438843"]
+    }
+  }
+]

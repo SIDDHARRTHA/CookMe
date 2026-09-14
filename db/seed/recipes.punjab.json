@@ -1,0 +1,395 @@
+[
+  {
+    "_id": "punjab-breakfast-aloo-paratha",
+    "title": "Aloo Paratha",
+    "state": "Punjab",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains onion and potato (root vegetable) - not consumed by Jains.",
+    "image": "aloo_paratha.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "40 mins",
+    "servings": "6 pieces",
+    "ingredients": [
+      { "name": "Whole wheat flour", "qty": "2 cups" },
+      { "name": "Boiled potatoes", "qty": "3–4" },
+      { "name": "Onion, green chilli, coriander, garam masala, amchur, salt", "qty": "to taste" },
+      { "name": "Ghee or oil", "qty": "for roasting" }
+    ],
+    "recipe": [
+      "Knead a soft dough with wheat flour, water and a pinch of salt. Rest 15 minutes.",
+      "Mash potatoes and mix with chopped onion, green chilli, coriander, spices and salt for the filling.",
+      "Stuff portions of dough with the filling, seal and roll into parathas. Cook on a hot tawa with ghee until golden and crisp on both sides.",
+      "Serve hot with white butter, yogurt and pickle."
+    ],
+    "tips": [
+      "Classic Punjabi breakfast – hearty and filling.",
+      "Generous ghee and a dollop of white butter make it authentic."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "punjab-breakfast-chole-bhature",
+    "title": "Chole Bhature",
+    "state": "Punjab",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains onion and garlic - not consumed by Jains.",
+    "image": "chole_bhature.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "60 mins (+ soaking)",
+    "servings": "4 Servings",
+    "ingredients": [
+      { "name": "Chickpeas (chole)", "qty": "1.5 cups (soaked)" },
+      { "name": "Maida for bhature", "qty": "2 cups" },
+      { "name": "Onion, tomato, ginger-garlic, chole masala, tea bag (for colour)", "qty": "as needed" },
+      { "name": "Yogurt, oil for frying", "qty": "as needed" }
+    ],
+    "recipe": [
+      "Pressure-cook chickpeas with a tea bag for dark colour. Prepare a spicy onion-tomato gravy with chole masala and simmer the chickpeas in it.",
+      "Knead maida with yogurt, a little oil and water into a soft dough. Rest, roll into discs and deep-fry till puffed and golden.",
+      "Serve hot bhature with chole, onion rings and pickle."
+    ],
+    "tips": [
+      "Iconic Amritsari / Punjabi weekend breakfast or brunch.",
+      "Fluffy bhature and well-spiced chole are the hallmark."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "punjab-breakfast-amritsari-aloo-kulcha",
+    "title": "Amritsari Aloo Kulcha",
+    "state": "Punjab",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains potato (root vegetable) and onion - not consumed by Jains.",
+    "image": "amritsari_kulcha.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "50 mins",
+    "servings": "6 pieces",
+    "ingredients": [
+      { "name": "Maida", "qty": "2 cups" },
+      { "name": "Boiled potatoes (for stuffing)", "qty": "3–4" },
+      { "name": "Onion, green chilli, coriander, nigella seeds, spices", "qty": "to taste" },
+      { "name": "Ghee or butter", "qty": "for brushing" }
+    ],
+    "recipe": [
+      "Knead a soft dough with maida, yogurt, baking powder and water. Rest.",
+      "Prepare spiced potato filling with onion, green chilli, coriander and spices. Stuff, roll and cook in a tandoor or on a tawa until crisp and layered.",
+      "Brush with butter and serve with chole, onion and chutney."
+    ],
+    "tips": [
+      "Amritsar's signature stuffed leavened bread – crisp outside, soft and flavourful inside.",
+      "Best eaten fresh from a tandoor."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "punjab-breakfast-amritsari-paneer-kulcha",
+    "title": "Amritsari Paneer Kulcha",
+    "state": "Punjab",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains onion - not consumed by Jains. For Jain version, omit onion.",
+    "image": "amritsari_kulcha.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "50 mins",
+    "servings": "6 pieces",
+    "ingredients": [
+      { "name": "Maida", "qty": "2 cups" },
+      { "name": "Paneer (grated, for stuffing)", "qty": "200 g" },
+      { "name": "Onion, green chilli, coriander, nigella seeds, spices", "qty": "to taste" },
+      { "name": "Ghee or butter", "qty": "for brushing" }
+    ],
+    "recipe": [
+      "Knead a soft dough with maida, yogurt, baking powder and water. Rest.",
+      "Prepare spiced paneer filling with onion, green chilli, coriander and spices. Stuff, roll and cook in a tandoor or on a tawa until crisp and layered.",
+      "Brush with butter and serve with chole, onion and chutney."
+    ],
+    "tips": [
+      "Paneer version of Amritsar's signature stuffed kulcha.",
+      "Best eaten fresh from a tandoor."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "punjab-lunch-sarson-da-saag",
+    "title": "Sarson da Saag with Makki di Roti",
+    "state": "Punjab",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains onion and garlic - not consumed by Jains.",
+    "image": "sarson_da_saag.png",
+    "wikipediaImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Saagroti.jpg",
+    "imageSource": "wikimedia_commons_verified",
+    "time": "90 mins",
+    "servings": "4 Servings",
+    "ingredients": [
+      { "name": "Mustard greens (sarson) + spinach or bathua", "qty": "1 kg total" },
+      { "name": "Makki (cornmeal) flour", "qty": "2 cups" },
+      { "name": "Ginger, garlic, green chilli, onion, ghee, white butter", "qty": "as needed" },
+      { "name": "Maize flour for thickening saag", "qty": "2–3 tbsp" }
+    ],
+    "recipe": [
+      "Wash and chop greens. Cook with ginger, garlic and green chilli till soft. Mash or blend, thicken with a little maize flour and simmer.",
+      "Temper with onion, garlic and ghee. Finish with a generous dollop of white butter.",
+      "For roti: Knead makki flour with hot water into a soft dough. Pat into thick rotis and cook on a tawa.",
+      "Serve saag hot with makki di roti and more white butter."
+    ],
+    "tips": [
+      "The definitive winter comfort food of Punjab.",
+      "Slow cooking and white butter are non-negotiable."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "punjab-lunch-dal-makhani",
+    "title": "Dal Makhani",
+    "state": "Punjab",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains onion and garlic - not consumed by Jains.",
+    "image": "dal_makhani.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "8 hours (simmering) or pressure + slow cook",
+    "servings": "4 Servings",
+    "ingredients": [
+      { "name": "Whole black urad dal + a little rajma", "qty": "1.5 cups total" },
+      { "name": "Butter, cream, tomato puree, ginger-garlic", "qty": "generous" },
+      { "name": "Kashmiri chilli, garam masala, salt", "qty": "to taste" }
+    ],
+    "recipe": [
+      "Soak and pressure-cook the dals till very soft. Mash lightly.",
+      "In a heavy pot melt butter, add ginger-garlic and tomato puree. Cook till oil separates. Add the dals, chilli powder and salt.",
+      "Simmer on very low heat for several hours (or overnight on a tandoor/chulha traditionally), stirring and adding cream and more butter.",
+      "Finish with a swirl of cream and serve with naan, roti or rice."
+    ],
+    "tips": [
+      "The longer and slower it cooks, the better the flavour and creaminess.",
+      "Restaurant-style richness comes from butter and cream."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "punjab-lunch-kadhi-pakora",
+    "title": "Kadhi Pakora",
+    "state": "Punjab",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains onion, ginger - not consumed by Jains.",
+    "image": "kadhi_pakora.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "50 mins",
+    "servings": "4 Servings",
+    "ingredients": [
+      { "name": "Yogurt + besan", "qty": "for kadhi" },
+      { "name": "Onion pakoras (besan + onion + spices)", "qty": "as needed" },
+      { "name": "Fenugreek seeds, cumin, dry red chilli, curry leaves, turmeric", "qty": "for tempering" },
+      { "name": "Ginger, green chilli, salt", "qty": "to taste" }
+    ],
+    "recipe": [
+      "Whisk yogurt with besan, turmeric and water. Cook, stirring, till it thickens and the raw smell disappears.",
+      "Make onion pakoras and deep-fry. Add them to the kadhi and simmer.",
+      "Temper with fenugreek, cumin, dry red chilli and curry leaves in ghee. Pour over.",
+      "Serve with steamed rice."
+    ],
+    "tips": [
+      "Thick, tangy Punjabi kadhi with soft pakoras is comfort food.",
+      "Slightly sour yogurt gives the best flavour."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "punjab-dinner-butter-chicken",
+    "title": "Butter Chicken (Murgh Makhani)",
+    "state": "Punjab",
+    "mealType": "Dinner",
+    "diet": "Non-Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains chicken and onion-garlic - not consumed by Jains.",
+    "image": "butter_chicken.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "60 mins (+ marination)",
+    "servings": "4 Servings",
+    "ingredients": [
+      { "name": "Boneless chicken", "qty": "750 g" },
+      { "name": "Yogurt, ginger-garlic, chilli, garam masala (for marinade)", "qty": "as needed" },
+      { "name": "Tomato puree, butter, cream, kasuri methi, honey or sugar", "qty": "for gravy" },
+      { "name": "Salt", "qty": "to taste" }
+    ],
+    "recipe": [
+      "Marinate chicken in yogurt and spices for at least 1 hour. Grill, roast or pan-sear till cooked.",
+      "In butter cook tomato puree with spices till thick. Add cream, kasuri methi and a touch of sweetness. Simmer.",
+      "Add the cooked chicken and finish with more butter and cream.",
+      "Serve with naan or rice."
+    ],
+    "tips": [
+      "Originated in Delhi but deeply associated with Punjabi restaurant cuisine.",
+      "Mild, creamy and tomato-butter rich – not overly spicy."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "punjab-dinner-tandoori-chicken",
+    "title": "Tandoori Chicken",
+    "state": "Punjab",
+    "mealType": "Dinner",
+    "diet": "Non-Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains chicken and onion-garlic - not consumed by Jains.",
+    "image": "tandoori_chicken.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "45 mins (+ marination)",
+    "servings": "4 Servings",
+    "ingredients": [
+      { "name": "Whole chicken or pieces", "qty": "1 kg" },
+      { "name": "Yogurt, ginger-garlic, red chilli, turmeric, garam masala, lemon", "qty": "for marinade" },
+      { "name": "Mustard oil or ghee", "qty": "as needed" }
+    ],
+    "recipe": [
+      "Make deep slits in the chicken. Marinate in the spiced yogurt mixture for several hours or overnight.",
+      "Cook in a tandoor, oven or on a grill until charred at the edges and cooked through. Baste with butter or ghee.",
+      "Serve with onion rings, lemon wedges and mint chutney."
+    ],
+    "tips": [
+      "The smoky tandoor flavour is signature.",
+      "Punjab's most famous contribution to global Indian cuisine."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "punjab-snacks-samosa",
+    "title": "Punjabi Samosa",
+    "state": "Punjab",
+    "mealType": "Snacks",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains onion and potato (root vegetable) - not consumed by Jains.",
+    "image": "punjabi_samosa.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "50 mins",
+    "servings": "12 pieces",
+    "ingredients": [
+      { "name": "Maida for pastry", "qty": "2 cups" },
+      { "name": "Boiled potatoes, peas, spices (cumin, coriander, garam masala, amchur)", "qty": "for filling" },
+      { "name": "Oil for deep frying", "qty": "as needed" }
+    ],
+    "recipe": [
+      "Make a stiff dough with maida, oil and water. Rest.",
+      "Prepare spiced potato-pea filling. Shape cones from the dough, fill, seal into triangular samosas.",
+      "Deep-fry on medium heat till golden and crisp.",
+      "Serve with tamarind and green chutneys."
+    ],
+    "tips": [
+      "Punjabi samosas are typically larger and more generously spiced than other regional versions.",
+      "Crisp pastry and well-seasoned filling are key."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "punjab-snacks-pakora",
+    "title": "Onion Pakora / Mixed Pakora",
+    "state": "Punjab",
+    "mealType": "Snacks",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains onion - not consumed by Jains.",
+    "image": "onion_pakora.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "25 mins",
+    "servings": "4 Servings",
+    "ingredients": [
+      { "name": "Besan (gram flour)", "qty": "1.5 cups" },
+      { "name": "Onion, potato, spinach or mixed vegetables", "qty": "as desired" },
+      { "name": "Ajwain, red chilli, coriander, salt", "qty": "to taste" },
+      { "name": "Oil for deep frying", "qty": "as needed" }
+    ],
+    "recipe": [
+      "Mix besan with spices and water into a thick batter. Add sliced onion or chopped vegetables.",
+      "Drop spoonfuls into hot oil and fry till golden and crisp.",
+      "Serve hot with mint-coriander chutney and tea."
+    ],
+    "tips": [
+      "Monsoon and tea-time favourite across Punjab.",
+      "Ajwain helps with digestion and adds flavour."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "punjab-dinner-rajma-chawal",
+    "title": "Rajma Chawal",
+    "state": "Punjab",
+    "mealType": "Dinner",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains onion and garlic - not consumed by Jains.",
+    "image": "rajma_chawal.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "50 mins (+ soaking)",
+    "servings": "4 Servings",
+    "ingredients": [
+      { "name": "Kidney beans (rajma)", "qty": "1.5 cups (soaked)" },
+      { "name": "Onion, tomato, ginger-garlic, rajma masala", "qty": "as needed" },
+      { "name": "Rice for serving", "qty": "as needed" },
+      { "name": "Butter or ghee, cream (optional)", "qty": "as needed" }
+    ],
+    "recipe": [
+      "Pressure-cook soaked rajma till soft. Prepare a rich onion-tomato gravy with spices.",
+      "Add the cooked rajma and simmer till the gravy thickens and flavours meld. Finish with butter.",
+      "Serve with steamed rice."
+    ],
+    "tips": [
+      "Comfort food classic – the longer it simmers, the better.",
+      "Often finished with a dollop of butter or cream."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "punjab-lunch-baingan-bharta",
+    "title": "Baingan Bharta",
+    "state": "Punjab",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains onion and garlic - not consumed by Jains.",
+    "image": "baingan_bharta.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "40 mins",
+    "servings": "3 Servings",
+    "ingredients": [
+      { "name": "Large brinjals / eggplants", "qty": "2" },
+      { "name": "Onion, tomato, ginger-garlic, green chilli", "qty": "as needed" },
+      { "name": "Mustard oil or ghee, spices", "qty": "to taste" }
+    ],
+    "recipe": [
+      "Roast brinjals over open flame or in oven till the skin chars and flesh is soft. Peel and mash.",
+      "Temper oil with cumin, sauté onion, ginger-garlic, green chilli and tomato. Add spices.",
+      "Mix in the mashed baingan and cook till well blended. Finish with coriander.",
+      "Serve with roti or paratha."
+    ],
+    "tips": [
+      "Smoky flavour from open-flame roasting is essential.",
+      "A rustic Punjabi favourite."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  }
+]

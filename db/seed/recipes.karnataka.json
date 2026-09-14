@@ -1,0 +1,471 @@
+[
+  {
+    "_id": "karnataka-breakfast-mysore-masala-dosa",
+    "title": "Mysore Masala Dosa",
+    "state": "Karnataka",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "image": "mysore_masala_dosa.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "30 mins (+ fermentation)",
+    "servings": "4 Servings",
+    "ingredients": [
+      { "name": "Dosa batter (rice + urad dal)", "qty": "3 cups" },
+      { "name": "Potatoes", "qty": "4 medium" },
+      { "name": "Onion", "qty": "2" },
+      { "name": "Red chilli-garlic chutney (for spreading)", "qty": "as needed" },
+      { "name": "Mustard seeds, curry leaves, turmeric, green chillies", "qty": "for potato filling" },
+      { "name": "Oil or ghee / butter", "qty": "for roasting" },
+      { "name": "Salt", "qty": "to taste" }
+    ],
+    "recipe": [
+      "Prepare or use fermented dosa batter of pouring consistency.",
+      "For filling: Boil and mash potatoes. Temper mustard, curry leaves, green chillies and onion; add turmeric and salt. Mix with potatoes.",
+      "Heat a tawa, pour a ladle of batter and spread into a thin circle. Drizzle oil/ghee. Spread a thin layer of red chilli-garlic chutney on the inner surface.",
+      "Place potato filling in the centre, fold the dosa and roast till crisp and golden.",
+      "Serve hot with coconut chutney and sambar."
+    ],
+    "tips": [
+      "The distinctive red chutney inside distinguishes Mysore Masala Dosa from regular masala dosa.",
+      "Crispy exterior and soft potato filling are key."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "karnataka-breakfast-thatte-idli",
+    "title": "Thatte Idli",
+    "state": "Karnataka",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "jainFriendly": true,
+    "image": "thatte_idli.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "25 mins (+ fermentation)",
+    "servings": "6–8 pieces",
+    "ingredients": [
+      { "name": "Idli rice / parboiled rice", "qty": "2 cups" },
+      { "name": "Urad dal", "qty": "1/2 cup" },
+      { "name": "Poha or cooked rice (optional)", "qty": "1/4 cup" },
+      { "name": "Salt", "qty": "to taste" },
+      { "name": "Water", "qty": "as needed" }
+    ],
+    "recipe": [
+      "Soak rice and urad dal separately for 4–6 hours. Grind to a smooth, slightly coarse batter. Ferment overnight.",
+      "Grease large flat idli plates (thatte plates). Pour batter to fill the plates.",
+      "Steam for 12–15 minutes till a toothpick comes out clean.",
+      "Serve soft, large thatte idlis with coconut chutney, sambar or potato sagu."
+    ],
+    "tips": [
+      "Thatte means plate – these are larger and flatter than regular idlis.",
+      "Popular in Bengaluru and surrounding areas; very soft texture."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "karnataka-breakfast-akki-rotti",
+    "title": "Akki Rotti",
+    "state": "Karnataka",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "image": "akki_rotti.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "30 mins",
+    "servings": "6 pieces",
+    "ingredients": [
+      { "name": "Rice flour", "qty": "2 cups" },
+      { "name": "Onion, carrot, dill leaves or coriander", "qty": "as needed" },
+      { "name": "Green chillies, cumin, curry leaves", "qty": "to taste" },
+      { "name": "Grated coconut (optional)", "qty": "2 tbsp" },
+      { "name": "Salt and water", "qty": "as needed" },
+      { "name": "Oil", "qty": "for roasting" }
+    ],
+    "recipe": [
+      "Mix rice flour with finely chopped onion, grated carrot, dill/coriander, green chillies, cumin, curry leaves, salt and enough hot water to form a soft dough.",
+      "Take a portion, pat it thin on a banana leaf, plastic sheet or directly on a hot greased tawa (make a small hole in the centre if desired).",
+      "Drizzle oil and cook on both sides till golden spots appear and edges crisp.",
+      "Serve hot with coconut chutney or any spicy curry."
+    ],
+    "tips": [
+      "Pat the rotti thin for crispiness.",
+      "A traditional breakfast from South Karnataka and coastal regions."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "karnataka-breakfast-neer-dosa",
+    "title": "Neer Dosa",
+    "state": "Karnataka",
+    "mealType": "Breakfast",
+    "diet": "Vegan",
+    "jainFriendly": true,
+    "image": "neer_dosa.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "20 mins (+ soaking)",
+    "servings": "8–10 pieces",
+    "ingredients": [
+      { "name": "Raw rice", "qty": "1.5 cups" },
+      { "name": "Grated coconut (optional)", "qty": "1/4 cup" },
+      { "name": "Salt", "qty": "to taste" },
+      { "name": "Water", "qty": "as needed for thin batter" }
+    ],
+    "recipe": [
+      "Soak rice for 3–4 hours. Grind with coconut (if using) and water to a very thin, watery batter. Add salt.",
+      "Heat a non-stick or well-seasoned tawa. Pour a ladle of batter and swirl quickly to form a thin lace-like dosa. Do not spread with a ladle.",
+      "Cover and cook for 1–2 minutes till the surface sets (no need to flip).",
+      "Fold into triangle or roll and serve with coconut chutney, chicken curry or vegetable stew."
+    ],
+    "tips": [
+      "Neer means water – the batter is intentionally very thin.",
+      "Coastal Karnataka (Mangaluru / Malenadu) specialty; soft and delicate."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "karnataka-lunch-bisi-bele-bath",
+    "title": "Bisi Bele Bath",
+    "state": "Karnataka",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "image": "bisi_bele_bath.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "45 mins",
+    "servings": "4 Servings",
+    "ingredients": [
+      { "name": "Rice", "qty": "1 cup" },
+      { "name": "Toor dal", "qty": "1/2 cup" },
+      { "name": "Mixed vegetables (carrot, beans, peas, brinjal)", "qty": "2 cups" },
+      { "name": "Bisi bele bath powder / spice mix", "qty": "2–3 tbsp" },
+      { "name": "Tamarind, jaggery", "qty": "to taste" },
+      { "name": "Ghee, cashews, curry leaves, mustard", "qty": "for tempering" },
+      { "name": "Salt", "qty": "to taste" }
+    ],
+    "recipe": [
+      "Pressure-cook rice, toor dal and vegetables together with turmeric and water till soft.",
+      "Extract tamarind pulp. In a pan heat ghee, temper mustard, curry leaves and cashews. Add the cooked mixture, bisi bele bath powder, tamarind, jaggery and salt.",
+      "Simmer, adding water to reach a porridge-like consistency. Mash lightly if desired.",
+      "Serve piping hot with a generous dollop of ghee, potato chips or boondi and raita."
+    ],
+    "tips": [
+      "The name means ‘hot lentil rice’. Origin linked to Mysore royal kitchens.",
+      "Consistency should be soft and slightly runny – not dry."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "karnataka-lunch-ragi-mudde",
+    "title": "Ragi Mudde",
+    "state": "Karnataka",
+    "mealType": "Lunch",
+    "diet": "Vegan",
+    "jainFriendly": true,
+    "image": "ragi_mudde.png",
+    "wikipediaImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Ragi_mudde_Karnataka_DSC0006.jpg",
+    "imageSource": "wikimedia_commons_verified",
+    "time": "25 mins",
+    "servings": "3 Servings",
+    "ingredients": [
+      { "name": "Ragi (finger millet) flour", "qty": "2 cups" },
+      { "name": "Water", "qty": "4 cups" },
+      { "name": "Salt", "qty": "to taste" }
+    ],
+    "recipe": [
+      "Bring water with a pinch of salt to a rolling boil.",
+      "Lower heat and gradually add ragi flour while stirring vigorously with a wooden stick (mudde kolu) to avoid lumps.",
+      "Cook on low heat, continuing to stir and press, until the mixture becomes a soft, non-sticky dough that leaves the sides of the pan.",
+      "Wet hands and shape into smooth round balls (mudde).",
+      "Serve hot with bassaru, upsaaru, sambar or any spicy curry. Traditionally swallowed in small portions without chewing."
+    ],
+    "tips": [
+      "Continuous stirring is essential for smooth texture.",
+      "A nutritious staple of rural South Karnataka, especially Mandya and Mysuru regions."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "karnataka-lunch-chitranna",
+    "title": "Chitranna (Lemon Rice)",
+    "state": "Karnataka",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "image": "chitranna.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "20 mins",
+    "servings": "3 Servings",
+    "ingredients": [
+      { "name": "Cooked rice", "qty": "3 cups" },
+      { "name": "Lemon juice", "qty": "2–3 tbsp" },
+      { "name": "Mustard seeds, urad dal, chana dal, curry leaves", "qty": "for tempering" },
+      { "name": "Green chillies, turmeric, asafoetida, peanuts", "qty": "to taste" },
+      { "name": "Oil, salt, coriander", "qty": "as needed" }
+    ],
+    "recipe": [
+      "Heat oil, temper mustard, urad dal, chana dal, peanuts, curry leaves, green chillies and asafoetida.",
+      "Add turmeric and the cooked rice. Mix gently.",
+      "Switch off heat, add lemon juice, salt and chopped coriander. Mix well.",
+      "Serve with papad, yogurt or any side dish."
+    ],
+    "tips": [
+      "Use cooled leftover rice for best texture.",
+      "A simple, tangy rice dish common in everyday Karnataka meals and festivals."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "karnataka-dinner-holige-obbattu",
+    "title": "Holige / Obbattu",
+    "state": "Karnataka",
+    "mealType": "Dinner",
+    "diet": "Vegetarian",
+    "jainFriendly": true,
+    "image": "holige_obbattu.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "60 mins",
+    "servings": "10–12 pieces",
+    "ingredients": [
+      { "name": "Chana dal or toor dal", "qty": "1 cup" },
+      { "name": "Jaggery", "qty": "1 cup" },
+      { "name": "Cardamom powder", "qty": "1 tsp" },
+      { "name": "Maida or wheat flour", "qty": "2 cups" },
+      { "name": "Oil/ghee, turmeric, salt", "qty": "as needed" }
+    ],
+    "recipe": [
+      "Cook dal till soft, drain and mash. Cook with jaggery till thick. Add cardamom. Cool to form the stuffing (holige filling).",
+      "Knead a soft dough with flour, a pinch of turmeric, salt, oil and water. Rest.",
+      "Stuff portions of dough with the sweet filling, seal and roll carefully into thin rounds.",
+      "Roast on a hot tawa with ghee on both sides till golden.",
+      "Serve warm with ghee or milk."
+    ],
+    "tips": [
+      "Also called Obbattu. A must for festivals like Ugadi and weddings.",
+      "Coconut-jaggery version is also popular."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "karnataka-dinner-kori-gassi",
+    "title": "Kori Gassi (Mangalorean Chicken Curry)",
+    "state": "Karnataka",
+    "mealType": "Dinner",
+    "diet": "Non-Vegetarian",
+    "jainFriendly": false,
+    "image": "kori_gassi.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "50 mins",
+    "servings": "4 Servings",
+    "ingredients": [
+      { "name": "Chicken", "qty": "750 g" },
+      { "name": "Onion", "qty": "2" },
+      { "name": "Coconut (grated) + spices for masala", "qty": "1 cup coconut" },
+      { "name": "Tamarind, chilli powder, coriander, turmeric, fenugreek", "qty": "to taste" },
+      { "name": "Ginger-garlic, curry leaves, oil", "qty": "as needed" }
+    ],
+    "recipe": [
+      "Dry-roast grated coconut with spices (coriander, chilli, fenugreek etc.) and grind to a smooth paste with a little water.",
+      "Sauté onion, ginger-garlic and curry leaves. Add chicken and sear.",
+      "Add the coconut masala, tamarind extract, salt and water. Simmer till chicken is cooked and gravy thickens.",
+      "Serve with neer dosa, kori rotti or rice."
+    ],
+    "tips": [
+      "Classic Mangalorean / coastal Karnataka chicken curry.",
+      "The roasted coconut base gives it a distinctive flavour."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "karnataka-snacks-maddur-vada",
+    "title": "Maddur Vada",
+    "state": "Karnataka",
+    "mealType": "Snacks",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "image": "maddur_vada.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "35 mins",
+    "servings": "12–15 pieces",
+    "ingredients": [
+      { "name": "Rice flour, maida, rava (semolina)", "qty": "1 cup each approx" },
+      { "name": "Onion", "qty": "2 large" },
+      { "name": "Green chillies, curry leaves, cumin, sesame", "qty": "to taste" },
+      { "name": "Salt, oil for deep frying", "qty": "as needed" }
+    ],
+    "recipe": [
+      "Mix rice flour, maida, rava, finely chopped onion, green chillies, curry leaves, cumin, sesame and salt.",
+      "Add water little by little to form a stiff dough.",
+      "Pinch small portions, flatten into thin discs with a hole or plain round shape.",
+      "Deep-fry in medium-hot oil till crisp and golden.",
+      "Serve hot with coconut chutney or as is with tea."
+    ],
+    "tips": [
+      "Originates from the town of Maddur in Karnataka.",
+      "Crispy outside, slightly soft inside – perfect tea-time snack."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "karnataka-snacks-goli-baje",
+    "title": "Goli Baje (Mangalore Bajji)",
+    "state": "Karnataka",
+    "mealType": "Snacks",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "image": "goli_baje.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "25 mins",
+    "servings": "15–20 pieces",
+    "ingredients": [
+      { "name": "Maida (all-purpose flour)", "qty": "1.5 cups" },
+      { "name": "Curd / yogurt", "qty": "1/2 cup" },
+      { "name": "Green chillies, ginger, curry leaves, coriander", "qty": "to taste" },
+      { "name": "Baking soda, salt", "qty": "a pinch each" },
+      { "name": "Oil for deep frying", "qty": "as needed" }
+    ],
+    "recipe": [
+      "Mix maida, curd, finely chopped green chillies, ginger, curry leaves, coriander, salt and a pinch of soda into a thick batter. Rest 15–20 minutes.",
+      "Heat oil. Drop small spoonfuls of batter and deep-fry on medium heat till golden and crisp outside, soft inside.",
+      "Drain and serve hot with coconut chutney."
+    ],
+    "tips": [
+      "Also called Mangalore Bajji. Soft and spongy texture is characteristic.",
+      "Best eaten fresh."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "karnataka-breakfast-rava-idli",
+    "title": "Rava Idli",
+    "state": "Karnataka",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "image": "rava_idli.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "30 mins",
+    "servings": "10–12 pieces",
+    "ingredients": [
+      { "name": "Rava / sooji (semolina)", "qty": "1.5 cups" },
+      { "name": "Curd", "qty": "1 cup" },
+      { "name": "Mustard, chana dal, urad dal, curry leaves, cashews", "qty": "for tempering" },
+      { "name": "Green chillies, ginger, coriander, carrot (optional)", "qty": "as needed" },
+      { "name": "Eno / baking soda, salt", "qty": "to taste" },
+      { "name": "Ghee or oil", "qty": "2 tbsp" }
+    ],
+    "recipe": [
+      "Dry-roast rava lightly. Temper mustard, dals, curry leaves, cashews, green chillies and ginger in ghee; add to rava.",
+      "Mix with curd, salt, chopped coriander and grated carrot. Add water if needed for thick batter consistency. Rest 15–20 minutes.",
+      "Just before steaming, add Eno/soda and mix. Pour into greased idli moulds.",
+      "Steam 12–15 minutes. Serve with coconut chutney and sambar."
+    ],
+    "tips": [
+      "Invented by MTR in Bengaluru during wartime rice shortage.",
+      "No fermentation needed – quick and fluffy."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "karnataka-lunch-jolada-rotti",
+    "title": "Jolada Rotti",
+    "state": "Karnataka",
+    "mealType": "Lunch",
+    "diet": "Vegan",
+    "jainFriendly": true,
+    "image": "jolada_rotti.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "30 mins",
+    "servings": "6–8 pieces",
+    "ingredients": [
+      { "name": "Jowar flour (sorghum)", "qty": "2 cups" },
+      { "name": "Hot water and salt", "qty": "as needed" }
+    ],
+    "recipe": [
+      "Boil water with salt. Add jowar flour and mix vigorously to form a soft dough. Knead while still warm.",
+      "Divide into balls. Pat or roll carefully into thin discs (use wet hands or between sheets).",
+      "Cook on a hot tawa on both sides, then finish on open flame for puffing if possible.",
+      "Serve with ennegayi (stuffed brinjal), shenga chutney, yogurt or any spicy curry."
+    ],
+    "tips": [
+      "Staple of North Karnataka.",
+      "Best eaten fresh; dough should be soft and pliable."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "karnataka-snacks-kodubale",
+    "title": "Kodubale",
+    "state": "Karnataka",
+    "mealType": "Snacks",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "image": "kodubale.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "40 mins",
+    "servings": "many",
+    "ingredients": [
+      { "name": "Rice flour", "qty": "1.5 cups" },
+      { "name": "Roasted gram flour (putani)", "qty": "1/2 cup" },
+      { "name": "Butter or oil, sesame, chilli powder, cumin, salt", "qty": "to taste" },
+      { "name": "Hot water", "qty": "as needed" },
+      { "name": "Oil for deep frying", "qty": "as needed" }
+    ],
+    "recipe": [
+      "Mix rice flour, roasted gram flour, chilli powder, cumin, sesame, salt and melted butter/oil.",
+      "Add hot water to form a stiff dough.",
+      "Pinch small portions and shape into rings (kodubale shape).",
+      "Deep-fry on medium heat till crisp and golden.",
+      "Cool and store in airtight containers."
+    ],
+    "tips": [
+      "A classic crunchy tea-time and festive snack.",
+      "Shape evenly for uniform frying."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "karnataka-dinner-fish-curry-coastal",
+    "title": "Coastal Karnataka Fish Curry",
+    "state": "Karnataka",
+    "mealType": "Dinner",
+    "diet": "Non-Vegetarian",
+    "jainFriendly": false,
+    "image": "coastal_fish_curry.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "35 mins",
+    "servings": "4 Servings",
+    "ingredients": [
+      { "name": "Fish (seer, mackerel or local catch)", "qty": "500 g" },
+      { "name": "Grated coconut", "qty": "1 cup" },
+      { "name": "Tamarind, red chillies, coriander seeds, turmeric", "qty": "to taste" },
+      { "name": "Onion, garlic, curry leaves", "qty": "as needed" },
+      { "name": "Oil, salt", "qty": "as needed" }
+    ],
+    "recipe": [
+      "Grind coconut with roasted red chillies, coriander and a little water to a smooth paste.",
+      "Extract tamarind pulp.",
+      "In a pot heat oil, sauté onion, garlic and curry leaves. Add the coconut paste, tamarind, turmeric and salt. Bring to a boil.",
+      "Gently add fish pieces and simmer on low heat till cooked (do not over-stir).",
+      "Serve with rice or neer dosa."
+    ],
+    "tips": [
+      "Coastal (Karavali) style uses coconut and local souring agents.",
+      "Fresh fish yields the best result."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  }
+]

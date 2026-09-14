@@ -1,0 +1,529 @@
+[
+  {
+    "id": "uttarakhand-breakfast-mandua-roti",
+    "title": "Mandua ki Roti",
+    "state": "Uttarakhand",
+    "mealType": "Breakfast",
+    "diet": "Vegan",
+    "time": "25 mins",
+    "servings": "6 pieces",
+    "heroImage": "./assets/images/mandua_roti.png",
+    "steps": [
+      "Mix mandua flour with salt and hot water to form a soft dough. Knead well.",
+      "Pat into thick rotis by hand and cook on a hot tawa till done on both sides.",
+      "Serve hot, smeared with ghee if desired, with dal or sabzi."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Mandua (finger millet / ragi) flour",
+        "qty": "2 cups",
+        "checked": true
+      },
+      {
+        "name": "Hot water, salt",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Ghee for serving (optional)",
+        "qty": "as desired",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Nutritious gluten-free millet flatbread – a winter and everyday staple of the hills."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Hand-patted texture is traditional."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "uttarakhand-breakfast-aloo-ke-gutke",
+    "title": "Aloo ke Gutke",
+    "state": "Uttarakhand",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "time": "25 mins",
+    "servings": "3 Servings",
+    "heroImage": "./assets/images/aloo_ke_gutke.png",
+    "steps": [
+      "Cube the boiled potatoes. Heat mustard oil, add jakhiya seeds and let them crackle.",
+      "Add red chilli, turmeric and the potatoes. Toss on high heat till coated and slightly crisp.",
+      "Finish with coriander. Serve with puri, roti or as a snack."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Boiled potatoes",
+        "qty": "4 medium",
+        "checked": true
+      },
+      {
+        "name": "Jakhiya seeds, red chilli, coriander, turmeric, salt",
+        "qty": "to taste",
+        "checked": true
+      },
+      {
+        "name": "Mustard oil",
+        "qty": "as needed",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Iconic Kumaoni/Garhwali potato dish – the crackle of jakhiya is signature."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Mustard oil is essential for authentic flavour."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "uttarakhand-breakfast-gahat-roti",
+    "title": "Gahat Stuffed Roti",
+    "state": "Uttarakhand",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "time": "40 mins",
+    "servings": "6 pieces",
+    "heroImage": "./assets/images/gahat_roti.png",
+    "steps": [
+      "Prepare a spiced paste from cooked gahat (kulath/horse gram). Stuff into wheat dough, seal and roll into parathas.",
+      "Cook on a tawa with ghee till golden.",
+      "Serve hot with curd or chutney."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Wheat flour",
+        "qty": "2 cups",
+        "checked": true
+      },
+      {
+        "name": "Cooked gahat (horse gram) paste, spices",
+        "qty": "for stuffing",
+        "checked": true
+      },
+      {
+        "name": "Ghee or oil for cooking",
+        "qty": "as needed",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Protein-rich stuffed flatbread using the local horse gram."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Filling and warming for cold mornings."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "uttarakhand-lunch-kafuli",
+    "title": "Kafuli",
+    "state": "Uttarakhand",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "time": "35 mins",
+    "servings": "4 Servings",
+    "heroImage": "./assets/images/kafuli.png",
+    "steps": [
+      "Wash and roughly chop the greens. Cook with a little water, garlic and chilli till soft.",
+      "Mash or blend lightly. Add rice paste to thicken and simmer.",
+      "Temper with cumin in ghee. Serve with rice or roti – a classic green curry of the hills."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Spinach + fenugreek leaves",
+        "qty": "4 cups mixed",
+        "checked": true
+      },
+      {
+        "name": "Rice paste or flour for thickening",
+        "qty": "2–3 tbsp",
+        "checked": true
+      },
+      {
+        "name": "Garlic, green chilli, cumin, salt",
+        "qty": "to taste",
+        "checked": true
+      },
+      {
+        "name": "Ghee or oil",
+        "qty": "as needed",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Iron-rich, creamy green preparation – traditionally cooked in iron vessels."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "One of the most representative dishes of Uttarakhand."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "uttarakhand-lunch-chainsoo",
+    "title": "Chainsoo",
+    "state": "Uttarakhand",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "time": "40 mins",
+    "servings": "4 Servings",
+    "heroImage": "./assets/images/chainsoo.png",
+    "steps": [
+      "Dry-roast the urad dal till aromatic, then grind coarsely. Cook with water, turmeric and salt till thick.",
+      "Temper generously with garlic, cumin and red chilli in ghee.",
+      "Serve with rice or mandua roti – a high-protein Garhwali classic."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Black urad dal (roasted)",
+        "qty": "1 cup",
+        "checked": true
+      },
+      {
+        "name": "Garlic, cumin, red chilli, turmeric, salt",
+        "qty": "to taste",
+        "checked": true
+      },
+      {
+        "name": "Ghee or oil",
+        "qty": "as needed",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Roasting the dal before cooking is the key step for depth of flavour."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Hearty and warming."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "uttarakhand-lunch-bhatt-ki-churkani",
+    "title": "Bhatt ki Churkani",
+    "state": "Uttarakhand",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "time": "50 mins (+ soaking)",
+    "servings": "4 Servings",
+    "heroImage": "./assets/images/bhatt_ki_churkani.png",
+    "steps": [
+      "Cook the soaked black soybeans till soft. Mash lightly or leave whole.",
+      "Thicken with rice paste and simmer into a rich gravy. Add buttermilk for a slight tang if desired.",
+      "Temper with garlic and cumin in ghee. Serve with rice or roti."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Black soybeans (bhatt)",
+        "qty": "1.5 cups (soaked)",
+        "checked": true
+      },
+      {
+        "name": "Rice paste or flour, buttermilk (optional), spices",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Garlic, cumin, ghee",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Signature Garhwali black-soybean curry – earthy, protein-rich and deeply satisfying."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "A winter favourite."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "uttarakhand-dinner-phaanu",
+    "title": "Phaanu",
+    "state": "Uttarakhand",
+    "mealType": "Dinner",
+    "diet": "Vegetarian",
+    "time": "60 mins (+ soaking)",
+    "servings": "4 Servings",
+    "heroImage": "./assets/images/phaanu.png",
+    "steps": [
+      "Soak mixed lentils overnight, grind coarsely and cook slowly with water and salt till thick and soft.",
+      "Temper with garlic, cumin and chilli in ghee.",
+      "Serve with rice – a wholesome, slow-cooked lentil dish of Garhwal."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Mixed lentils (gahat, urad, etc.)",
+        "qty": "1.5 cups (soaked)",
+        "checked": true
+      },
+      {
+        "name": "Garlic, cumin, green chilli, salt",
+        "qty": "to taste",
+        "checked": true
+      },
+      {
+        "name": "Ghee for tempering",
+        "qty": "as needed",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Healthy mixed-lentil preparation – often considered one of the most nutritious local dishes."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Long, slow cooking develops the best texture."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "uttarakhand-dinner-gahat-dal",
+    "title": "Gahat ki Dal",
+    "state": "Uttarakhand",
+    "mealType": "Dinner",
+    "diet": "Vegetarian",
+    "time": "45 mins (+ soaking)",
+    "servings": "4 Servings",
+    "heroImage": "./assets/images/gahat_dal.png",
+    "steps": [
+      "Pressure-cook the soaked gahat till soft. Mash lightly if desired.",
+      "Temper with garlic and cumin in ghee. Simmer briefly.",
+      "Serve with rice or mandua roti – a robust, warming dal."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Gahat (horse gram / kulath)",
+        "qty": "1 cup (soaked)",
+        "checked": true
+      },
+      {
+        "name": "Garlic, cumin, turmeric, salt",
+        "qty": "to taste",
+        "checked": true
+      },
+      {
+        "name": "Ghee or mustard oil",
+        "qty": "as needed",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Horse gram is a local staple valued for its nutrition and warming properties."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Simple tempering lets the dal shine."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "uttarakhand-snacks-arsa",
+    "title": "Arsa",
+    "state": "Uttarakhand",
+    "mealType": "Snacks",
+    "diet": "Vegetarian",
+    "time": "50 mins (+ soaking)",
+    "servings": "15–20 pieces",
+    "heroImage": "./assets/images/arsa.png",
+    "steps": [
+      "Soak rice, grind into a paste. Cook jaggery into a thick syrup and mix with the rice paste to form a dough.",
+      "Shape into small discs and deep-fry till golden and crisp.",
+      "Cool and store. A festive sweet of both Kumaon and Garhwal."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Rice",
+        "qty": "2 cups (soaked)",
+        "checked": true
+      },
+      {
+        "name": "Jaggery",
+        "qty": "1.5 cups",
+        "checked": true
+      },
+      {
+        "name": "Oil for deep frying",
+        "qty": "as needed",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Traditional rice-jaggery sweet – crisp outside with a chewy, sweet interior."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Made for festivals and special occasions."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "uttarakhand-snacks-bal-mithai",
+    "title": "Bal Mithai",
+    "state": "Uttarakhand",
+    "mealType": "Snacks",
+    "diet": "Vegetarian",
+    "time": "60 mins",
+    "servings": "many pieces",
+    "heroImage": "./assets/images/bal_mithai.png",
+    "steps": [
+      "Cook khoya with sugar till it thickens and darkens into a fudge-like consistency.",
+      "Shape into small cubes or rectangles and coat with white roasted sugar balls.",
+      "The iconic chocolate-like sweet of Kumaon (though it contains no chocolate)."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Khoya / milk solids",
+        "qty": "500 g",
+        "checked": true
+      },
+      {
+        "name": "Sugar, roasted sugar balls (for coating)",
+        "qty": "as needed",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Famous Almora speciality – dark, fudgy and coated with tiny sugar balls."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Best bought from traditional sweet shops for authentic texture."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "uttarakhand-lunch-bhang-ki-chutney",
+    "title": "Bhang ki Chutney",
+    "state": "Uttarakhand",
+    "mealType": "Lunch",
+    "diet": "Vegan",
+    "time": "15 mins",
+    "servings": "4 Servings",
+    "heroImage": "./assets/images/bhang_ki_chutney.png",
+    "steps": [
+      "Dry-roast the hemp seeds. Grind with green chilli, garlic, salt and a souring agent into a coarse or smooth chutney.",
+      "Adjust consistency with a little water. Serve as a pungent, flavourful accompaniment."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Roasted bhang (hemp) seeds",
+        "qty": "1/2 cup",
+        "checked": true
+      },
+      {
+        "name": "Green chilli, garlic, lemon or amchur, salt",
+        "qty": "to taste",
+        "checked": true
+      },
+      {
+        "name": "Coriander (optional)",
+        "qty": "as needed",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Distinctive Pahadi chutney – earthy, slightly bitter and very local."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Pairs especially well with aloo ke gutke and mandua roti."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "uttarakhand-dinner-thechwani",
+    "title": "Thechwani",
+    "state": "Uttarakhand",
+    "mealType": "Dinner",
+    "diet": "Vegetarian",
+    "time": "35 mins",
+    "servings": "3 Servings",
+    "heroImage": "./assets/images/thechwani.png",
+    "steps": [
+      "Crush or roughly pound the radish (and potato if using). Heat mustard oil, add jakhiya and spices.",
+      "Add the crushed vegetables and cook till soft and well-flavoured.",
+      "Serve with roti or rice – a rustic Garhwali preparation."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Radish or potato + radish",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Jakhiya, red chilli, turmeric, salt",
+        "qty": "to taste",
+        "checked": true
+      },
+      {
+        "name": "Mustard oil",
+        "qty": "as needed",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "The name comes from ‘thechna’ (to crush) – the texture is deliberately coarse."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Simple, peppery and very local."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  }
+]

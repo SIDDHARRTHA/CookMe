@@ -1,0 +1,565 @@
+.cook-loader {
+  position: fixed;
+  inset: 0;
+  z-index: 9999;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+  gap: clamp(18px, 5vw, 30px);
+
+  background: radial-gradient(
+    circle at 50% 38%,
+    #fff6ea 0%,
+    #f6e9d6 55%,
+    #ece0cd 100%
+  );
+
+  overflow: hidden;
+
+  opacity: 1;
+
+  transition:
+    opacity 0.55s ease,
+    visibility 0.55s ease;
+}
+
+.cook-loader.is-hidden {
+  opacity: 0;
+  visibility: hidden;
+  pointer-events: none;
+}
+
+/* =========================================
+   SCENE
+========================================= */
+
+.cook-scene {
+  position: relative;
+
+  width: clamp(180px, 60vw, 260px);
+  height: clamp(200px, 62vw, 280px);
+
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
+
+/* =========================================
+   BLUR
+========================================= */
+
+.cook-blur-top {
+  position: absolute;
+
+  top: 0;
+  left: -10%;
+  right: -10%;
+
+  height: 55%;
+
+  z-index: 6;
+
+  pointer-events: none;
+
+  backdrop-filter: blur(7px);
+  -webkit-backdrop-filter: blur(7px);
+
+  -webkit-mask-image:
+    linear-gradient(
+      to bottom,
+      #000 0%,
+      #000 28%,
+      rgba(0, 0, 0, 0.6) 55%,
+      transparent 100%
+    );
+
+  mask-image:
+    linear-gradient(
+      to bottom,
+      #000 0%,
+      #000 28%,
+      rgba(0, 0, 0, 0.6) 55%,
+      transparent 100%
+    );
+}
+
+/* =========================================
+   HEAT WAVES
+========================================= */
+
+.cook-heat {
+  position: absolute;
+
+  bottom: 42%;
+  left: 50%;
+
+  transform: translateX(-50%);
+
+  width: clamp(90px, 30vw, 130px);
+  height: clamp(90px, 30vw, 120px);
+
+  z-index: 5;
+
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-around;
+}
+
+.cook-heat span {
+  display: block;
+
+  width: clamp(3px, 1vw, 4px);
+  height: 100%;
+
+  border-radius: 999px;
+
+  background: linear-gradient(
+    to top,
+    rgba(232, 98, 44, 0) 0%,
+    rgba(232, 98, 44, 0.32) 35%,
+    rgba(255, 209, 138, 0.35) 65%,
+    rgba(255, 209, 138, 0) 100%
+  );
+
+  filter: blur(2px);
+
+  transform-origin: 50% 100%;
+
+  animation: heatRise 2.6s ease-in infinite;
+}
+
+.cook-heat span:nth-child(1) {
+  animation-delay: 0s;
+  height: 82%;
+}
+
+.cook-heat span:nth-child(2) {
+  animation-delay: 0.5s;
+  height: 100%;
+}
+
+.cook-heat span:nth-child(3) {
+  animation-delay: 0.9s;
+  height: 90%;
+}
+
+.cook-heat span:nth-child(4) {
+  animation-delay: 1.3s;
+  height: 96%;
+}
+
+@keyframes heatRise {
+  0% {
+    opacity: 0;
+    transform:
+      translateY(14px)
+      skewX(0deg)
+      scaleY(0.7);
+  }
+
+  25% {
+    opacity: 0.9;
+  }
+
+  50% {
+    transform:
+      translateY(-6px)
+      skewX(8deg)
+      scaleY(1);
+  }
+
+  75% {
+    transform:
+      translateY(-18px)
+      skewX(-8deg)
+      scaleY(1.05);
+  }
+
+  100% {
+    opacity: 0;
+
+    transform:
+      translateY(-30px)
+      skewX(6deg)
+      scaleY(1.1);
+  }
+}
+
+/* =========================================
+   PAN
+========================================= */
+
+.cook-pan {
+  position: absolute;
+
+  bottom: 30%;
+  left: 50%;
+
+  transform: translateX(-50%);
+
+  z-index: 4;
+
+  transform-origin: 50% 100%;
+
+  animation:
+    panSizzle 0.28s ease-in-out infinite alternate;
+}
+
+.cook-pan-body {
+  width: clamp(120px, 40vw, 168px);
+  height: clamp(26px, 9vw, 36px);
+
+  background:
+    linear-gradient(
+      to bottom,
+      #4a3f39 0%,
+      #241d19 60%,
+      #17110e 100%
+    );
+
+  border-radius:
+    0 0 50% 50% /
+    0 0 100% 100%;
+
+  box-shadow:
+    inset 0 4px 6px rgba(255, 255, 255, 0.08),
+    0 6px 14px rgba(23, 17, 14, 0.35);
+
+  position: relative;
+}
+
+/* Pan rim */
+
+.cook-pan-body::before {
+  content: "";
+
+  position: absolute;
+
+  top: -6px;
+  left: 0;
+  right: 0;
+
+  height: 12px;
+
+  border-radius: 50%;
+
+  background:
+    linear-gradient(
+      to bottom,
+      #5a4d45,
+      #2a221d
+    );
+
+  box-shadow:
+    inset 0 2px 3px rgba(255, 255, 255, 0.15);
+}
+
+/* Pan handle */
+
+.cook-pan-handle {
+  position: absolute;
+
+  top: 2px;
+
+  right: clamp(-58px, -19vw, -78px);
+
+  width: clamp(52px, 18vw, 74px);
+  height: clamp(9px, 3vw, 12px);
+
+  background:
+    linear-gradient(
+      to bottom,
+      #7a4a2a,
+      #4a2c17
+    );
+
+  border-radius: 999px;
+
+  box-shadow:
+    inset 0 1px 2px rgba(255, 255, 255, 0.2);
+}
+
+@keyframes panSizzle {
+  0% {
+    transform:
+      translateX(-50%)
+      translateY(0)
+      rotate(-0.6deg);
+  }
+
+  100% {
+    transform:
+      translateX(-51%)
+      translateY(-1px)
+      rotate(0.6deg);
+  }
+}
+
+/* =========================================
+   FLAMES
+========================================= */
+
+.cook-flames {
+  position: absolute;
+
+  bottom: 20%;
+  left: 50%;
+
+  transform: translateX(-50%);
+
+  z-index: 3;
+
+  display: flex;
+
+  align-items: flex-end;
+  justify-content: center;
+
+  gap: clamp(2px, 1vw, 4px);
+
+  height: clamp(50px, 17vw, 72px);
+}
+
+.cook-flame {
+  width: clamp(13px, 4.4vw, 19px);
+  height: 100%;
+
+  background:
+    linear-gradient(
+      to top,
+      #2b8cff 0%,
+      #62b4ff 12%,
+      #ffe07a 40%,
+      #ffab45 62%,
+      #ec6b2c 84%,
+      rgba(236, 107, 44, 0.15) 100%
+    );
+
+  border-radius:
+    50% 50% 46% 46% /
+    92% 92% 32% 32%;
+
+  transform-origin: 50% 100%;
+
+  filter:
+    blur(0.6px)
+    drop-shadow(
+      0 0 10px rgba(255, 150, 60, 0.55)
+    );
+
+  animation:
+    flameFlicker 0.62s ease-in-out infinite alternate;
+}
+
+.cook-flame.f1 {
+  height: 66%;
+  animation-delay: 0.05s;
+}
+
+.cook-flame.f2 {
+  height: 86%;
+  animation-delay: 0.22s;
+}
+
+.cook-flame.f3 {
+  height: 100%;
+  animation-delay: 0s;
+}
+
+.cook-flame.f4 {
+  height: 88%;
+  animation-delay: 0.16s;
+}
+
+.cook-flame.f5 {
+  height: 64%;
+  animation-delay: 0.3s;
+}
+
+@keyframes flameFlicker {
+  0% {
+    transform:
+      scaleY(0.9)
+      scaleX(1)
+      skewX(-3deg);
+
+    opacity: 0.9;
+  }
+
+  50% {
+    transform:
+      scaleY(1.08)
+      scaleX(0.95)
+      skewX(2deg);
+
+    opacity: 1;
+  }
+
+  100% {
+    transform:
+      scaleY(0.96)
+      scaleX(1.03)
+      skewX(3deg);
+
+    opacity: 0.95;
+  }
+}
+
+/* =========================================
+   STOVE
+========================================= */
+
+.cook-stove {
+  position: absolute;
+
+  bottom: 4%;
+  left: 50%;
+
+  transform: translateX(-50%);
+
+  z-index: 2;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.cook-burner {
+  width: clamp(96px, 32vw, 136px);
+  height: clamp(14px, 5vw, 20px);
+
+  background:
+    radial-gradient(
+      ellipse at center,
+      #3a2f28 0%,
+      #241c17 70%,
+      #17110e 100%
+    );
+
+  border-radius: 50%;
+
+  box-shadow:
+    0 0 22px rgba(255, 130, 50, 0.35),
+    inset 0 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.cook-stove-base {
+  width: clamp(150px, 50vw, 210px);
+  height: clamp(20px, 7vw, 30px);
+
+  margin-top: -4px;
+
+  background:
+    linear-gradient(
+      to bottom,
+      #453a33 0%,
+      #2a221d 100%
+    );
+
+  border-radius:
+    14px 14px 12px 12px;
+
+  box-shadow:
+    0 10px 24px rgba(23, 17, 14, 0.3),
+    inset 0 2px 3px rgba(255, 255, 255, 0.06);
+}
+
+/* =========================================
+   BRAND
+========================================= */
+
+.cook-loader-brand {
+  display: flex;
+  align-items: center;
+
+  gap: 10px;
+
+  z-index: 7;
+}
+
+.cook-loader-brand .logo-icon-wrap {
+  width: 40px;
+  height: 40px;
+
+  border-radius: 12px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  background: #fff;
+}
+
+.cook-loader-title {
+  font-family: "Gatchina", Georgia, serif;
+
+  font-weight: 900;
+
+  font-size:
+    clamp(26px, 8vw, 34px);
+
+  letter-spacing: -0.5px;
+
+  color: #3a2921;
+}
+
+.cook-loader-sub {
+  font-family:
+    Inter,
+    Arial,
+    sans-serif;
+
+  font-size:
+    clamp(13px, 3.6vw, 15px);
+
+  font-weight: 500;
+
+  color: #806f64;
+
+  z-index: 7;
+
+  display: flex;
+  align-items: center;
+
+  gap: 4px;
+}
+
+.cook-loader-sub .dot {
+  animation:
+    dotPulse 1.4s ease-in-out infinite;
+}
+
+.cook-loader-sub .dot:nth-child(2) {
+  animation-delay: 0.2s;
+}
+
+.cook-loader-sub .dot:nth-child(3) {
+  animation-delay: 0.4s;
+}
+
+@keyframes dotPulse {
+  0%,
+  100% {
+    opacity: 0.2;
+  }
+
+  50% {
+    opacity: 1;
+  }
+}
+
+/* =========================================
+   REDUCED MOTION
+========================================= */
+
+@media (prefers-reduced-motion: reduce) {
+  .cook-flame,
+  .cook-pan,
+  .cook-heat span,
+  .cook-loader-sub .dot {
+    animation-duration: 0.001s;
+    animation-iteration-count: 1;
+  }
+}

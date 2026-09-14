@@ -1,0 +1,418 @@
+[
+  {
+    "_id": "manipur-breakfast-eromba-ngari",
+    "title": "Eromba with Ngari (Fermented Fish)",
+    "state": "Manipur",
+    "mealType": "Breakfast",
+    "diet": "Non-Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains fermented fish (ngari) - not consumed by Jains.",
+    "image": "eromba.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "30 mins",
+    "servings": "3 Servings",
+    "ingredients": [
+      { "name": "Boiled vegetables (potato, bamboo shoot, beans, etc.)", "qty": "as available" },
+      { "name": "Ngari (fermented fish), red chilli or umorok", "qty": "to taste" },
+      { "name": "Maroi (local herbs) for garnish", "qty": "as needed" }
+    ],
+    "recipe": [
+      "Boil or steam seasonal vegetables until soft. Mash with roasted ngari and plenty of chilli.",
+      "Garnish with fresh maroi herbs. Serve with rice – the iconic spicy mashed side of Manipur."
+    ],
+    "tips": [
+      "Ngari is the soul of Eromba – this is the classic non-vegetarian version.",
+      "Heat level can be adjusted but authentic versions are fiery."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "manipur-breakfast-eromba-vegetarian",
+    "title": "Eromba (Vegetarian)",
+    "state": "Manipur",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains onion and ginger - not consumed by Jains. For Jain version, omit onion-ginger.",
+    "image": "eromba.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "25 mins",
+    "servings": "3 Servings",
+    "ingredients": [
+      { "name": "Boiled vegetables (potato, bamboo shoot, beans, etc.)", "qty": "as available" },
+      { "name": "Fried chives or onion, ginger, red chilli or umorok", "qty": "to taste" },
+      { "name": "Maroi (local herbs) for garnish", "qty": "as needed" }
+    ],
+    "recipe": [
+      "Boil or steam seasonal vegetables until soft. Mash with fried chives/onion, ginger and plenty of chilli.",
+      "Garnish with fresh maroi herbs. Serve with rice – a vegetarian version of the iconic dish."
+    ],
+    "tips": [
+      "Vegetarian version of Eromba using fried chives instead of ngari.",
+      "Still packed with flavour and heat."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "manipur-breakfast-singju-vegetarian",
+    "title": "Singju (Vegetarian)",
+    "state": "Manipur",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains onion - not consumed by Jains. For Jain version, omit onion.",
+    "image": "singju.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "20 mins",
+    "servings": "3 Servings",
+    "ingredients": [
+      { "name": "Finely chopped cabbage, green papaya, other seasonal vegetables", "qty": "as available" },
+      { "name": "Roasted sesame powder, gram flour, chilli, herbs, onion", "qty": "to taste" }
+    ],
+    "recipe": [
+      "Mix finely shredded vegetables with roasted sesame powder, a little gram flour, chilli, onion and local herbs.",
+      "Toss well and serve as a spicy, crunchy salad or snack."
+    ],
+    "tips": [
+      "Popular street and home salad – refreshing yet spicy.",
+      "Best eaten fresh."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "manipur-breakfast-singju-nonvegetarian",
+    "title": "Singju with Ngari (Non-Vegetarian)",
+    "state": "Manipur",
+    "mealType": "Breakfast",
+    "diet": "Non-Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains fermented fish (ngari) and onion - not consumed by Jains.",
+    "image": "singju.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "20 mins",
+    "servings": "3 Servings",
+    "ingredients": [
+      { "name": "Finely chopped cabbage, green papaya, other seasonal vegetables", "qty": "as available" },
+      { "name": "Roasted sesame powder, gram flour, chilli, herbs, onion", "qty": "to taste" },
+      { "name": "Ngari (fermented fish)", "qty": "as desired" }
+    ],
+    "recipe": [
+      "Mix finely shredded vegetables with roasted sesame powder, a little gram flour, chilli, onion and local herbs.",
+      "Add ngari. Toss well and serve as a spicy, crunchy salad or snack."
+    ],
+    "tips": [
+      "Popular street and home salad with the addition of ngari.",
+      "Best eaten fresh."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "manipur-breakfast-chamthong",
+    "title": "Chamthong (Kangshoi) with Ngari",
+    "state": "Manipur",
+    "mealType": "Breakfast",
+    "diet": "Non-Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains fermented fish (ngari), onion, garlic - not consumed by Jains.",
+    "image": "chamthong.png",
+    "wikipediaImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Chamthong_(alias_Kangshoi_or_Kangsoi)_%26_rice_-_Traditional_Meitei_cuisine_-_Gastronomic_cultural_heritage_of_Manipur_(Kangleipak)_%26_domestic_and_international_Meitei_diasporas.jpg",
+    "imageSource": "wikimedia_commons_verified",
+    "time": "35 mins",
+    "servings": "4 Servings",
+    "ingredients": [
+      { "name": "Seasonal vegetables", "qty": "4 cups" },
+      { "name": "Ngari or smoked fish, onion, ginger, garlic, chilli", "qty": "to taste" },
+      { "name": "Salt, water", "qty": "as needed" }
+    ],
+    "recipe": [
+      "Boil seasonal vegetables with onion, ginger, garlic and chilli in water to make a light stew.",
+      "Add ngari or smoked fish for flavour. Simmer briefly.",
+      "Serve with rice – an everyday light vegetable stew."
+    ],
+    "tips": [
+      "Also called Kangshoi or Kangsoi – minimal oil, maximum freshness.",
+      "This is the classic non-vegetarian version with ngari."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "manipur-lunch-ooti",
+    "title": "Ooti",
+    "state": "Manipur",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains onion and ginger - not consumed by Jains. For Jain version, omit onion-ginger.",
+    "image": "ooti.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "40 mins",
+    "servings": "4 Servings",
+    "ingredients": [
+      { "name": "Rice + peas or mixed vegetables", "qty": "as needed" },
+      { "name": "Onion, ginger, baking soda or traditional alkaline water, spices", "qty": "to taste" }
+    ],
+    "recipe": [
+      "Cook rice with onion, ginger, peas or seasonal vegetables and a pinch of baking soda (or traditional khar) until soft and slightly thickened.",
+      "Season simply. Serve as a comforting one-pot vegetarian dish."
+    ],
+    "tips": [
+      "Classic Meitei vegetarian preparation – the alkaline note is traditional.",
+      "Often made for religious or special occasions when non-veg is avoided."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "manipur-lunch-chagem-pomba",
+    "title": "Chagem Pomba",
+    "state": "Manipur",
+    "mealType": "Lunch",
+    "diet": "Non-Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains fermented soybean (hawaijar), smoked fish, onion - not consumed by Jains.",
+    "image": "chagem_pomba.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "45 mins",
+    "servings": "4 Servings",
+    "ingredients": [
+      { "name": "Broken rice, mustard leaves or greens", "qty": "as needed" },
+      { "name": "Hawaijar (fermented soybean), smoked fish, peas, onion", "qty": "to taste" }
+    ],
+    "recipe": [
+      "Cook broken rice with mustard greens, hawaijar, smoked fish, onion and peas into a thick, flavourful mixture.",
+      "Simmer till everything is soft and well combined.",
+      "Serve with rice or as a main – a hearty fermented-soybean dish."
+    ],
+    "tips": [
+      "Hawaijar gives a unique fermented depth.",
+      "Mustard leaves are the preferred green."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "manipur-lunch-kanghou",
+    "title": "Kanghou",
+    "state": "Manipur",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains onion - not consumed by Jains. For Jain version, omit onion.",
+    "image": "kanghou.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "20 mins",
+    "servings": "3 Servings",
+    "ingredients": [
+      { "name": "Finely chopped seasonal vegetables", "qty": "3 cups" },
+      { "name": "Mustard oil, chilli, onion, local herbs, salt", "qty": "to taste" }
+    ],
+    "recipe": [
+      "Heat a little mustard oil, add chilli and onion and quickly stir-fry the finely chopped vegetables.",
+      "Season with salt and herbs. Keep the vegetables crisp-tender.",
+      "Serve as a dry side with rice."
+    ],
+    "tips": [
+      "Simple stir-fried vegetable side – light and everyday.",
+      "Minimal oil is traditional."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "manipur-dinner-nga-thongba",
+    "title": "Nga Thongba (Fish Curry)",
+    "state": "Manipur",
+    "mealType": "Dinner",
+    "diet": "Non-Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains fish, onion, garlic - not consumed by Jains.",
+    "image": "nga_thongba.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "35 mins",
+    "servings": "3 Servings",
+    "ingredients": [
+      { "name": "Fresh fish", "qty": "500 g" },
+      { "name": "Mustard oil, onion, ginger, garlic, chilli, turmeric", "qty": "as needed" }
+    ],
+    "recipe": [
+      "Marinate fish with turmeric and salt. Lightly fry or cook in a gravy of onion, ginger, garlic and chilli in mustard oil.",
+      "Simmer till the fish is done. Serve with rice."
+    ],
+    "tips": [
+      "Fish is central to Meitei meals.",
+      "Mustard oil and local herbs define the flavour."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "manipur-dinner-pork-bamboo",
+    "title": "Pork with Bamboo Shoot",
+    "state": "Manipur",
+    "mealType": "Dinner",
+    "diet": "Non-Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains pork, onion, garlic - not consumed by Jains.",
+    "image": "pork_bamboo_manipur.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "55 mins",
+    "servings": "4 Servings",
+    "ingredients": [
+      { "name": "Pork", "qty": "600 g" },
+      { "name": "Bamboo shoot (fresh or fermented)", "qty": "1.5 cups" },
+      { "name": "Onion, chilli, ginger, garlic, salt", "qty": "to taste" }
+    ],
+    "recipe": [
+      "Cook pork with onion, ginger, garlic and chilli until tender. Add bamboo shoot and continue cooking till flavours meld.",
+      "Serve with rice – popular especially in hill communities and among non-Meitei groups."
+    ],
+    "tips": [
+      "Bamboo shoot balances the richness of the pork.",
+      "Fermented bamboo shoot adds extra tang."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "manipur-snacks-kabok-sweet",
+    "title": "Kabok (Sweet Puffed Rice)",
+    "state": "Manipur",
+    "mealType": "Snacks",
+    "diet": "Vegan",
+    "jainFriendly": true,
+    "jainNotes": "Ingredients are Jain-compatible (puffed rice, jaggery/sugar). No onion, garlic, or root vegetables.",
+    "image": "kabok.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "15 mins",
+    "servings": "2 Servings",
+    "ingredients": [
+      { "name": "Puffed rice", "qty": "2 cups" },
+      { "name": "Jaggery or sugar", "qty": "as needed" }
+    ],
+    "recipe": [
+      "Melt jaggery with a little water until syrupy. Toss with puffed rice until well coated.",
+      "Shape into balls or leave loose. A classic sweet snack."
+    ],
+    "tips": [
+      "Simple sweet puffed-rice snack enjoyed across Manipur.",
+      "Popular during festivals."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "manipur-snacks-kabok-savoury",
+    "title": "Kabok (Savoury Puffed Rice)",
+    "state": "Manipur",
+    "mealType": "Snacks",
+    "diet": "Vegan",
+    "jainFriendly": false,
+    "jainNotes": "Contains onion - not consumed by Jains. For Jain version, omit onion.",
+    "image": "kabok.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "10 mins",
+    "servings": "2 Servings",
+    "ingredients": [
+      { "name": "Puffed rice", "qty": "2 cups" },
+      { "name": "Onion, green chilli, salt, spices", "qty": "to taste" }
+    ],
+    "recipe": [
+      "Toss puffed rice with finely chopped onion, green chilli, salt and light spices.",
+      "Serve as a crunchy savoury snack."
+    ],
+    "tips": [
+      "Simple savoury puffed-rice snack.",
+      "A quick and easy snack option."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "manipur-snacks-bora",
+    "title": "Bora (Pakora)",
+    "state": "Manipur",
+    "mealType": "Snacks",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains onion - not consumed by Jains. For Jain version, omit onion and use Jain-compatible vegetables.",
+    "image": "bora.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "30 mins",
+    "servings": "10–12 pieces",
+    "ingredients": [
+      { "name": "Gram flour", "qty": "1.5 cups" },
+      { "name": "Onion, green chilli, local herbs, salt", "qty": "to taste" },
+      { "name": "Oil for deep frying", "qty": "as needed" }
+    ],
+    "recipe": [
+      "Make a batter of gram flour with chopped onion, local herbs, chilli and salt.",
+      "Deep-fry spoonfuls till golden and crisp.",
+      "Serve hot as a tea-time or evening snack."
+    ],
+    "tips": [
+      "Manipuri-style fritters – often enjoyed with tea.",
+      "Best eaten fresh."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "manipur-lunch-morok-metpa",
+    "title": "Morok Metpa",
+    "state": "Manipur",
+    "mealType": "Lunch",
+    "diet": "Non-Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains fermented fish (ngari) - not consumed by Jains.",
+    "image": "morok_metpa.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "15 mins",
+    "servings": "4 Servings",
+    "ingredients": [
+      { "name": "Green or dry red chilli", "qty": "as needed" },
+      { "name": "Ngari (fermented fish), garlic, salt", "qty": "to taste" }
+    ],
+    "recipe": [
+      "Boil or roast chilli with ngari. Pound or grind into a coarse, fiery paste with garlic and salt.",
+      "Serve as a pungent side with rice and other dishes."
+    ],
+    "tips": [
+      "Essential chilli-ngari chutney of Manipuri meals.",
+      "Extremely spicy – use with caution."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "manipur-dinner-chakhao-kheer",
+    "title": "Chakhao Kheer",
+    "state": "Manipur",
+    "mealType": "Dinner",
+    "diet": "Vegetarian",
+    "jainFriendly": true,
+    "jainNotes": "Ingredients are Jain-compatible (black rice, milk, sugar/jaggery, cardamom, nuts). No onion, garlic, or root vegetables.",
+    "image": "chakhao_kheer.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "50 mins",
+    "servings": "4 Servings",
+    "ingredients": [
+      { "name": "Chakhao (black scented rice)", "qty": "1 cup" },
+      { "name": "Milk, sugar or jaggery, cardamom, nuts", "qty": "as needed" }
+    ],
+    "recipe": [
+      "Cook the black rice in milk with sugar or jaggery and cardamom until creamy and the rice is soft.",
+      "Garnish with nuts and raisins if desired.",
+      "Serve warm or chilled – a special dessert or festive dish."
+    ],
+    "tips": [
+      "Chakhao is the aromatic black rice of Manipur – nutty and fragrant.",
+      "A prized preparation for celebrations."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  }
+]

@@ -1,0 +1,496 @@
+[
+  {
+    "id": "arunachal-pradesh-breakfast-zan",
+    "title": "Zan",
+    "state": "Arunachal Pradesh",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "time": "30 mins",
+    "servings": "3 Servings",
+    "heroImage": "./assets/images/zan.png",
+    "steps": [
+      "Cook finger millet flour with water into a thick porridge, adding chopped Jain-friendly seasonal vegetables.",
+      "Season lightly with salt. Serve hot."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Finger millet flour",
+        "qty": "1 cup",
+        "checked": true
+      },
+      {
+        "name": "Jain-friendly seasonal vegetables, salt",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Water",
+        "qty": "as needed",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Millet-based and highly nutritious – rich in fibre, calcium and iron."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Can be paired with a Jain-friendly chilli chutney."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "arunachal-pradesh-breakfast-thukpa",
+    "title": "Thukpa",
+    "state": "Arunachal Pradesh",
+    "mealType": "Breakfast",
+    "diet": "Non-Vegetarian",
+    "time": "40 mins",
+    "servings": "3 Servings",
+    "heroImage": "./assets/images/thukpa.png",
+    "steps": [
+      "Prepare a light broth with meat, ginger, garlic, local herbs and chilli.",
+      "Add noodles and cook until soft. Serve hot."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Noodles or handmade buckwheat/maize noodles",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Chicken, pork or other local meat",
+        "qty": "as available",
+        "checked": true
+      },
+      {
+        "name": "Ginger, garlic, chilli, salt",
+        "qty": "to taste",
+        "checked": true
+      },
+      {
+        "name": "Local herbs",
+        "qty": "as available",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "This version is specifically prepared with meat."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Vegetarian Thukpa can be represented as a separate recipe if needed."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "arunachal-pradesh-breakfast-rice-boiled",
+    "title": "Steamed Rice with Boiled Vegetables",
+    "state": "Arunachal Pradesh",
+    "mealType": "Breakfast",
+    "diet": "Vegan",
+    "time": "30 mins",
+    "servings": "2 Servings",
+    "heroImage": "./assets/images/steamed_rice_vegetables.png",
+    "steps": [
+      "Steam or boil rice. Separately boil seasonal greens and vegetables with minimal seasoning.",
+      "Serve together as a simple, everyday start to the day."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Rice",
+        "qty": "1.5 cups",
+        "checked": true
+      },
+      {
+        "name": "Seasonal local greens and vegetables",
+        "qty": "as available",
+        "checked": true
+      },
+      {
+        "name": "Salt, chilli",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Rice is the absolute staple across almost all tribes."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Often accompanied by a fermented side or chilli."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "arunachal-pradesh-lunch-pika-pila",
+    "title": "Pika Pila",
+    "state": "Arunachal Pradesh",
+    "mealType": "Lunch",
+    "diet": "Non-Vegetarian",
+    "time": "Fermentation + 20 mins",
+    "servings": "4 Servings",
+    "heroImage": "./assets/images/pika_pila.png",
+    "steps": [
+      "Combine fermented bamboo shoot with pork fat and crushed local chillies.",
+      "Mix well into a tangy, spicy, pungent condiment or side.",
+      "Serve with rice."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Fermented bamboo shoot",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Pork fat, local chilli (including king chilli), salt",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "The fermentation of bamboo shoot gives deep aroma and tang."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Extremely flavourful and polarising for newcomers."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "arunachal-pradesh-lunch-bamboo-shoot-pork",
+    "title": "Pork with Bamboo Shoot",
+    "state": "Arunachal Pradesh",
+    "mealType": "Lunch",
+    "diet": "Non-Vegetarian",
+    "time": "55 mins",
+    "servings": "4 Servings",
+    "heroImage": "./assets/images/pork_bamboo_arunachal.png",
+    "steps": [
+      "Cook pork with ginger and chilli until tender. Add bamboo shoot and continue simmering until flavours meld.",
+      "Serve with steamed rice."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Pork",
+        "qty": "600 g",
+        "checked": true
+      },
+      {
+        "name": "Fresh or fermented bamboo shoot",
+        "qty": "1.5 cups",
+        "checked": true
+      },
+      {
+        "name": "Ginger, chilli, salt",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Bamboo shoot (fresh, dried or fermented) is used extensively throughout the state."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Minimal spices let the ingredients shine."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "arunachal-pradesh-lunch-chura-sabzi",
+    "title": "Chura Sabzi",
+    "state": "Arunachal Pradesh",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "time": "30 mins",
+    "servings": "3 Servings",
+    "heroImage": "./assets/images/chura_sabzi.png",
+    "steps": [
+      "Cook Jain-friendly seasonal vegetables with pieces of fermented cheese (churpi/chura) and chilli.",
+      "Simmer until the cheese softens and flavours the vegetables.",
+      "Serve with rice."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Churpi / fermented cheese (yak or cow)",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Jain-friendly seasonal vegetables, chilli flakes, salt",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Fermented yak or cow cheese adds a unique creamy, tangy depth."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Use only Jain-friendly vegetables for the Jain-friendly version."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "arunachal-pradesh-dinner-lukter",
+    "title": "Lukter",
+    "state": "Arunachal Pradesh",
+    "mealType": "Dinner",
+    "diet": "Non-Vegetarian",
+    "time": "20 mins (+ drying/smoking)",
+    "servings": "3 Servings",
+    "heroImage": "./assets/images/lukter.png",
+    "steps": [
+      "Shred or chop the dried/smoked meat and toss with crushed dry chilli and salt.",
+      "Serve as a spicy, high-protein side or snack with rice."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Sun-dried or smoked meat (beef, pork or mithun)",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Dry chilli flakes, salt",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Preserved meat preparation – ideal for long storage in the hills."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Very spicy and flavourful."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "arunachal-pradesh-dinner-pasa",
+    "title": "Pasa (Fish Soup)",
+    "state": "Arunachal Pradesh",
+    "mealType": "Dinner",
+    "diet": "Non-Vegetarian",
+    "time": "30 mins",
+    "servings": "3 Servings",
+    "heroImage": "./assets/images/pasa.png",
+    "steps": [
+      "Prepare a light, clear broth with fish, ginger, local herbs and chilli.",
+      "Simmer until the fish is cooked. Serve hot with rice."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Fresh or smoked fish",
+        "qty": "400 g",
+        "checked": true
+      },
+      {
+        "name": "Ginger, local herbs, chilli, salt",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Simple fish soup common in many communities."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Can use river fish or smoked varieties."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "arunachal-pradesh-snacks-momo",
+    "title": "Millet / Buckwheat Momo",
+    "state": "Arunachal Pradesh",
+    "mealType": "Snacks",
+    "diet": "Vegetarian",
+    "time": "50 mins",
+    "servings": "12–15 pieces",
+    "heroImage": "./assets/images/millet_momo.png",
+    "steps": [
+      "Make dough from millet or buckwheat flour. Prepare a filling of local greens or cheese.",
+      "Shape into momos and steam until cooked.",
+      "Serve with chilli sauce."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Millet or buckwheat flour for wrapper",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Local greens or cheese filling",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Salt, chilli",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Traditional versions use local grains rather than refined flour."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Potato-filled versions are not considered Jain-friendly, so the Jain status here applies to the greens or cheese filling."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "arunachal-pradesh-beverage-apong",
+    "title": "Apong (Rice Beer)",
+    "state": "Arunachal Pradesh",
+    "mealType": "Beverage",
+    "diet": "Vegan",
+    "time": "Fermentation days",
+    "servings": "as needed",
+    "heroImage": "./assets/images/apong.png",
+    "steps": [
+      "Cook rice or millet, cool, mix with traditional starter culture, and ferment for several days.",
+      "Strain and serve the mildly alcoholic, earthy rice beer in bamboo mugs.",
+      "Traditionally served at social gatherings and festivals across many tribes."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Rice or millet",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Traditional starter (ipoh or similar)",
+        "qty": "as required",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Apong (or Apo) is a traditional fermented alcoholic beverage of Arunachal Pradesh."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Strength and flavour vary by tribe and preparation."
+      },
+      {
+        "title": "Tip 3",
+        "desc": "Classified as a beverage rather than a food or snack."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "arunachal-pradesh-lunch-boiled-greens",
+    "title": "Boiled Local Greens",
+    "state": "Arunachal Pradesh",
+    "mealType": "Lunch",
+    "diet": "Vegan",
+    "time": "20 mins",
+    "servings": "3 Servings",
+    "heroImage": "./assets/images/boiled_greens.png",
+    "steps": [
+      "Boil or steam the Jain-friendly greens with ginger and a little chilli until tender.",
+      "Season with salt. Serve as a simple, nutritious side with rice."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Jain-friendly leafy greens and non-root wild herbs",
+        "qty": "4 cups",
+        "checked": true
+      },
+      {
+        "name": "Ginger, green chilli, salt",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Wild and cultivated greens form a major part of the diet."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "The Jain-friendly version excludes onion, garlic and root vegetables."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "arunachal-pradesh-dinner-mithun-stew",
+    "title": "Mithun / Pork Stew",
+    "state": "Arunachal Pradesh",
+    "mealType": "Dinner",
+    "diet": "Non-Vegetarian",
+    "time": "70 mins",
+    "servings": "4 Servings",
+    "heroImage": "./assets/images/mithun_stew.png",
+    "steps": [
+      "Slow-cook the meat with ginger, local herbs and chilli until very tender.",
+      "Keep the gravy light. Serve with rice."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Mithun or pork",
+        "qty": "700 g",
+        "checked": true
+      },
+      {
+        "name": "Ginger, local herbs, chilli, salt",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Mithun is considered sacred and a status symbol among many tribes."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Simple boiling or stewing is the traditional method."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  }
+]

@@ -1,0 +1,367 @@
+[
+  {
+    "id": "dnh-dd-breakfast-khaman-dhokla",
+    "title": "Khaman Dhokla",
+    "ingredients": "1.5 cups besan (gram flour), Yogurt or lemon juice + water, 1 tsp Eno/fruit salt or baking soda, Turmeric, sugar, salt, green chilli-ginger paste, Mustard seeds, sesame, curry leaves, green chillies for tempering, Oil as needed"
+  },
+  {
+    "id": "dnh-dd-breakfast-dal-dhokli",
+    "title": "Dal Dhokli",
+    "ingredients": "1 cup toor dal, 1 cup whole wheat flour, Onion, tomato, ginger-garlic paste, Turmeric, red chilli powder, coriander powder, cumin, Jaggery, tamarind or kokum, Peanuts, curry leaves, mustard seeds, Oil or ghee, Salt to taste"
+  },
+  {
+    "id": "dnh-dd-lunch-ubadiyu",
+    "title": "Ubadiyu (Gujarati Barbecue)",
+    "ingredients": "500 g papdi (green beans), 500 g purple yam, 500 g sweet potatoes, 250 g potatoes, 250 g small eggplants, 6 cabbage leaves, Coriander, mint, and garlic stalks, Garlic paste, green chilli paste, ginger paste, Fresh turmeric paste, Groundnut (coarsely crushed), sesame seeds, Coriander-cumin powder, garam masala, Ajwain (carom seeds), hing (asafoetida), Salt, oil"
+  },
+  {
+    "id": "dnh-dd-lunch-fish-curry",
+    "title": "Traditional Fish Curry",
+    "ingredients": "Fresh fish (seer, pomfret, or local catch), Coconut milk, Onion, ginger-garlic paste, Turmeric, red chilli powder, coriander powder, Tamarind or kokum, Curry leaves, mustard seeds, Salt, oil"
+  },
+  {
+    "id": "dnh-dd-lunch-crab-curry",
+    "title": "Crab Curry",
+    "ingredients": "Fresh crab (cut into pieces), Coconut milk, Onion, tomato, Garlic, ginger, Piri piri or green chillies, Turmeric, red chilli powder, Salt, oil"
+  },
+  {
+    "id": "dnh-dd-lunch-patra-ni-macchi",
+    "title": "Patra ni Macchi",
+    "ingredients": "Fresh fish fillets (pomfret or kingfish), Coconut (grated), Coriander leaves, mint leaves, Green chillies, garlic, Lemon juice, Spices (cumin, coriander powder), Banana leaves for wrapping, Salt"
+  },
+  {
+    "id": "dnh-dd-lunch-salli-boti",
+    "title": "Salli Boti",
+    "ingredients": "Mutton (tender pieces), Onion, tomato, Ginger-garlic paste, Spices (coriander, cumin, garam masala), Red chilli powder, turmeric, Potato straws (salli) for topping, Oil or ghee, Salt"
+  },
+  {
+    "id": "dnh-dd-dinner-vindaloo",
+    "title": "Vindaloo",
+    "ingredients": "Pork (preferably with some fat), Vinegar (Goan or palm vinegar), Garlic, ginger, Dried red chillies, Cumin, mustard seeds, Cinnamon, cloves, peppercorns, Onion, salt, oil"
+  },
+  {
+    "id": "dnh-dd-snacks-bebinca",
+    "title": "Bebinca",
+    "ingredients": "2 cups coconut milk, 8-10 egg yolks, Sugar, Flour, Ghee or butter, Nutmeg or cardamom"
+  },
+  {
+    "id": "delhi-breakfast-chole-bhature",
+    "title": "Chole Bhature",
+    "ingredients": "2 cups maida (all-purpose flour), ½ cup sooji (semolina), 1 cup chickpeas (soaked overnight), Onion, tomato, ginger-garlic paste, Chole masala, black cardamom, pomegranate seeds, Tea leaves (for colour), Oil for deep frying, Ghee for tempering, Salt to taste"
+  },
+  {
+    "id": "delhi-breakfast-bedmi-puri",
+    "title": "Bedmi Puri with Aloo Sabzi",
+    "ingredients": "3 cups whole wheat flour, 1 cup dhuli urad dal (skinned black lentil), 2 inch ginger, 3-4 green chillies, Fennel powder, coriander powder, Red chilli powder, dry mango powder, Hing (asafoetida), Potatoes for aloo sabzi, Cumin seeds, green chilli, coriander, Oil for frying, Salt to taste"
+  },
+  {
+    "id": "delhi-breakfast-nihari",
+    "title": "Nihari",
+    "ingredients": "Mutton (on bone), Whole spices (cinnamon, cardamom, cloves), Ginger-garlic paste, Kashmiri red chilli powder, Wheat flour (for thickening), Ghee, Salt"
+  },
+  {
+    "id": "delhi-lunch-butter-chicken",
+    "title": "Butter Chicken (Murgh Makhani)",
+    "ingredients": "Boneless chicken, Yogurt, ginger-garlic paste, Tomato puree, butter, cream, Kasuri methi, honey or sugar, Garam masala, red chilli powder, Salt"
+  },
+  {
+    "id": "delhi-lunch-kebabs",
+    "title": "Mughlai Kebabs (Seekh/Shami)",
+    "ingredients": "Minced mutton or chicken, Onion, ginger-garlic, Green chillies, coriander, Garam masala, red chilli powder, Ghee or oil, Salt"
+  },
+  {
+    "id": "delhi-snacks-gol-gappa",
+    "title": "Gol Gappa (Pani Puri)",
+    "ingredients": "Hollow puris (wheat flour), Mashed potato, chickpeas, Tamarind water (sweet), Mint-coriander water (spicy), Chaat masala, black salt, Green chilli"
+  },
+  {
+    "id": "delhi-snacks-aloo-tikki",
+    "title": "Aloo Tikki Chaat",
+    "ingredients": "Boiled potatoes, Yogurt, Tamarind chutney (sweet), Green chutney (spicy), Sev, raw onion, Chaat masala, salt, Oil for frying"
+  },
+  {
+    "id": "delhi-snacks-samosa",
+    "title": "Samosa",
+    "ingredients": "Maida for pastry, Boiled potatoes, peas, Cumin, coriander, garam masala, amchur, Green chilli, ginger, Oil for deep frying, Salt"
+  },
+  {
+    "id": "delhi-snacks-momos",
+    "title": "Momos (Steamed Dumplings)",
+    "ingredients": "Wheat flour for wrappers, Cabbage, onion, carrot for filling, Ginger, garlic, green chilli, Salt, pepper, soy sauce, Spicy red chutney for serving"
+  },
+  {
+    "id": "delhi-snacks-dahi-bhalla",
+    "title": "Dahi Bhalla",
+    "ingredients": "Urad dal for bhallas, Yogurt (beaten), Tamarind chutney (sweet), Green chutney (spicy), Cumin powder, black salt, Sev, coriander"
+  },
+  {
+    "id": "delhi-snacks-parathas",
+    "title": "Parathas (Stuffed Flatbread)",
+    "ingredients": "Whole wheat flour, Stuffing (potato, paneer, gobhi, or mixed vegetables), Ghee or butter for cooking, Spices (amchur, garam masala, salt), Pickles and curries for serving"
+  },
+  {
+    "id": "delhi-snacks-jalebi",
+    "title": "Jalebi",
+    "ingredients": "All-purpose flour (maida), Sugar for syrup, Ghee for frying, Cardamom (optional), Water"
+  },
+  {
+    "id": "delhi-snacks-ram-ladoo",
+    "title": "Ram Ladoo",
+    "ingredients": "1 cup soaked moong dal, ½ cup soaked chana dal, ½ cup soaked urad dal, Ginger, green chillies, Radish leaves, Garlic cloves, Lemon juice, bhuna jeera powder, Chaat masala powder, Oil for deep frying"
+  },
+  {
+    "id": "delhi-snacks-kulfi",
+    "title": "Kulfi",
+    "ingredients": "Full cream milk, Sugar, Cardamom powder, Rose water (optional), Nuts (almonds, pistachios), Falooda (optional)"
+  },
+  {
+    "id": "delhi-snacks-kachori",
+    "title": "Kachori",
+    "ingredients": "Wheat flour for outer covering, Spiced dal or pea filling, Onion, green chilli, ginger, Spices, salt, Oil for deep frying"
+  },
+  {
+    "id": "jammu-kashmir-breakfast-harissa",
+    "title": "Harissa (Winter Meat Porridge)",
+    "ingredients": "Mutton (lamb), Rice (Kashmiri rice preferred), Green cardamom, Black cardamom, Cinnamon, Cloves, Ghee for serving, Kander czot (local bread) for serving"
+  },
+  {
+    "id": "jammu-kashmir-breakfast-kaladi-kulcha",
+    "title": "Kaladi Kulcha",
+    "ingredients": "Kaladi cheese (GI-tagged Jammu specialty), Fresh kulchas or buns, Onion (finely chopped), Tomato (finely chopped), Green chilli, Coriander leaves, Green and red chutney"
+  },
+  {
+    "id": "jammu-kashmir-breakfast-gheur",
+    "title": "Gheur (Crispy Pancake)",
+    "ingredients": "All-purpose flour (maida), Salt, Ajwain seeds (carom), Peas (coarsely crushed), Coriander (finely chopped), Oil for frying"
+  },
+  {
+    "id": "jammu-kashmir-lunch-rogan-josh",
+    "title": "Rogan Josh",
+    "ingredients": "Mutton (lamb), Mustard oil, Kashmiri red chilli powder, Fennel powder (saunf), Dry ginger powder (saunth), Cardamom, Yogurt, Onion, Garlic, Salt"
+  },
+  {
+    "id": "jammu-kashmir-lunch-gushtaba",
+    "title": "Gushtaba",
+    "ingredients": "Finely pounded mutton, Yogurt, Saffron, Whole spices (cardamom, cloves), Onion, Garlic, Ghee"
+  },
+  {
+    "id": "jammu-kashmir-lunch-rista",
+    "title": "Rista",
+    "ingredients": "Minced mutton, Kashmiri red chilli paste, Fennel powder, Garlic, Dyer's alkanet (for red colour), Salt"
+  },
+  {
+    "id": "jammu-kashmir-lunch-rajma-chawal",
+    "title": "Rajma Chawal",
+    "ingredients": "Rajma (red kidney beans, preferably Bhaderwah), Rice, Onion, Tomato puree, Ginger-garlic paste, Cinnamon, bay leaves, Desi ghee, Anardana chutney for serving"
+  },
+  {
+    "id": "jammu-kashmir-lunch-yakhni",
+    "title": "Yakhni Mutton",
+    "ingredients": "Mutton (lamb), Yogurt, Bay leaf, Cardamom, Cloves, Fennel powder, Onion, Garlic, Ghee"
+  },
+  {
+    "id": "jammu-kashmir-lunch-nadru-yakhni",
+    "title": "Nadru Yakhni (Lotus Stem in Yogurt Gravy)",
+    "ingredients": "Lotus stem (nadru), Yogurt, Fennel powder (saunf), Dry ginger powder (saunth), Kashmiri red chilli powder, Cardamom, Mustard oil, Salt"
+  },
+  {
+    "id": "jammu-kashmir-lunch-chaman-kaliya",
+    "title": "Chaman Kaliya (Paneer Curry)",
+    "ingredients": "Paneer (cottage cheese), Yogurt, Tomato puree, Onion, Ginger-garlic paste, Fennel powder, Dry ginger powder, Kashmiri red chilli powder, Ghee, Salt"
+  },
+  {
+    "id": "jammu-kashmir-lunch-haak",
+    "title": "Haak (Kashmiri Collard Greens)",
+    "ingredients": "Haak (Kashmiri collard greens), Garlic, Ginger, Green chilli, Mustard oil, Salt"
+  },
+  {
+    "id": "jammu-kashmir-dinner-dum-aloo",
+    "title": "Dum Aloo",
+    "ingredients": "Baby potatoes, Mustard oil, Fennel seed powder (saunf), Dry ginger powder (saunth), Black cardamom, Caraway seeds (shahi jeera), Curd (yogurt), Asafoetida (hing), Salt"
+  },
+  {
+    "id": "jammu-kashmir-dinner-tabak-maaz",
+    "title": "Tabak Maaz",
+    "ingredients": "Lamb ribs, Milk, Spices (cloves, cardamom, cinnamon), Ghee, Salt"
+  },
+  {
+    "id": "jammu-kashmir-dinner-marchwangan-korma",
+    "title": "Marchwangan Korma",
+    "ingredients": "Chicken or mutton, Dried Kashmiri chillies, Fennel powder, Onion (browned), Garlic, Aromatic spices, Mustard oil"
+  },
+  {
+    "id": "jammu-kashmir-dinner-woste-haak-nadru",
+    "title": "Woste Haak te Nadru (Red Spinach with Lotus Stem)",
+    "ingredients": "Red spinach (woste haak), Lotus stem (nadru), Mustard oil, Cumin seeds, Kashmiri red chilli powder, Curd (beaten), Salt"
+  },
+  {
+    "id": "jammu-kashmir-lunch-kashmiri-pulao",
+    "title": "Kashmiri Pulao",
+    "ingredients": "Basmati rice, Ghee, Cinnamon, cardamom, cloves, Nuts (cashews, almonds), Dried fruits (raisins, apricots), Saffron, Onion, Garlic"
+  },
+  {
+    "id": "jammu-kashmir-lunch-mongkhasar",
+    "title": "Mongkhasar (Rice and Lentil Porridge)",
+    "ingredients": "Rice, Masoor dal (red lentils), Moong dal (with skin), Mustard oil, Onion, Ginger-garlic paste, Cinnamon, cardamom, cloves, bay leaves, Cumin seeds, Turmeric, coriander, fennel powder, Green chillies, Garam masala, Ghee"
+  },
+  {
+    "id": "jammu-kashmir-snacks-ambal",
+    "title": "Ambal (Sweet and Sour Pumpkin Curry)",
+    "ingredients": "Pumpkin, Jaggery or sugar, Tamarind, Onion, Garlic, Spices (cumin, coriander, turmeric), Mustard oil"
+  },
+  {
+    "id": "jammu-kashmir-beverage-kahwa",
+    "title": "Kahwa (Kashmiri Green Tea)",
+    "ingredients": "Green tea leaves, Saffron strands, Cardamom, Cinnamon, Almonds, Sugar or honey (optional)"
+  },
+  {
+    "id": "jammu-kashmir-beverage-noon-chai",
+    "title": "Noon Chai (Kashmiri Salted Pink Tea)",
+    "ingredients": "Green tea leaves (specifically noon chai leaves), Baking soda, Milk, Salt, Water"
+  },
+  {
+    "id": "jammu-kashmir-lunch-modur-pulao",
+    "title": "Modur Pulao (Kashmiri Sweet Pulao)",
+    "ingredients": "Basmati rice, Milk, Sugar, Saffron, Cardamom, Nuts (almonds, pistachios), Raisins, Onion (sliced, fried), Ghee"
+  },
+  {
+    "id": "ladakh-breakfast-kholak",
+    "title": "Kholak (Tsampa with Butter Tea)",
+    "ingredients": "1 cup roasted barley flour (tsampa/namphey), 1–2 cups hot butter tea (or plain salted tea), 1–2 tsp yak or cow butter (optional extra), Pinch of salt if needed"
+  },
+  {
+    "id": "ladakh-breakfast-khambir",
+    "title": "Khambir (Tagi) with Butter Tea",
+    "ingredients": "2 cups whole wheat flour, 1 tsp yeast or traditional starter, Warm water as needed, Salt to taste, Butter tea for serving"
+  },
+  {
+    "id": "ladakh-breakfast-paba",
+    "title": "Paba",
+    "ingredients": "1 cup mixed roasted flour (barley + pea/wheat/buckwheat), Boiling water, Ghee or butter for serving, Salt"
+  },
+  {
+    "id": "ladakh-lunch-vegetable-skyu",
+    "title": "Vegetable Skyu",
+    "ingredients": "2 cups wheat flour, Water for dough, 2–3 carrots, diced, 1–2 turnips or potatoes, diced, Onion, ginger (optional traditional use is minimal), Local greens or dried vegetables, Salt, black pepper, fresh herbs (cilantro, celery greens)"
+  },
+  {
+    "id": "ladakh-lunch-chutagi",
+    "title": "Chutagi (Chhutagi)",
+    "ingredients": "2 cups wheat flour, Water, Carrots, turnips, potatoes, peas, spinach or local greens, Onion, garlic/ginger (minimal traditional use), Salt, pepper, local herbs"
+  },
+  {
+    "id": "ladakh-lunch-vegetable-thukpa",
+    "title": "Vegetable Thukpa",
+    "ingredients": "Wheat or barley noodles (fresh or dried), Carrots, cabbage, spinach or local greens, Onion, ginger, garlic (light use), Salt, black pepper, cilantro, Vegetable stock or water"
+  },
+  {
+    "id": "ladakh-lunch-mutton-skyu",
+    "title": "Mutton Skyu",
+    "ingredients": "Wheat flour for pasta, Mutton pieces (on bone preferred), Carrots, turnips, potatoes, Onion, ginger, Salt, pepper, local herbs"
+  },
+  {
+    "id": "ladakh-dinner-vegetable-momos",
+    "title": "Vegetable Momos (Mokmok)",
+    "ingredients": "Wheat flour for wrappers, Cabbage, carrot, onion, spinach or local greens, Ginger, garlic, salt, pepper, Oil for dough if needed"
+  },
+  {
+    "id": "ladakh-dinner-mutton-momos",
+    "title": "Mutton Momos",
+    "ingredients": "Wheat flour, Minced mutton or lamb, Onion, ginger, garlic, Salt, black pepper, a little oil"
+  },
+  {
+    "id": "ladakh-dinner-yarkhandi-pulao",
+    "title": "Yarkhandi Pulao",
+    "ingredients": "Basmati or local rice, Mutton pieces (preferably on bone), Carrots (julienned), Raisins, apricot kernels or dried apricots, Nuts, Ghee or animal fat, Minimal whole spices (shahi jeera etc.)"
+  },
+  {
+    "id": "ladakh-dinner-tingmo",
+    "title": "Tingmo (Timok) with Vegetable Stew",
+    "ingredients": "2 cups refined or wheat flour, Yeast, sugar, warm water, oil, Vegetable stew or dal for serving (contains onion, garlic)"
+  },
+  {
+    "id": "ladakh-snacks-steamed-momos",
+    "title": "Steamed Vegetable Momos",
+    "ingredients": "Wheat flour for wrappers, Cabbage, carrot, onion, spinach or local greens, Ginger, garlic, salt, pepper, Oil for dough if needed"
+  },
+  {
+    "id": "ladakh-snacks-khambir-snack",
+    "title": "Khambir (Snack)",
+    "ingredients": "2 cups whole wheat flour, 1 tsp yeast or traditional starter, Warm water as needed, Salt to taste"
+  },
+  {
+    "id": "ladakh-snacks-butter-tea",
+    "title": "Gur Gur Chai (Butter Tea)",
+    "ingredients": "Strong black or green tea leaves, Yak or cow butter, Salt, Hot water (sometimes a little milk)"
+  },
+  {
+    "id": "puducherry-breakfast-idli-sambar",
+    "title": "Idli with Sambar & Chutney",
+    "ingredients": "Idli batter (fermented rice + urad dal), Toor dal, tamarind, mixed vegetables for sambar, Coconut, green chillies, curry leaves for chutney, Mustard seeds, hing, turmeric"
+  },
+  {
+    "id": "puducherry-breakfast-baguette-croissant",
+    "title": "Baguette or Croissant with Coffee",
+    "ingredients": "Fresh baguette or croissant, Butter or jam, Filter coffee or café au lait"
+  },
+  {
+    "id": "puducherry-breakfast-masala-dosa",
+    "title": "Masala Dosa",
+    "ingredients": "Dosa batter, Boiled potatoes, onion, mustard, curry leaves, turmeric for filling, Sambar and coconut/tomato chutney"
+  },
+  {
+    "id": "puducherry-breakfast-egg-dosa",
+    "title": "Egg Dosa",
+    "ingredients": "Dosa batter, Eggs, Salt, pepper, optional onion/chilli, Side of sambar or light meat gravy"
+  },
+  {
+    "id": "puducherry-lunch-vegetable-poriyal-thali",
+    "title": "Vegetable Poriyal & Rice Thali",
+    "ingredients": "Rice, Seasonal vegetables (beans, carrot, cabbage, etc.) for poriyal, Coconut, mustard, curry leaves, onion for tempering, Dal, tamarind, garlic for sambar/rasam"
+  },
+  {
+    "id": "puducherry-lunch-fish-assad-curry",
+    "title": "Fish Assad Curry (Meen Assad)",
+    "ingredients": "Fresh fish (seer, pomfret or local catch), Coconut milk, Anise/fennel, curry leaves, ginger-garlic, Tamarind or tomatoes, mild spices, Lime juice"
+  },
+  {
+    "id": "puducherry-lunch-meen-puyabaise",
+    "title": "Meen Puyabaise",
+    "ingredients": "Mixed seafood (fish, prawns, crab, shellfish), Tamarind, turmeric, mild spices, Onion, tomato, curry leaves, Ghee, coconut milk (optional)"
+  },
+  {
+    "id": "puducherry-lunch-kadugu-yerra",
+    "title": "Kadugu Yerra (Mustard Prawn Curry)",
+    "ingredients": "Fresh prawns, Mustard seeds/paste, fenugreek, Coconut milk, potatoes, Onion, tomato, curry leaves, mild spices"
+  },
+  {
+    "id": "puducherry-dinner-mutton-sambar",
+    "title": "Mutton Sambar",
+    "ingredients": "Mutton (goat), Toor dal, tamarind, Mixed vegetables, sambar powder (mild), Coconut (optional), curry leaves"
+  },
+  {
+    "id": "puducherry-dinner-egg-curry",
+    "title": "Puducherry Egg Curry",
+    "ingredients": "Hard-boiled eggs, Onion, tomato, coconut milk, Whole spices (cinnamon, cloves, cardamom), Ginger-garlic, mild chilli powder"
+  },
+  {
+    "id": "puducherry-dinner-ratatouille-style",
+    "title": "Pondicherry-style Ratatouille",
+    "ingredients": "Eggplant, zucchini, tomato, bell pepper, onion, Olive oil or ghee, garlic, herbs, Optional mild spices or curry leaves"
+  },
+  {
+    "id": "puducherry-snacks-crepes",
+    "title": "Crepes (Sweet or Savoury)",
+    "ingredients": "Flour, eggs, milk, butter for batter, Sweet fillings: sugar, chocolate, fruit jam, Savoury options: cheese, vegetables"
+  },
+  {
+    "id": "puducherry-snacks-vadai",
+    "title": "Medu Vadai / Potato Vadai",
+    "ingredients": "Urad dal or boiled potatoes, Onion, green chilli, curry leaves, ginger, Oil for deep frying"
+  },
+  {
+    "id": "puducherry-snacks-mutton-roll",
+    "title": "Mutton Roll",
+    "ingredients": "Minced mutton, Onion, spices, ginger-garlic, Paratha or flatbread"
+  }
+]

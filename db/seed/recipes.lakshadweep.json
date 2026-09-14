@@ -1,0 +1,429 @@
+[
+  {
+    "_id": "lakshadweep-breakfast-pathiri",
+    "title": "Pathiri with Fish Curry",
+    "state": "Lakshadweep",
+    "mealType": "Breakfast",
+    "diet": "Non-Vegetarian",
+    "jainFriendly": false,
+    "image": "pathiri_fish_curry.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "description": "Soft rice-flour flatbreads (pathiri) typical of Lakshadweep and Malabar, served with a mild coconut-milk based fish or tuna curry. A classic island breakfast combining local starch and fresh catch.",
+    "ingredients": [
+      "Rice flour, water, salt for pathiri",
+      "Fresh tuna or reef fish",
+      "Coconut milk, onion, green chilli, curry leaves, mild spices"
+    ],
+    "steps": [
+      "Knead soft rice-flour dough and roll into thin pathiris; cook on a hot tawa.",
+      "Prepare a light coconut-milk fish curry with aromatics and curry leaves.",
+      "Serve hot pathiris with the fish curry."
+    ],
+    "tips": [
+      "Pathiri in Lakshadweep is often softer and paired specifically with coconut-based fish curries."
+    ],
+    "prepTime": "20 minutes",
+    "cookTime": "25 minutes",
+    "servings": "3–4",
+    "research": {
+      "status": "unverified",
+      "sourceUrls": []
+    }
+  },
+  {
+    "_id": "lakshadweep-breakfast-kiraliappam",
+    "title": "Kiraliappam",
+    "state": "Lakshadweep",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "image": "kiraliappam.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "description": "Rice-flour pancake dipped or served with coconut milk, a traditional Minicoy/Lakshadweep breakfast item often enjoyed with spicy fish curry (rairiha) on the side.",
+    "ingredients": [
+      "Rice flour, water, salt",
+      "Thick coconut milk",
+      "Optional mild sweetening or spice"
+    ],
+    "steps": [
+      "Make a smooth rice-flour batter.",
+      "Cook thin pancakes on a greased pan.",
+      "Serve dipped in or accompanied by fresh coconut milk."
+    ],
+    "tips": [
+      "Commonly paired with red fish curry in Minicoy households."
+    ],
+    "prepTime": "10 minutes",
+    "cookTime": "15 minutes",
+    "servings": "3",
+    "research": {
+      "status": "unverified",
+      "sourceUrls": []
+    }
+  },
+  {
+    "_id": "lakshadweep-breakfast-farata",
+    "title": "Farata with Rairiha",
+    "state": "Lakshadweep",
+    "mealType": "Breakfast",
+    "diet": "Non-Vegetarian",
+    "jainFriendly": false,
+    "image": "farata_rairiha.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "description": "Rectangular maida (refined flour) parathas cooked until golden, traditionally eaten in Minicoy with rairiha — a fiery red tuna or fish curry. A distinctive Minicoy breakfast combination.",
+    "ingredients": [
+      "Maida, water, salt, oil for farata",
+      "Fresh tuna or fish, Kashmiri chilli, coconut milk or water, spices for rairiha"
+    ],
+    "steps": [
+      "Knead soft dough, roll into rectangular faratas and cook on a pan with oil until golden.",
+      "Prepare a spicy red fish curry (rairiha) with chilli and aromatics.",
+      "Serve hot faratas with the curry."
+    ],
+    "tips": [
+      "Rairiha is characteristically red and spicier than everyday coconut curries."
+    ],
+    "prepTime": "20 minutes",
+    "cookTime": "25 minutes",
+    "servings": "3–4",
+    "research": {
+      "status": "unverified",
+      "sourceUrls": []
+    }
+  },
+  {
+    "_id": "lakshadweep-lunch-tuna-curry",
+    "title": "Tuna Curry (Mas Riha style)",
+    "state": "Lakshadweep",
+    "mealType": "Lunch",
+    "diet": "Non-Vegetarian",
+    "jainFriendly": false,
+    "image": "tuna_curry.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "description": "Fresh tuna (or skipjack) simmered in coconut milk with curry leaves, green chillies and mild spices. The everyday island staple reflecting the strong coconut-and-fish foundation of Lakshadweep (and shared Minicoy-Maldivian) cuisine.",
+    "ingredients": [
+      "Fresh tuna pieces",
+      "Thick and thin coconut milk",
+      "Onion, garlic, ginger, green chillies, curry leaves",
+      "Turmeric, mild chilli, salt, coconut oil"
+    ],
+    "steps": [
+      "Sauté aromatics and curry leaves in coconut oil.",
+      "Add spices and thin coconut milk; bring to a simmer.",
+      "Add tuna and cook gently.",
+      "Finish with thick coconut milk. Serve with rice or pathiri."
+    ],
+    "tips": [
+      "Use the freshest tuna possible; do not overcook."
+    ],
+    "prepTime": "15 minutes",
+    "cookTime": "20 minutes",
+    "servings": "4",
+    "research": {
+      "status": "unverified",
+      "sourceUrls": []
+    }
+  },
+  {
+    "_id": "lakshadweep-lunch-kallummakaya-curry",
+    "title": "Kallummakaya Curry (Mussel Curry)",
+    "state": "Lakshadweep",
+    "mealType": "Lunch",
+    "diet": "Non-Vegetarian",
+    "jainFriendly": false,
+    "image": "kallummakaya_curry.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "description": "Fresh mussels cooked in a coconut-milk gravy with herbs and curry leaves. A popular seafood curry of the islands, often paired with appam or rice.",
+    "ingredients": [
+      "Fresh mussels (cleaned)",
+      "Coconut milk",
+      "Onion, green chilli, curry leaves, ginger-garlic",
+      "Mild spices, coconut oil"
+    ],
+    "steps": [
+      "Clean mussels thoroughly.",
+      "Sauté aromatics and curry leaves.",
+      "Add coconut milk and spices; simmer.",
+      "Add mussels and cook until shells open and meat is done."
+    ],
+    "tips": [
+      "Discard any mussels that do not open during cooking."
+    ],
+    "prepTime": "20 minutes",
+    "cookTime": "15 minutes",
+    "servings": "3–4",
+    "research": {
+      "status": "unverified",
+      "sourceUrls": []
+    }
+  },
+  {
+    "_id": "lakshadweep-lunch-coconut-rice",
+    "title": "Coconut Rice",
+    "state": "Lakshadweep",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "jainFriendly": true,
+    "image": "coconut_rice.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "description": "Fragrant rice cooked in coconut milk, a simple yet essential accompaniment to almost every meal in Lakshadweep. Highlights the islands’ coconut monoculture.",
+    "ingredients": [
+      "Rice",
+      "Thick coconut milk, water",
+      "Salt, optional curry leaves or mild tempering"
+    ],
+    "steps": [
+      "Wash rice and cook in a mixture of coconut milk and water with salt.",
+      "Optional light tempering of curry leaves.",
+      "Serve as a base for curries or stews."
+    ],
+    "tips": [
+      "The coconut milk gives a subtle sweetness and richness."
+    ],
+    "prepTime": "5 minutes",
+    "cookTime": "20 minutes",
+    "servings": "4",
+    "research": {
+      "status": "unverified",
+      "sourceUrls": []
+    }
+  },
+  {
+    "_id": "lakshadweep-lunch-kadala-curry",
+    "title": "Kadala Curry",
+    "state": "Lakshadweep",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "image": "kadala_curry.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "description": "Black chickpeas cooked in a roasted coconut and spice gravy. One of the more substantial vegetarian options available on the islands, often influenced by Kerala styles.",
+    "ingredients": [
+      "Black chickpeas (kadala), soaked and cooked",
+      "Grated coconut, shallots, spices",
+      "Mustard seeds, curry leaves, coconut oil"
+    ],
+    "steps": [
+      "Cook soaked chickpeas until tender.",
+      "Roast and grind coconut with spices into a paste.",
+      "Temper and combine with the chickpeas; simmer to thicken.",
+      "Serve with rice, pathiri or puttu-style sides."
+    ],
+    "tips": [
+      "A reliable vegetarian main when seafood is not desired."
+    ],
+    "prepTime": "15 minutes + soaking",
+    "cookTime": "40 minutes",
+    "servings": "4",
+    "research": {
+      "status": "unverified",
+      "sourceUrls": []
+    }
+  },
+  {
+    "_id": "lakshadweep-dinner-kavaratti-biryani",
+    "title": "Kavaratti Biryani",
+    "state": "Lakshadweep",
+    "mealType": "Dinner",
+    "diet": "Non-Vegetarian",
+    "jainFriendly": false,
+    "image": "kavaratti_biryani.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "description": "Festive biryani from Kavaratti featuring basmati rice, fish or meat, coconut, coriander and a touch of saffron. A special-occasion dish reflecting Arab-Malabar influences on the islands.",
+    "ingredients": [
+      "Basmati rice",
+      "Fish or chicken/mutton",
+      "Coconut milk or grated coconut, onion, spices, saffron",
+      "Coriander, mint"
+    ],
+    "steps": [
+      "Marinate and partially cook the protein.",
+      "Prepare fragrant rice with whole spices and coconut notes.",
+      "Layer and dum-cook until flavours meld.",
+      "Garnish and serve."
+    ],
+    "tips": [
+      "Fish biryani is especially characteristic of the islands."
+    ],
+    "prepTime": "30 minutes",
+    "cookTime": "45–60 minutes",
+    "servings": "5–6",
+    "research": {
+      "status": "unverified",
+      "sourceUrls": []
+    }
+  },
+  {
+    "_id": "lakshadweep-dinner-octopus-fry",
+    "title": "Octopus Fry / Kakka Irachi Ularthiyathu",
+    "state": "Lakshadweep",
+    "mealType": "Dinner",
+    "diet": "Non-Vegetarian",
+    "jainFriendly": false,
+    "image": "octopus_fry.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "description": "Tender octopus pieces stir-fried or dry-roasted with spices, coconut and curry leaves. A distinctive island seafood preparation that showcases local lagoon catch.",
+    "ingredients": [
+      "Fresh octopus, cleaned and cut",
+      "Onion, green chilli, curry leaves, grated coconut",
+      "Chilli powder, turmeric, pepper, coconut oil"
+    ],
+    "steps": [
+      "Clean and tenderise octopus if needed.",
+      "Sauté aromatics and spices in coconut oil.",
+      "Add octopus and cook until tender and well-coated.",
+      "Finish with grated coconut and curry leaves."
+    ],
+    "tips": [
+      "Overcooking can make octopus rubbery; watch the timing."
+    ],
+    "prepTime": "20 minutes",
+    "cookTime": "25 minutes",
+    "servings": "3–4",
+    "research": {
+      "status": "unverified",
+      "sourceUrls": []
+    }
+  },
+  {
+    "_id": "lakshadweep-dinner-mus-kavaab",
+    "title": "Mus Kavaab",
+    "state": "Lakshadweep",
+    "mealType": "Dinner",
+    "diet": "Non-Vegetarian",
+    "jainFriendly": false,
+    "image": "mus_kavaab.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "description": "Boneless fish cooked with grated coconut and a blend of spices into a flavourful semi-dry or curry-style preparation. A renowned Lakshadweep delicacy best eaten with rice or parotta.",
+    "ingredients": [
+      "Boneless fish pieces",
+      "Grated coconut, onion, tomato, curry leaves",
+      "Turmeric, coriander, chilli, cardamom, cloves"
+    ],
+    "steps": [
+      "Marinate fish lightly.",
+      "Prepare a coconut-spice mixture.",
+      "Cook fish with the mixture and aromatics until flavours combine.",
+      "Serve hot."
+    ],
+    "tips": [
+      "Balances the natural sweetness of coconut with gentle spice."
+    ],
+    "prepTime": "20 minutes",
+    "cookTime": "20 minutes",
+    "servings": "4",
+    "research": {
+      "status": "unverified",
+      "sourceUrls": []
+    }
+  },
+  {
+    "_id": "lakshadweep-snacks-banana-chips",
+    "title": "Banana Chips",
+    "state": "Lakshadweep",
+    "mealType": "Snacks",
+    "diet": "Vegetarian",
+    "jainFriendly": true,
+    "image": "banana_chips.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "description": "Crisp deep-fried slices of raw banana seasoned with salt, turmeric and sometimes chilli. A ubiquitous local snack reflecting South Indian and island frying traditions.",
+    "ingredients": [
+      "Raw bananas",
+      "Coconut oil or any neutral oil",
+      "Salt, turmeric, optional chilli powder"
+    ],
+    "steps": [
+      "Peel and thinly slice raw bananas.",
+      "Deep-fry in hot oil until crisp and golden.",
+      "Drain and season with salt and turmeric.",
+      "Cool and store in an airtight container."
+    ],
+    "tips": [
+      "Best when made fresh; popular with both locals and visitors."
+    ],
+    "prepTime": "15 minutes",
+    "cookTime": "15 minutes",
+    "servings": "4",
+    "research": {
+      "status": "unverified",
+      "sourceUrls": []
+    }
+  },
+  {
+    "_id": "lakshadweep-snacks-fish-pakora",
+    "title": "Fish Pakora",
+    "state": "Lakshadweep",
+    "mealType": "Snacks",
+    "diet": "Non-Vegetarian",
+    "jainFriendly": false,
+    "image": "fish_pakora.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "description": "Boneless fish pieces coated in a spiced gram-flour batter and deep-fried until crisp. A popular island snack that highlights the daily fresh catch.",
+    "ingredients": [
+      "Boneless fish pieces",
+      "Besan (gram flour), turmeric, chilli powder, salt",
+      "Oil for deep frying"
+    ],
+    "steps": [
+      "Marinate fish lightly with salt and turmeric.",
+      "Prepare a thick besan batter with spices.",
+      "Coat fish pieces and deep-fry until golden and crisp.",
+      "Serve hot with chutney or lemon."
+    ],
+    "tips": [
+      "Use firm fish so the pieces hold shape while frying."
+    ],
+    "prepTime": "15 minutes",
+    "cookTime": "10–12 minutes",
+    "servings": "3–4",
+    "research": {
+      "status": "unverified",
+      "sourceUrls": []
+    }
+  },
+  {
+    "_id": "lakshadweep-snacks-kinnathappam",
+    "title": "Kinnathappam",
+    "state": "Lakshadweep",
+    "mealType": "Snacks",
+    "diet": "Vegetarian",
+    "jainFriendly": true,
+    "image": "kinnathappam.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "description": "Steamed coconut cake or sweet pudding-like preparation made with rice and coconut. A traditional island sweet that showcases local coconut abundance.",
+    "ingredients": [
+      "Rice or rice flour",
+      "Fresh grated coconut or coconut milk",
+      "Jaggery or sugar, cardamom (optional)"
+    ],
+    "steps": [
+      "Prepare a batter of rice and coconut with sweetener.",
+      "Pour into a steaming vessel or mould.",
+      "Steam until set and cooked through.",
+      "Cool slightly and cut or serve as is."
+    ],
+    "tips": [
+      "A gentle, coconut-forward dessert or tea-time item."
+    ],
+    "prepTime": "15 minutes",
+    "cookTime": "25 minutes",
+    "servings": "6–8 pieces",
+    "research": {
+      "status": "unverified",
+      "sourceUrls": []
+    }
+  }
+]

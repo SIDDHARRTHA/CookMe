@@ -1,0 +1,439 @@
+[
+  {
+    "_id": "chhattisgarh-breakfast-chila",
+    "title": "Chila",
+    "state": "Chhattisgarh",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains onion - not consumed by Jains. For Jain version, omit onion.",
+    "image": "chila.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "25 mins",
+    "servings": "6–8 pieces",
+    "ingredients": [
+      { "name": "Rice flour", "qty": "2 cups" },
+      { "name": "Onion, green chilli, coriander, salt", "qty": "to taste" },
+      { "name": "Water, oil", "qty": "as needed" }
+    ],
+    "recipe": [
+      "Mix rice flour with water into a smooth, pourable batter. Add finely chopped onion, green chilli, coriander and salt.",
+      "Heat a tawa, pour a ladle of batter and spread into a thin pancake (like a dosa). Cook both sides with a little oil till golden.",
+      "Serve hot with tomato-chilli chutney or curd."
+    ],
+    "tips": [
+      "Chhattisgarh's version of a rice pancake – light and everyday breakfast.",
+      "Best eaten fresh off the tawa."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "chhattisgarh-breakfast-fara-rice-flour",
+    "title": "Fara (Phara) with Rice Flour",
+    "state": "Chhattisgarh",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "jainFriendly": true,
+    "jainNotes": "Ingredients are Jain-compatible (rice flour, salt, tempering spices). No onion, garlic, or root vegetables.",
+    "image": "fara.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "40 mins",
+    "servings": "4 Servings",
+    "ingredients": [
+      { "name": "Rice flour", "qty": "2 cups" },
+      { "name": "Salt", "qty": "to taste" },
+      { "name": "Mustard, cumin, curry leaves, green chilli, sesame for tempering", "qty": "as needed" },
+      { "name": "Oil for tempering", "qty": "as needed" }
+    ],
+    "recipe": [
+      "Knead rice flour into a soft dough with salt and water. Shape into small finger-sized rolls or dumplings.",
+      "Steam until cooked through.",
+      "Temper mustard, cumin, curry leaves, chilli and sesame in oil and toss the steamed fara in it.",
+      "Serve with chutney or as is."
+    ],
+    "tips": [
+      "Steamed rice dumplings – light, digestible and a classic Chhattisgarhi breakfast or snack.",
+      "Made fresh with rice flour."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "chhattisgarh-breakfast-fara-leftover-rice",
+    "title": "Fara (Phara) with Leftover Rice",
+    "state": "Chhattisgarh",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "jainFriendly": true,
+    "jainNotes": "Ingredients are Jain-compatible (leftover rice, rice flour, salt, tempering spices). No onion, garlic, or root vegetables.",
+    "image": "fara.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "40 mins",
+    "servings": "4 Servings",
+    "ingredients": [
+      { "name": "Cooked leftover rice", "qty": "1.5 cups" },
+      { "name": "Rice flour", "qty": "1/2 cup" },
+      { "name": "Salt", "qty": "to taste" },
+      { "name": "Mustard, cumin, curry leaves, green chilli, sesame for tempering", "qty": "as needed" },
+      { "name": "Oil for tempering", "qty": "as needed" }
+    ],
+    "recipe": [
+      "Mix leftover rice with rice flour and salt into a soft dough. Shape into small finger-sized rolls or dumplings.",
+      "Steam until cooked through.",
+      "Temper mustard, cumin, curry leaves, chilli and sesame in oil and toss the steamed fara in it.",
+      "Serve with chutney or as is."
+    ],
+    "tips": [
+      "Steamed rice dumplings made from leftover rice – zero-waste traditional preparation.",
+      "A classic Chhattisgarhi breakfast or snack."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "chhattisgarh-breakfast-bafauri-chana-dal",
+    "title": "Bafauri with Chana Dal",
+    "state": "Chhattisgarh",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains ginger - not consumed by Jains. For Jain version, omit ginger.",
+    "image": "bafauri.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "35 mins (+ soaking)",
+    "servings": "4 Servings",
+    "ingredients": [
+      { "name": "Chana dal", "qty": "1.5 cups (soaked)" },
+      { "name": "Green chilli, ginger, coriander, cumin, salt", "qty": "to taste" },
+      { "name": "Oil for tempering (optional)", "qty": "as needed" }
+    ],
+    "recipe": [
+      "Grind soaked chana dal coarsely with green chilli, ginger and salt. Shape into small round or irregular dumplings.",
+      "Steam until cooked and firm.",
+      "Optionally temper with mustard, cumin and curry leaves. Serve with chutney."
+    ],
+    "tips": [
+      "Healthy steamed lentil snack – protein-rich and oil-free.",
+      "A popular tea-time or breakfast item made with chana dal."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "chhattisgarh-breakfast-bafauri-mixed-dal",
+    "title": "Bafauri with Mixed Lentils",
+    "state": "Chhattisgarh",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains ginger - not consumed by Jains. For Jain version, omit ginger.",
+    "image": "bafauri.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "35 mins (+ soaking)",
+    "servings": "4 Servings",
+    "ingredients": [
+      { "name": "Mixed lentils (chana, moong, toor)", "qty": "1.5 cups (soaked)" },
+      { "name": "Green chilli, ginger, coriander, cumin, salt", "qty": "to taste" },
+      { "name": "Oil for tempering (optional)", "qty": "as needed" }
+    ],
+    "recipe": [
+      "Grind soaked mixed lentils coarsely with green chilli, ginger and salt. Shape into small round or irregular dumplings.",
+      "Steam until cooked and firm.",
+      "Optionally temper with mustard, cumin and curry leaves. Serve with chutney."
+    ],
+    "tips": [
+      "Healthy steamed lentil snack – protein-rich and oil-free.",
+      "A popular tea-time or breakfast item made with mixed lentils."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "chhattisgarh-lunch-bore-baasi",
+    "title": "Bore Baasi",
+    "state": "Chhattisgarh",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains onion - not consumed by Jains. For Jain version, omit onion.",
+    "image": "bore_baasi.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "10 mins (+ overnight)",
+    "servings": "2 Servings",
+    "ingredients": [
+      { "name": "Cooked leftover rice", "qty": "2 cups" },
+      { "name": "Water, buttermilk or curd", "qty": "to cover" },
+      { "name": "Raw onion, green chilli, pickle, salt", "qty": "to taste" }
+    ],
+    "recipe": [
+      "Soak cooked rice overnight in water, buttermilk or thin curd.",
+      "In the morning, mix with salt. Serve cool with raw onion, green chilli and pickle.",
+      "A cooling summer staple that keeps the body hydrated."
+    ],
+    "tips": [
+      "Traditional summer meal of Chhattisgarh – fermented, cooling and probiotic.",
+      "Simple and deeply rooted in local food culture."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "chhattisgarh-lunch-aamat",
+    "title": "Aamat",
+    "state": "Chhattisgarh",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains garlic and may contain onion - not consumed by Jains. For Jain version, omit garlic.",
+    "image": "aamat.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "45 mins",
+    "servings": "4 Servings",
+    "ingredients": [
+      { "name": "Mixed vegetables + bamboo shoot", "qty": "3–4 cups" },
+      { "name": "Tamarind or local souring agent, spices", "qty": "to taste" },
+      { "name": "Oil, garlic, chilli, salt", "qty": "as needed" }
+    ],
+    "recipe": [
+      "Cook mixed seasonal vegetables and bamboo shoot with minimal spices and a souring agent (tamarind or local equivalent).",
+      "Temper with garlic and chilli if desired. Simmer into a light, flavourful stew.",
+      "Serve with rice – a traditional Bastar-influenced dish."
+    ],
+    "tips": [
+      "Wholesome mixed-vegetable and bamboo-shoot preparation from tribal traditions.",
+      "Highlights forest and local produce."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "chhattisgarh-lunch-dubki-kadhi",
+    "title": "Dubki Kadhi",
+    "state": "Chhattisgarh",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains ginger - not consumed by Jains. For Jain version, omit ginger.",
+    "image": "dubki_kadhi.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "40 mins",
+    "servings": "4 Servings",
+    "ingredients": [
+      { "name": "Besan for dumplings and kadhi", "qty": "as needed" },
+      { "name": "Yogurt or buttermilk, turmeric, chilli, ginger", "qty": "to taste" },
+      { "name": "Mustard, cumin, curry leaves for tempering", "qty": "as needed" }
+    ],
+    "recipe": [
+      "Make soft besan dumplings (dubki) and steam or lightly cook them.",
+      "Prepare a yogurt-besan kadhi with ginger and spices, add the dumplings and simmer.",
+      "Temper and serve with rice."
+    ],
+    "tips": [
+      "Comforting kadhi with soft gram-flour dumplings – a household favourite.",
+      "Pairs perfectly with steamed rice."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "chhattisgarh-dinner-angakar-roti-with-saag",
+    "title": "Angakar Roti with Saag",
+    "state": "Chhattisgarh",
+    "mealType": "Dinner",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains garlic in the saag - not consumed by Jains. For Jain version, omit garlic.",
+    "image": "angakar_roti.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "30 mins",
+    "servings": "4 Servings",
+    "ingredients": [
+      { "name": "Rice flour", "qty": "2 cups" },
+      { "name": "Hot water, salt", "qty": "as needed" },
+      { "name": "Seasonal greens (saag) with garlic, green chilli, salt", "qty": "for bhaji" }
+    ],
+    "recipe": [
+      "Mix rice flour with hot water and salt into a soft dough. Pat into thick rotis and cook on a tawa or over wood fire for a smoky flavour.",
+      "Prepare a simple tempered green leafy vegetable saag with garlic and chilli.",
+      "Serve the roti with the saag and chutney."
+    ],
+    "tips": [
+      "Traditional rice-flour flatbread of Chhattisgarh – often cooked on wood fire.",
+      "Staple with local greens."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "chhattisgarh-dinner-chousela",
+    "title": "Chousela Roti",
+    "state": "Chhattisgarh",
+    "mealType": "Dinner",
+    "diet": "Vegetarian",
+    "jainFriendly": true,
+    "jainNotes": "Ingredients are Jain-compatible (rice flour, water, salt, oil). No onion, garlic, or root vegetables.",
+    "image": "chousela.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "30 mins",
+    "servings": "8–10 pieces",
+    "ingredients": [
+      { "name": "Rice flour", "qty": "2 cups" },
+      { "name": "Water, salt", "qty": "as needed" },
+      { "name": "Oil for deep frying", "qty": "as needed" }
+    ],
+    "recipe": [
+      "Knead rice flour into a soft dough. Roll into small puri-like discs.",
+      "Deep-fry till puffed and golden.",
+      "Serve with curry, chutney or as a festive bread."
+    ],
+    "tips": [
+      "Deep-fried rice-flour bread – made for everyday meals or festivals.",
+      "Crisp and light."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "chhattisgarh-snacks-dhuska",
+    "title": "Dhuska",
+    "state": "Chhattisgarh",
+    "mealType": "Snacks",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains ginger - not consumed by Jains. For Jain version, omit ginger.",
+    "image": "dhuska.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "30 mins (+ soaking)",
+    "servings": "10–12 pieces",
+    "ingredients": [
+      { "name": "Rice + chana dal", "qty": "1.5 cups total (soaked)" },
+      { "name": "Green chilli, ginger, cumin, salt", "qty": "to taste" },
+      { "name": "Oil for deep frying", "qty": "as needed" }
+    ],
+    "recipe": [
+      "Grind soaked rice and chana dal into a slightly coarse batter with chilli, ginger and salt.",
+      "Drop spoonfuls into hot oil and deep-fry till crisp and golden.",
+      "Serve hot with chutney or a simple curry."
+    ],
+    "tips": [
+      "Crispy rice-lentil fritters – popular snack across Chhattisgarh and neighbouring regions.",
+      "Best eaten fresh."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "chhattisgarh-snacks-arsa",
+    "title": "Arsa (Airsa)",
+    "state": "Chhattisgarh",
+    "mealType": "Snacks",
+    "diet": "Vegetarian",
+    "jainFriendly": true,
+    "jainNotes": "Ingredients are Jain-compatible (rice, jaggery, oil/ghee). No onion, garlic, or root vegetables.",
+    "image": "arsa.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "50 mins (+ soaking)",
+    "servings": "15–20 pieces",
+    "ingredients": [
+      { "name": "Rice", "qty": "2 cups (soaked)" },
+      { "name": "Jaggery", "qty": "1.5 cups" },
+      { "name": "Oil or ghee for deep frying", "qty": "as needed" }
+    ],
+    "recipe": [
+      "Soak rice, grind into a paste. Cook jaggery into a thick syrup and mix with the rice paste to form a dough.",
+      "Shape into small discs or balls and deep-fry till golden and crisp.",
+      "Cool and store. A festive sweet."
+    ],
+    "tips": [
+      "Traditional rice-jaggery sweet of Chhattisgarh – made during festivals.",
+      "Crisp outside with a sweet, chewy interior."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "chhattisgarh-lunch-ropa-bhaji",
+    "title": "Ropa Bhaji",
+    "state": "Chhattisgarh",
+    "mealType": "Lunch",
+    "diet": "Vegan",
+    "jainFriendly": false,
+    "jainNotes": "Contains garlic - not consumed by Jains. For Jain version, omit garlic.",
+    "image": "ropa_bhaji.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "25 mins",
+    "servings": "3 Servings",
+    "ingredients": [
+      { "name": "Local leafy greens (ropa or similar)", "qty": "4 cups" },
+      { "name": "Garlic, green chilli, mustard oil or oil, salt", "qty": "to taste" }
+    ],
+    "recipe": [
+      "Wash and chop the greens. Heat oil, add crushed garlic and chilli.",
+      "Add the greens and salt. Stir-fry or cook till soft but still vibrant.",
+      "Serve as a simple side with rice or roti."
+    ],
+    "tips": [
+      "Everyday green vegetable preparation – highlights local leafy produce.",
+      "Minimal spices let the greens shine."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "chhattisgarh-dinner-bhuswa-toor-dal",
+    "title": "Bhuswa with Toor Dal",
+    "state": "Chhattisgarh",
+    "mealType": "Dinner",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains onion and garlic - not consumed by Jains. For Jain version, omit onion-garlic.",
+    "image": "bhuswa.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "35 mins",
+    "servings": "3 Servings",
+    "ingredients": [
+      { "name": "Rice", "qty": "1.5 cups" },
+      { "name": "Toor dal", "qty": "1 cup" },
+      { "name": "Onion, garlic, turmeric, salt, tempering", "qty": "to taste" }
+    ],
+    "recipe": [
+      "Cook rice and a simple tempered toor dal with onion and garlic.",
+      "Serve with a side of bhaji, chutney or pickle – the everyday dinner of many households."
+    ],
+    "tips": [
+      "Simple, nourishing rice-and-dal meal that forms the backbone of daily Chhattisgarhi eating.",
+      "Often accompanied by seasonal greens."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "chhattisgarh-dinner-bhuswa-mixed-dal",
+    "title": "Bhuswa with Mixed Dal",
+    "state": "Chhattisgarh",
+    "mealType": "Dinner",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains onion and garlic - not consumed by Jains. For Jain version, omit onion-garlic.",
+    "image": "bhuswa.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "35 mins",
+    "servings": "3 Servings",
+    "ingredients": [
+      { "name": "Rice", "qty": "1.5 cups" },
+      { "name": "Mixed dal (toor, moong, chana)", "qty": "1 cup" },
+      { "name": "Onion, garlic, turmeric, salt, tempering", "qty": "to taste" }
+    ],
+    "recipe": [
+      "Cook rice and a simple tempered mixed dal with onion and garlic.",
+      "Serve with a side of bhaji, chutney or pickle – the everyday dinner of many households."
+    ],
+    "tips": [
+      "Simple, nourishing rice-and-dal meal with mixed lentils.",
+      "Often accompanied by seasonal greens."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  }
+]

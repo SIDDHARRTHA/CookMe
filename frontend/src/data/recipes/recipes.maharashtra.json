@@ -1,0 +1,658 @@
+[
+  {
+    "id": "maharashtra-breakfast-kanda-poha",
+    "title": "Kanda Poha",
+    "state": "Maharashtra",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "time": "Prep: 10 minutes | Cook: 10 minutes",
+    "servings": 3,
+    "heroImage": "./assets/images/kanda_poha.png",
+    "description": "Flattened rice (poha) tempered with mustard, curry leaves, turmeric, onions, peanuts and a squeeze of lemon. A light, everyday Maharashtrian breakfast staple, especially popular in Mumbai and Pune.",
+    "steps": [
+      "Rinse poha gently and drain; let it soften.",
+      "Temper mustard seeds, curry leaves, green chillies in oil.",
+      "Add onions and sauté until translucent; add turmeric and peanuts.",
+      "Add poha, salt and a pinch of sugar; mix gently.",
+      "Finish with lemon juice and fresh coriander."
+    ],
+    "fullIngredients": [
+      {
+        "name": "2 cups thin or medium poha",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "1 large onion, finely chopped",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "2–3 green chillies",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "1/4 cup roasted peanuts",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Mustard seeds, turmeric, curry leaves",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Lemon juice, coriander, salt, sugar",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tip": "Do not over-soak poha or it turns mushy.",
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Do not over-soak poha or it turns mushy."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Dadpe pohe is a no-cook variation with grated coconut."
+      }
+    ]
+  },
+  {
+    "id": "maharashtra-breakfast-misal-pav",
+    "title": "Misal Pav",
+    "state": "Maharashtra",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "time": "Prep: 20 minutes (plus sprouting) | Cook: 25 minutes",
+    "servings": 4,
+    "heroImage": "./assets/images/misal_pav.png",
+    "description": "Spicy sprouted-lentil curry (usal) topped with farsan, onion, coriander and lemon, served with soft pav. Kolhapuri and Puneri styles are especially famous for their heat and depth.",
+    "steps": [
+      "Cook sprouts with spices and water to make a spicy usal/rassa.",
+      "Prepare a dry potato or sprout topping if desired.",
+      "Assemble in a bowl: usal, toppings, farsan, onion, coriander.",
+      "Serve immediately with buttered pav and lemon wedges."
+    ],
+    "fullIngredients": [
+      {
+        "name": "1 cup sprouted matki or mixed sprouts",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Onion, tomato, ginger-garlic paste",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Misal or Kolhapuri masala, turmeric, chilli powder",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Farsan/sev, chopped onion, coriander, lemon",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Pav buns",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tip": "Kolhapuri misal is famously fiery; Puneri is slightly milder and tangier.",
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Kolhapuri misal is famously fiery; Puneri is slightly milder and tangier."
+      }
+    ]
+  },
+  {
+    "id": "maharashtra-breakfast-thalipeeth",
+    "title": "Thalipeeth",
+    "state": "Maharashtra",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "time": "Prep: 15 minutes | Cook: 20 minutes",
+    "servings": 4,
+    "heroImage": "./assets/images/thalipeeth.png",
+    "description": "Savoury multi-grain flatbread made from bhajani (roasted grain and pulse flour mix), onions, spices and coriander. Pressed by hand and cooked on a tawa; typically eaten with yogurt or thecha.",
+    "steps": [
+      "Mix flours with chopped onion, spices and salt.",
+      "Knead into a soft dough with water.",
+      "Pat into thick rounds on a greased plastic sheet or banana leaf.",
+      "Transfer to hot tawa and cook on both sides with a little oil until crisp."
+    ],
+    "fullIngredients": [
+      {
+        "name": "2 cups bhajani flour (or mix of jowar, bajra, rice, besan, wheat)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "1 onion, finely chopped",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Green chillies, coriander, cumin, ajwain",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Salt, water, oil for roasting",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tip": "Farali (fasting) version uses sabudana, potato and singhada flour.",
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Farali (fasting) version uses sabudana, potato and singhada flour."
+      }
+    ]
+  },
+  {
+    "id": "maharashtra-breakfast-sabudana-khichdi",
+    "title": "Sabudana Khichdi",
+    "state": "Maharashtra",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "time": "Prep: 10 minutes + soaking | Cook: 15 minutes",
+    "servings": 3,
+    "heroImage": "./assets/images/sabudana_khichdi.png",
+    "description": "Soaked sago pearls tempered with cumin, green chillies, peanuts and boiled potato. A classic fasting (farali) dish that is naturally free of onion and garlic when prepared traditionally.",
+    "steps": [
+      "Soak sabudana until soft but not mushy; drain well.",
+      "Temper cumin and chillies in ghee or oil.",
+      "Add potato and peanuts, then sabudana.",
+      "Cook on low heat, stirring gently, until translucent.",
+      "Finish with lemon and coriander."
+    ],
+    "fullIngredients": [
+      {
+        "name": "1 cup sabudana (sago), soaked",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "1–2 boiled potatoes, diced",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "1/2 cup roasted peanuts, crushed",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Cumin seeds, green chillies, curry leaves (optional)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Lemon juice, coriander, salt, sugar",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tip": "Perfect for Ekadashi and other fasting days.",
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Perfect for Ekadashi and other fasting days."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Avoid excess water while soaking."
+      }
+    ]
+  },
+  {
+    "id": "maharashtra-lunch-varan-bhaat",
+    "title": "Varan Bhaat",
+    "state": "Maharashtra",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "time": "Prep: 10 minutes | Cook: 25 minutes",
+    "servings": 4,
+    "heroImage": "./assets/images/varan_bhaat.png",
+    "description": "Simple, comforting toor dal (varan) tempered with ghee, cumin and hing, poured over steamed rice. The everyday heart of a Maharashtrian vegetarian meal, often finished with a spoon of pure ghee.",
+    "steps": [
+      "Pressure-cook dal with turmeric and water until soft.",
+      "Mash lightly and adjust consistency.",
+      "Temper ghee with cumin and hing; pour over dal.",
+      "Serve hot over plain rice with a dollop of ghee."
+    ],
+    "fullIngredients": [
+      {
+        "name": "1 cup toor dal",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Turmeric, salt",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Ghee, cumin seeds, hing",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Steamed rice",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tip": "Often paired with a dry vegetable (suki bhaji) and koshimbir.",
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Often paired with a dry vegetable (suki bhaji) and koshimbir."
+      }
+    ]
+  },
+  {
+    "id": "maharashtra-lunch-pithla-bhakri",
+    "title": "Pithla Bhakri (Zunka Bhakri)",
+    "state": "Maharashtra",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "time": "Prep: 15 minutes | Cook: 25 minutes",
+    "servings": 4,
+    "heroImage": "./assets/images/pithla_bhakri.png",
+    "description": "Rustic chickpea-flour gravy (pithla/zunka) cooked with onions, green chillies and spices, served with thick jowar or bajra bhakri. Quintessential rural Maharashtrian comfort food.",
+    "steps": [
+      "Make a thin batter of besan with water and spices.",
+      "Temper mustard and onions; pour in batter and cook, stirring until thickened.",
+      "Knead millet flour with water, pat into thick bhakris and cook on tawa or open flame.",
+      "Serve pithla with hot bhakri and thecha."
+    ],
+    "fullIngredients": [
+      {
+        "name": "1 cup besan (chickpea flour)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Onion, green chillies, garlic (optional)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Mustard, cumin, turmeric, chilli powder",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Jowar or bajra flour for bhakri",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tip": "Zunka is the drier version; pithla is slightly more gravy-like.",
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Zunka is the drier version; pithla is slightly more gravy-like."
+      }
+    ]
+  },
+  {
+    "id": "maharashtra-lunch-bharli-vangi",
+    "title": "Bharli Vangi",
+    "state": "Maharashtra",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "time": "Prep: 25 minutes | Cook: 30 minutes",
+    "servings": 4,
+    "heroImage": "./assets/images/bharli_vangi.png",
+    "description": "Small brinjals stuffed with a spiced peanut-coconut-goda masala mixture and cooked until soft. A classic festive and everyday vegetable dish of Maharashtra.",
+    "steps": [
+      "Slit brinjals carefully, keeping stems intact.",
+      "Prepare stuffing of ground peanuts, coconut and spices.",
+      "Stuff the brinjals and cook in a little oil with remaining masala and water until tender."
+    ],
+    "fullIngredients": [
+      {
+        "name": "8–10 small brinjals",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Roasted peanuts, grated coconut, goda masala",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Onion, garlic, sesame, chilli powder, tamarind or kokum",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tip": "Goda masala is the signature sweet-savoury spice blend of Maharashtra.",
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Goda masala is the signature sweet-savoury spice blend of Maharashtra."
+      }
+    ]
+  },
+  {
+    "id": "maharashtra-lunch-kolhapuri-mutton",
+    "title": "Kolhapuri Tambda Rassa / Mutton",
+    "state": "Maharashtra",
+    "mealType": "Lunch",
+    "diet": "Non-Vegetarian",
+    "time": "Prep: 30 minutes | Cook: 60–75 minutes",
+    "servings": 4,
+    "heroImage": "./assets/images/kolhapuri_mutton.png",
+    "description": "Fiery Kolhapuri-style mutton in a rich red (tambda) gravy made with a special dry coconut-chilli spice mix. Often served with pandhra (white) rassa and bhakri or rice.",
+    "steps": [
+      "Marinate and pressure-cook mutton until tender.",
+      "Prepare a spicy onion-coconut-chilli gravy.",
+      "Combine and simmer until the oil separates and flavours intensify.",
+      "Serve with bhakri, rice or pav."
+    ],
+    "fullIngredients": [
+      {
+        "name": "500 g mutton",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Onion, ginger-garlic",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Kolhapuri masala or dry coconut + red chilli paste",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Whole spices, coriander-cumin",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tip": "Authentic versions are extremely spicy; adjust heat to taste.",
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Authentic versions are extremely spicy; adjust heat to taste."
+      }
+    ]
+  },
+  {
+    "id": "maharashtra-dinner-puran-poli",
+    "title": "Puran Poli",
+    "state": "Maharashtra",
+    "mealType": "Dinner",
+    "diet": "Vegetarian",
+    "time": "Prep: 40 minutes | Cook: 30 minutes",
+    "servings": 8,
+    "heroImage": "./assets/images/puran_poli.png",
+    "description": "Soft whole-wheat flatbread stuffed with a sweet filling of cooked chana dal, jaggery and cardamom. A festive favourite prepared for Gudi Padwa, Holi and Ganesh Chaturthi.",
+    "steps": [
+      "Cook chana dal until soft; mash and cook with jaggery into a thick puran.",
+      "Knead soft dough with flour and ghee.",
+      "Stuff portions of dough with puran, seal and roll gently.",
+      "Cook on tawa with ghee until golden spots appear on both sides."
+    ],
+    "fullIngredients": [
+      {
+        "name": "1 cup chana dal",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "1 cup jaggery",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Cardamom powder, nutmeg",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Whole-wheat flour, ghee",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tip": "Serve warm with pure ghee or katachi amti (the leftover dal water).",
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Serve warm with pure ghee or katachi amti (the leftover dal water)."
+      }
+    ]
+  },
+  {
+    "id": "maharashtra-dinner-saoji-mutton",
+    "title": "Saoji Mutton",
+    "state": "Maharashtra",
+    "mealType": "Dinner",
+    "diet": "Non-Vegetarian",
+    "time": "Prep: 30 minutes | Cook: 60 minutes",
+    "servings": 4,
+    "heroImage": "./assets/images/saoji_mutton.png",
+    "description": "Spicy Vidarbha-style mutton curry from the Saoji community of Nagpur, known for its complex dry-spice blend and rich, oily gravy. Typically eaten with bhakri or rice.",
+    "steps": [
+      "Marinate mutton with spices.",
+      "Fry onions and prepare the strong spice paste.",
+      "Cook mutton in the masala until tender and oil floats on top."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Mutton",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Saoji masala (or homemade mix of dry coconut, red chillies, poppy, sesame, whole spices)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Onion, ginger-garlic",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tip": "Distinct from Kolhapuri; more complex and aromatic.",
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Distinct from Kolhapuri; more complex and aromatic."
+      }
+    ]
+  },
+  {
+    "id": "maharashtra-snacks-vada-pav",
+    "title": "Vada Pav",
+    "state": "Maharashtra",
+    "mealType": "Snacks",
+    "diet": "Vegetarian",
+    "time": "Prep: 25 minutes | Cook: 20 minutes",
+    "servings": 8,
+    "heroImage": "./assets/images/vada_pav.png",
+    "description": "Mumbai's iconic street food — a deep-fried spiced potato dumpling (batata vada) sandwiched in a soft pav with dry garlic chutney, green chutney and fried green chilli.",
+    "steps": [
+      "Mash potatoes with tempered spices and form balls.",
+      "Dip in thick besan batter and deep-fry until golden.",
+      "Slit pav, spread chutneys, insert vada and serve with fried chilli."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Boiled potatoes, green chillies, garlic, mustard, turmeric",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Besan batter",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Pav buns",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Dry garlic-red chilli chutney, green chutney",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tip": "Best eaten hot from a street stall; originated in Mumbai in the 1960s.",
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Best eaten hot from a street stall; originated in Mumbai in the 1960s."
+      }
+    ]
+  },
+  {
+    "id": "maharashtra-snacks-pav-bhaji",
+    "title": "Pav Bhaji",
+    "state": "Maharashtra",
+    "mealType": "Snacks",
+    "diet": "Vegetarian",
+    "time": "Prep: 20 minutes | Cook: 30 minutes",
+    "servings": 4,
+    "heroImage": "./assets/images/pav_bhaji.png",
+    "description": "Mashed mixed-vegetable curry cooked with pav-bhaji masala and plenty of butter, served with toasted pav, onion and lemon. A beloved Mumbai street-food classic.",
+    "steps": [
+      "Boil and mash vegetables.",
+      "Sauté onion-tomato base with pav-bhaji masala and butter.",
+      "Add mashed vegetables and simmer, mashing further.",
+      "Toast pav in butter and serve with bhaji, raw onion and lemon."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Potatoes, cauliflower, peas, carrots, capsicum",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Onion, tomato, pav-bhaji masala, butter",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Pav buns, onion, lemon, coriander",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tip": "Generous butter is traditional and essential for authentic flavour.",
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Generous butter is traditional and essential for authentic flavour."
+      }
+    ]
+  },
+  {
+    "id": "maharashtra-snacks-kothimbir-vadi",
+    "title": "Kothimbir Vadi",
+    "state": "Maharashtra",
+    "mealType": "Snacks",
+    "diet": "Vegetarian",
+    "time": "Prep: 15 minutes | Cook: 25 minutes",
+    "servings": 4,
+    "heroImage": "./assets/images/kothimbir_vadi.png",
+    "description": "Steamed and then shallow- or deep-fried squares of besan, fresh coriander, sesame and spices. A popular tea-time snack across Maharashtra.",
+    "steps": [
+      "Mix besan with coriander and spices into a thick batter.",
+      "Steam in a greased tray until firm.",
+      "Cool, cut into squares or diamonds.",
+      "Shallow-fry or deep-fry until crisp."
+    ],
+    "fullIngredients": [
+      {
+        "name": "1 cup besan",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "2 cups chopped fresh coriander",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Sesame seeds, green chillies, ginger, turmeric, chilli powder",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Oil for frying",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tip": "Can also be baked for a lighter version.",
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Can also be baked for a lighter version."
+      }
+    ]
+  },
+  {
+    "id": "maharashtra-snacks-sol-kadhi",
+    "title": "Sol Kadhi",
+    "state": "Maharashtra",
+    "mealType": "Snacks",
+    "diet": "Vegetarian",
+    "time": "Prep: 15 minutes + chilling | Cook: 5 minutes",
+    "servings": 4,
+    "heroImage": "./assets/images/sol_kadhi.png",
+    "description": "Refreshing Konkani drink-cum-digestive made from kokum extract and coconut milk, tempered lightly and served chilled. Often accompanies seafood meals or stands alone as a cooling snack.",
+    "steps": [
+      "Soak kokum in warm water and extract the sour liquid.",
+      "Mix with coconut milk and salt.",
+      "Temper lightly if desired and chill.",
+      "Serve cold, garnished with coriander."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Dried kokum petals",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Thick coconut milk",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Green chilli, garlic (optional), salt",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Cumin, coriander for garnish",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tip": "Excellent digestive after a heavy meal.",
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Excellent digestive after a heavy meal."
+      }
+    ]
+  }
+]

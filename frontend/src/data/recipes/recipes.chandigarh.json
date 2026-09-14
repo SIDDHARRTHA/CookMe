@@ -1,0 +1,1386 @@
+[
+  {
+    "id": "chandigarh-breakfast-chole-bhature",
+    "title": "Chole Bhature",
+    "state": "Chandigarh",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "time": "45 mins",
+    "servings": "4 Servings",
+    "heroImage": "./assets/images/chole_bhature.png",
+    "steps": [
+      "Pressure cook soaked chickpeas with the tea bag/amla and salt until soft; discard tea bag.",
+      "Heat oil, saute onions till golden, add ginger-garlic paste and tomato puree, cook till oil separates.",
+      "Add chole masala powder, cooked chickpeas and a little cooking liquid; simmer 15 minutes.",
+      "For bhature, knead flour with yogurt, baking soda, a little oil and water into a soft dough; rest 2 hours.",
+      "Roll portions into ovals and deep fry in hot oil until puffed and golden on both sides.",
+      "Serve hot chole with bhature, sliced onions and pickle."
+    ],
+    "fullIngredients": [
+      {
+        "name": "White chickpeas (kabuli chana)",
+        "qty": "2 cups, soaked overnight",
+        "checked": true
+      },
+      {
+        "name": "Onion",
+        "qty": "1 large, chopped",
+        "checked": true
+      },
+      {
+        "name": "Tomato",
+        "qty": "2, pureed",
+        "checked": true
+      },
+      {
+        "name": "Ginger-garlic paste",
+        "qty": "1 tbsp",
+        "checked": true
+      },
+      {
+        "name": "Chole masala powder",
+        "qty": "2 tbsp",
+        "checked": true
+      },
+      {
+        "name": "Tea bag or dried amla",
+        "qty": "1 (for dark colour)",
+        "checked": true
+      },
+      {
+        "name": "All-purpose flour (maida)",
+        "qty": "2 cups",
+        "checked": true
+      },
+      {
+        "name": "Yogurt",
+        "qty": "1/4 cup",
+        "checked": true
+      },
+      {
+        "name": "Baking soda",
+        "qty": "1/2 tsp",
+        "checked": true
+      },
+      {
+        "name": "Oil for deep frying",
+        "qty": "as needed",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "A tea bag simmered with the chickpeas gives the chole its classic dark colour without extra spices."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Resting the bhatura dough properly is what makes it puff up when fried."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "chandigarh-breakfast-aloo-paratha",
+    "title": "Aloo Paratha",
+    "state": "Chandigarh",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "time": "35 mins",
+    "servings": "4 Servings",
+    "heroImage": "./assets/images/aloo_paratha.png",
+    "steps": [
+      "Knead the atta with water and a little salt into a soft dough; rest 20 minutes.",
+      "Mix mashed potato with chilli, ajwain, chilli powder, coriander and salt for the stuffing.",
+      "Divide dough and stuffing into equal portions; stuff each dough ball with the potato mix.",
+      "Roll out gently into a paratha, being careful not to let the stuffing burst out.",
+      "Cook on a hot tawa with ghee on both sides until golden-brown spots appear.",
+      "Serve hot with curd, butter and pickle."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Whole wheat flour (atta)",
+        "qty": "2 cups",
+        "checked": true
+      },
+      {
+        "name": "Potatoes",
+        "qty": "3 medium, boiled and mashed",
+        "checked": true
+      },
+      {
+        "name": "Green chilli",
+        "qty": "1, finely chopped",
+        "checked": true
+      },
+      {
+        "name": "Ajwain (carom seeds)",
+        "qty": "1/2 tsp",
+        "checked": true
+      },
+      {
+        "name": "Red chilli powder",
+        "qty": "1/2 tsp",
+        "checked": true
+      },
+      {
+        "name": "Coriander leaves",
+        "qty": "2 tbsp, chopped",
+        "checked": true
+      },
+      {
+        "name": "Ghee or butter",
+        "qty": "for cooking",
+        "checked": true
+      },
+      {
+        "name": "Salt",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Keep the stuffing dry, not wet, or the paratha will tear while rolling."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "A dollop of white butter on top right before serving is the classic Punjabi touch."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "chandigarh-breakfast-amritsari-kulcha",
+    "title": "Amritsari Kulcha",
+    "state": "Chandigarh",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "time": "1 hr 30 mins",
+    "servings": "4 Servings",
+    "heroImage": "./assets/images/amritsari_kulcha.png",
+    "steps": [
+      "Knead maida with yogurt, baking powder, salt and water into a soft dough; rest 1 hour.",
+      "Mix mashed potato with onion, ajwain, coriander and salt for the stuffing.",
+      "Stuff dough balls with the potato mixture and flatten gently into a round or oval shape.",
+      "Sprinkle kalonji on top and press lightly so the seeds stick.",
+      "Cook on a hot tawa or in a tandoor until browned and puffed, flipping to cook both sides.",
+      "Brush with butter and serve hot with chole and mint or tamarind chutney."
+    ],
+    "fullIngredients": [
+      {
+        "name": "All-purpose flour (maida)",
+        "qty": "2 cups",
+        "checked": true
+      },
+      {
+        "name": "Yogurt",
+        "qty": "1/4 cup",
+        "checked": true
+      },
+      {
+        "name": "Baking powder",
+        "qty": "1 tsp",
+        "checked": true
+      },
+      {
+        "name": "Potatoes",
+        "qty": "3, boiled and mashed",
+        "checked": true
+      },
+      {
+        "name": "Onion",
+        "qty": "1, finely chopped",
+        "checked": true
+      },
+      {
+        "name": "Ajwain and kalonji",
+        "qty": "1/2 tsp each",
+        "checked": true
+      },
+      {
+        "name": "Coriander leaves",
+        "qty": "2 tbsp, chopped",
+        "checked": true
+      },
+      {
+        "name": "Butter",
+        "qty": "for topping",
+        "checked": true
+      },
+      {
+        "name": "Salt",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "In Chandigarh this is more often sold at dhabas as a chole-kulcha combo than made fresh at home."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "A cast-iron tawa with a lid traps steam and helps the kulcha puff up without a tandoor."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "chandigarh-breakfast-anda-bhurji",
+    "title": "Anda Bhurji (Egg Bhurji)",
+    "state": "Chandigarh",
+    "mealType": "Breakfast",
+    "diet": "Eggetarian",
+    "time": "15 mins",
+    "servings": "2 Servings",
+    "heroImage": "./assets/images/anda_bhurji.png",
+    "steps": [
+      "Heat oil, saute onion and green chilli until soft.",
+      "Add tomato, turmeric and chilli powder; cook until the tomato softens.",
+      "Beat the eggs lightly with salt and pour into the pan.",
+      "Scramble continuously on medium heat until the eggs are just cooked through.",
+      "Garnish with coriander leaves and serve hot with pav, roti or paratha."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Eggs",
+        "qty": "4",
+        "checked": true
+      },
+      {
+        "name": "Onion",
+        "qty": "1, finely chopped",
+        "checked": true
+      },
+      {
+        "name": "Tomato",
+        "qty": "1, finely chopped",
+        "checked": true
+      },
+      {
+        "name": "Green chilli",
+        "qty": "1, chopped",
+        "checked": true
+      },
+      {
+        "name": "Turmeric powder",
+        "qty": "1/4 tsp",
+        "checked": true
+      },
+      {
+        "name": "Red chilli powder",
+        "qty": "1/2 tsp",
+        "checked": true
+      },
+      {
+        "name": "Coriander leaves",
+        "qty": "2 tbsp, chopped",
+        "checked": true
+      },
+      {
+        "name": "Oil or ghee",
+        "qty": "2 tbsp",
+        "checked": true
+      },
+      {
+        "name": "Salt",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Don't overcook the eggs — pull the pan off the heat while they still look slightly moist."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "A pinch of garam masala at the end lifts the flavour."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "chandigarh-lunch-sarson-da-saag-makki-di-roti",
+    "title": "Sarson da Saag with Makki di Roti",
+    "state": "Chandigarh",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "time": "1 hr 30 mins",
+    "servings": "4 Servings",
+    "heroImage": "./assets/images/sarson_da_saag.png",
+    "steps": [
+      "Boil mustard leaves, spinach and bathua with ginger, garlic and green chilli until soft.",
+      "Blend coarsely (traditionally mashed by hand with a wooden madani) into a thick puree.",
+      "Return to the pan, whisk in makki atta to thicken, and simmer for 20-30 minutes.",
+      "In a separate pan, saute onion in ghee until golden and pour over the saag as a tempering (tadka).",
+      "For the roti, knead makki atta with warm water (it doesn't bind like wheat) and pat into small rounds.",
+      "Cook the roti on a hot tawa with ghee until browned on both sides, patching cracks with wet fingers as needed.",
+      "Serve saag topped with a knob of white butter alongside hot makki di roti."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Mustard leaves (sarson)",
+        "qty": "500 g, chopped",
+        "checked": true
+      },
+      {
+        "name": "Spinach",
+        "qty": "200 g, chopped",
+        "checked": true
+      },
+      {
+        "name": "Bathua leaves",
+        "qty": "100 g, chopped (optional)",
+        "checked": true
+      },
+      {
+        "name": "Ginger-garlic paste",
+        "qty": "1 tbsp",
+        "checked": true
+      },
+      {
+        "name": "Green chilli",
+        "qty": "2",
+        "checked": true
+      },
+      {
+        "name": "Makki ka atta (corn flour)",
+        "qty": "2 tbsp, for thickening",
+        "checked": true
+      },
+      {
+        "name": "Makki atta for roti",
+        "qty": "2 cups",
+        "checked": true
+      },
+      {
+        "name": "Ghee/white butter (makkhan)",
+        "qty": "generous amount",
+        "checked": true
+      },
+      {
+        "name": "Onion",
+        "qty": "1, chopped",
+        "checked": true
+      },
+      {
+        "name": "Salt",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "This is a winter-season dish across Punjab, Haryana and Himachal alike, so treat it as regional rather than uniquely Chandigarh's own."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Makki atta roti is fragile — pat it out directly on a damp cloth or plastic sheet instead of rolling with a pin."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "chandigarh-lunch-rajma-chawal",
+    "title": "Rajma Chawal",
+    "state": "Chandigarh",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "time": "50 mins",
+    "servings": "4 Servings",
+    "heroImage": "./assets/images/rajma_chawal.png",
+    "steps": [
+      "Pressure cook the soaked rajma with salt and water until soft, about 6-7 whistles.",
+      "Heat oil, add cumin seeds, then onions and saute until golden.",
+      "Add ginger-garlic paste, then tomato puree and cook until the oil separates.",
+      "Add chilli powder and garam masala, then the cooked rajma with its liquid.",
+      "Simmer for 15-20 minutes, lightly mashing a few beans to thicken the gravy.",
+      "Serve hot over steamed basmati rice."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Red kidney beans (rajma)",
+        "qty": "1.5 cups, soaked overnight",
+        "checked": true
+      },
+      {
+        "name": "Onion",
+        "qty": "2, finely chopped",
+        "checked": true
+      },
+      {
+        "name": "Tomato",
+        "qty": "3, pureed",
+        "checked": true
+      },
+      {
+        "name": "Ginger-garlic paste",
+        "qty": "1 tbsp",
+        "checked": true
+      },
+      {
+        "name": "Cumin seeds",
+        "qty": "1 tsp",
+        "checked": true
+      },
+      {
+        "name": "Garam masala",
+        "qty": "1 tsp",
+        "checked": true
+      },
+      {
+        "name": "Red chilli powder",
+        "qty": "1 tsp",
+        "checked": true
+      },
+      {
+        "name": "Basmati rice",
+        "qty": "2 cups, cooked",
+        "checked": true
+      },
+      {
+        "name": "Oil or ghee",
+        "qty": "3 tbsp",
+        "checked": true
+      },
+      {
+        "name": "Salt",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Simmering longer after cooking deepens the flavour — many households make rajma a day ahead."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "A splash of cream or a spoon of ghee at the end gives it a restaurant-style richness."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "chandigarh-lunch-kadhi-pakora",
+    "title": "Kadhi Pakora",
+    "state": "Chandigarh",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "time": "1 hr",
+    "servings": "4 Servings",
+    "heroImage": "./assets/images/kadhi_pakora.png",
+    "steps": [
+      "Whisk yogurt with besan, turmeric and enough water to make a thin, smooth batter.",
+      "Make a separate thick besan batter with sliced onion and salt; deep fry spoonfuls into pakoras.",
+      "Heat oil, temper with mustard and cumin seeds, dried red chilli and ginger-garlic paste.",
+      "Pour in the yogurt-besan mixture, stirring continuously to prevent curdling; simmer 30-40 minutes.",
+      "Drop the fried pakoras into the simmering kadhi and cook another 10 minutes so they soften slightly.",
+      "Serve hot with steamed rice."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Yogurt (slightly sour)",
+        "qty": "2 cups",
+        "checked": true
+      },
+      {
+        "name": "Gram flour (besan)",
+        "qty": "1/2 cup, plus 1/2 cup for pakora",
+        "checked": true
+      },
+      {
+        "name": "Onion",
+        "qty": "1, thinly sliced (for pakora)",
+        "checked": true
+      },
+      {
+        "name": "Turmeric powder",
+        "qty": "1/2 tsp",
+        "checked": true
+      },
+      {
+        "name": "Cumin and mustard seeds",
+        "qty": "1/2 tsp each",
+        "checked": true
+      },
+      {
+        "name": "Dried red chilli",
+        "qty": "2",
+        "checked": true
+      },
+      {
+        "name": "Ginger-garlic paste",
+        "qty": "1 tsp",
+        "checked": true
+      },
+      {
+        "name": "Oil",
+        "qty": "for tempering and deep frying",
+        "checked": true
+      },
+      {
+        "name": "Salt",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Keep stirring while the kadhi comes to a boil the first time or the yogurt will split."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Punjabi kadhi is thicker than the Gujarati or Rajasthani versions — that's the regional giveaway."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "chandigarh-lunch-aloo-gobi",
+    "title": "Aloo Gobi",
+    "state": "Chandigarh",
+    "mealType": "Lunch",
+    "diet": "Vegan",
+    "time": "30 mins",
+    "servings": "4 Servings",
+    "heroImage": "./assets/images/aloo_gobi.png",
+    "steps": [
+      "Heat oil, add cumin seeds and let them splutter.",
+      "Add onions and ginger, saute until light golden.",
+      "Add turmeric, coriander powder and tomato; cook until soft.",
+      "Add potatoes and cauliflower, mix well, cover and cook on low heat until tender, stirring occasionally.",
+      "Uncover and cook a few minutes more so the vegetables dry out slightly and pick up a light char.",
+      "Garnish with coriander leaves and serve with roti."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Potatoes",
+        "qty": "2, cubed",
+        "checked": true
+      },
+      {
+        "name": "Cauliflower",
+        "qty": "1 small, cut into florets",
+        "checked": true
+      },
+      {
+        "name": "Onion",
+        "qty": "1, sliced",
+        "checked": true
+      },
+      {
+        "name": "Tomato",
+        "qty": "1, chopped",
+        "checked": true
+      },
+      {
+        "name": "Cumin seeds",
+        "qty": "1 tsp",
+        "checked": true
+      },
+      {
+        "name": "Turmeric and coriander powder",
+        "qty": "1 tsp each",
+        "checked": true
+      },
+      {
+        "name": "Ginger",
+        "qty": "1 tsp, julienned",
+        "checked": true
+      },
+      {
+        "name": "Coriander leaves",
+        "qty": "2 tbsp, chopped",
+        "checked": true
+      },
+      {
+        "name": "Oil",
+        "qty": "3 tbsp",
+        "checked": true
+      },
+      {
+        "name": "Salt",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Cooking uncovered at the end gives the dry, slightly roasted texture that makes this dish distinctive."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Cut the cauliflower florets a bit larger than the potato cubes so both cook evenly."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "chandigarh-lunch-egg-curry",
+    "title": "Egg Curry (Anda Curry)",
+    "state": "Chandigarh",
+    "mealType": "Lunch",
+    "diet": "Eggetarian",
+    "time": "35 mins",
+    "servings": "4 Servings",
+    "heroImage": "./assets/images/egg_curry.png",
+    "steps": [
+      "Lightly slit the boiled eggs and shallow fry until the surface blisters slightly; set aside.",
+      "Heat oil, saute onions until golden, then add ginger-garlic paste.",
+      "Add tomato puree and all the dry spices; cook until the oil separates from the masala.",
+      "Add water to reach the desired gravy consistency and simmer for 10 minutes.",
+      "Add the fried eggs, simmer for another 5 minutes so they soak up the gravy.",
+      "Finish with garam masala and coriander leaves; serve with rice or roti."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Eggs",
+        "qty": "6, hard-boiled and peeled",
+        "checked": true
+      },
+      {
+        "name": "Onion",
+        "qty": "2, finely chopped",
+        "checked": true
+      },
+      {
+        "name": "Tomato",
+        "qty": "2, pureed",
+        "checked": true
+      },
+      {
+        "name": "Ginger-garlic paste",
+        "qty": "1 tbsp",
+        "checked": true
+      },
+      {
+        "name": "Turmeric, red chilli, coriander powder",
+        "qty": "1 tsp each",
+        "checked": true
+      },
+      {
+        "name": "Garam masala",
+        "qty": "1/2 tsp",
+        "checked": true
+      },
+      {
+        "name": "Oil",
+        "qty": "3 tbsp",
+        "checked": true
+      },
+      {
+        "name": "Coriander leaves",
+        "qty": "2 tbsp, chopped",
+        "checked": true
+      },
+      {
+        "name": "Salt",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Slitting the eggs before frying helps the masala flavour seep in."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Frying the eggs first is optional but gives a nicer texture than dropping them in raw-boiled."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "chandigarh-lunch-mutton-curry",
+    "title": "Punjabi Mutton Curry",
+    "state": "Chandigarh",
+    "mealType": "Lunch",
+    "diet": "Non-Vegetarian",
+    "time": "1 hr 15 mins",
+    "servings": "4 Servings",
+    "heroImage": "./assets/images/mutton_curry.png",
+    "steps": [
+      "Marinate the mutton with yogurt, ginger-garlic paste and a little salt for at least 30 minutes.",
+      "Heat oil/ghee, temper with whole spices, then add onions and fry until deep golden-brown.",
+      "Add the marinated mutton and sear on high heat for a few minutes.",
+      "Add tomato puree and the dry spice powders; cook until the oil separates.",
+      "Add hot water to cover, cover the pan and simmer (or pressure cook) until the meat is tender.",
+      "Finish with garam masala, adjust the gravy consistency and simmer a final 5 minutes before serving with rice or roti."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Mutton (goat meat), bone-in",
+        "qty": "750 g",
+        "checked": true
+      },
+      {
+        "name": "Onion",
+        "qty": "3, sliced",
+        "checked": true
+      },
+      {
+        "name": "Tomato",
+        "qty": "3, pureed",
+        "checked": true
+      },
+      {
+        "name": "Yogurt",
+        "qty": "1/2 cup",
+        "checked": true
+      },
+      {
+        "name": "Ginger-garlic paste",
+        "qty": "2 tbsp",
+        "checked": true
+      },
+      {
+        "name": "Whole spices (bay leaf, cloves, cinnamon, cardamom)",
+        "qty": "a small handful",
+        "checked": true
+      },
+      {
+        "name": "Red chilli, turmeric, coriander powder",
+        "qty": "1.5 tsp each",
+        "checked": true
+      },
+      {
+        "name": "Garam masala",
+        "qty": "1 tsp",
+        "checked": true
+      },
+      {
+        "name": "Oil or ghee",
+        "qty": "4 tbsp",
+        "checked": true
+      },
+      {
+        "name": "Salt",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Browning the onions well is the single biggest factor in the final colour and flavour of the gravy."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Bone-in cuts add more flavour to the gravy than boneless mutton."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "chandigarh-dinner-dal-makhani",
+    "title": "Dal Makhani",
+    "state": "Chandigarh",
+    "mealType": "Dinner",
+    "diet": "Vegetarian",
+    "time": "8 hrs (incl. soaking), 1 hr active",
+    "servings": "4 Servings",
+    "heroImage": "./assets/images/dal_makhani.png",
+    "steps": [
+      "Pressure cook the soaked urad dal and rajma together with salt until very soft.",
+      "Heat butter, saute onions until golden, add ginger-garlic paste and cook a minute more.",
+      "Add tomato puree and spices; cook until the masala thickens and the oil separates.",
+      "Add the cooked dal and beans along with their liquid; simmer on low heat for at least 45 minutes, mashing lightly.",
+      "Stir in cream and a final knob of butter, then simmer 5 more minutes.",
+      "Serve hot with naan or steamed rice."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Whole black urad dal",
+        "qty": "1 cup, soaked overnight",
+        "checked": true
+      },
+      {
+        "name": "Rajma (kidney beans)",
+        "qty": "1/4 cup, soaked overnight",
+        "checked": true
+      },
+      {
+        "name": "Onion",
+        "qty": "1, chopped",
+        "checked": true
+      },
+      {
+        "name": "Tomato puree",
+        "qty": "1 cup",
+        "checked": true
+      },
+      {
+        "name": "Ginger-garlic paste",
+        "qty": "1 tbsp",
+        "checked": true
+      },
+      {
+        "name": "Butter",
+        "qty": "4 tbsp",
+        "checked": true
+      },
+      {
+        "name": "Fresh cream",
+        "qty": "1/4 cup",
+        "checked": true
+      },
+      {
+        "name": "Garam masala and red chilli powder",
+        "qty": "1 tsp each",
+        "checked": true
+      },
+      {
+        "name": "Salt",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "The long, slow simmer is what develops the dish's signature creamy, smoky depth — don't rush it."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Restaurant versions credit the same Moti Mahal (Delhi) lineage as butter chicken, so it's shared North Indian heritage rather than a Chandigarh-specific invention."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "chandigarh-dinner-bhindi-masala",
+    "title": "Bhindi Masala",
+    "state": "Chandigarh",
+    "mealType": "Dinner",
+    "diet": "Vegetarian",
+    "time": "25 mins",
+    "servings": "4 Servings",
+    "heroImage": "./assets/images/bhindi_masala.png",
+    "steps": [
+      "Heat oil in a wide pan and fry the sliced okra on medium-high heat until lightly browned; remove and set aside.",
+      "In the same pan, saute onions until golden, then add tomato and cook until soft.",
+      "Add turmeric, coriander and chilli powder; cook the masala for a minute.",
+      "Return the fried okra to the pan, sprinkle amchur and salt, and toss gently to coat.",
+      "Cook uncovered for a few more minutes so the dish stays dry rather than gravy-like.",
+      "Serve with roti."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Okra (bhindi)",
+        "qty": "400 g, washed, dried and sliced",
+        "checked": true
+      },
+      {
+        "name": "Onion",
+        "qty": "1, sliced",
+        "checked": true
+      },
+      {
+        "name": "Tomato",
+        "qty": "1, chopped",
+        "checked": true
+      },
+      {
+        "name": "Turmeric, coriander powder, red chilli powder",
+        "qty": "1 tsp each",
+        "checked": true
+      },
+      {
+        "name": "Amchur (dry mango powder)",
+        "qty": "1/2 tsp",
+        "checked": true
+      },
+      {
+        "name": "Oil",
+        "qty": "3 tbsp",
+        "checked": true
+      },
+      {
+        "name": "Salt",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Okra must be completely dry before cutting and frying, or it turns slimy."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Cooking it uncovered and not stirring too often helps it stay non-sticky."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "chandigarh-dinner-chana-masala",
+    "title": "Chana Masala",
+    "state": "Chandigarh",
+    "mealType": "Dinner",
+    "diet": "Vegan",
+    "time": "40 mins",
+    "servings": "4 Servings",
+    "heroImage": "./assets/images/chana_masala.png",
+    "steps": [
+      "Pressure cook the soaked chickpeas with salt until soft.",
+      "Heat oil, saute onions until golden-brown, then add ginger-garlic paste.",
+      "Add tomato puree and spices; cook until the oil separates from the masala.",
+      "Add the cooked chickpeas with some cooking liquid and simmer for 15-20 minutes.",
+      "Lightly mash a few chickpeas to thicken the gravy.",
+      "Garnish with coriander leaves and serve with roti or rice."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Chickpeas (chana)",
+        "qty": "2 cups, soaked overnight",
+        "checked": true
+      },
+      {
+        "name": "Onion",
+        "qty": "2, chopped",
+        "checked": true
+      },
+      {
+        "name": "Tomato",
+        "qty": "2, pureed",
+        "checked": true
+      },
+      {
+        "name": "Ginger-garlic paste",
+        "qty": "1 tbsp",
+        "checked": true
+      },
+      {
+        "name": "Chana masala or garam masala powder",
+        "qty": "2 tsp",
+        "checked": true
+      },
+      {
+        "name": "Red chilli powder",
+        "qty": "1 tsp",
+        "checked": true
+      },
+      {
+        "name": "Oil",
+        "qty": "3 tbsp",
+        "checked": true
+      },
+      {
+        "name": "Coriander leaves",
+        "qty": "2 tbsp, chopped",
+        "checked": true
+      },
+      {
+        "name": "Salt",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "This drier, home-style chana masala is distinct from the chole served with bhature, which is usually darker and tangier."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "A squeeze of lemon just before serving brightens the dish."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "chandigarh-dinner-butter-chicken",
+    "title": "Butter Chicken (Murgh Makhani)",
+    "state": "Chandigarh",
+    "mealType": "Dinner",
+    "diet": "Non-Vegetarian",
+    "time": "1 hr (plus marination)",
+    "servings": "4 Servings",
+    "heroImage": "./assets/images/butter_chicken.png",
+    "steps": [
+      "Marinate chicken pieces in yogurt, ginger-garlic paste, chilli powder and salt for at least 1 hour.",
+      "Grill, roast or pan-sear the marinated chicken until cooked through and lightly charred; set aside.",
+      "Heat butter in a pan, add tomato puree and simmer until it thickens and darkens slightly.",
+      "Stir in cashew paste or cream to make the gravy smooth and rich.",
+      "Add the cooked chicken pieces and simmer for 10 minutes so they soak up the gravy.",
+      "Finish with crushed kasuri methi and a final swirl of butter; serve with naan or rice."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Chicken, boneless",
+        "qty": "600 g",
+        "checked": true
+      },
+      {
+        "name": "Yogurt",
+        "qty": "1/2 cup",
+        "checked": true
+      },
+      {
+        "name": "Ginger-garlic paste",
+        "qty": "1 tbsp",
+        "checked": true
+      },
+      {
+        "name": "Tandoori masala or red chilli powder",
+        "qty": "1.5 tsp",
+        "checked": true
+      },
+      {
+        "name": "Butter",
+        "qty": "4 tbsp",
+        "checked": true
+      },
+      {
+        "name": "Tomato puree",
+        "qty": "1.5 cups",
+        "checked": true
+      },
+      {
+        "name": "Cashew paste or fresh cream",
+        "qty": "1/4 cup",
+        "checked": true
+      },
+      {
+        "name": "Kasuri methi (dried fenugreek leaves)",
+        "qty": "1 tsp, crushed",
+        "checked": true
+      },
+      {
+        "name": "Salt",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "This dish traces back to the Moti Mahal restaurant lineage in 1950s Delhi, popularised by Punjabi refugee chefs — it's shared North Indian/Punjabi heritage rather than something unique to Chandigarh."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Cashew paste gives a similar richness to cream with a slightly nuttier finish."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "chandigarh-dinner-tandoori-chicken",
+    "title": "Tandoori Chicken",
+    "state": "Chandigarh",
+    "mealType": "Dinner",
+    "diet": "Non-Vegetarian",
+    "time": "45 mins (plus marination)",
+    "servings": "4 Servings",
+    "heroImage": "./assets/images/tandoori_chicken.png",
+    "steps": [
+      "Score the chicken pieces and marinate first with lemon juice and salt for 15 minutes.",
+      "Mix yogurt, ginger-garlic paste, tandoori masala, chilli powder and mustard oil; coat the chicken well.",
+      "Marinate for at least 4 hours, ideally overnight, in the refrigerator.",
+      "Roast in a tandoor, on a grill or in a hot oven, basting occasionally, until charred and cooked through.",
+      "Rest for a few minutes, then serve with mint chutney, sliced onions and lemon wedges."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Chicken, leg and thigh pieces",
+        "qty": "800 g, skinned and scored",
+        "checked": true
+      },
+      {
+        "name": "Yogurt",
+        "qty": "1 cup",
+        "checked": true
+      },
+      {
+        "name": "Ginger-garlic paste",
+        "qty": "2 tbsp",
+        "checked": true
+      },
+      {
+        "name": "Tandoori masala",
+        "qty": "2 tbsp",
+        "checked": true
+      },
+      {
+        "name": "Red chilli powder",
+        "qty": "1 tsp",
+        "checked": true
+      },
+      {
+        "name": "Lemon juice",
+        "qty": "2 tbsp",
+        "checked": true
+      },
+      {
+        "name": "Mustard oil or ghee",
+        "qty": "2 tbsp",
+        "checked": true
+      },
+      {
+        "name": "Salt",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Scoring the meat before marinating helps the masala penetrate deeper."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "A high oven temperature (240°C+) with a final broil gives the closest result to a real tandoor char at home."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "chandigarh-snacks-samosa",
+    "title": "Samosa",
+    "state": "Chandigarh",
+    "mealType": "Snacks",
+    "diet": "Vegetarian",
+    "time": "1 hr",
+    "servings": "4 Servings (makes 12)",
+    "heroImage": "./assets/images/samosa.png",
+    "steps": [
+      "Knead maida with ajwain, salt, a little oil and water into a firm dough; rest 20 minutes.",
+      "Heat oil, temper cumin seeds, add ginger and green chilli, then peas and potatoes.",
+      "Add the spice powders and salt, mash lightly and cook for a few minutes; cool the filling.",
+      "Roll the dough into ovals, cut in half, and shape each half into a cone.",
+      "Fill the cone with the potato mixture, seal the edges with a little water.",
+      "Deep fry on low-medium heat until golden and crisp all over.",
+      "Serve hot with tamarind and mint chutney."
+    ],
+    "fullIngredients": [
+      {
+        "name": "All-purpose flour (maida)",
+        "qty": "2 cups",
+        "checked": true
+      },
+      {
+        "name": "Ajwain (carom seeds)",
+        "qty": "1/2 tsp",
+        "checked": true
+      },
+      {
+        "name": "Oil (for dough and frying)",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Potatoes",
+        "qty": "4, boiled and cubed",
+        "checked": true
+      },
+      {
+        "name": "Green peas",
+        "qty": "1/2 cup",
+        "checked": true
+      },
+      {
+        "name": "Cumin seeds",
+        "qty": "1 tsp",
+        "checked": true
+      },
+      {
+        "name": "Garam masala and coriander powder",
+        "qty": "1 tsp each",
+        "checked": true
+      },
+      {
+        "name": "Green chilli and ginger",
+        "qty": "chopped, to taste",
+        "checked": true
+      },
+      {
+        "name": "Salt",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Frying on low heat first keeps the samosa from browning before the inside layers are cooked through."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Sealing the edges firmly prevents the filling from leaking out into the oil."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "chandigarh-snacks-pyaaz-pakora",
+    "title": "Pyaaz Pakora (Onion Fritters)",
+    "state": "Chandigarh",
+    "mealType": "Snacks",
+    "diet": "Vegan",
+    "time": "20 mins",
+    "servings": "4 Servings",
+    "heroImage": "./assets/images/pyaaz_pakora.png",
+    "steps": [
+      "Mix sliced onions with salt and let them sit for 10 minutes to release moisture.",
+      "Add besan, rice flour, chilli powder, turmeric, ajwain and coriander leaves; mix without adding extra water.",
+      "The onion's released moisture should be enough to bind a thick, clumpy batter.",
+      "Heat oil and drop small clusters of the mixture in; fry until deep golden and crisp.",
+      "Drain on paper towels and serve hot with green chutney and masala chai."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Onion",
+        "qty": "3, thinly sliced",
+        "checked": true
+      },
+      {
+        "name": "Gram flour (besan)",
+        "qty": "1 cup",
+        "checked": true
+      },
+      {
+        "name": "Rice flour",
+        "qty": "2 tbsp (for extra crispness)",
+        "checked": true
+      },
+      {
+        "name": "Red chilli powder and turmeric",
+        "qty": "1/2 tsp each",
+        "checked": true
+      },
+      {
+        "name": "Carom seeds (ajwain)",
+        "qty": "1/2 tsp",
+        "checked": true
+      },
+      {
+        "name": "Coriander leaves",
+        "qty": "2 tbsp, chopped",
+        "checked": true
+      },
+      {
+        "name": "Oil",
+        "qty": "for deep frying",
+        "checked": true
+      },
+      {
+        "name": "Salt",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Resist adding water — the salted onions release enough liquid on their own for a crisper fritter."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "This is a rainy-season and evening tea-time favourite across most of North India, not something exclusive to the Chandigarh region."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "chandigarh-snacks-chicken-tikka",
+    "title": "Chicken Malai Tikka",
+    "state": "Chandigarh",
+    "mealType": "Snacks",
+    "diet": "Non-Vegetarian",
+    "time": "40 mins (plus marination)",
+    "servings": "4 Servings",
+    "heroImage": "./assets/images/chicken_tikka.png",
+    "steps": [
+      "Mix hung curd, cream, ginger-garlic paste, green chilli paste, cheese and garam masala into a smooth marinade.",
+      "Coat the chicken cubes well and marinate for at least 2 hours, ideally overnight.",
+      "Skewer the chicken pieces and grill, roast or pan-sear until lightly charred and cooked through.",
+      "Baste with ghee or oil once or twice while cooking to keep the chicken moist.",
+      "Serve hot with mint chutney, onion rings and lemon wedges."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Chicken, boneless, cubed",
+        "qty": "500 g",
+        "checked": true
+      },
+      {
+        "name": "Hung curd",
+        "qty": "1/2 cup",
+        "checked": true
+      },
+      {
+        "name": "Fresh cream",
+        "qty": "2 tbsp",
+        "checked": true
+      },
+      {
+        "name": "Ginger-garlic paste",
+        "qty": "1 tbsp",
+        "checked": true
+      },
+      {
+        "name": "Green chilli paste",
+        "qty": "1 tsp",
+        "checked": true
+      },
+      {
+        "name": "Grated cheese (optional)",
+        "qty": "2 tbsp",
+        "checked": true
+      },
+      {
+        "name": "Garam masala",
+        "qty": "1/2 tsp",
+        "checked": true
+      },
+      {
+        "name": "Oil or ghee",
+        "qty": "for basting",
+        "checked": true
+      },
+      {
+        "name": "Salt",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "The cream and cheese give this tikka its pale colour and mild, creamy flavour, unlike the redder, spicier standard chicken tikka."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Don't over-marinate beyond 24 hours — the dairy can start to break down the chicken's texture."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  }
+]

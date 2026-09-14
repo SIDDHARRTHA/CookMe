@@ -1,0 +1,665 @@
+[
+  {
+    "id": "haryana-breakfast-bajra-roti",
+    "title": "Bajre ki Roti with Ghee & Jaggery",
+    "state": "Haryana",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "time": "30 mins",
+    "servings": "6 pieces",
+    "heroImage": "./assets/images/bajre_ki_roti.png",
+    "steps": [
+      "Mix bajra flour with salt and hot water to form a soft, pliable dough. Knead well.",
+      "Pat into thick rotis by hand and cook on a hot tawa, pressing gently, till done on both sides.",
+      "Serve hot, smeared generously with white butter or ghee, and with jaggery on the side."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Bajra (pearl millet) flour",
+        "qty": "2 cups",
+        "checked": true
+      },
+      {
+        "name": "Hot water, salt",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "White butter (nooni ghee) or desi ghee, jaggery",
+        "qty": "for serving",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Winter staple of Haryana – warming, rustic and deeply satisfying."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Hand-patted rotis have the best texture."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "haryana-breakfast-besan-masala-roti",
+    "title": "Besan Masala Roti",
+    "state": "Haryana",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "time": "35 mins",
+    "servings": "6 pieces",
+    "heroImage": "./assets/images/besan_masala_roti.png",
+    "steps": [
+      "Mix wheat flour and besan with ajwain, amchur, chopped green chilli, coriander, salt and a little ghee. Knead into a soft dough.",
+      "Roll into rotis and cook on a tawa with ghee till golden spots appear.",
+      "Serve hot with curd, raita or pickle."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Whole wheat flour + besan",
+        "qty": "2 cups total",
+        "checked": true
+      },
+      {
+        "name": "Ajwain, amchur, green chilli, coriander, salt, ghee",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Flavourful gram-flour flatbread – a complete meal with curd."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Amchur gives the characteristic tang."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "haryana-breakfast-bajra-khichdi-moong",
+    "title": "Bajra Khichdi with Moong Dal",
+    "state": "Haryana",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "time": "50 mins",
+    "servings": "3 Servings",
+    "heroImage": "./assets/images/bajra_khichdi.png",
+    "steps": [
+      "Wash and soak bajra and moong dal briefly. Cook together with water or buttermilk, salt and turmeric till soft and porridge-like.",
+      "Temper cumin, green chilli and ginger in ghee and pour over the khichdi.",
+      "Serve hot with extra ghee, curd or pickle."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Bajra (coarsely broken)",
+        "qty": "1 cup",
+        "checked": true
+      },
+      {
+        "name": "Moong dal",
+        "qty": "1/2 cup",
+        "checked": true
+      },
+      {
+        "name": "Ghee, cumin, green chilli, ginger, salt",
+        "qty": "to taste",
+        "checked": true
+      },
+      {
+        "name": "Buttermilk or water for cooking",
+        "qty": "as needed",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Hearty winter breakfast or meal – warming and nutritious."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Traditionally pounded bajra is preferred."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "haryana-breakfast-bajra-khichdi-mixed",
+    "title": "Bajra Khichdi with Mixed Dal",
+    "state": "Haryana",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "time": "50 mins",
+    "servings": "3 Servings",
+    "heroImage": "./assets/images/bajra_khichdi.png",
+    "steps": [
+      "Wash and soak bajra and mixed dal briefly. Cook together with water or buttermilk, salt and turmeric till soft and porridge-like.",
+      "Temper cumin, green chilli and ginger in ghee and pour over the khichdi.",
+      "Serve hot with extra ghee, curd or pickle."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Bajra (coarsely broken)",
+        "qty": "1 cup",
+        "checked": true
+      },
+      {
+        "name": "Mixed dal (moong, chana, toor)",
+        "qty": "1/2 cup",
+        "checked": true
+      },
+      {
+        "name": "Ghee, cumin, green chilli, ginger, salt",
+        "qty": "to taste",
+        "checked": true
+      },
+      {
+        "name": "Buttermilk or water for cooking",
+        "qty": "as needed",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Hearty winter breakfast or meal made with mixed lentils."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Warming and nutritious."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "haryana-lunch-kadhi-pakora-onion",
+    "title": "Kadhi Pakora with Onion Pakoras",
+    "state": "Haryana",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "time": "50 mins",
+    "servings": "4 Servings",
+    "heroImage": "./assets/images/kadhi_pakora.png",
+    "steps": [
+      "Whisk yogurt with besan and water. Cook slowly with turmeric and salt till it thickens and the raw smell disappears.",
+      "Make soft onion pakoras, fry and add to the kadhi. Simmer.",
+      "Temper with cumin, fenugreek and dry red chilli in ghee. Serve with rice or bajra roti."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Yogurt + besan for kadhi",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Besan, onion, spices for pakoras",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Cumin, fenugreek, dry red chilli, turmeric, salt",
+        "qty": "to taste",
+        "checked": true
+      },
+      {
+        "name": "Ghee for tempering",
+        "qty": "as needed",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Staple Haryanvi comfort food – tangy, filling and perfect with rice or millet roti."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Slightly sour yogurt gives the best flavour."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "haryana-lunch-kadhi-pakora-spinach",
+    "title": "Kadhi Pakora with Spinach Pakoras",
+    "state": "Haryana",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "time": "50 mins",
+    "servings": "4 Servings",
+    "heroImage": "./assets/images/kadhi_pakora.png",
+    "steps": [
+      "Whisk yogurt with besan and water. Cook slowly with turmeric and salt till it thickens and the raw smell disappears.",
+      "Make soft spinach pakoras, fry and add to the kadhi. Simmer.",
+      "Temper with cumin, fenugreek and dry red chilli in ghee. Serve with rice or bajra roti."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Yogurt + besan for kadhi",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Besan, spinach, ginger, green chilli, spices for pakoras",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Cumin, fenugreek, dry red chilli, turmeric, salt",
+        "qty": "to taste",
+        "checked": true
+      },
+      {
+        "name": "Ghee for tempering",
+        "qty": "as needed",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Staple Haryanvi comfort food with spinach pakoras - a healthier twist."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Tangy, filling and perfect with rice or millet roti."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "haryana-lunch-bathua-raita",
+    "title": "Bathua Raita",
+    "state": "Haryana",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "time": "20 mins",
+    "servings": "3 Servings",
+    "heroImage": "./assets/images/bathua_raita.png",
+    "steps": [
+      "Wash and boil or steam bathua leaves till soft. Squeeze out excess water and chop finely.",
+      "Mix into beaten curd with roasted cumin powder, black salt and optional green chilli.",
+      "Serve chilled as a cooling side with roti, khichdi or any meal."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Fresh bathua leaves",
+        "qty": "2 cups",
+        "checked": true
+      },
+      {
+        "name": "Thick curd",
+        "qty": "2 cups",
+        "checked": true
+      },
+      {
+        "name": "Roasted cumin, black salt, green chilli (optional)",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Seasonal winter raita – nutritious and cooling despite the season."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Bathua is a classic Haryanvi green."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "haryana-lunch-mixed-dal",
+    "title": "Mixed Dal",
+    "state": "Haryana",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "time": "40 mins",
+    "servings": "4 Servings",
+    "heroImage": "./assets/images/mixed_dal.png",
+    "steps": [
+      "Pressure-cook the mixed dals with turmeric and salt till soft. Mash lightly.",
+      "Prepare a tempering of ghee, cumin, onion, ginger-garlic and tomato. Add to the dal and simmer.",
+      "Finish with garam masala. Serve with roti or rice."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Mixed lentils (chana, moong, toor, masoor)",
+        "qty": "1.5 cups",
+        "checked": true
+      },
+      {
+        "name": "Onion, tomato, ginger-garlic, green chilli",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Ghee, cumin, turmeric, garam masala, salt",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Everyday protein-rich dal of Haryanvi homes – slow-cooked with generous ghee."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "The mix of lentils gives depth."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "haryana-dinner-singri-ki-sabzi",
+    "title": "Singri ki Sabzi",
+    "state": "Haryana",
+    "mealType": "Dinner",
+    "diet": "Vegetarian",
+    "time": "35 mins (+ soaking)",
+    "servings": "3 Servings",
+    "heroImage": "./assets/images/singri_ki_sabzi.png",
+    "steps": [
+      "Soak dried singri. Cook with spices and yogurt-based gravy until soft and well-flavoured.",
+      "Serve with bajra or wheat roti."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Dried singri (desert beans)",
+        "qty": "1 cup (soaked)",
+        "checked": true
+      },
+      {
+        "name": "Yogurt, onion, spices",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Oil or ghee, salt",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Rustic sabzi with Rajasthani-Haryanvi desert influence."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "The dried beans have a unique texture and taste."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "haryana-dinner-hara-dhania-cholia",
+    "title": "Hara Dhania Cholia",
+    "state": "Haryana",
+    "mealType": "Dinner",
+    "diet": "Vegetarian",
+    "time": "30 mins",
+    "servings": "3 Servings",
+    "heroImage": "./assets/images/hara_dhania_cholia.png",
+    "steps": [
+      "Sauté cumin, ginger and green chilli. Add the green chickpeas and cook till tender.",
+      "Finish with a generous amount of fresh coriander.",
+      "Serve with roti or as a seasonal side."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Fresh green chickpeas (cholia/hara chana)",
+        "qty": "2 cups",
+        "checked": true
+      },
+      {
+        "name": "Fresh coriander, green chilli, ginger",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Cumin, oil or ghee, salt",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Seasonal winter delicacy – fresh green chickpeas with lots of coriander."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Simple and full of local flavour."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "haryana-snacks-churma",
+    "title": "Churma",
+    "state": "Haryana",
+    "mealType": "Snacks",
+    "diet": "Vegetarian",
+    "time": "40 mins",
+    "servings": "4 Servings",
+    "heroImage": "./assets/images/churma.png",
+    "steps": [
+      "Make a stiff dough with wheat flour and ghee. Form into balls or thick rotis and cook on a tawa or deep-fry till fully cooked and crisp.",
+      "Crush into coarse crumbs. Mix with melted jaggery or bura and more ghee. Add cardamom and nuts if desired.",
+      "Serve as a sweet side or snack."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Whole wheat flour",
+        "qty": "2 cups",
+        "checked": true
+      },
+      {
+        "name": "Ghee, jaggery or bura (powdered sugar)",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Cardamom, nuts (optional)",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Classic Haryanvi sweet made from crushed wheat – often eaten with dal or as part of a thali."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Generous ghee is traditional."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "haryana-snacks-atta-pinni",
+    "title": "Atta Pinni",
+    "state": "Haryana",
+    "mealType": "Snacks",
+    "diet": "Vegetarian",
+    "time": "45 mins",
+    "servings": "15–20 pieces",
+    "heroImage": "./assets/images/pinni.png",
+    "steps": [
+      "Roast the wheat flour in ghee till aromatic and golden. Add crushed nuts.",
+      "Mix with melted jaggery or bura while warm. Shape into small laddus or pinnis while still warm.",
+      "Store in an airtight container. A winter energy sweet."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Wheat flour",
+        "qty": "2 cups",
+        "checked": true
+      },
+      {
+        "name": "Ghee, jaggery or bura, nuts",
+        "qty": "as needed",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Traditional winter sweet of Haryana – dense, rich and nourishing."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Made with wheat flour."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "haryana-snacks-alsi-pinni",
+    "title": "Alsi Pinni (Flaxseed Pinni)",
+    "state": "Haryana",
+    "mealType": "Snacks",
+    "diet": "Vegetarian",
+    "time": "45 mins",
+    "servings": "15–20 pieces",
+    "heroImage": "./assets/images/pinni.png",
+    "steps": [
+      "Roast the flour mixture with flaxseed in ghee till aromatic and golden. Add crushed nuts.",
+      "Mix with melted jaggery or bura while warm. Shape into small laddus or pinnis while still warm.",
+      "Store in an airtight container. A winter energy sweet."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Alsi (flaxseed) + wheat flour",
+        "qty": "2 cups total",
+        "checked": true
+      },
+      {
+        "name": "Ghee, jaggery or bura, nuts",
+        "qty": "as needed",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Traditional winter sweet of Haryana – dense, rich and nourishing."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Alsi pinni is especially valued for its warming properties and omega-3 content."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "haryana-lunch-kachri-ki-sabzi-dried",
+    "title": "Kachri ki Sabzi (with Dried Kachri)",
+    "state": "Haryana",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "time": "30 mins (+ soaking)",
+    "servings": "3 Servings",
+    "heroImage": "./assets/images/kachri_ki_sabzi.png",
+    "steps": [
+      "Soak dried kachri. Sauté onion and spices, then add kachri and cook till soft and well-spiced.",
+      "Serve with bajra or wheat roti."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Dried kachri (wild cucumber)",
+        "qty": "1 cup",
+        "checked": true
+      },
+      {
+        "name": "Onion, spices (cumin, coriander, chilli, turmeric)",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Oil, salt",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Tangy sabzi made from the local wild cucumber – unique to the region."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Pairs especially well with millet rotis."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "haryana-dinner-methi-gajar",
+    "title": "Methi Gajar",
+    "state": "Haryana",
+    "mealType": "Dinner",
+    "diet": "Vegetarian",
+    "time": "25 mins",
+    "servings": "3 Servings",
+    "heroImage": "./assets/images/methi_gajar.png",
+    "steps": [
+      "Chop methi and carrot. Heat oil/ghee, add cumin and green chilli.",
+      "Add carrot and cook till almost done, then add methi and salt. Stir-fry till the greens wilt and flavours blend.",
+      "Serve with roti or bajra roti."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Fresh fenugreek leaves (methi)",
+        "qty": "2 cups",
+        "checked": true
+      },
+      {
+        "name": "Carrot",
+        "qty": "2 medium",
+        "checked": true
+      },
+      {
+        "name": "Cumin, green chilli, oil or ghee, salt",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Seasonal winter sabzi – simple, slightly bitter-sweet and very Haryanvi."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Minimal spices highlight the vegetables."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  }
+]

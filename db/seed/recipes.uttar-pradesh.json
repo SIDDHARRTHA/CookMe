@@ -1,0 +1,409 @@
+[
+  {
+    "_id": "uttar-pradesh-breakfast-bedmi-puri",
+    "title": "Bedmi Puri with Aloo Sabzi",
+    "state": "Uttar Pradesh",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains potato (root vegetable) - not consumed by Jains.",
+    "image": "bedmi_puri.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "45 mins",
+    "servings": "4 Servings",
+    "ingredients": [
+      { "name": "Wheat flour + urad dal paste for bedmi", "qty": "as needed" },
+      { "name": "Potato, tomato, spices for sabzi", "qty": "as needed" },
+      { "name": "Oil for deep frying", "qty": "as needed" }
+    ],
+    "recipe": [
+      "Prepare a stiff dough with wheat flour mixed with spiced urad dal paste. Roll into thick puris and deep-fry till crisp and golden.",
+      "Make a spiced potato-tomato sabzi.",
+      "Serve hot bedmi puris with the aloo sabzi, often accompanied by pickle or chutney."
+    ],
+    "tips": [
+      "Classic UP/Delhi-border breakfast – the urad dal gives the puri its distinctive texture and flavour.",
+      "Best eaten fresh and hot."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "uttar-pradesh-breakfast-kachori-dal-sabzi",
+    "title": "Kachori with Dal Filling & Aloo Sabzi",
+    "state": "Uttar Pradesh",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains onion and potato (root vegetable) - not consumed by Jains.",
+    "image": "kachori_sabzi.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "50 mins",
+    "servings": "4 Servings",
+    "ingredients": [
+      { "name": "Wheat flour for outer covering", "qty": "2 cups" },
+      { "name": "Spiced dal filling (urad or moong dal)", "qty": "as needed" },
+      { "name": "Potato sabzi", "qty": "as needed" },
+      { "name": "Oil for deep frying", "qty": "as needed" }
+    ],
+    "recipe": [
+      "Stuff spiced dal mixture into wheat dough, seal and deep-fry into crisp kachoris.",
+      "Prepare a simple or spicy potato sabzi.",
+      "Serve hot kachoris with sabzi – a popular street and home breakfast across UP."
+    ],
+    "tips": [
+      "Iconic UP breakfast, especially in cities like Lucknow, Kanpur and Varanasi.",
+      "Dal-stuffed versions are most traditional."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "uttar-pradesh-breakfast-kachori-pea-sabzi",
+    "title": "Kachori with Pea Filling & Aloo Sabzi",
+    "state": "Uttar Pradesh",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains onion and potato (root vegetable) - not consumed by Jains.",
+    "image": "kachori_sabzi.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "50 mins",
+    "servings": "4 Servings",
+    "ingredients": [
+      { "name": "Wheat flour for outer covering", "qty": "2 cups" },
+      { "name": "Spiced pea filling (green peas)", "qty": "as needed" },
+      { "name": "Potato sabzi", "qty": "as needed" },
+      { "name": "Oil for deep frying", "qty": "as needed" }
+    ],
+    "recipe": [
+      "Stuff spiced pea mixture into wheat dough, seal and deep-fry into crisp kachoris.",
+      "Prepare a simple or spicy potato sabzi.",
+      "Serve hot kachoris with sabzi – a popular street and home breakfast across UP."
+    ],
+    "tips": [
+      "Iconic UP breakfast with pea-stuffed kachoris.",
+      "A popular winter variant when fresh peas are abundant."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "uttar-pradesh-breakfast-puri-aloo",
+    "title": "Puri Aloo",
+    "state": "Uttar Pradesh",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains potato (root vegetable) - not consumed by Jains.",
+    "image": "puri_aloo.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "40 mins",
+    "servings": "4 Servings",
+    "ingredients": [
+      { "name": "Wheat flour for puri", "qty": "2 cups" },
+      { "name": "Potato sabzi with spices", "qty": "as needed" },
+      { "name": "Oil for deep frying", "qty": "as needed" }
+    ],
+    "recipe": [
+      "Knead a stiff dough, roll and deep-fry puris till puffed and golden.",
+      "Prepare a spiced potato curry (often with tomato and mild spices).",
+      "Serve hot puris with aloo sabzi – everyday and festive breakfast favourite."
+    ],
+    "tips": [
+      "Simple, satisfying and ubiquitous across Uttar Pradesh.",
+      "Often paired with jalebi or a sweet on special mornings."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "uttar-pradesh-lunch-awadhi-biryani",
+    "title": "Awadhi Mutton Biryani",
+    "state": "Uttar Pradesh",
+    "mealType": "Lunch",
+    "diet": "Non-Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains mutton and onion - not consumed by Jains.",
+    "image": "awadhi_biryani.png",
+    "wikipediaImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Awadhi_mutton_biryani.jpg",
+    "imageSource": "wikimedia_commons_verified",
+    "time": "90 mins (+ marination)",
+    "servings": "6 Servings",
+    "ingredients": [
+      { "name": "Basmati rice", "qty": "500 g" },
+      { "name": "Mutton", "qty": "750 g" },
+      { "name": "Yogurt, fried onions, saffron, kewra, whole spices, ghee", "qty": "as needed" }
+    ],
+    "recipe": [
+      "Marinate mutton with yogurt, spices and fried onions. Partially cook the rice.",
+      "Layer meat and rice in a heavy pot, add saffron milk, kewra and ghee. Seal and cook on dum.",
+      "Serve with raita and salan."
+    ],
+    "tips": [
+      "Refined Lucknowi/Awadhi classic – fragrant, lightly spiced and elegant.",
+      "Dum cooking is essential for authentic flavour."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "uttar-pradesh-lunch-tehri",
+    "title": "Tehri",
+    "state": "Uttar Pradesh",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains onion and potato (root vegetable) - not consumed by Jains.",
+    "image": "tehri.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "40 mins",
+    "servings": "4 Servings",
+    "ingredients": [
+      { "name": "Rice", "qty": "2 cups" },
+      { "name": "Onion", "qty": "1 medium" },
+      { "name": "Potato, cauliflower, peas, carrot", "qty": "as needed" },
+      { "name": "Turmeric, whole spices, mustard oil or ghee, salt", "qty": "to taste" }
+    ],
+    "recipe": [
+      "Fry sliced onion and whole spices in mustard oil or ghee. Add vegetables and turmeric.",
+      "Add rinsed rice and water. Cook covered till the rice and vegetables are done.",
+      "Serve hot with raita or plain yogurt – a comforting one-pot meal."
+    ],
+    "tips": [
+      "Classic vegetarian rice dish of UP – yellow from turmeric and full of seasonal vegetables.",
+      "Especially popular on Sundays and for light meals."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "uttar-pradesh-lunch-galouti-kebab",
+    "title": "Galouti Kebab",
+    "state": "Uttar Pradesh",
+    "mealType": "Lunch",
+    "diet": "Non-Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains mutton and onion - not consumed by Jains.",
+    "image": "galouti_kebab.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "40 mins (+ resting)",
+    "servings": "4 Servings",
+    "ingredients": [
+      { "name": "Finely minced mutton", "qty": "500 g" },
+      { "name": "Papaya paste, aromatic spices, fried onion, ghee", "qty": "as needed" }
+    ],
+    "recipe": [
+      "Mince the meat extremely fine and marinate with raw papaya (for tenderness), spices and fried onion.",
+      "Shape into small patties and shallow-fry gently in ghee on a low flame till cooked through.",
+      "Serve with ulte tawa paratha or roomali roti and chutney."
+    ],
+    "tips": [
+      "Legendary Lucknowi kebab – so soft it melts in the mouth.",
+      "Traditionally made for a toothless Nawab; texture is everything."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "uttar-pradesh-dinner-nihari-mutton-shank",
+    "title": "Nihari (Mutton Shank)",
+    "state": "Uttar Pradesh",
+    "mealType": "Dinner",
+    "diet": "Non-Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains mutton and onion - not consumed by Jains.",
+    "image": "nihari.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "4–6 hours",
+    "servings": "4 Servings",
+    "ingredients": [
+      { "name": "Mutton shank (with bones)", "qty": "1 kg" },
+      { "name": "Whole spices, wheat flour for thickening, ghee, ginger, onion", "qty": "as needed" }
+    ],
+    "recipe": [
+      "Slow-cook mutton shank with whole spices, onion and water for several hours until the meat is falling off the bone and the gravy is rich.",
+      "Thicken slightly with a wheat-flour slurry if needed. Finish with ginger juliennes and ghee.",
+      "Serve with sheermal, kulcha or naan – traditionally a winter breakfast or hearty dinner."
+    ],
+    "tips": [
+      "Awadhi slow-cooked stew made with mutton shank – deep, aromatic and comforting.",
+      "Long, gentle cooking is non-negotiable."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "uttar-pradesh-dinner-nihari-mutton-bones",
+    "title": "Nihari (Mutton with Bones)",
+    "state": "Uttar Pradesh",
+    "mealType": "Dinner",
+    "diet": "Non-Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains mutton and onion - not consumed by Jains.",
+    "image": "nihari.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "4–6 hours",
+    "servings": "4 Servings",
+    "ingredients": [
+      { "name": "Mutton (with bones)", "qty": "1 kg" },
+      { "name": "Whole spices, wheat flour for thickening, ghee, ginger, onion", "qty": "as needed" }
+    ],
+    "recipe": [
+      "Slow-cook mutton with whole spices, onion and water for several hours until the meat is falling off the bone and the gravy is rich.",
+      "Thicken slightly with a wheat-flour slurry if needed. Finish with ginger juliennes and ghee.",
+      "Serve with sheermal, kulcha or naan – traditionally a winter breakfast or hearty dinner."
+    ],
+    "tips": [
+      "Awadhi slow-cooked stew with bone-in mutton – deep, aromatic and comforting.",
+      "Long, gentle cooking is non-negotiable."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "uttar-pradesh-dinner-shahi-paneer",
+    "title": "Shahi Paneer",
+    "state": "Uttar Pradesh",
+    "mealType": "Dinner",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains onion - not consumed by Jains. For Jain version, omit onion.",
+    "image": "shahi_paneer.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "40 mins",
+    "servings": "4 Servings",
+    "ingredients": [
+      { "name": "Paneer", "qty": "400 g" },
+      { "name": "Onion, tomato, cashew-almond paste, cream, spices", "qty": "as needed" },
+      { "name": "Ghee or oil, saffron, kewra (optional)", "qty": "to taste" }
+    ],
+    "recipe": [
+      "Prepare a rich gravy with fried onion, tomato, cashew-almond paste and aromatic spices.",
+      "Add paneer cubes and finish with cream, a touch of saffron or kewra.",
+      "Serve with naan, roti or jeera rice."
+    ],
+    "tips": [
+      "Rich, mildly sweet Awadhi-style paneer curry popular across UP.",
+      "The nut paste gives the characteristic silky texture."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "uttar-pradesh-snacks-samosa",
+    "title": "Samosa",
+    "state": "Uttar Pradesh",
+    "mealType": "Snacks",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains potato (root vegetable) - not consumed by Jains.",
+    "image": "samosa.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "50 mins",
+    "servings": "12 pieces",
+    "ingredients": [
+      { "name": "Maida for outer covering", "qty": "2 cups" },
+      { "name": "Spiced potato-pea filling", "qty": "as needed" },
+      { "name": "Oil for deep frying", "qty": "as needed" }
+    ],
+    "recipe": [
+      "Prepare a stiff dough and a spiced potato-pea filling.",
+      "Shape into triangular samosas, seal well and deep-fry on medium heat till golden and crisp.",
+      "Serve with tamarind and green chutney – the classic UP street snack."
+    ],
+    "tips": [
+      "UP is widely regarded as the home of the perfect samosa.",
+      "Crisp outer shell and well-spiced filling are essential."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "uttar-pradesh-snacks-aloo-tikki",
+    "title": "Aloo Tikki Chaat",
+    "state": "Uttar Pradesh",
+    "mealType": "Snacks",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains potato (root vegetable) and onion - not consumed by Jains.",
+    "image": "aloo_tikki.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "35 mins",
+    "servings": "4 Servings",
+    "ingredients": [
+      { "name": "Boiled potatoes", "qty": "4–5" },
+      { "name": "Spices, green chilli, coriander", "qty": "to taste" },
+      { "name": "Yogurt, chutneys, sev, onion for chaat", "qty": "as needed" }
+    ],
+    "recipe": [
+      "Mash spiced potatoes, shape into tikkis and shallow-fry or pan-fry till crisp.",
+      "Top with beaten yogurt, sweet and green chutneys, chopped onion, sev and chaat masala.",
+      "Serve immediately as a popular street chaat."
+    ],
+    "tips": [
+      "Chaat originated in Uttar Pradesh and remains a defining street-food tradition.",
+      "Balance of sweet, sour, spicy and crunchy is key."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "uttar-pradesh-lunch-nimona",
+    "title": "Nimona",
+    "state": "Uttar Pradesh",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains potato (root vegetable) and onion - not consumed by Jains.",
+    "image": "nimona.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "35 mins",
+    "servings": "4 Servings",
+    "ingredients": [
+      { "name": "Green peas (fresh or frozen)", "qty": "2 cups" },
+      { "name": "Potato, tomato, onion, spices", "qty": "as needed" },
+      { "name": "Mustard oil or ghee", "qty": "as needed" }
+    ],
+    "recipe": [
+      "Coarsely grind green peas. Sauté onion, spices and tomato, then add the pea paste and potato.",
+      "Cook into a thick, flavourful gravy.",
+      "Serve with rice or roti – a classic winter dish of eastern UP and Awadh."
+    ],
+    "tips": [
+      "Homestyle green-pea curry unique to the region.",
+      "Fresh winter peas give the best flavour."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "uttar-pradesh-dinner-baati-chokha",
+    "title": "Baati Chokha",
+    "state": "Uttar Pradesh",
+    "mealType": "Dinner",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains onion and potato (root vegetable) - not consumed by Jains.",
+    "image": "baati_chokha.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "60 mins",
+    "servings": "4 Servings",
+    "ingredients": [
+      { "name": "Whole wheat flour for baati", "qty": "2 cups" },
+      { "name": "Ghee, salt", "qty": "as needed" },
+      { "name": "Brinjal, tomato, potato, onion for chokha", "qty": "as needed" },
+      { "name": "Mustard oil, green chilli for chokha", "qty": "as needed" }
+    ],
+    "recipe": [
+      "Knead a stiff dough with wheat flour, ghee and salt. Shape into hard balls and bake or roast till cooked through and hard.",
+      "Break open, pour ghee inside. Serve with smoky mashed chokha of roasted brinjal, tomato and potato with onion.",
+      "A rustic Bundelkhandi speciality."
+    ],
+    "tips": [
+      "Hard-baked wheat balls with generous ghee and smoky chokha – from the Bundelkhand region of UP.",
+      "Similar in spirit to Bihari litti but distinct."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  }
+]

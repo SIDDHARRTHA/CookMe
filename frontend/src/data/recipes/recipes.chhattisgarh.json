@@ -1,0 +1,672 @@
+[
+  {
+    "id": "chhattisgarh-breakfast-chila",
+    "title": "Chila",
+    "state": "Chhattisgarh",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "time": "25 mins",
+    "servings": "6–8 pieces",
+    "heroImage": "./assets/images/chila.png",
+    "steps": [
+      "Mix rice flour with water into a smooth, pourable batter. Add finely chopped onion, green chilli, coriander and salt.",
+      "Heat a tawa, pour a ladle of batter and spread into a thin pancake (like a dosa). Cook both sides with a little oil till golden.",
+      "Serve hot with tomato-chilli chutney or curd."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Rice flour",
+        "qty": "2 cups",
+        "checked": true
+      },
+      {
+        "name": "Onion, green chilli, coriander, salt",
+        "qty": "to taste",
+        "checked": true
+      },
+      {
+        "name": "Water, oil",
+        "qty": "as needed",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Chhattisgarh's version of a rice pancake – light and everyday breakfast."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Best eaten fresh off the tawa."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "chhattisgarh-breakfast-fara-rice-flour",
+    "title": "Fara (Phara) with Rice Flour",
+    "state": "Chhattisgarh",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "time": "40 mins",
+    "servings": "4 Servings",
+    "heroImage": "./assets/images/fara.png",
+    "steps": [
+      "Knead rice flour into a soft dough with salt and water. Shape into small finger-sized rolls or dumplings.",
+      "Steam until cooked through.",
+      "Temper mustard, cumin, curry leaves, chilli and sesame in oil and toss the steamed fara in it.",
+      "Serve with chutney or as is."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Rice flour",
+        "qty": "2 cups",
+        "checked": true
+      },
+      {
+        "name": "Salt",
+        "qty": "to taste",
+        "checked": true
+      },
+      {
+        "name": "Mustard, cumin, curry leaves, green chilli, sesame for tempering",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Oil for tempering",
+        "qty": "as needed",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Steamed rice dumplings – light, digestible and a classic Chhattisgarhi breakfast or snack."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Made fresh with rice flour."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "chhattisgarh-breakfast-fara-leftover-rice",
+    "title": "Fara (Phara) with Leftover Rice",
+    "state": "Chhattisgarh",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "time": "40 mins",
+    "servings": "4 Servings",
+    "heroImage": "./assets/images/fara.png",
+    "steps": [
+      "Mix leftover rice with rice flour and salt into a soft dough. Shape into small finger-sized rolls or dumplings.",
+      "Steam until cooked through.",
+      "Temper mustard, cumin, curry leaves, chilli and sesame in oil and toss the steamed fara in it.",
+      "Serve with chutney or as is."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Cooked leftover rice",
+        "qty": "1.5 cups",
+        "checked": true
+      },
+      {
+        "name": "Rice flour",
+        "qty": "1/2 cup",
+        "checked": true
+      },
+      {
+        "name": "Salt",
+        "qty": "to taste",
+        "checked": true
+      },
+      {
+        "name": "Mustard, cumin, curry leaves, green chilli, sesame for tempering",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Oil for tempering",
+        "qty": "as needed",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Steamed rice dumplings made from leftover rice – zero-waste traditional preparation."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "A classic Chhattisgarhi breakfast or snack."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "chhattisgarh-breakfast-bafauri-chana-dal",
+    "title": "Bafauri with Chana Dal",
+    "state": "Chhattisgarh",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "time": "35 mins (+ soaking)",
+    "servings": "4 Servings",
+    "heroImage": "./assets/images/bafauri.png",
+    "steps": [
+      "Grind soaked chana dal coarsely with green chilli, ginger and salt. Shape into small round or irregular dumplings.",
+      "Steam until cooked and firm.",
+      "Optionally temper with mustard, cumin and curry leaves. Serve with chutney."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Chana dal",
+        "qty": "1.5 cups (soaked)",
+        "checked": true
+      },
+      {
+        "name": "Green chilli, ginger, coriander, cumin, salt",
+        "qty": "to taste",
+        "checked": true
+      },
+      {
+        "name": "Oil for tempering (optional)",
+        "qty": "as needed",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Healthy steamed lentil snack – protein-rich and oil-free."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "A popular tea-time or breakfast item made with chana dal."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "chhattisgarh-breakfast-bafauri-mixed-dal",
+    "title": "Bafauri with Mixed Lentils",
+    "state": "Chhattisgarh",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "time": "35 mins (+ soaking)",
+    "servings": "4 Servings",
+    "heroImage": "./assets/images/bafauri.png",
+    "steps": [
+      "Grind soaked mixed lentils coarsely with green chilli, ginger and salt. Shape into small round or irregular dumplings.",
+      "Steam until cooked and firm.",
+      "Optionally temper with mustard, cumin and curry leaves. Serve with chutney."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Mixed lentils (chana, moong, toor)",
+        "qty": "1.5 cups (soaked)",
+        "checked": true
+      },
+      {
+        "name": "Green chilli, ginger, coriander, cumin, salt",
+        "qty": "to taste",
+        "checked": true
+      },
+      {
+        "name": "Oil for tempering (optional)",
+        "qty": "as needed",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Healthy steamed lentil snack – protein-rich and oil-free."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "A popular tea-time or breakfast item made with mixed lentils."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "chhattisgarh-lunch-bore-baasi",
+    "title": "Bore Baasi",
+    "state": "Chhattisgarh",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "time": "10 mins (+ overnight)",
+    "servings": "2 Servings",
+    "heroImage": "./assets/images/bore_baasi.png",
+    "steps": [
+      "Soak cooked rice overnight in water, buttermilk or thin curd.",
+      "In the morning, mix with salt. Serve cool with raw onion, green chilli and pickle.",
+      "A cooling summer staple that keeps the body hydrated."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Cooked leftover rice",
+        "qty": "2 cups",
+        "checked": true
+      },
+      {
+        "name": "Water, buttermilk or curd",
+        "qty": "to cover",
+        "checked": true
+      },
+      {
+        "name": "Raw onion, green chilli, pickle, salt",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Traditional summer meal of Chhattisgarh – fermented, cooling and probiotic."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Simple and deeply rooted in local food culture."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "chhattisgarh-lunch-aamat",
+    "title": "Aamat",
+    "state": "Chhattisgarh",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "time": "45 mins",
+    "servings": "4 Servings",
+    "heroImage": "./assets/images/aamat.png",
+    "steps": [
+      "Cook mixed seasonal vegetables and bamboo shoot with minimal spices and a souring agent (tamarind or local equivalent).",
+      "Temper with garlic and chilli if desired. Simmer into a light, flavourful stew.",
+      "Serve with rice – a traditional Bastar-influenced dish."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Mixed vegetables + bamboo shoot",
+        "qty": "3–4 cups",
+        "checked": true
+      },
+      {
+        "name": "Tamarind or local souring agent, spices",
+        "qty": "to taste",
+        "checked": true
+      },
+      {
+        "name": "Oil, garlic, chilli, salt",
+        "qty": "as needed",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Wholesome mixed-vegetable and bamboo-shoot preparation from tribal traditions."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Highlights forest and local produce."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "chhattisgarh-lunch-dubki-kadhi",
+    "title": "Dubki Kadhi",
+    "state": "Chhattisgarh",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "time": "40 mins",
+    "servings": "4 Servings",
+    "heroImage": "./assets/images/dubki_kadhi.png",
+    "steps": [
+      "Make soft besan dumplings (dubki) and steam or lightly cook them.",
+      "Prepare a yogurt-besan kadhi with ginger and spices, add the dumplings and simmer.",
+      "Temper and serve with rice."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Besan for dumplings and kadhi",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Yogurt or buttermilk, turmeric, chilli, ginger",
+        "qty": "to taste",
+        "checked": true
+      },
+      {
+        "name": "Mustard, cumin, curry leaves for tempering",
+        "qty": "as needed",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Comforting kadhi with soft gram-flour dumplings – a household favourite."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Pairs perfectly with steamed rice."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "chhattisgarh-dinner-angakar-roti-with-saag",
+    "title": "Angakar Roti with Saag",
+    "state": "Chhattisgarh",
+    "mealType": "Dinner",
+    "diet": "Vegetarian",
+    "time": "30 mins",
+    "servings": "4 Servings",
+    "heroImage": "./assets/images/angakar_roti.png",
+    "steps": [
+      "Mix rice flour with hot water and salt into a soft dough. Pat into thick rotis and cook on a tawa or over wood fire for a smoky flavour.",
+      "Prepare a simple tempered green leafy vegetable saag with garlic and chilli.",
+      "Serve the roti with the saag and chutney."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Rice flour",
+        "qty": "2 cups",
+        "checked": true
+      },
+      {
+        "name": "Hot water, salt",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Seasonal greens (saag) with garlic, green chilli, salt",
+        "qty": "for bhaji",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Traditional rice-flour flatbread of Chhattisgarh – often cooked on wood fire."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Staple with local greens."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "chhattisgarh-dinner-chousela",
+    "title": "Chousela Roti",
+    "state": "Chhattisgarh",
+    "mealType": "Dinner",
+    "diet": "Vegetarian",
+    "time": "30 mins",
+    "servings": "8–10 pieces",
+    "heroImage": "./assets/images/chousela.png",
+    "steps": [
+      "Knead rice flour into a soft dough. Roll into small puri-like discs.",
+      "Deep-fry till puffed and golden.",
+      "Serve with curry, chutney or as a festive bread."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Rice flour",
+        "qty": "2 cups",
+        "checked": true
+      },
+      {
+        "name": "Water, salt",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Oil for deep frying",
+        "qty": "as needed",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Deep-fried rice-flour bread – made for everyday meals or festivals."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Crisp and light."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "chhattisgarh-snacks-dhuska",
+    "title": "Dhuska",
+    "state": "Chhattisgarh",
+    "mealType": "Snacks",
+    "diet": "Vegetarian",
+    "time": "30 mins (+ soaking)",
+    "servings": "10–12 pieces",
+    "heroImage": "./assets/images/dhuska.png",
+    "steps": [
+      "Grind soaked rice and chana dal into a slightly coarse batter with chilli, ginger and salt.",
+      "Drop spoonfuls into hot oil and deep-fry till crisp and golden.",
+      "Serve hot with chutney or a simple curry."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Rice + chana dal",
+        "qty": "1.5 cups total (soaked)",
+        "checked": true
+      },
+      {
+        "name": "Green chilli, ginger, cumin, salt",
+        "qty": "to taste",
+        "checked": true
+      },
+      {
+        "name": "Oil for deep frying",
+        "qty": "as needed",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Crispy rice-lentil fritters – popular snack across Chhattisgarh and neighbouring regions."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Best eaten fresh."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "chhattisgarh-snacks-arsa",
+    "title": "Arsa (Airsa)",
+    "state": "Chhattisgarh",
+    "mealType": "Snacks",
+    "diet": "Vegetarian",
+    "time": "50 mins (+ soaking)",
+    "servings": "15–20 pieces",
+    "heroImage": "./assets/images/arsa.png",
+    "steps": [
+      "Soak rice, grind into a paste. Cook jaggery into a thick syrup and mix with the rice paste to form a dough.",
+      "Shape into small discs or balls and deep-fry till golden and crisp.",
+      "Cool and store. A festive sweet."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Rice",
+        "qty": "2 cups (soaked)",
+        "checked": true
+      },
+      {
+        "name": "Jaggery",
+        "qty": "1.5 cups",
+        "checked": true
+      },
+      {
+        "name": "Oil or ghee for deep frying",
+        "qty": "as needed",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Traditional rice-jaggery sweet of Chhattisgarh – made during festivals."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Crisp outside with a sweet, chewy interior."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "chhattisgarh-lunch-ropa-bhaji",
+    "title": "Ropa Bhaji",
+    "state": "Chhattisgarh",
+    "mealType": "Lunch",
+    "diet": "Vegan",
+    "time": "25 mins",
+    "servings": "3 Servings",
+    "heroImage": "./assets/images/ropa_bhaji.png",
+    "steps": [
+      "Wash and chop the greens. Heat oil, add crushed garlic and chilli.",
+      "Add the greens and salt. Stir-fry or cook till soft but still vibrant.",
+      "Serve as a simple side with rice or roti."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Local leafy greens (ropa or similar)",
+        "qty": "4 cups",
+        "checked": true
+      },
+      {
+        "name": "Garlic, green chilli, mustard oil or oil, salt",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Everyday green vegetable preparation – highlights local leafy produce."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Minimal spices let the greens shine."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "chhattisgarh-dinner-bhuswa-toor-dal",
+    "title": "Bhuswa with Toor Dal",
+    "state": "Chhattisgarh",
+    "mealType": "Dinner",
+    "diet": "Vegetarian",
+    "time": "35 mins",
+    "servings": "3 Servings",
+    "heroImage": "./assets/images/bhuswa.png",
+    "steps": [
+      "Cook rice and a simple tempered toor dal with onion and garlic.",
+      "Serve with a side of bhaji, chutney or pickle – the everyday dinner of many households."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Rice",
+        "qty": "1.5 cups",
+        "checked": true
+      },
+      {
+        "name": "Toor dal",
+        "qty": "1 cup",
+        "checked": true
+      },
+      {
+        "name": "Onion, garlic, turmeric, salt, tempering",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Simple, nourishing rice-and-dal meal that forms the backbone of daily Chhattisgarhi eating."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Often accompanied by seasonal greens."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "chhattisgarh-dinner-bhuswa-mixed-dal",
+    "title": "Bhuswa with Mixed Dal",
+    "state": "Chhattisgarh",
+    "mealType": "Dinner",
+    "diet": "Vegetarian",
+    "time": "35 mins",
+    "servings": "3 Servings",
+    "heroImage": "./assets/images/bhuswa.png",
+    "steps": [
+      "Cook rice and a simple tempered mixed dal with onion and garlic.",
+      "Serve with a side of bhaji, chutney or pickle – the everyday dinner of many households."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Rice",
+        "qty": "1.5 cups",
+        "checked": true
+      },
+      {
+        "name": "Mixed dal (toor, moong, chana)",
+        "qty": "1 cup",
+        "checked": true
+      },
+      {
+        "name": "Onion, garlic, turmeric, salt, tempering",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Simple, nourishing rice-and-dal meal with mixed lentils."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Often accompanied by seasonal greens."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  }
+]

@@ -1,0 +1,373 @@
+[
+  {
+    "_id": "himachal-pradesh-breakfast-siddu",
+    "title": "Siddu",
+    "state": "Himachal Pradesh",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains ginger in the stuffing. For Jain version, omit ginger and use only green chilli.",
+    "image": "siddu.png",
+    "wikipediaImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Kullvi_Siddu_(Himachal_Pradesh).jpg",
+    "imageSource": "wikimedia_commons_verified",
+    "time": "90 mins (+ fermentation)",
+    "servings": "6–8 pieces",
+    "ingredients": [
+      { "name": "Whole wheat flour", "qty": "2 cups" },
+      { "name": "Yeast or fermented starter", "qty": "1 tsp" },
+      { "name": "Walnuts / poppy seeds / lentil paste for stuffing", "qty": "1 cup" },
+      { "name": "Ginger, green chilli, coriander, salt", "qty": "to taste" },
+      { "name": "Ghee for serving", "qty": "generous" }
+    ],
+    "recipe": [
+      "Knead wheat flour with yeast, a little sugar, salt and warm water into a soft dough. Ferment 1–2 hours.",
+      "Prepare stuffing by grinding roasted walnuts/poppy seeds or boiled lentils with ginger, green chilli, coriander and salt.",
+      "Divide dough, stuff with filling, shape into oval or half-moon buns and steam for 15–20 minutes till cooked.",
+      "Serve hot with a generous amount of desi ghee and chutney."
+    ],
+    "tips": [
+      "Iconic steamed bread of Kullu, Mandi, Shimla regions – energy-dense and perfect for cold weather.",
+      "Traditionally carried by shepherds; modern fillings include potato or paneer."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "himachal-pradesh-breakfast-babru",
+    "title": "Babru",
+    "state": "Himachal Pradesh",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains asafoetida. Standard hing may contain wheat/gum. Use Jain-certified hing to make it Jain-friendly.",
+    "image": "babru.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "40 mins (+ soaking)",
+    "servings": "8–10 pieces",
+    "ingredients": [
+      { "name": "Whole wheat flour or maida", "qty": "2 cups" },
+      { "name": "Urad dal (soaked and ground)", "qty": "1 cup" },
+      { "name": "Fennel, black pepper, salt, asafoetida", "qty": "to taste" },
+      { "name": "Oil for deep frying", "qty": "as needed" }
+    ],
+    "recipe": [
+      "Grind soaked urad dal with spices into a thick paste for stuffing.",
+      "Knead flour into a soft dough. Divide, stuff with urad paste, seal and roll into thick puris.",
+      "Deep-fry in medium-hot oil till golden and puffed.",
+      "Serve hot with curd, chutney or tea."
+    ],
+    "tips": [
+      "Popular in Mandi, Kangra and Chamba – similar to a stuffed bhatura or kachori.",
+      "Savoury version is most common; sweet jaggery versions also exist."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "himachal-pradesh-breakfast-aktori",
+    "title": "Aktori",
+    "state": "Himachal Pradesh",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "jainFriendly": true,
+    "jainNotes": "Ingredients are Jain-compatible. Ensure buckwheat flour is pure and not contaminated with other flours.",
+    "image": "aktori.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "25 mins",
+    "servings": "4–6 pieces",
+    "ingredients": [
+      { "name": "Buckwheat flour + wheat flour", "qty": "1.5 cups total" },
+      { "name": "Milk or water, sugar or jaggery", "qty": "as needed" },
+      { "name": "Ghee for cooking", "qty": "as needed" }
+    ],
+    "recipe": [
+      "Mix buckwheat and wheat flour with milk/water and a little sugar/jaggery into a pouring batter.",
+      "Heat a tawa or pan, pour batter like a thick pancake and cook on both sides with ghee till golden.",
+      "Serve hot with ghee, honey or stewed apples."
+    ],
+    "tips": [
+      "Traditional Lahaul-Spiti / high-altitude pancake, often festive.",
+      "Buckwheat gives a distinctive nutty flavour and is well-suited to cold climates."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "himachal-pradesh-lunch-chana-madra",
+    "title": "Chana Madra",
+    "state": "Himachal Pradesh",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains onion and ginger-garlic in traditional preparation - not consumed by Jains.",
+    "image": "chana_madra.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "50 mins",
+    "servings": "4 Servings",
+    "ingredients": [
+      { "name": "White chickpeas (kabuli chana)", "qty": "1.5 cups (soaked)" },
+      { "name": "Thick yogurt / curd", "qty": "2 cups" },
+      { "name": "Ghee, cumin, cloves, cardamom, cinnamon, bay leaf", "qty": "for tempering" },
+      { "name": "Turmeric, coriander powder, red chilli, garam masala, salt", "qty": "to taste" }
+    ],
+    "recipe": [
+      "Pressure-cook soaked chickpeas till soft.",
+      "Whisk yogurt till smooth. Heat ghee, add whole spices, then the yogurt carefully on low heat, stirring continuously to avoid curdling. Cook till it thickens and oil separates.",
+      "Add the chickpeas, remaining spices and salt. Simmer gently till the gravy coats the chana.",
+      "Serve with rice as part of a Himachali dham."
+    ],
+    "tips": [
+      "Signature yogurt-based curry of Himachali dham feasts.",
+      "Slow cooking and continuous stirring of yogurt are essential."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "himachal-pradesh-lunch-sepu-badi",
+    "title": "Sepu Badi",
+    "state": "Himachal Pradesh",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains onion, ginger, garlic - not consumed by Jains.",
+    "image": "sepu_badi.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "60 mins",
+    "servings": "4 Servings",
+    "ingredients": [
+      { "name": "Urad dal or mixed dal badi (sun-dried dumplings)", "qty": "15–20" },
+      { "name": "Spinach or mixed greens", "qty": "2 cups" },
+      { "name": "Yogurt, onion, tomato, ginger-garlic", "qty": "as needed" },
+      { "name": "Spices (coriander, chilli, turmeric, garam masala)", "qty": "to taste" },
+      { "name": "Ghee or oil", "qty": "as needed" }
+    ],
+    "recipe": [
+      "Soak and lightly fry the dried badi. Blanch and puree spinach if using.",
+      "Temper whole spices, sauté onion, ginger-garlic and tomato. Add yogurt and spice powders; cook till oil separates.",
+      "Add spinach puree and the badi. Simmer till the gravy thickens and badi absorb the flavours.",
+      "Serve with rice or roti as part of dham."
+    ],
+    "tips": [
+      "Specialty of Mandi region – protein-rich lentil dumplings in a green gravy.",
+      "Often prepared for weddings and festive dhams."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "himachal-pradesh-lunch-tudkiya-bhath",
+    "title": "Tudkiya Bhath",
+    "state": "Himachal Pradesh",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains onion, potato and root vegetables - not consumed by Jains.",
+    "image": "tudkiya_bhath.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "40 mins",
+    "servings": "4 Servings",
+    "ingredients": [
+      { "name": "Rice", "qty": "1.5 cups" },
+      { "name": "Moong dal or mixed lentils", "qty": "1/2 cup" },
+      { "name": "Potato, onion, tomato (optional)", "qty": "as needed" },
+      { "name": "Whole spices (cardamom, cloves, cinnamon, bay leaf), cumin, garam masala", "qty": "to taste" },
+      { "name": "Ghee, salt", "qty": "as needed" }
+    ],
+    "recipe": [
+      "Heat ghee, temper whole spices and cumin. Add vegetables if using and sauté.",
+      "Add washed rice and dal, spices and salt. Sauté briefly.",
+      "Add water (about 3 cups) and cook covered or pressure-cook till rice and dal are soft and flavours meld.",
+      "Serve hot as a one-pot meal or with madra and kadhi."
+    ],
+    "tips": [
+      "Fragrant spiced rice-lentil dish common in Himachali dhams.",
+      "Slightly richer and more aromatic than everyday khichdi."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "himachal-pradesh-dinner-chha-gosht",
+    "title": "Chha Gosht",
+    "state": "Himachal Pradesh",
+    "mealType": "Dinner",
+    "diet": "Non-Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains meat - not consumed by Jains who follow strict vegetarianism.",
+    "image": "chha_gosht.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "75 mins",
+    "servings": "4 Servings",
+    "ingredients": [
+      { "name": "Mutton or lamb", "qty": "750 g" },
+      { "name": "Yogurt", "qty": "1.5 cups" },
+      { "name": "Onion, ginger-garlic, green chilli", "qty": "as needed" },
+      { "name": "Whole spices, coriander powder, red chilli, garam masala", "qty": "to taste" },
+      { "name": "Ghee or mustard oil", "qty": "as needed" }
+    ],
+    "recipe": [
+      "Marinate mutton with yogurt, ginger-garlic and salt for at least 1 hour.",
+      "Heat ghee/oil, brown onions and whole spices. Add the marinated mutton and sear well.",
+      "Add remaining spices and a little water. Slow-cook or pressure-cook till meat is tender and the gravy is thick and tangy from the yogurt.",
+      "Serve with rice or local bread."
+    ],
+    "tips": [
+      "Yogurt-based mutton curry popular in many Himachali households.",
+      "The 'chha' refers to the buttermilk/yogurt base that tenderises the meat."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "himachal-pradesh-dinner-rajma-madra",
+    "title": "Rajma Madra",
+    "state": "Himachal Pradesh",
+    "mealType": "Dinner",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains onion and ginger-garlic in traditional preparation - not consumed by Jains.",
+    "image": "rajma_madra.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "55 mins",
+    "servings": "4 Servings",
+    "ingredients": [
+      { "name": "Kidney beans (rajma)", "qty": "1.5 cups (soaked)" },
+      { "name": "Thick yogurt", "qty": "2 cups" },
+      { "name": "Ghee, whole spices (cloves, cardamom, cinnamon, bay leaf)", "qty": "as needed" },
+      { "name": "Coriander powder, red chilli, turmeric, garam masala, salt", "qty": "to taste" }
+    ],
+    "recipe": [
+      "Pressure-cook soaked rajma till soft.",
+      "Whisk yogurt. Heat ghee, add whole spices, then carefully add yogurt on low heat, stirring continuously till it thickens and oil separates.",
+      "Add cooked rajma, spice powders and salt. Simmer till the gravy is rich and coats the beans.",
+      "Serve with rice as part of a traditional dham."
+    ],
+    "tips": [
+      "Another classic madra variation – richer and heartier than chana madra.",
+      "Essential in many regional dham menus (especially Chamba style)."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "himachal-pradesh-snacks-patande",
+    "title": "Patande",
+    "state": "Himachal Pradesh",
+    "mealType": "Snacks",
+    "diet": "Vegetarian",
+    "jainFriendly": true,
+    "jainNotes": "Ingredients are Jain-compatible. Ensure no eggs used (recipe uses milk/water).",
+    "image": "patande.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "20 mins",
+    "servings": "6–8 pieces",
+    "ingredients": [
+      { "name": "Wheat flour or mixed flour", "qty": "1.5 cups" },
+      { "name": "Milk or water, sugar (optional)", "qty": "as needed" },
+      { "name": "Ghee for cooking", "qty": "as needed" }
+    ],
+    "recipe": [
+      "Make a smooth pouring batter of flour and milk/water (sweeten if desired).",
+      "Pour thin circles on a hot greased tawa like a crepe or pancake. Cook on both sides till golden.",
+      "Serve hot with honey, stewed apples or ghee."
+    ],
+    "tips": [
+      "Kinnauri / high-hill pancake, light and comforting.",
+      "Often paired with local fruit preserves."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "himachal-pradesh-snacks-mittha",
+    "title": "Mittha (Sweet Rice)",
+    "state": "Himachal Pradesh",
+    "mealType": "Snacks",
+    "diet": "Vegetarian",
+    "jainFriendly": true,
+    "jainNotes": "Ingredients are Jain-compatible. Ensure ghee and dry fruits are from pure sources.",
+    "image": "mittha.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "30 mins",
+    "servings": "4 Servings",
+    "ingredients": [
+      { "name": "Rice", "qty": "1 cup" },
+      { "name": "Sugar or jaggery", "qty": "3/4 cup" },
+      { "name": "Ghee, raisins, cashews, almonds", "qty": "as needed" },
+      { "name": "Cardamom, saffron (optional)", "qty": "to taste" }
+    ],
+    "recipe": [
+      "Cook rice till soft. In another pan heat ghee, fry nuts and raisins.",
+      "Add the cooked rice, sugar/jaggery, cardamom and a little water or milk. Cook till the sugar dissolves and the mixture is glossy.",
+      "Serve warm as a festive sweet or dessert course of dham."
+    ],
+    "tips": [
+      "Traditional sweet rice preparation served at the end of Himachali dhams.",
+      "Rich with dry fruits and ghee."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "himachal-pradesh-lunch-khatta",
+    "title": "Khatta (Tangy Tamarind Curry)",
+    "state": "Himachal Pradesh",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Standard hing may contain wheat/gum. Use Jain-certified hing to make it Jain-friendly. Also contains optional potatoes (root vegetable).",
+    "image": "khatta.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "25 mins",
+    "servings": "3 Servings",
+    "ingredients": [
+      { "name": "Tamarind or amchur", "qty": "as needed for tang" },
+      { "name": "Jaggery or sugar", "qty": "to balance" },
+      { "name": "Chickpea flour or boiled potatoes / black chickpeas (optional)", "qty": "as desired" },
+      { "name": "Mustard, cumin, dry red chilli, curry leaves, asafoetida", "qty": "for tempering" },
+      { "name": "Salt, turmeric", "qty": "to taste" }
+    ],
+    "recipe": [
+      "Extract tamarind water. Mix with jaggery, salt and turmeric. Cook till it thickens slightly.",
+      "Temper mustard, cumin, dry red chilli and hing. Pour over the khatta.",
+      "Add boiled potatoes or black chickpeas if using and simmer briefly.",
+      "Serve as a tangy side with rice in a dham."
+    ],
+    "tips": [
+      "The sweet-sour element that balances the richer madra and dal courses.",
+      "Often made with locally available souring agents."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "himachal-pradesh-dinner-bhaturu",
+    "title": "Bhaturu",
+    "state": "Himachal Pradesh",
+    "mealType": "Dinner",
+    "diet": "Vegetarian",
+    "jainFriendly": true,
+    "jainNotes": "Ingredients are Jain-compatible. Ensure yeast/fermented starter does not contain non-Jain additives.",
+    "image": "bhaturu.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "90 mins (+ fermentation)",
+    "servings": "8–10 pieces",
+    "ingredients": [
+      { "name": "Whole wheat flour", "qty": "2 cups" },
+      { "name": "Yeast or traditional fermented starter (khamir)", "qty": "as needed" },
+      { "name": "Salt, water", "qty": "as needed" },
+      { "name": "Oil or ghee for frying or cooking", "qty": "as needed" }
+    ],
+    "recipe": [
+      "Knead flour with fermented starter/yeast, salt and water into a soft dough. Ferment several hours or overnight.",
+      "Divide and roll into thick discs. Shallow-fry or cook on a tawa till golden and cooked through.",
+      "Serve with dal, madra or any local curry."
+    ],
+    "tips": [
+      "Traditional fermented bread of rural Himachal – a daily staple in many households.",
+      "The natural fermentation gives a mild sour flavour."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  }
+]

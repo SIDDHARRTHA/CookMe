@@ -1,0 +1,651 @@
+[
+  {
+    "id": "puducherry-breakfast-idli-sambar",
+    "title": "Idli with Sambar & Chutney",
+    "state": "Puducherry",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "time": "",
+    "servings": 4,
+    "heroImage": "./assets/images/idli_sambar.png",
+    "steps": [
+      "Prepare a fermented batter of rice and urad dal.",
+      "Steam the batter in idli molds for 10-12 minutes.",
+      "Prepare a tangy lentil sambar with tamarind and mixed vegetables.",
+      "Temper the sambar with mustard seeds, curry leaves, and red chillies.",
+      "Serve the hot idlis submerged or alongside the sambar."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Idli batter (fermented rice + urad dal)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Toor dal, tamarind, mixed vegetables for sambar",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Coconut, green chillies, curry leaves for chutney",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Mustard seeds, hing, turmeric",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Often eaten with filter coffee."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Puducherry versions may use less chilli heat."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "puducherry-breakfast-baguette-croissant",
+    "title": "Baguette or Croissant with Coffee",
+    "state": "Puducherry",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "time": "",
+    "servings": 2,
+    "heroImage": "./assets/images/baguette_croissant.png",
+    "steps": [
+      "Purchase or bake fresh, crusty French baguettes and flaky croissants.",
+      "Slice the baguette and toast lightly if desired.",
+      "Serve with a generous spread of butter and fruit jam.",
+      "Accompany with strong local filter coffee or French press coffee.",
+      "Enjoy a classic Franco-Pondicherrian morning meal."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Fresh baguette or croissant",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Butter or jam",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Filter coffee or café au lait",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Bakeries in the French Quarter maintain traditional recipes."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Can be made fully plain for stricter diets."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "puducherry-breakfast-masala-dosa",
+    "title": "Masala Dosa",
+    "state": "Puducherry",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "time": "",
+    "servings": 3,
+    "heroImage": "./assets/images/masala_dosa.png",
+    "steps": [
+      "Spread fermented rice-lentil batter thinly on a hot greased tawa.",
+      "Cook until the bottom is crisp and golden brown.",
+      "Place a spiced potato masala filling in the center of the dosa.",
+      "Fold the edges over the filling.",
+      "Serve hot with coconut chutney and sambar."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Dosa batter",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Boiled potatoes, onion, mustard, curry leaves, turmeric for filling",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Sambar and coconut/tomato chutney",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Some local spots serve egg dosa or meat-gravy variations."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "puducherry-breakfast-egg-dosa",
+    "title": "Egg Dosa",
+    "state": "Puducherry",
+    "mealType": "Breakfast",
+    "diet": "Eggetarian",
+    "time": "",
+    "servings": 2,
+    "heroImage": "./assets/images/egg_dosa.png",
+    "steps": [
+      "Spread dosa batter thinly on a hot tawa.",
+      "Crack an egg directly onto the cooking dosa and spread it evenly.",
+      "Sprinkle with salt, pepper, and chopped onions.",
+      "Drizzle oil around the edges and cook until the egg sets and dosa crisps.",
+      "Fold and serve hot."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Dosa batter",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Eggs",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Salt, pepper, optional onion/chilli",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Side of sambar or light meat gravy",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Popular at places like Rolex and local tea shops."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "puducherry-lunch-vegetable-poriyal-thali",
+    "title": "Vegetable Poriyal & Rice Thali",
+    "state": "Puducherry",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "time": "",
+    "servings": 4,
+    "heroImage": "./assets/images/veg_thali.png",
+    "steps": [
+      "Chop mixed vegetables and parboil them.",
+      "Heat oil, temper with mustard seeds, urad dal, and curry leaves.",
+      "Add the vegetables and sauté briefly.",
+      "Garnish generously with freshly grated coconut.",
+      "Serve as part of a traditional South Indian thali with rice and rasam."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Rice",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Seasonal vegetables (beans, carrot, cabbage, etc.) for poriyal",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Coconut, mustard, curry leaves, onion for tempering",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Dal, tamarind, garlic for sambar/rasam",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Banana-leaf service is still common in local restaurants."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "puducherry-lunch-fish-assad-curry",
+    "title": "Fish Assad Curry (Meen Assad)",
+    "state": "Puducherry",
+    "mealType": "Lunch",
+    "diet": "Non-Vegetarian",
+    "time": "",
+    "servings": 4,
+    "heroImage": "./assets/images/fish_assad.png",
+    "steps": [
+      "Marinate fish lightly with turmeric and salt.",
+      "Sauté onions, ginger, garlic, and green chillies.",
+      "Add thin coconut milk and gentle spices, bringing to a simmer.",
+      "Add the fish and cook until tender.",
+      "Finish with thick coconut milk and a squeeze of lemon."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Fresh fish (seer, pomfret or local catch)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Coconut milk",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Anise/fennel, curry leaves, ginger-garlic",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Tamarind or tomatoes, mild spices",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Lime juice",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Often served with rice or appam."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Signature dish of Creole home cooking."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "puducherry-lunch-meen-puyabaise",
+    "title": "Meen Puyabaise",
+    "state": "Puducherry",
+    "mealType": "Lunch",
+    "diet": "Non-Vegetarian",
+    "time": "",
+    "servings": 5,
+    "heroImage": "./assets/images/meen_puyabaise.png",
+    "steps": [
+      "Clean a variety of fresh seafood (fish, prawns, squid).",
+      "Prepare a base of onions, tomatoes, garlic, and a blend of French-Indian herbs/spices.",
+      "Add water or stock and simmer to create a flavorful broth.",
+      "Add the seafood and cook gently until just done.",
+      "Serve the bouillabaisse-style stew with crusty bread."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Mixed seafood (fish, prawns, crab, shellfish)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Tamarind, turmeric, mild spices",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Onion, tomato, curry leaves",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Ghee, coconut milk (optional)",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Best with very fresh coastal catch."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Still prepared in traditional Creole homes and select restaurants."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "puducherry-lunch-kadugu-yerra",
+    "title": "Kadugu Yerra (Mustard Prawn Curry)",
+    "state": "Puducherry",
+    "mealType": "Lunch",
+    "diet": "Non-Vegetarian",
+    "time": "",
+    "servings": 4,
+    "heroImage": "./assets/images/kadugu_yerra.png",
+    "steps": [
+      "Clean fresh prawns and marinate lightly.",
+      "Prepare a robust paste of mustard seeds, chillies, and garlic.",
+      "Heat oil and sauté onions until translucent.",
+      "Add the mustard paste and the prawns.",
+      "Cook quickly on high heat until prawns are cooked and coated in the spicy masala."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Fresh prawns",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Mustard seeds/paste, fenugreek",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Coconut milk, potatoes",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Onion, tomato, curry leaves, mild spices",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Pairs well with rice or appam."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "puducherry-dinner-mutton-sambar",
+    "title": "Mutton Sambar",
+    "state": "Puducherry",
+    "mealType": "Dinner",
+    "diet": "Non-Vegetarian",
+    "time": "",
+    "servings": 4,
+    "heroImage": "./assets/images/mutton_sambar.png",
+    "steps": [
+      "Boil mutton pieces with turmeric until tender.",
+      "Cook toor dal until soft and mushy.",
+      "Prepare a tamarind-based broth with onions, tomatoes, and sambar powder.",
+      "Combine the cooked mutton, dal, and broth; simmer together.",
+      "Temper with mustard seeds and curry leaves before serving."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Mutton (goat)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Toor dal, tamarind",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Mixed vegetables, sambar powder (mild)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Coconut (optional), curry leaves",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "A classic of Franco-Indian Catholic households."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "puducherry-dinner-egg-curry",
+    "title": "Puducherry Egg Curry",
+    "state": "Puducherry",
+    "mealType": "Dinner",
+    "diet": "Eggetarian",
+    "time": "",
+    "servings": 4,
+    "heroImage": "./assets/images/egg_curry.png",
+    "steps": [
+      "Hard-boil eggs, peel, and make shallow slits on them.",
+      "Prepare a rich onion-tomato gravy flavored with ginger, garlic, and garam masala.",
+      "Add coconut milk for a creamy texture.",
+      "Drop the boiled eggs into the simmering curry.",
+      "Cook for a few minutes so the eggs absorb the flavors."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Hard-boiled eggs",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Onion, tomato, coconut milk",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Whole spices (cinnamon, cloves, cardamom)",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Ginger-garlic, mild chilli powder",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Common in both home and restaurant menus."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "puducherry-dinner-ratatouille-style",
+    "title": "Pondicherry-style Ratatouille",
+    "state": "Puducherry",
+    "mealType": "Dinner",
+    "diet": "Vegetarian",
+    "time": "",
+    "servings": 4,
+    "heroImage": "./assets/images/ratatouille.png",
+    "steps": [
+      "Chop eggplant, zucchini, bell peppers, and tomatoes into even pieces.",
+      "Sauté onions and garlic in olive oil.",
+      "Add the vegetables and cook slowly until tender.",
+      "Season with a blend of French herbs (Herbes de Provence) and a pinch of local spice.",
+      "Serve warm as a side dish or with crusty bread."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Eggplant, zucchini, tomato, bell pepper, onion",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Olive oil or ghee, garlic, herbs",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Optional mild spices or curry leaves",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Often the main vegetarian option in French-influenced restaurants."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "puducherry-snacks-crepes",
+    "title": "Crepes (Sweet or Savoury)",
+    "state": "Puducherry",
+    "mealType": "Snacks",
+    "diet": "Eggetarian",
+    "time": "",
+    "servings": 4,
+    "heroImage": "./assets/images/crepes.png",
+    "steps": [
+      "Prepare a thin, smooth batter of flour, eggs, milk, and a pinch of salt.",
+      "Pour a ladle of batter onto a hot, buttered crepe pan and swirl to coat.",
+      "Cook until lightly browned on one side, then flip.",
+      "Add sweet (sugar/lemon, Nutella) or savory (cheese/mushroom) fillings.",
+      "Fold and serve immediately."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Flour, eggs, milk, butter for batter",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Sweet fillings: sugar, chocolate, fruit jam",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Savoury options: cheese, vegetables",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "A direct French colonial contribution still thriving."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "puducherry-snacks-vadai",
+    "title": "Medu Vadai / Potato Vadai",
+    "state": "Puducherry",
+    "mealType": "Snacks",
+    "diet": "Vegetarian",
+    "time": "",
+    "servings": 4,
+    "heroImage": "./assets/images/vadai.png",
+    "steps": [
+      "Soak urad dal and grind into a thick, fluffy batter with minimal water.",
+      "Mix in chopped onions, green chillies, ginger, curry leaves, and whole peppercorns.",
+      "Shape into small patties with a hole in the center.",
+      "Deep-fry in hot oil until golden brown and crispy.",
+      "Serve hot with coconut chutney."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Urad dal or boiled potatoes",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Onion, green chilli, curry leaves, ginger",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Oil for deep frying",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Often paired with filter coffee."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "puducherry-snacks-mutton-roll",
+    "title": "Mutton Roll",
+    "state": "Puducherry",
+    "mealType": "Snacks",
+    "diet": "Non-Vegetarian",
+    "time": "",
+    "servings": 4,
+    "heroImage": "./assets/images/mutton_roll.png",
+    "steps": [
+      "Cook minced mutton with onions, green chillies, and dry spices until dry.",
+      "Prepare thin wrappers from maida or use pre-made spring roll wrappers.",
+      "Place a spoonful of the spicy mutton filling on the wrapper and roll tightly, sealing the edges.",
+      "Deep-fry the rolls until crispy and golden.",
+      "Serve hot as an evening snack."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Minced mutton",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Onion, spices, ginger-garlic",
+        "qty": "",
+        "checked": true
+      },
+      {
+        "name": "Paratha or flatbread",
+        "qty": "",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Widely available at street stalls and small eateries."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  }
+]

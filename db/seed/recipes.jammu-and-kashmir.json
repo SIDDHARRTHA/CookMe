@@ -1,0 +1,427 @@
+[
+  {
+    "_id": "jammu-kashmir-breakfast-noon-chai-girda",
+    "title": "Noon Chai with Girda",
+    "state": "Jammu and Kashmir",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "jainFriendly": true,
+    "image": "noon_chai_girda.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "description": "Traditional Kashmiri salted pink tea (noon chai) brewed with green tea leaves, milk, salt and a pinch of baking soda, served with girda — a soft, slightly crisp tandoori-style bread. The everyday Kashmiri breakfast.",
+    "ingredients": [
+      "Green tea leaves, milk, salt, baking soda for noon chai",
+      "Flour, yeast or starter, salt for girda"
+    ],
+    "steps": [
+      "Brew strong green tea with baking soda until it turns pinkish; add milk and salt.",
+      "Prepare and bake or tandoor-cook girda bread.",
+      "Serve hot tea with fresh bread, sometimes with butter or local preserve."
+    ],
+    "tips": [
+      "Noon chai is distinctly salty, not sweet; an acquired taste for many outsiders."
+    ],
+    "prepTime": "10 minutes",
+    "cookTime": "20 minutes",
+    "servings": "2–3",
+    "research": {
+      "status": "unverified",
+      "sourceUrls": []
+    }
+  },
+  {
+    "_id": "jammu-kashmir-breakfast-harissa",
+    "title": "Harissa",
+    "state": "Jammu and Kashmir",
+    "mealType": "Breakfast",
+    "diet": "Non-Vegetarian",
+    "jainFriendly": false,
+    "image": "harissa.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "description": "Slow-cooked winter breakfast of minced mutton and rice pounded into a smooth, porridge-like consistency, seasoned with fennel and whole spices. Served hot at dawn, often with a drizzle of tempered fat.",
+    "ingredients": [
+      "Deboned mutton, rice",
+      "Fennel seeds, cinnamon, cardamom, salt",
+      "Mustard oil or mutton fat for finishing"
+    ],
+    "steps": [
+      "Slow-cook mutton and rice with spices for many hours, stirring and pounding until smooth.",
+      "Temper a little fat with shallots or chillies if desired.",
+      "Serve hot in small bowls."
+    ],
+    "tips": [
+      "Traditionally cooked overnight by specialised harisa-guyrs; a true winter specialty."
+    ],
+    "prepTime": "30 minutes",
+    "cookTime": "6–8 hours (or overnight)",
+    "servings": "4–6",
+    "research": {
+      "status": "unverified",
+      "sourceUrls": []
+    }
+  },
+  {
+    "_id": "jammu-kashmir-lunch-rogan-josh",
+    "title": "Rogan Josh",
+    "state": "Jammu and Kashmir",
+    "mealType": "Lunch",
+    "diet": "Non-Vegetarian",
+    "jainFriendly": false,
+    "image": "rogan_josh.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "description": "Iconic Kashmiri lamb/mutton curry with a deep red colour from Kashmiri chillies (and traditionally ratan jot), fragrant with fennel, dry ginger and yogurt. A cornerstone of both Wazwan and home cooking.",
+    "ingredients": [
+      "Bone-in mutton pieces",
+      "Yogurt, Kashmiri red chilli powder, fennel powder, dry ginger",
+      "Whole spices (cardamom, cloves, cinnamon), mustard oil or ghee",
+      "Shallots or hing (depending on Muslim or Pandit style)"
+    ],
+    "steps": [
+      "Brown meat in hot oil with whole spices.",
+      "Add yogurt and powdered spices; cook on low heat until meat is tender and gravy is rich and red.",
+      "Finish with a touch of saffron or ratan jot extract if available.",
+      "Serve with steamed rice."
+    ],
+    "tips": [
+      "Authentic versions are aromatic rather than extremely spicy; colour comes from mild Kashmiri chillies."
+    ],
+    "prepTime": "20 minutes",
+    "cookTime": "60–90 minutes",
+    "servings": "4",
+    "research": {
+      "status": "unverified",
+      "sourceUrls": []
+    }
+  },
+  {
+    "_id": "jammu-kashmir-lunch-yakhni",
+    "title": "Yakhni",
+    "state": "Jammu and Kashmir",
+    "mealType": "Lunch",
+    "diet": "Non-Vegetarian",
+    "jainFriendly": false,
+    "image": "yakhni.png",
+    "wikipediaImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Yakhni_from_kashmir.jpg",
+    "imageSource": "wikimedia_commons_verified",
+    "description": "Mild, pale yogurt-based mutton curry flavoured with green cardamom, fennel and dry ginger. The gentle counterpart to the richer red curries of Kashmir; a Wazwan and everyday staple.",
+    "ingredients": [
+      "Mutton pieces",
+      "Thick yogurt, fennel powder, dry ginger, green cardamom, cloves",
+      "Ghee or oil, salt"
+    ],
+    "steps": [
+      "Cook mutton with whole spices until tender.",
+      "Whisk yogurt and incorporate slowly into the pot on low heat, stirring continuously to prevent curdling.",
+      "Simmer until the gravy is smooth and aromatic.",
+      "Serve with rice."
+    ],
+    "tips": [
+      "Keep the heat low when adding yogurt to maintain a silky texture."
+    ],
+    "prepTime": "15 minutes",
+    "cookTime": "50–70 minutes",
+    "servings": "4",
+    "research": {
+      "status": "unverified",
+      "sourceUrls": []
+    }
+  },
+  {
+    "_id": "jammu-kashmir-lunch-haak",
+    "title": "Haak (Collard Greens)",
+    "state": "Jammu and Kashmir",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "jainFriendly": true,
+    "image": "haak.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "description": "Simple yet essential Kashmiri preparation of collard greens (haak) cooked in mustard oil with asafoetida, whole red chillies and minimal spices. A daily vegetable in both Pandit and Muslim homes.",
+    "ingredients": [
+      "Fresh haak (collard greens)",
+      "Mustard oil, hing (asafoetida), whole dried red chillies",
+      "Salt, water"
+    ],
+    "steps": [
+      "Clean and roughly chop the greens.",
+      "Heat mustard oil, add hing and whole chillies.",
+      "Add haak and a little water; cook covered until tender but still vibrant.",
+      "Serve with rice."
+    ],
+    "tips": [
+      "Often cooked with radish (haak-muji) or lotus stem for variation."
+    ],
+    "prepTime": "10 minutes",
+    "cookTime": "20 minutes",
+    "servings": "3–4",
+    "research": {
+      "status": "unverified",
+      "sourceUrls": []
+    }
+  },
+  {
+    "_id": "jammu-kashmir-lunch-dum-aloo",
+    "title": "Kashmiri Dum Aloo",
+    "state": "Jammu and Kashmir",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "image": "dum_aloo.png",
+    "wikipediaImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Kashmiri_Dum_Aaloo.JPG",
+    "imageSource": "wikimedia_commons_verified",
+    "description": "Whole baby potatoes pricked, fried and slow-cooked in a yogurt-based gravy flavoured with fennel, dry ginger and Kashmiri chilli. A classic vegetarian dish of the Valley, quite different from the spicier Punjabi version.",
+    "ingredients": [
+      "Baby potatoes, boiled and pricked",
+      "Yogurt, Kashmiri chilli powder, fennel powder, dry ginger",
+      "Whole spices, mustard oil or ghee"
+    ],
+    "steps": [
+      "Fry the pricked potatoes until lightly golden.",
+      "Prepare a yogurt-spice gravy.",
+      "Add potatoes and simmer on low heat (dum) until the gravy is absorbed and thickened.",
+      "Serve with rice or bread."
+    ],
+    "tips": [
+      "Pricking the potatoes allows the gravy to penetrate deeply."
+    ],
+    "prepTime": "20 minutes",
+    "cookTime": "30–40 minutes",
+    "servings": "4",
+    "research": {
+      "status": "unverified",
+      "sourceUrls": []
+    }
+  },
+  {
+    "_id": "jammu-kashmir-dinner-gushtaba",
+    "title": "Gushtaba",
+    "state": "Jammu and Kashmir",
+    "mealType": "Dinner",
+    "diet": "Non-Vegetarian",
+    "jainFriendly": false,
+    "image": "gushtaba.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "description": "Large, velvety mutton meatballs made from finely pounded meat, simmered in a rich yogurt gravy. Traditionally the final, ceremonial dish of a Wazwan feast — the ‘dish of kings’.",
+    "ingredients": [
+      "Finely minced/pounded mutton",
+      "Yogurt, milk or cream, fennel, cardamom, salt",
+      "Ghee"
+    ],
+    "steps": [
+      "Pound the meat until very smooth and aerated; form large balls.",
+      "Prepare a yogurt-based gravy with whole spices.",
+      "Gently simmer the meatballs until cooked through and the gravy is silky.",
+      "Serve as the concluding course with rice."
+    ],
+    "tips": [
+      "The texture of the meatball depends on thorough pounding; traditionally done with a wooden mallet."
+    ],
+    "prepTime": "40 minutes",
+    "cookTime": "40–50 minutes",
+    "servings": "4–6",
+    "research": {
+      "status": "unverified",
+      "sourceUrls": []
+    }
+  },
+  {
+    "_id": "jammu-kashmir-dinner-rista",
+    "title": "Rista",
+    "state": "Jammu and Kashmir",
+    "mealType": "Dinner",
+    "diet": "Non-Vegetarian",
+    "jainFriendly": false,
+    "image": "rista.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "description": "Smaller mutton meatballs cooked in a rich red gravy coloured with Kashmiri chilli. One of the essential courses of the traditional Wazwan.",
+    "ingredients": [
+      "Minced mutton",
+      "Kashmiri chilli, yogurt or stock, spices",
+      "Onion/shallot base or hing depending on tradition"
+    ],
+    "steps": [
+      "Form small meatballs from well-minced meat.",
+      "Prepare a red gravy with chilli and spices.",
+      "Simmer the meatballs gently until cooked and the gravy is glossy.",
+      "Serve with rice as part of a multi-course meal."
+    ],
+    "tips": [
+      "Rista is typically redder and spicier than the white gushtaba."
+    ],
+    "prepTime": "30 minutes",
+    "cookTime": "35 minutes",
+    "servings": "4",
+    "research": {
+      "status": "unverified",
+      "sourceUrls": []
+    }
+  },
+  {
+    "_id": "jammu-kashmir-dinner-tabak-maaz",
+    "title": "Tabak Maaz",
+    "state": "Jammu and Kashmir",
+    "mealType": "Dinner",
+    "diet": "Non-Vegetarian",
+    "jainFriendly": false,
+    "image": "tabak_maaz.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "description": "Lamb ribs boiled in spiced milk or water then fried in ghee until crisp and golden. A prized starter or early course in Wazwan, known for its rich fat and crisp exterior.",
+    "ingredients": [
+      "Lamb ribs",
+      "Milk or water, salt, garlic or spices for boiling",
+      "Ghee for frying"
+    ],
+    "steps": [
+      "Boil the ribs with salt and mild aromatics until tender.",
+      "Drain and fry in hot ghee until the exterior is crisp and lacquered.",
+      "Serve hot as an appetiser or early course."
+    ],
+    "tips": [
+      "The contrast of crisp exterior and soft, fatty meat is the hallmark."
+    ],
+    "prepTime": "15 minutes",
+    "cookTime": "45–60 minutes",
+    "servings": "4",
+    "research": {
+      "status": "unverified",
+      "sourceUrls": []
+    }
+  },
+  {
+    "_id": "jammu-kashmir-dinner-nadru-yakhni",
+    "title": "Nadru Yakhni",
+    "state": "Jammu and Kashmir",
+    "mealType": "Dinner",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "image": "nadru_yakhni.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "description": "Lotus stem (nadru) cooked in a delicate yogurt gravy with fennel, cardamom and dry ginger. A refined vegetarian dish that mirrors the technique of mutton yakhni.",
+    "ingredients": [
+      "Fresh lotus stem, sliced",
+      "Yogurt, fennel powder, dry ginger, green cardamom",
+      "Ghee or oil, salt"
+    ],
+    "steps": [
+      "Clean and slice lotus stem; boil briefly if needed.",
+      "Prepare a yogurt-based gravy with whole and powdered spices.",
+      "Add the lotus stem and simmer until tender and the gravy is smooth.",
+      "Serve with rice."
+    ],
+    "tips": [
+      "Lotus stem should retain a slight crunch."
+    ],
+    "prepTime": "20 minutes",
+    "cookTime": "30 minutes",
+    "servings": "4",
+    "research": {
+      "status": "unverified",
+      "sourceUrls": []
+    }
+  },
+  {
+    "_id": "jammu-kashmir-snacks-nadru-monje",
+    "title": "Nadru Monje",
+    "state": "Jammu and Kashmir",
+    "mealType": "Snacks",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "image": "nadru_monje.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "description": "Crispy deep-fried fritters of lotus stem coated in a spiced rice-flour or gram-flour batter. A popular Kashmiri tea-time and appetiser snack.",
+    "ingredients": [
+      "Lotus stem, thinly sliced",
+      "Rice flour or besan, chilli powder, salt, spices",
+      "Oil for deep frying"
+    ],
+    "steps": [
+      "Slice lotus stem thinly and marinate lightly.",
+      "Coat in spiced batter.",
+      "Deep-fry until golden and crisp.",
+      "Serve hot with chutney."
+    ],
+    "tips": [
+      "Best eaten immediately while still crisp."
+    ],
+    "prepTime": "15 minutes",
+    "cookTime": "15 minutes",
+    "servings": "3–4",
+    "research": {
+      "status": "unverified",
+      "sourceUrls": []
+    }
+  },
+  {
+    "_id": "jammu-kashmir-snacks-kashmiri-seekh-kebab",
+    "title": "Kashmiri Seekh Kebab",
+    "state": "Jammu and Kashmir",
+    "mealType": "Snacks",
+    "diet": "Non-Vegetarian",
+    "jainFriendly": false,
+    "image": "seekh_kebab.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "description": "Minced lamb mixed with Kashmiri spices including cardamom, black cumin, saffron and Kashmiri chilli, moulded onto skewers and grilled over charcoal. A classic Wazwan starter and popular snack across the Valley.",
+    "ingredients": [
+      "Minced lamb",
+      "Cardamom powder, black cumin seeds, saffron, coriander, Kashmiri chilli, turmeric",
+      "Eggs for binding, oil for grilling"
+    ],
+    "steps": [
+      "Mix minced meat thoroughly with spices and eggs.",
+      "Shape onto skewers.",
+      "Grill over charcoal until cooked and lightly charred.",
+      "Serve with mint chutney and onion."
+    ],
+    "tips": [
+      "Eggs help the kebab hold its shape around the skewer; a light hand with spices keeps the Kashmiri character."
+    ],
+    "prepTime": "20 minutes",
+    "cookTime": "15–20 minutes",
+    "servings": "4",
+    "research": {
+      "status": "unverified",
+      "sourceUrls": []
+    }
+  },
+  {
+    "_id": "jammu-kashmir-snacks-chaman-pakora",
+    "title": "Chaman Pakora",
+    "state": "Jammu and Kashmir",
+    "mealType": "Snacks",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "image": "chaman_pakora.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "description": "Cottage cheese (chaman/paneer) cubes marinated in a special Kashmiri spice paste and deep-fried. A traditional Kashmiri Pandit snack, often served as an appetiser or tea-time item.",
+    "ingredients": [
+      "Paneer cubes",
+      "Kashmiri chilli, turmeric, salt, spices",
+      "Besan or rice flour for coating (optional), oil"
+    ],
+    "steps": [
+      "Marinate paneer in spices.",
+      "Coat lightly if desired and deep-fry or shallow-fry until golden.",
+      "Serve hot with chutney."
+    ],
+    "tips": [
+      "Can also be finished in a tomato or yogurt gravy as a main."
+    ],
+    "prepTime": "15 minutes",
+    "cookTime": "10 minutes",
+    "servings": "3–4",
+    "research": {
+      "status": "unverified",
+      "sourceUrls": []
+    }
+  }
+]

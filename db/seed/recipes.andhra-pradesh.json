@@ -1,0 +1,419 @@
+[
+  {
+    "_id": "andhra-pradesh-breakfast-pesarattu",
+    "title": "Pesarattu",
+    "state": "Andhra Pradesh",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains ginger. For Jain version, omit ginger and use only green chilli and cumin. Skip onion topping.",
+    "image": "pesarattu.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "30 mins (+ soaking)",
+    "servings": "6–8 pieces",
+    "ingredients": [
+      { "name": "Whole green gram (moong)", "qty": "1.5 cups" },
+      { "name": "Ginger, green chilli, cumin, salt", "qty": "to taste" },
+      { "name": "Oil for cooking", "qty": "as needed" }
+    ],
+    "recipe": [
+      "Soak green gram for 3–4 hours. Grind with ginger, green chilli, cumin and salt into a slightly coarse batter (no fermentation needed).",
+      "Heat a tawa, pour and spread the batter into a thin crepe. Drizzle oil and cook both sides till crisp.",
+      "Serve hot with allam (ginger) pachadi or coconut chutney."
+    ],
+    "tips": [
+      "Signature Andhra breakfast crepe – lighter and more protein-rich than regular dosa.",
+      "Best eaten fresh and crisp."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "andhra-pradesh-breakfast-upma-rava",
+    "title": "Rava Upma (Uppindi)",
+    "state": "Andhra Pradesh",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains onion and ginger - not consumed by Jains. For Jain version, omit onion and ginger.",
+    "image": "upma.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "25 mins",
+    "servings": "3 Servings",
+    "ingredients": [
+      { "name": "Semolina (rava)", "qty": "1 cup" },
+      { "name": "Onion, green chilli, ginger, curry leaves", "qty": "as needed" },
+      { "name": "Mustard, cumin, urad dal, chana dal", "qty": "for tempering" },
+      { "name": "Vegetables (optional), ghee or oil, salt", "qty": "to taste" }
+    ],
+    "recipe": [
+      "Dry-roast the rava lightly. Temper mustard, dals, curry leaves, chilli and onion in oil/ghee.",
+      "Add water (and vegetables if using), bring to a boil, then add the roasted rava while stirring.",
+      "Cook till soft and fluffy. Serve with chutney or pickle."
+    ],
+    "tips": [
+      "Everyday Andhra tiffin – made with rava.",
+      "A little ghee elevates the flavour."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "andhra-pradesh-breakfast-upma-broken-rice",
+    "title": "Broken Rice Upma (Uppindi)",
+    "state": "Andhra Pradesh",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains onion and ginger - not consumed by Jains. For Jain version, omit onion and ginger.",
+    "image": "upma.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "25 mins",
+    "servings": "3 Servings",
+    "ingredients": [
+      { "name": "Broken rice", "qty": "1 cup" },
+      { "name": "Onion, green chilli, ginger, curry leaves", "qty": "as needed" },
+      { "name": "Mustard, cumin, urad dal, chana dal", "qty": "for tempering" },
+      { "name": "Vegetables (optional), ghee or oil, salt", "qty": "to taste" }
+    ],
+    "recipe": [
+      "Dry-roast the broken rice lightly. Temper mustard, dals, curry leaves, chilli and onion in oil/ghee.",
+      "Add water (and vegetables if using), bring to a boil, then add the roasted broken rice while stirring.",
+      "Cook till soft and fluffy. Serve with chutney or pickle."
+    ],
+    "tips": [
+      "Everyday Andhra tiffin – made with broken rice.",
+      "A little ghee elevates the flavour."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "andhra-pradesh-breakfast-idli-sambar",
+    "title": "Idli with Sambar & Chutney",
+    "state": "Andhra Pradesh",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Traditional sambar contains onion and garlic - not consumed by Jains. For Jain version, use sambar without onion-garlic.",
+    "image": "idli_sambar.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "30 mins (+ fermentation)",
+    "servings": "4 Servings",
+    "ingredients": [
+      { "name": "Idli rice + urad dal batter", "qty": "as needed" },
+      { "name": "Toor dal, vegetables (pumpkin, brinjal, drumstick), tamarind, sambar powder", "qty": "for sambar" },
+      { "name": "Coconut or peanut chutney", "qty": "as needed" }
+    ],
+    "recipe": [
+      "Steam fermented idli batter in moulds till soft and fluffy.",
+      "Prepare a tangy Andhra-style sambar with tamarind, vegetables and sambar powder.",
+      "Serve hot idlis with sambar and chutney, often with a sprinkle of karapodi (gunpowder)."
+    ],
+    "tips": [
+      "Staple South Indian breakfast adapted to Andhra tastes with spicier sambar and podi.",
+      "Soft idlis are essential."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "andhra-pradesh-lunch-pulihora",
+    "title": "Pulihora (Tamarind Rice)",
+    "state": "Andhra Pradesh",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Standard hing may contain wheat/gum. Use Jain-certified hing to make it Jain-friendly.",
+    "image": "pulihora.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "30 mins",
+    "servings": "4 Servings",
+    "ingredients": [
+      { "name": "Cooked rice", "qty": "3 cups" },
+      { "name": "Tamarind extract", "qty": "as needed" },
+      { "name": "Mustard, curry leaves, dry red chilli, peanuts, turmeric, hing", "qty": "for tempering" },
+      { "name": "Salt, jaggery (optional)", "qty": "to taste" }
+    ],
+    "recipe": [
+      "Prepare a thick tamarind paste cooked with turmeric and salt.",
+      "Temper mustard, curry leaves, chillies, peanuts and hing in oil. Mix into the tamarind.",
+      "Gently mix the tempered tamarind into cooled cooked rice so every grain is coated.",
+      "Rest for a while for flavours to develop. Serve at room temperature."
+    ],
+    "tips": [
+      "Temple-style tamarind rice – tangy, spicy and aromatic.",
+      "A little jaggery balances the sourness."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "andhra-pradesh-lunch-gongura-pachadi",
+    "title": "Gongura Pachadi",
+    "state": "Andhra Pradesh",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains garlic - not consumed by Jains. For Jain version, omit garlic.",
+    "image": "gongura_pachadi.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "25 mins",
+    "servings": "4 Servings",
+    "ingredients": [
+      { "name": "Gongura (sorrel) leaves", "qty": "2 large bunches" },
+      { "name": "Garlic, dry red chilli, mustard, cumin", "qty": "as needed" },
+      { "name": "Oil, salt", "qty": "to taste" }
+    ],
+    "recipe": [
+      "Wash and roughly chop gongura leaves. Cook or sauté till soft and the sourness mellows.",
+      "Temper mustard, cumin, garlic and red chilli in oil. Grind or mash the leaves with the tempering and salt into a coarse chutney.",
+      "Serve with rice and ghee or as a side."
+    ],
+    "tips": [
+      "Iconic Andhra relish – intensely sour and spicy.",
+      "The signature flavour of the state."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "andhra-pradesh-lunch-tomato-pappu",
+    "title": "Tomato Pappu (Andhra Dal)",
+    "state": "Andhra Pradesh",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains garlic - not consumed by Jains. For Jain version, omit garlic.",
+    "image": "andhra_pappu.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "35 mins",
+    "servings": "4 Servings",
+    "ingredients": [
+      { "name": "Toor dal", "qty": "1 cup" },
+      { "name": "Tomato", "qty": "2 medium" },
+      { "name": "Garlic, green chilli, turmeric, salt", "qty": "to taste" },
+      { "name": "Mustard, cumin, dry red chilli, curry leaves for tempering", "qty": "as needed" }
+    ],
+    "recipe": [
+      "Pressure-cook toor dal with turmeric and tomato till soft. Mash lightly.",
+      "Temper mustard, cumin, garlic, chilli and curry leaves in oil/ghee and pour over the dal.",
+      "Serve thick and creamy with rice and ghee."
+    ],
+    "tips": [
+      "Classic Andhra tomato dal - thick and robust.",
+      "Perfect comfort food with rice."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "andhra-pradesh-lunch-gongura-pappu",
+    "title": "Gongura Pappu (Andhra Dal with Sorrel)",
+    "state": "Andhra Pradesh",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains garlic - not consumed by Jains. For Jain version, omit garlic.",
+    "image": "andhra_pappu.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "35 mins",
+    "servings": "4 Servings",
+    "ingredients": [
+      { "name": "Toor dal", "qty": "1 cup" },
+      { "name": "Gongura (sorrel) leaves", "qty": "2 cups" },
+      { "name": "Garlic, green chilli, turmeric, salt", "qty": "to taste" },
+      { "name": "Mustard, cumin, dry red chilli, curry leaves for tempering", "qty": "as needed" }
+    ],
+    "recipe": [
+      "Pressure-cook toor dal with turmeric and gongura leaves till soft. Mash lightly.",
+      "Temper mustard, cumin, garlic, chilli and curry leaves in oil/ghee and pour over the dal.",
+      "Serve thick and creamy with rice and ghee."
+    ],
+    "tips": [
+      "Classic Andhra gongura dal - tangy and robust.",
+      "The sourness of gongura perfectly complements the dal."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "andhra-pradesh-dinner-natu-kodi-pulusu",
+    "title": "Natu Kodi Pulusu (Country Chicken Curry)",
+    "state": "Andhra Pradesh",
+    "mealType": "Dinner",
+    "diet": "Non-Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains chicken, onion, garlic - not consumed by Jains.",
+    "image": "natu_kodi_pulusu.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "60 mins",
+    "servings": "4 Servings",
+    "ingredients": [
+      { "name": "Country chicken", "qty": "750 g" },
+      { "name": "Onion, tomato, ginger-garlic, green chilli", "qty": "as needed" },
+      { "name": "Tamarind, red chilli powder, coriander, garam masala", "qty": "to taste" },
+      { "name": "Oil, salt", "qty": "as needed" }
+    ],
+    "recipe": [
+      "Marinate chicken with turmeric and salt. Sauté onion, ginger-garlic and chilli till golden.",
+      "Add tomato, spice powders and tamarind extract. Cook till oil separates.",
+      "Add chicken and simmer till tender and the gravy is thick and spicy.",
+      "Serve with rice or ragi sangati."
+    ],
+    "tips": [
+      "Fiery Andhra country-chicken curry – tamarind and Guntur chilli define the flavour.",
+      "Slow cooking brings out the best taste."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "andhra-pradesh-dinner-chepala-pulusu",
+    "title": "Chepala Pulusu (Fish Curry)",
+    "state": "Andhra Pradesh",
+    "mealType": "Dinner",
+    "diet": "Non-Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains fish, onion, garlic - not consumed by Jains.",
+    "image": "chepala_pulusu.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "40 mins",
+    "servings": "4 Servings",
+    "ingredients": [
+      { "name": "Firm fish (rohu, seer, etc.)", "qty": "500 g" },
+      { "name": "Tamarind, onion, tomato, garlic, red chilli", "qty": "as needed" },
+      { "name": "Mustard, fenugreek, curry leaves, oil", "qty": "for tempering" },
+      { "name": "Salt, turmeric", "qty": "to taste" }
+    ],
+    "recipe": [
+      "Lightly fry fish pieces. Prepare a tamarind-based gravy with onion, tomato, garlic and chilli powder.",
+      "Temper mustard, fenugreek and curry leaves. Add the gravy and fish. Simmer gently.",
+      "Serve with steamed rice."
+    ],
+    "tips": [
+      "Classic coastal Andhra fish curry – tangy, spicy and aromatic.",
+      "Do not overcook the fish."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "andhra-pradesh-snacks-mirchi-bajji",
+    "title": "Mirchi Bajji",
+    "state": "Andhra Pradesh",
+    "mealType": "Snacks",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains ginger - not consumed by Jains. For Jain version, omit ginger.",
+    "image": "mirchi_bajji.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "30 mins",
+    "servings": "8–10 pieces",
+    "ingredients": [
+      { "name": "Large green chillies", "qty": "8–10" },
+      { "name": "Besan, rice flour, chilli powder, ajwain, ginger-garlic paste, salt", "qty": "for batter" },
+      { "name": "Oil for deep frying", "qty": "as needed" }
+    ],
+    "recipe": [
+      "Slit and deseed chillies if desired. Make a thick besan batter with spices and ginger-garlic paste.",
+      "Dip each chilli in the batter and deep-fry till golden and crisp.",
+      "Serve hot with onion, chutney or as is."
+    ],
+    "tips": [
+      "Iconic Andhra street snack – spicy, crunchy and addictive.",
+      "Best eaten immediately."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "andhra-pradesh-snacks-punugulu",
+    "title": "Punugulu",
+    "state": "Andhra Pradesh",
+    "mealType": "Snacks",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains onion - not consumed by Jains. For Jain version, omit onion.",
+    "image": "punugulu.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "25 mins (+ fermentation)",
+    "servings": "20 pieces",
+    "ingredients": [
+      { "name": "Idli/dosa batter", "qty": "2 cups" },
+      { "name": "Onion, green chilli, curry leaves, cumin", "qty": "as needed" },
+      { "name": "Oil for deep frying", "qty": "as needed" }
+    ],
+    "recipe": [
+      "Mix chopped onion, chilli, curry leaves and cumin into the fermented batter.",
+      "Drop spoonfuls into hot oil and fry till golden and crisp outside, soft inside.",
+      "Serve with coconut or peanut chutney."
+    ],
+    "tips": [
+      "Andhra-style deep-fried dumplings from leftover or fresh batter.",
+      "Crispy and perfect with evening tea."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "andhra-pradesh-lunch-gutti-vankaya",
+    "title": "Gutti Vankaya Kura (Stuffed Brinjal Curry)",
+    "state": "Andhra Pradesh",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains onion and garlic - not consumed by Jains. For Jain version, omit onion-garlic.",
+    "image": "gutti_vankaya.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "45 mins",
+    "servings": "4 Servings",
+    "ingredients": [
+      { "name": "Small brinjals", "qty": "8–10" },
+      { "name": "Peanuts, sesame, coconut, spices for stuffing", "qty": "as needed" },
+      { "name": "Onion, tamarind, garlic, chilli powder, oil", "qty": "to taste" }
+    ],
+    "recipe": [
+      "Slit brinjals crosswise without cutting through. Stuff with a roasted peanut-sesame-coconut-spice mixture.",
+      "Cook in a tamarind-onion-garlic gravy till the brinjals are soft and the masala coats them.",
+      "Serve with rice or roti."
+    ],
+    "tips": [
+      "Stuffed brinjal curry – a festive and everyday favourite.",
+      "The stuffing should be well-roasted for depth of flavour."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "andhra-pradesh-dinner-gongura-mamsam",
+    "title": "Gongura Mamsam (Mutton with Gongura)",
+    "state": "Andhra Pradesh",
+    "mealType": "Dinner",
+    "diet": "Non-Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains mutton, onion, garlic - not consumed by Jains.",
+    "image": "gongura_mamsam.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "70 mins",
+    "servings": "4 Servings",
+    "ingredients": [
+      { "name": "Mutton", "qty": "750 g" },
+      { "name": "Gongura leaves", "qty": "2 bunches" },
+      { "name": "Onion, ginger-garlic, green chilli, spices", "qty": "as needed" },
+      { "name": "Oil, salt", "qty": "to taste" }
+    ],
+    "recipe": [
+      "Cook mutton with onion, ginger-garlic and spices till tender.",
+      "Separately cook gongura leaves till soft, then mash or blend.",
+      "Combine the gongura with the mutton and simmer till the flavours marry and the gravy thickens.",
+      "Serve with rice or roti."
+    ],
+    "tips": [
+      "Classic Andhra mutton dish where the sourness of gongura balances the richness of the meat.",
+      "One of the most celebrated non-veg preparations of the state."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  }
+]

@@ -1,0 +1,693 @@
+[
+  {
+    "id": "bihar-breakfast-sattu-paratha",
+    "title": "Sattu Paratha",
+    "state": "Bihar",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "time": "35 mins",
+    "servings": "6 pieces",
+    "heroImage": "./assets/images/sattu_paratha.png",
+    "steps": [
+      "Mix sattu with chopped onion, green chilli, ginger, coriander, ajwain, mustard oil, lemon juice and salt to make the filling.",
+      "Knead a soft wheat dough. Stuff portions with the sattu mixture, seal and roll into parathas.",
+      "Cook on a hot tawa with ghee till golden on both sides.",
+      "Serve hot with curd, pickle or chutney."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Whole wheat flour",
+        "qty": "2 cups",
+        "checked": true
+      },
+      {
+        "name": "Sattu (roasted gram flour)",
+        "qty": "1 cup",
+        "checked": true
+      },
+      {
+        "name": "Onion, green chilli, ginger, coriander, ajwain, mustard oil, lemon, salt",
+        "qty": "to taste",
+        "checked": true
+      },
+      {
+        "name": "Ghee or oil for cooking",
+        "qty": "as needed",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Classic Bihari breakfast – protein-rich and cooling due to sattu."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Mustard oil in the filling is essential for authentic flavour."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "bihar-breakfast-chura-dahi",
+    "title": "Chura Dahi (Dahi Chura)",
+    "state": "Bihar",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "time": "10 mins",
+    "servings": "2 Servings",
+    "heroImage": "./assets/images/chura_dahi.png",
+    "steps": [
+      "Wash and lightly soak the chura if needed. Drain.",
+      "Mix with thick curd and jaggery or sugar. Add sliced banana or mango in season.",
+      "Serve as a light, cooling breakfast – especially popular in summer and on Makar Sankranti."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Chura (flattened rice / poha)",
+        "qty": "1.5 cups",
+        "checked": true
+      },
+      {
+        "name": "Thick curd",
+        "qty": "1 cup",
+        "checked": true
+      },
+      {
+        "name": "Jaggery or sugar, banana or mango (seasonal)",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Simple, probiotic Bihari breakfast – Katarni chura is prized when available."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Refreshing and easy to digest."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "bihar-breakfast-puri-aloo-sabzi",
+    "title": "Puri with Aloo Sabzi",
+    "state": "Bihar",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "time": "40 mins",
+    "servings": "4 Servings",
+    "heroImage": "./assets/images/puri_sabzi.png",
+    "steps": [
+      "Knead a stiff dough for puris. Roll and deep-fry till puffed and golden.",
+      "Prepare a simple spiced potato sabzi with onion, tomato and ginger.",
+      "Serve hot puris with the sabzi, often accompanied by jalebi or a sweet on special days."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Wheat flour for puri",
+        "qty": "2 cups",
+        "checked": true
+      },
+      {
+        "name": "Potatoes for aloo sabzi",
+        "qty": "4 medium",
+        "checked": true
+      },
+      {
+        "name": "Onion, tomato, green chilli, ginger, spices",
+        "qty": "to taste",
+        "checked": true
+      },
+      {
+        "name": "Oil for deep frying, ghee or oil for sabzi",
+        "qty": "as needed",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Classic festive or Sunday breakfast across Bihar."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Puris should be light and well-puffed."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "bihar-lunch-litti-chokha",
+    "title": "Litti Chokha",
+    "state": "Bihar",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "time": "60 mins",
+    "servings": "4 Servings",
+    "heroImage": "./assets/images/litti_chokha.png",
+    "steps": [
+      "Prepare sattu stuffing with mustard oil, garlic, ginger, chilli, ajwain, lemon and salt. Stuff into wheat dough balls and seal.",
+      "Roast the littis over charcoal, cow-dung cakes, or bake till the crust is crisp and slightly charred.",
+      "For chokha: Roast brinjal, tomato and boil potato. Mash with onion, green chilli, mustard oil and salt.",
+      "Dip hot littis in ghee and serve with chokha."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Whole wheat flour",
+        "qty": "2 cups",
+        "checked": true
+      },
+      {
+        "name": "Sattu, mustard oil, garlic, ginger, green chilli, ajwain, lemon, salt",
+        "qty": "for stuffing",
+        "checked": true
+      },
+      {
+        "name": "Brinjal, tomato, potato for chokha",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Onion, mustard oil, green chilli for chokha",
+        "qty": "to taste",
+        "checked": true
+      },
+      {
+        "name": "Ghee for dipping",
+        "qty": "generous",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "The iconic dish of Bihar – smoky, rustic and deeply satisfying."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Traditional open-fire roasting gives the authentic flavour."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "bihar-lunch-dal-bhaat-chana",
+    "title": "Dal Bhaat with Chana Dal & Sabzi",
+    "state": "Bihar",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "time": "40 mins",
+    "servings": "3 Servings",
+    "heroImage": "./assets/images/dal_bhaat.png",
+    "steps": [
+      "Cook rice and a simple tempered chana dal with onion, tomato and spices.",
+      "Prepare a dry or gravy vegetable sabzi and a side of chokha.",
+      "Serve the classic Bihari thali of rice, dal, sabzi, chokha, papad, pickle and curd."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Rice",
+        "qty": "1.5 cups",
+        "checked": true
+      },
+      {
+        "name": "Chana dal",
+        "qty": "1 cup",
+        "checked": true
+      },
+      {
+        "name": "Onion, tomato, green chilli, ginger-garlic, spices",
+        "qty": "for dal",
+        "checked": true
+      },
+      {
+        "name": "Seasonal vegetable sabzi, chokha, papad, pickle, curd",
+        "qty": "as desired",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Everyday Bihari lunch – simple, balanced and comforting."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Curd is almost always present on the plate."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "bihar-lunch-dal-bhaat-mixed",
+    "title": "Dal Bhaat with Mixed Dal & Sabzi",
+    "state": "Bihar",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "time": "40 mins",
+    "servings": "3 Servings",
+    "heroImage": "./assets/images/dal_bhaat.png",
+    "steps": [
+      "Cook rice and a simple tempered mixed dal with onion, tomato and spices.",
+      "Prepare a dry or gravy vegetable sabzi and a side of chokha.",
+      "Serve the classic Bihari thali of rice, dal, sabzi, chokha, papad, pickle and curd."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Rice",
+        "qty": "1.5 cups",
+        "checked": true
+      },
+      {
+        "name": "Mixed dal (toor, moong, chana)",
+        "qty": "1 cup",
+        "checked": true
+      },
+      {
+        "name": "Onion, tomato, green chilli, ginger-garlic, spices",
+        "qty": "for dal",
+        "checked": true
+      },
+      {
+        "name": "Seasonal vegetable sabzi, chokha, papad, pickle, curd",
+        "qty": "as desired",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Everyday Bihari lunch made with mixed lentils."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Simple, balanced and nourishing."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "bihar-lunch-kadhi-bari",
+    "title": "Kadhi Bari",
+    "state": "Bihar",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "time": "45 mins",
+    "servings": "4 Servings",
+    "heroImage": "./assets/images/kadhi_bari.png",
+    "steps": [
+      "Make soft besan dumplings (bari), deep-fry and set aside.",
+      "Prepare a yogurt-besan kadhi, tempered with spices and ginger. Add the fried bari and simmer.",
+      "Serve with steamed rice."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Besan for bari (dumplings) and kadhi",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Yogurt, turmeric, chilli, ginger, spices",
+        "qty": "to taste",
+        "checked": true
+      },
+      {
+        "name": "Oil for frying bari",
+        "qty": "as needed",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Comforting Bihari kadhi with soft fried dumplings."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "A popular home-style dish."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "bihar-dinner-mutton-curry",
+    "title": "Bihari Mutton Curry",
+    "state": "Bihar",
+    "mealType": "Dinner",
+    "diet": "Non-Vegetarian",
+    "time": "70 mins",
+    "servings": "4 Servings",
+    "heroImage": "./assets/images/bihari_mutton.png",
+    "steps": [
+      "Marinate mutton with yogurt and spices. Sauté onion and ginger-garlic till golden.",
+      "Add the mutton and cook till tender in a rich, spiced gravy.",
+      "Serve with roti, litti or rice – often a celebratory dish."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Mutton",
+        "qty": "750 g",
+        "checked": true
+      },
+      {
+        "name": "Onion, tomato, ginger-garlic, yogurt",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Garam masala, red chilli, turmeric, oil",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Non-vegetarian food is typically reserved for special occasions in many Bihari homes."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Slow cooking yields the best results."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "bihar-dinner-fish-curry",
+    "title": "Bihari Fish Curry",
+    "state": "Bihar",
+    "mealType": "Dinner",
+    "diet": "Non-Vegetarian",
+    "time": "40 mins",
+    "servings": "4 Servings",
+    "heroImage": "./assets/images/bihari_fish_curry.png",
+    "steps": [
+      "Lightly fry fish pieces in mustard oil. Prepare a gravy with onion, tomato, ginger-garlic and spices.",
+      "Add the fish and simmer gently.",
+      "Serve with rice."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Freshwater fish",
+        "qty": "500 g",
+        "checked": true
+      },
+      {
+        "name": "Mustard oil, onion, tomato, ginger-garlic",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Turmeric, chilli, salt",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Common in riverine and Mithila regions of Bihar."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Mustard oil is the preferred cooking medium."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "bihar-dinner-fish-curry-mustard",
+    "title": "Bihari Fish Curry with Mustard (Angika Style)",
+    "state": "Bihar",
+    "mealType": "Dinner",
+    "diet": "Non-Vegetarian",
+    "time": "40 mins",
+    "servings": "4 Servings",
+    "heroImage": "./assets/images/bihari_fish_curry.png",
+    "steps": [
+      "Lightly fry fish pieces in mustard oil. Prepare a gravy with onion, tomato, ginger-garlic and spices.",
+      "Add mustard paste and the fish. Simmer gently.",
+      "Serve with rice."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Freshwater fish",
+        "qty": "500 g",
+        "checked": true
+      },
+      {
+        "name": "Mustard oil, onion, tomato, ginger-garlic, mustard paste",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Turmeric, chilli, salt",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Angika-style fish curry with mustard paste for extra pungency."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Common in the Mithila and Angika regions of Bihar."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "bihar-snacks-thekua",
+    "title": "Thekua",
+    "state": "Bihar",
+    "mealType": "Snacks",
+    "diet": "Vegetarian",
+    "time": "40 mins",
+    "servings": "20–25 pieces",
+    "heroImage": "./assets/images/thekua.png",
+    "steps": [
+      "Melt jaggery with a little water. Mix into wheat flour with ghee and cardamom to form a stiff dough.",
+      "Shape into small discs or use traditional moulds. Deep-fry on medium heat till golden and crisp.",
+      "Cool and store. Especially made for Chhath Puja."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Whole wheat flour",
+        "qty": "2 cups",
+        "checked": true
+      },
+      {
+        "name": "Jaggery",
+        "qty": "1 cup",
+        "checked": true
+      },
+      {
+        "name": "Ghee, cardamom, fennel (optional)",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Oil or ghee for deep frying",
+        "qty": "as needed",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Iconic Chhath festival sweet of Bihar – crisp, mildly sweet and long-lasting."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Ghee in the dough improves flavour and texture."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "bihar-snacks-ghugni-white-peas",
+    "title": "Ghugni with White Peas",
+    "state": "Bihar",
+    "mealType": "Snacks",
+    "diet": "Vegetarian",
+    "time": "40 mins (+ soaking)",
+    "servings": "3 Servings",
+    "heroImage": "./assets/images/ghugni.png",
+    "steps": [
+      "Pressure-cook the soaked white peas till soft. Prepare a spicy onion-tomato gravy with mustard oil.",
+      "Add the peas and simmer. Garnish with onion, green chilli, coriander and lemon.",
+      "Serve hot as a snack or with muri (puffed rice)."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Dried white peas",
+        "qty": "1.5 cups (soaked)",
+        "checked": true
+      },
+      {
+        "name": "Onion, tomato, ginger, green chilli, spices",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Mustard oil, lemon, coriander for garnish",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Popular street and home snack made with white peas."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Often eaten with puffed rice (ghugni-muri) in the Anga region."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "bihar-snacks-ghugni-black-chickpeas",
+    "title": "Ghugni with Black Chickpeas",
+    "state": "Bihar",
+    "mealType": "Snacks",
+    "diet": "Vegetarian",
+    "time": "40 mins (+ soaking)",
+    "servings": "3 Servings",
+    "heroImage": "./assets/images/ghugni.png",
+    "steps": [
+      "Pressure-cook the soaked black chickpeas till soft. Prepare a spicy onion-tomato gravy with mustard oil.",
+      "Add the chickpeas and simmer. Garnish with onion, green chilli, coriander and lemon.",
+      "Serve hot as a snack or with muri (puffed rice)."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Black chickpeas (kala chana)",
+        "qty": "1.5 cups (soaked)",
+        "checked": true
+      },
+      {
+        "name": "Onion, tomato, ginger, green chilli, spices",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Mustard oil, lemon, coriander for garnish",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Popular street and home snack made with black chickpeas."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Often eaten with puffed rice (ghugni-muri) in the Anga region."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "bihar-lunch-dal-pitha",
+    "title": "Dal Pitha",
+    "state": "Bihar",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "time": "50 mins",
+    "servings": "4 Servings",
+    "heroImage": "./assets/images/dal_pitha.png",
+    "steps": [
+      "Cook and grind spiced chana dal into a filling. Make a soft rice-flour dough.",
+      "Stuff portions of dough with the dal mixture, shape into parcels and steam or boil till cooked.",
+      "Serve with chutney or a light tempering."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Rice flour for outer covering",
+        "qty": "2 cups",
+        "checked": true
+      },
+      {
+        "name": "Chana dal for filling",
+        "qty": "1 cup",
+        "checked": true
+      },
+      {
+        "name": "Cumin, garlic, green chilli, salt",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Steamed rice-flour dumplings with spiced dal filling – light and nourishing."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "A traditional Bihari comfort dish."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "bihar-dinner-aloo-chokha",
+    "title": "Aloo Chokha",
+    "state": "Bihar",
+    "mealType": "Dinner",
+    "diet": "Vegan",
+    "time": "25 mins",
+    "servings": "3 Servings",
+    "heroImage": "./assets/images/aloo_chokha.png",
+    "steps": [
+      "Mash the boiled potatoes while warm. Mix with finely chopped onion, green chilli, raw mustard oil and salt.",
+      "Serve with litti, roti or as a side."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Boiled potatoes",
+        "qty": "4 medium",
+        "checked": true
+      },
+      {
+        "name": "Onion, green chilli, mustard oil, salt",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Simple, pungent mashed potato preparation – a staple side in Bihari meals."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Raw mustard oil is the key flavouring."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  }
+]

@@ -1,0 +1,512 @@
+[
+  {
+    "_id": "kerala-breakfast-puttu-kadala-curry",
+    "title": "Puttu with Kadala Curry",
+    "state": "Kerala",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "image": "puttu_kadala_curry.png",
+    "wikipediaImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Puttu_and_Kadala_Curry.jpg",
+    "imageSource": "wikimedia_commons_verified",
+    "time": "45 mins",
+    "servings": "3 Servings",
+    "ingredients": [
+      { "name": "Rice flour (puttu podi)", "qty": "2 cups" },
+      { "name": "Grated coconut", "qty": "1 cup" },
+      { "name": "Salt", "qty": "to taste" },
+      { "name": "Water", "qty": "as needed" },
+      { "name": "Black chickpeas (kadala)", "qty": "1 cup (soaked overnight)" },
+      { "name": "Onion", "qty": "1 large" },
+      { "name": "Tomato", "qty": "1" },
+      { "name": "Ginger-garlic paste", "qty": "1 tbsp" },
+      { "name": "Coriander powder, chilli powder, turmeric, garam masala", "qty": "to taste" },
+      { "name": "Coconut (roasted & ground)", "qty": "1/2 cup" },
+      { "name": "Mustard seeds, curry leaves, coconut oil", "qty": "for tempering" }
+    ],
+    "recipe": [
+      "Mix rice flour with salt and just enough water so it holds shape when pressed (should remain powdery). Layer alternately with grated coconut in a puttu maker and steam 8–10 minutes.",
+      "Pressure-cook soaked black chickpeas till soft.",
+      "Heat coconut oil, temper mustard and curry leaves. Sauté onion, ginger-garlic, tomato and spice powders. Add cooked kadala and ground roasted coconut paste. Simmer till thick.",
+      "Serve hot puttu with kadala curry and a piece of ripe banana or pappadam."
+    ],
+    "tips": [
+      "The flour should never become a dough; it must stay crumbly for soft puttu.",
+      "Roasted coconut gives the classic dark colour and flavour to kadala curry."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "kerala-breakfast-appam-vegetable-stew",
+    "title": "Appam with Vegetable Stew (Ishtu)",
+    "state": "Kerala",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "image": "appam_vegetable_stew.png",
+    "wikipediaImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Appam_with_kadala_curry_from_kerala.jpg",
+    "imageSource": "wikimedia_commons_verified",
+    "time": "40 mins (+ fermentation)",
+    "servings": "4 Servings",
+    "ingredients": [
+      { "name": "Raw rice", "qty": "2 cups" },
+      { "name": "Cooked rice", "qty": "1/2 cup" },
+      { "name": "Coconut milk (thick + thin)", "qty": "1.5 cups total" },
+      { "name": "Yeast or toddy", "qty": "1/2 tsp / as needed" },
+      { "name": "Sugar and salt", "qty": "to taste" },
+      { "name": "Potato, carrot, beans, peas", "qty": "2 cups mixed" },
+      { "name": "Onion", "qty": "1" },
+      { "name": "Green chillies, ginger, whole spices (cinnamon, cardamom, clove)", "qty": "as needed" },
+      { "name": "Coconut milk for stew", "qty": "1.5 cups" },
+      { "name": "Coconut oil and curry leaves", "qty": "for tempering" }
+    ],
+    "recipe": [
+      "Soak rice, grind with cooked rice and coconut milk into a smooth batter. Add yeast/sugar and ferment overnight. Adjust consistency and salt before cooking.",
+      "Pour ladleful of batter into a hot appachatti, swirl to form lace edges and thick centre. Cover and cook till done (no need to flip).",
+      "For stew: Sauté whole spices, onion, ginger and green chillies in coconut oil. Add vegetables and thin coconut milk. Cook till soft. Add thick coconut milk and simmer gently. Finish with curry leaves.",
+      "Serve soft appams with mild vegetable stew."
+    ],
+    "tips": [
+      "First-press thick coconut milk is added at the end so it does not split.",
+      "Appam batter should be slightly fermented for the classic mild sourness and holes."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "kerala-breakfast-idiyappam-egg-roast",
+    "title": "Idiyappam with Egg Roast",
+    "state": "Kerala",
+    "mealType": "Breakfast",
+    "diet": "Eggetarian",
+    "jainFriendly": false,
+    "image": "idiyappam_egg_roast.png",
+    "wikipediaImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Idiyappam_and_Egg_roast_in_Kerala.jpg",
+    "imageSource": "wikimedia_commons_verified",
+    "time": "35 mins",
+    "servings": "3 Servings",
+    "ingredients": [
+      { "name": "Rice flour (idiyappam flour)", "qty": "2 cups" },
+      { "name": "Hot water and salt", "qty": "as needed" },
+      { "name": "Eggs", "qty": "4–5" },
+      { "name": "Onion", "qty": "2 large" },
+      { "name": "Tomato", "qty": "1–2" },
+      { "name": "Ginger-garlic paste", "qty": "1 tbsp" },
+      { "name": "Chilli powder, coriander powder, garam masala, turmeric", "qty": "to taste" },
+      { "name": "Coconut oil, mustard seeds, curry leaves", "qty": "for tempering" }
+    ],
+    "recipe": [
+      "Mix rice flour with salt and boiling water to form a soft dough. Press through idiyappam maker onto plates or banana leaves and steam 8–10 minutes.",
+      "Hard-boil eggs, peel and keep aside (or lightly fry).",
+      "Heat coconut oil, temper mustard and curry leaves. Sauté onions till golden, add ginger-garlic, tomatoes and spice powders. Cook till oil separates.",
+      "Add eggs and a splash of water. Simmer till gravy coats the eggs. Adjust salt and spice.",
+      "Serve steamed idiyappam with spicy egg roast."
+    ],
+    "tips": [
+      "Use hot water for the dough so the idiyappam stays soft.",
+      "A classic Syrian-Christian and everyday Kerala breakfast combination."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "kerala-breakfast-appam-mutton-stew",
+    "title": "Appam with Mutton Stew (Mutton Mappas)",
+    "state": "Kerala",
+    "mealType": "Breakfast",
+    "diet": "Non-Vegetarian",
+    "jainFriendly": false,
+    "image": "appam_mutton_stew.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "60 mins (+ fermentation for appam)",
+    "servings": "4 Servings",
+    "ingredients": [
+      { "name": "Appam batter", "qty": "as for vegetable version" },
+      { "name": "Mutton (bone-in)", "qty": "500 g" },
+      { "name": "Potato, carrot (optional)", "qty": "1 each" },
+      { "name": "Onion, ginger, green chillies", "qty": "as needed" },
+      { "name": "Whole spices (cinnamon, cardamom, clove, pepper)", "qty": "few" },
+      { "name": "Thick and thin coconut milk", "qty": "2 cups total" },
+      { "name": "Coconut oil and curry leaves", "qty": "for finishing" }
+    ],
+    "recipe": [
+      "Pressure-cook mutton with salt, turmeric and a little water till tender.",
+      "In a pan heat coconut oil, add whole spices, sliced onion, ginger and green chillies. Sauté till soft.",
+      "Add cooked mutton and vegetables if using. Pour thin coconut milk and simmer.",
+      "Add thick coconut milk, adjust seasoning and finish with curry leaves. Do not boil vigorously after adding thick milk.",
+      "Serve with soft lace-edged appams."
+    ],
+    "tips": [
+      "Mappas is the traditional Syrian-Christian style mild coconut-milk stew.",
+      "Chicken or vegetable versions are equally popular."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "kerala-lunch-avial",
+    "title": "Avial",
+    "state": "Kerala",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "image": "avial.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "40 mins",
+    "servings": "6 Servings",
+    "ingredients": [
+      { "name": "Mixed vegetables (yam, raw banana, drumstick, carrot, beans, ash gourd, pumpkin)", "qty": "4–5 cups" },
+      { "name": "Grated coconut", "qty": "1.5 cups" },
+      { "name": "Cumin seeds", "qty": "1 tsp" },
+      { "name": "Green chillies", "qty": "3–4" },
+      { "name": "Curd or yogurt", "qty": "1/2 cup (optional)" },
+      { "name": "Coconut oil", "qty": "2 tbsp" },
+      { "name": "Curry leaves", "qty": "2 sprigs" },
+      { "name": "Salt and turmeric", "qty": "to taste" }
+    ],
+    "recipe": [
+      "Cut vegetables into uniform thick batons. Cook with turmeric, salt and very little water till just tender (do not overcook).",
+      "Grind coconut, cumin and green chillies into a coarse paste.",
+      "Add the coconut paste to the vegetables and cook 3–4 minutes. Stir in beaten curd if using (off the heat or on very low flame).",
+      "Finish with a generous drizzle of raw coconut oil and curry leaves. Mix gently.",
+      "Serve as part of sadya with rice."
+    ],
+    "tips": [
+      "Vegetables should retain shape and slight crunch.",
+      "Coconut oil at the end is essential for authentic aroma."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "kerala-lunch-meen-curry-kudampuli",
+    "title": "Meen Curry (Kudampuli Fish Curry)",
+    "state": "Kerala",
+    "mealType": "Lunch",
+    "diet": "Non-Vegetarian",
+    "jainFriendly": false,
+    "image": "meen_curry.png",
+    "wikipediaImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Meen_curry_(fish_curry)_from_Kerala%2C_traditionally_prepared_in_earthern_pot.jpg",
+    "imageSource": "wikimedia_commons_verified",
+    "time": "35 mins",
+    "servings": "4 Servings",
+    "ingredients": [
+      { "name": "Fish (seer, sardine or any firm fish)", "qty": "500 g" },
+      { "name": "Kudampuli (Malabar tamarind)", "qty": "2–3 pieces (soaked)" },
+      { "name": "Shallots or onion", "qty": "10–12 / 1" },
+      { "name": "Ginger, garlic, green chillies", "qty": "as needed" },
+      { "name": "Chilli powder, coriander powder, turmeric, fenugreek", "qty": "to taste" },
+      { "name": "Coconut oil, mustard seeds, curry leaves", "qty": "for tempering" },
+      { "name": "Water", "qty": "as needed" }
+    ],
+    "recipe": [
+      "Clean and cut fish. Soak kudampuli in warm water.",
+      "Heat coconut oil in an earthen pot or pan. Temper mustard, fenugreek and curry leaves. Sauté shallots, ginger, garlic and green chillies.",
+      "Add spice powders and cook briefly. Pour water and the soaked kudampuli (with water). Bring to a boil.",
+      "Gently slide in the fish pieces. Simmer on low heat till fish is cooked and gravy thickens slightly. Do not stir vigorously.",
+      "Rest for 30 minutes before serving for flavours to develop. Serve with matta rice."
+    ],
+    "tips": [
+      "Kudampuli gives the characteristic deep sourness of central Kerala fish curry.",
+      "Earthen pot (chatti) enhances the traditional taste."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "kerala-lunch-thoran",
+    "title": "Cabbage Thoran (or Mixed Vegetable Thoran)",
+    "state": "Kerala",
+    "mealType": "Lunch",
+    "diet": "Vegan",
+    "jainFriendly": false,
+    "image": "cabbage_thoran.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "25 mins",
+    "servings": "4 Servings",
+    "ingredients": [
+      { "name": "Cabbage (finely shredded)", "qty": "4 cups" },
+      { "name": "Grated coconut", "qty": "1 cup" },
+      { "name": "Green chillies", "qty": "2–3" },
+      { "name": "Cumin seeds", "qty": "1/2 tsp" },
+      { "name": "Mustard seeds, urad dal, curry leaves", "qty": "for tempering" },
+      { "name": "Coconut oil", "qty": "2 tbsp" },
+      { "name": "Turmeric and salt", "qty": "to taste" }
+    ],
+    "recipe": [
+      "Coarsely crush coconut, green chillies and cumin.",
+      "Heat coconut oil, temper mustard, urad dal and curry leaves. Add shredded cabbage, turmeric and salt. Stir-fry on medium-high heat.",
+      "When cabbage is almost done but still has bite, add the coconut mixture. Mix well and cook 2 more minutes.",
+      "Serve as a dry side with rice and curry."
+    ],
+    "tips": [
+      "Do not overcook; thoran should be dry and slightly crunchy.",
+      "Bean, carrot, beetroot or mixed vegetable versions are equally traditional."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "kerala-dinner-beef-ularthiyathu",
+    "title": "Beef Ularthiyathu (Kerala Beef Fry)",
+    "state": "Kerala",
+    "mealType": "Dinner",
+    "diet": "Non-Vegetarian",
+    "jainFriendly": false,
+    "image": "beef_ularthiyathu.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "75 mins",
+    "servings": "4 Servings",
+    "ingredients": [
+      { "name": "Beef (boneless or with bone)", "qty": "750 g" },
+      { "name": "Shallots", "qty": "15–20" },
+      { "name": "Ginger-garlic paste", "qty": "2 tbsp" },
+      { "name": "Chilli powder, coriander powder, garam masala, pepper", "qty": "to taste" },
+      { "name": "Coconut slices (thenga kothu)", "qty": "1/2 cup" },
+      { "name": "Coconut oil, mustard seeds, curry leaves", "qty": "for frying" },
+      { "name": "Vinegar or kudampuli (optional)", "qty": "1 tsp" }
+    ],
+    "recipe": [
+      "Pressure-cook beef with salt, turmeric, chilli powder, coriander, ginger-garlic and a little water till tender. Reduce any remaining stock.",
+      "Heat coconut oil, temper mustard and curry leaves. Add sliced shallots and coconut pieces; fry till golden.",
+      "Add the cooked beef and remaining spice powders. Keep stirring and roasting (ularthuka) on medium heat till the beef turns dark brown and dry and oil separates.",
+      "Finish with crushed pepper and curry leaves. Serve with porotta, appam or rice."
+    ],
+    "tips": [
+      "Slow roasting after pressure-cooking is what creates the classic dark, intensely flavoured ularthiyathu.",
+      "Very popular among Syrian Christian and many other communities in Kerala."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "kerala-dinner-chicken-curry-nadan",
+    "title": "Nadan Kozhi Curry (Kerala Chicken Curry)",
+    "state": "Kerala",
+    "mealType": "Dinner",
+    "diet": "Non-Vegetarian",
+    "jainFriendly": false,
+    "image": "nadan_kozhi_curry.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "50 mins",
+    "servings": "4 Servings",
+    "ingredients": [
+      { "name": "Chicken", "qty": "750 g" },
+      { "name": "Onion", "qty": "2 large" },
+      { "name": "Tomato", "qty": "1–2" },
+      { "name": "Ginger-garlic paste", "qty": "1.5 tbsp" },
+      { "name": "Coriander, chilli, turmeric, garam masala, fennel powders", "qty": "to taste" },
+      { "name": "Coconut milk (optional)", "qty": "1/2 cup" },
+      { "name": "Coconut oil, mustard, curry leaves", "qty": "for tempering" }
+    ],
+    "recipe": [
+      "Marinate chicken with turmeric, chilli powder and salt for 20 minutes.",
+      "Heat coconut oil, temper mustard and curry leaves. Sauté onions till golden, add ginger-garlic and tomatoes. Cook till soft.",
+      "Add spice powders and fry till aromatic. Add chicken and sear well.",
+      "Add water (or thin coconut milk) and cook till chicken is tender and gravy thickens. Finish with thick coconut milk if using and garam masala.",
+      "Serve with appam, idiyappam, porotta or rice."
+    ],
+    "tips": [
+      "Black pepper and fennel give the characteristic nadan flavour.",
+      "Can be made thicker (roast style) or thinner according to preference."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "kerala-snacks-pazham-pori",
+    "title": "Pazham Pori (Banana Fritters)",
+    "state": "Kerala",
+    "mealType": "Snacks",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "image": "pazham_pori.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "25 mins",
+    "servings": "4 Servings",
+    "ingredients": [
+      { "name": "Ripe Nendran bananas", "qty": "3–4" },
+      { "name": "All-purpose flour (maida)", "qty": "1 cup" },
+      { "name": "Rice flour", "qty": "2 tbsp" },
+      { "name": "Sugar", "qty": "2–3 tbsp" },
+      { "name": "Turmeric", "qty": "a pinch" },
+      { "name": "Salt", "qty": "a pinch" },
+      { "name": "Water", "qty": "as needed" },
+      { "name": "Oil for deep frying", "qty": "as needed" }
+    ],
+    "recipe": [
+      "Peel bananas and slit lengthwise into halves or quarters.",
+      "Make a thick batter with maida, rice flour, sugar, turmeric, salt and water.",
+      "Dip each banana piece in batter, coating evenly, and deep-fry in medium-hot oil till golden and crisp.",
+      "Drain and serve hot with tea."
+    ],
+    "tips": [
+      "Nendran bananas give the best texture and flavour.",
+      "A quintessential Kerala tea-time and rainy-day snack."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "kerala-snacks-banana-chips",
+    "title": "Banana Chips (Kaya Upperi)",
+    "state": "Kerala",
+    "mealType": "Snacks",
+    "diet": "Vegan",
+    "jainFriendly": true,
+    "image": "banana_chips.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "30 mins",
+    "servings": "many",
+    "ingredients": [
+      { "name": "Raw Nendran bananas", "qty": "4–5" },
+      { "name": "Coconut oil", "qty": "for deep frying" },
+      { "name": "Salt water", "qty": "for sprinkling" },
+      { "name": "Turmeric (optional)", "qty": "a pinch" }
+    ],
+    "recipe": [
+      "Peel raw bananas and slice very thin using a mandoline or sharp knife.",
+      "Heat coconut oil to medium-high. Fry the slices in batches, stirring occasionally, till crisp and light golden.",
+      "Drain, sprinkle with salt water while still hot, and toss. Spread to cool completely.",
+      "Store in airtight containers."
+    ],
+    "tips": [
+      "Coconut oil is traditional and gives the authentic flavour.",
+      "Salt water helps the salt stick and keeps chips crisp."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "kerala-snacks-unniyappam",
+    "title": "Unniyappam",
+    "state": "Kerala",
+    "mealType": "Snacks",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "image": "unniyappam.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "40 mins",
+    "servings": "20–25 pieces",
+    "ingredients": [
+      { "name": "Rice flour", "qty": "1 cup" },
+      { "name": "Ripe banana", "qty": "1 large" },
+      { "name": "Jaggery", "qty": "3/4 cup (melted)" },
+      { "name": "Grated coconut", "qty": "1/4 cup" },
+      { "name": "Cardamom powder", "qty": "1/2 tsp" },
+      { "name": "Ghee or oil", "qty": "for frying" },
+      { "name": "Sesame seeds or cumin (optional)", "qty": "1 tsp" }
+    ],
+    "recipe": [
+      "Mash banana and mix with melted jaggery, rice flour, grated coconut, cardamom and a little water to form a thick pouring batter. Rest 15–30 minutes.",
+      "Heat an unniyappam pan (appe pan) and add a little ghee in each cavity.",
+      "Pour batter into each mould (three-quarters full) and cook on medium heat, turning once, till golden brown on both sides.",
+      "Drain and serve warm."
+    ],
+    "tips": [
+      "The special pan with multiple round cavities is traditional.",
+      "Sweet, soft inside and slightly crisp outside – a festive and tea-time favourite."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "kerala-lunch-olan",
+    "title": "Olan",
+    "state": "Kerala",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "image": "olan.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "30 mins",
+    "servings": "4 Servings",
+    "ingredients": [
+      { "name": "Ash gourd (kumbalanga)", "qty": "2 cups cubed" },
+      { "name": "Red cowpeas or black-eyed peas (vanpayar)", "qty": "1/2 cup (cooked)" },
+      { "name": "Thick coconut milk", "qty": "1 cup" },
+      { "name": "Thin coconut milk", "qty": "1 cup" },
+      { "name": "Green chillies", "qty": "2–3 (slit)" },
+      { "name": "Coconut oil and curry leaves", "qty": "for finishing" },
+      { "name": "Salt", "qty": "to taste" }
+    ],
+    "recipe": [
+      "Cook ash gourd pieces in thin coconut milk with salt and slit green chillies till soft.",
+      "Add the cooked cowpeas and simmer a few minutes.",
+      "Stir in thick coconut milk and heat gently (do not boil).",
+      "Finish with a generous amount of raw coconut oil and curry leaves. Mix and serve."
+    ],
+    "tips": [
+      "Olan is deliberately mild and is meant to balance the stronger flavours in a sadya.",
+      "Very little spice – the flavour comes from coconut and coconut oil."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "kerala-dinner-fish-molee",
+    "title": "Fish Molee (Meen Moilee)",
+    "state": "Kerala",
+    "mealType": "Dinner",
+    "diet": "Non-Vegetarian",
+    "jainFriendly": false,
+    "image": "fish_molee.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "35 mins",
+    "servings": "4 Servings",
+    "ingredients": [
+      { "name": "Firm white fish fillets or steaks", "qty": "500 g" },
+      { "name": "Onion", "qty": "2" },
+      { "name": "Tomato", "qty": "1" },
+      { "name": "Ginger, garlic, green chillies", "qty": "as needed" },
+      { "name": "Thick and thin coconut milk", "qty": "2 cups total" },
+      { "name": "Whole spices (cinnamon, cardamom, clove, pepper)", "qty": "few" },
+      { "name": "Coconut oil, curry leaves", "qty": "for cooking" },
+      { "name": "Lemon juice", "qty": "1 tsp" }
+    ],
+    "recipe": [
+      "Lightly marinate fish with salt, turmeric and lemon juice.",
+      "Heat coconut oil, add whole spices, sliced onion, ginger, garlic and green chillies. Sauté till soft but not browned.",
+      "Add tomato and cook briefly. Pour thin coconut milk and bring to a gentle simmer.",
+      "Slide in the fish pieces and cook till just done. Add thick coconut milk, adjust seasoning and finish with curry leaves.",
+      "Serve with appam, bread or rice."
+    ],
+    "tips": [
+      "A mild, creamy Syrian-Christian style fish stew.",
+      "Do not overcook the fish or boil the coconut milk vigorously."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "kerala-snacks-achappam",
+    "title": "Achappam (Rose Cookies)",
+    "state": "Kerala",
+    "mealType": "Snacks",
+    "diet": "Eggetarian",
+    "jainFriendly": false,
+    "image": "achappam.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "40 mins",
+    "servings": "20–25 pieces",
+    "ingredients": [
+      { "name": "Rice flour", "qty": "1 cup" },
+      { "name": "All-purpose flour", "qty": "1/4 cup" },
+      { "name": "Egg", "qty": "1" },
+      { "name": "Thick coconut milk", "qty": "1 cup" },
+      { "name": "Sugar", "qty": "2–3 tbsp" },
+      { "name": "Sesame seeds", "qty": "1 tsp" },
+      { "name": "Salt", "qty": "a pinch" },
+      { "name": "Oil for deep frying", "qty": "as needed" }
+    ],
+    "recipe": [
+      "Mix rice flour, maida, beaten egg, coconut milk, sugar, sesame and salt into a smooth, slightly thick batter.",
+      "Heat oil. Dip the achappam mould into hot oil to heat it, then dip into the batter (do not cover the top) and immediately into the hot oil.",
+      "Hold for a few seconds, then shake gently to release the flower-shaped cookie. Fry till golden and crisp.",
+      "Drain and cool completely. Store in airtight containers."
+    ],
+    "tips": [
+      "The special flower-shaped iron mould is essential.",
+      "A traditional Syrian-Christian and festive snack."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  }
+]

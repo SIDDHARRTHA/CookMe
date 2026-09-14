@@ -1,0 +1,254 @@
+[
+  {
+    "_id": "andhra-pradesh",
+    "name": "Andhra Pradesh",
+    "slug": "andhra-pradesh",
+    "type": "State",
+    "country": "India"
+  },
+  {
+    "_id": "arunachal-pradesh",
+    "name": "Arunachal Pradesh",
+    "slug": "arunachal-pradesh",
+    "type": "State",
+    "country": "India"
+  },
+  {
+    "_id": "assam",
+    "name": "Assam",
+    "slug": "assam",
+    "type": "State",
+    "country": "India"
+  },
+  {
+    "_id": "bihar",
+    "name": "Bihar",
+    "slug": "bihar",
+    "type": "State",
+    "country": "India"
+  },
+  {
+    "_id": "chhattisgarh",
+    "name": "Chhattisgarh",
+    "slug": "chhattisgarh",
+    "type": "State",
+    "country": "India"
+  },
+  {
+    "_id": "goa",
+    "name": "Goa",
+    "slug": "goa",
+    "type": "State",
+    "country": "India"
+  },
+  {
+    "_id": "gujarat",
+    "name": "Gujarat",
+    "slug": "gujarat",
+    "type": "State",
+    "country": "India"
+  },
+  {
+    "_id": "haryana",
+    "name": "Haryana",
+    "slug": "haryana",
+    "type": "State",
+    "country": "India"
+  },
+  {
+    "_id": "himachal-pradesh",
+    "name": "Himachal Pradesh",
+    "slug": "himachal-pradesh",
+    "type": "State",
+    "country": "India"
+  },
+  {
+    "_id": "jharkhand",
+    "name": "Jharkhand",
+    "slug": "jharkhand",
+    "type": "State",
+    "country": "India"
+  },
+  {
+    "_id": "karnataka",
+    "name": "Karnataka",
+    "slug": "karnataka",
+    "type": "State",
+    "country": "India"
+  },
+  {
+    "_id": "kerala",
+    "name": "Kerala",
+    "slug": "kerala",
+    "type": "State",
+    "country": "India"
+  },
+  {
+    "_id": "madhya-pradesh",
+    "name": "Madhya Pradesh",
+    "slug": "madhya-pradesh",
+    "type": "State",
+    "country": "India"
+  },
+  {
+    "_id": "maharashtra",
+    "name": "Maharashtra",
+    "slug": "maharashtra",
+    "type": "State",
+    "country": "India"
+  },
+  {
+    "_id": "manipur",
+    "name": "Manipur",
+    "slug": "manipur",
+    "type": "State",
+    "country": "India"
+  },
+  {
+    "_id": "meghalaya",
+    "name": "Meghalaya",
+    "slug": "meghalaya",
+    "type": "State",
+    "country": "India"
+  },
+  {
+    "_id": "mizoram",
+    "name": "Mizoram",
+    "slug": "mizoram",
+    "type": "State",
+    "country": "India"
+  },
+  {
+    "_id": "nagaland",
+    "name": "Nagaland",
+    "slug": "nagaland",
+    "type": "State",
+    "country": "India"
+  },
+  {
+    "_id": "odisha",
+    "name": "Odisha",
+    "slug": "odisha",
+    "type": "State",
+    "country": "India"
+  },
+  {
+    "_id": "punjab",
+    "name": "Punjab",
+    "slug": "punjab",
+    "type": "State",
+    "country": "India"
+  },
+  {
+    "_id": "rajasthan",
+    "name": "Rajasthan",
+    "slug": "rajasthan",
+    "type": "State",
+    "country": "India"
+  },
+  {
+    "_id": "sikkim",
+    "name": "Sikkim",
+    "slug": "sikkim",
+    "type": "State",
+    "country": "India"
+  },
+  {
+    "_id": "tamil-nadu",
+    "name": "Tamil Nadu",
+    "slug": "tamil-nadu",
+    "type": "State",
+    "country": "India"
+  },
+  {
+    "_id": "telangana",
+    "name": "Telangana",
+    "slug": "telangana",
+    "type": "State",
+    "country": "India"
+  },
+  {
+    "_id": "tripura",
+    "name": "Tripura",
+    "slug": "tripura",
+    "type": "State",
+    "country": "India"
+  },
+  {
+    "_id": "uttar-pradesh",
+    "name": "Uttar Pradesh",
+    "slug": "uttar-pradesh",
+    "type": "State",
+    "country": "India"
+  },
+  {
+    "_id": "uttarakhand",
+    "name": "Uttarakhand",
+    "slug": "uttarakhand",
+    "type": "State",
+    "country": "India"
+  },
+  {
+    "_id": "west-bengal",
+    "name": "West Bengal",
+    "slug": "west-bengal",
+    "type": "State",
+    "country": "India"
+  },
+  {
+    "_id": "andaman-and-nicobar-islands",
+    "name": "Andaman and Nicobar Islands",
+    "slug": "andaman-and-nicobar-islands",
+    "type": "Union Territory",
+    "country": "India"
+  },
+  {
+    "_id": "chandigarh",
+    "name": "Chandigarh",
+    "slug": "chandigarh",
+    "type": "Union Territory",
+    "country": "India"
+  },
+  {
+    "_id": "dadra-nagar-haveli-daman-diu",
+    "name": "Dadra and Nagar Haveli and Daman and Diu",
+    "slug": "dadra-nagar-haveli-daman-diu",
+    "type": "Union Territory",
+    "country": "India"
+  },
+  {
+    "_id": "delhi-nct",
+    "name": "Delhi (NCT)",
+    "slug": "delhi-nct",
+    "type": "Union Territory",
+    "country": "India"
+  },
+  {
+    "_id": "jammu-and-kashmir",
+    "name": "Jammu and Kashmir",
+    "slug": "jammu-and-kashmir",
+    "type": "Union Territory",
+    "country": "India"
+  },
+  {
+    "_id": "ladakh",
+    "name": "Ladakh",
+    "slug": "ladakh",
+    "type": "Union Territory",
+    "country": "India"
+  },
+  {
+    "_id": "lakshadweep",
+    "name": "Lakshadweep",
+    "slug": "lakshadweep",
+    "type": "Union Territory",
+    "country": "India"
+  },
+  {
+    "_id": "puducherry",
+    "name": "Puducherry",
+    "slug": "puducherry",
+    "type": "Union Territory",
+    "country": "India"
+  }
+]

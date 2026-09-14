@@ -1,0 +1,367 @@
+[
+  {
+    "_id": "tripura-breakfast-bhangui",
+    "title": "Bhangui",
+    "state": "Tripura",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains onion - not consumed by Jains. For Jain version, omit onion.",
+    "image": "bhangui.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "40 mins",
+    "servings": "3 Servings",
+    "ingredients": [
+      { "name": "Aromatic or sticky rice", "qty": "2 cups" },
+      { "name": "Ginger, onion, turmeric, mustard oil or ghee", "qty": "to taste" },
+      { "name": "Banana leaves for wrapping", "qty": "as needed" }
+    ],
+    "recipe": [
+      "Mix rice with grated ginger, onion, turmeric and a little mustard oil or ghee.",
+      "Wrap in banana leaves, forming conical or packet shapes, and steam until the rice is cooked and infused with the leaf aroma.",
+      "Serve hot – a fragrant traditional rice preparation."
+    ],
+    "tips": [
+      "The banana leaf imparts a unique aroma and keeps the rice moist.",
+      "Often eaten as a light meal or breakfast."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "tripura-breakfast-rice-mosdeng",
+    "title": "Steamed Rice with Mosdeng Serma",
+    "state": "Tripura",
+    "mealType": "Breakfast",
+    "diet": "Non-Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains fish (berma) and garlic - not consumed by Jains.",
+    "image": "rice_mosdeng.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "25 mins",
+    "servings": "2 Servings",
+    "ingredients": [
+      { "name": "Rice", "qty": "1.5 cups" },
+      { "name": "Berma (fermented dried fish), red chilli, garlic, tomato", "qty": "for mosdeng" },
+      { "name": "Salt", "qty": "to taste" }
+    ],
+    "recipe": [
+      "Steam or boil rice. Separately pound or grind berma with red chilli, garlic and tomato into a spicy, pungent chutney (mosdeng serma).",
+      "Serve the rice with the mosdeng as a simple, flavourful start to the day."
+    ],
+    "tips": [
+      "Mosdeng is the classic Tripuri side – fiery, umami-rich and essential to most meals.",
+      "Berma gives the distinctive fermented flavour."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "tripura-lunch-gudok",
+    "title": "Gudok",
+    "state": "Tripura",
+    "mealType": "Lunch",
+    "diet": "Non-Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains fermented fish (berma) and onion - not consumed by Jains.",
+    "image": "gudok.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "40 mins",
+    "servings": "4 Servings",
+    "ingredients": [
+      { "name": "Berma (fermented dried fish)", "qty": "as needed" },
+      { "name": "Seasonal vegetables (potato, beans, pumpkin, bamboo shoot, etc.)", "qty": "3–4 cups" },
+      { "name": "Green chilli, onion, salt", "qty": "to taste" }
+    ],
+    "recipe": [
+      "Boil the vegetables with berma, chilli and salt until soft. Mash everything together into a thick, flavourful mixture.",
+      "Garnish with sliced onion. Serve with steamed rice – a staple tribal dish cooked with little or no oil."
+    ],
+    "tips": [
+      "Traditional oil-free preparation – the fermented fish provides the main flavour.",
+      "Vegetables vary with season and availability."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "tripura-lunch-mui-borok",
+    "title": "Mui Borok",
+    "state": "Tripura",
+    "mealType": "Lunch",
+    "diet": "Non-Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains fermented fish (berma), onion, garlic - not consumed by Jains.",
+    "image": "mui_borok.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "45 mins",
+    "servings": "4 Servings",
+    "ingredients": [
+      { "name": "Berma (dried fermented fish)", "qty": "as needed" },
+      { "name": "Seasonal vegetables, bamboo shoot, bottle gourd", "qty": "as available" },
+      { "name": "Ginger leaves, onion, garlic, green chilli, salt", "qty": "to taste" }
+    ],
+    "recipe": [
+      "Layer or combine vegetables, bamboo shoot and berma with aromatics. Boil or steam until everything is soft and the flavours have melded.",
+      "Mash lightly if desired. Serve with rice – often called the soul food of Tripura."
+    ],
+    "tips": [
+      "Mui Borok is considered the traditional cuisine of the Tripuri people.",
+      "Minimal oil, maximum use of local produce and fermented fish."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "tripura-lunch-chakhwi",
+    "title": "Chakhwi",
+    "state": "Tripura",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains onion and garlic - not consumed by Jains. For Jain version, omit onion-garlic.",
+    "image": "chakhwi.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "40 mins",
+    "servings": "4 Servings",
+    "ingredients": [
+      { "name": "Bamboo shoot, banana stem, papaya, other vegetables", "qty": "as available" },
+      { "name": "Rice paste, alkaline water (khar) or soda, onion, garlic, chilli, salt", "qty": "to taste" }
+    ],
+    "recipe": [
+      "Cook bamboo shoot and other vegetables with a little alkaline water (traditionally extracted from burnt plant ash) and rice paste to thicken.",
+      "Season with onion, garlic, chilli and salt. Simmer into a light stew.",
+      "Serve with rice – a distinctive Tripuri preparation."
+    ],
+    "tips": [
+      "The mild alkaline note is characteristic of traditional Chakhwi.",
+      "Bamboo shoot is central."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "tripura-dinner-wahan-mosdeng",
+    "title": "Wahan Mosdeng",
+    "state": "Tripura",
+    "mealType": "Dinner",
+    "diet": "Non-Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains pork, onion, garlic - not consumed by Jains.",
+    "image": "wahan_mosdeng.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "45 mins",
+    "servings": "4 Servings",
+    "ingredients": [
+      { "name": "Pork", "qty": "500–700 g" },
+      { "name": "Garlic, ginger, green chilli, onion, mustard oil", "qty": "as needed" },
+      { "name": "Salt", "qty": "to taste" }
+    ],
+    "recipe": [
+      "Marinate pork with garlic, ginger, chilli and a little mustard oil. Grill, roast or pan-cook until done.",
+      "Chop or shred and mix with more fresh chilli, onion and aromatics into a spicy salad-style preparation (mosdeng).",
+      "Serve with rice or roti."
+    ],
+    "tips": [
+      "Pork salad/bharta – bold, spicy and very popular.",
+      "Can also be made with chicken."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "tripura-dinner-mach-bhat",
+    "title": "Mach Bhat (Fish Curry with Rice)",
+    "state": "Tripura",
+    "mealType": "Dinner",
+    "diet": "Non-Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains fish, onion, garlic - not consumed by Jains.",
+    "image": "mach_bhat.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "40 mins",
+    "servings": "3 Servings",
+    "ingredients": [
+      { "name": "Freshwater fish", "qty": "500 g" },
+      { "name": "Turmeric, mustard oil, green chilli, onion, ginger, garlic", "qty": "as needed" },
+      { "name": "Rice for serving", "qty": "as needed" }
+    ],
+    "recipe": [
+      "Marinate fish with turmeric and salt. Lightly fry or cook in a simple gravy of onion, ginger, garlic, chilli and mustard oil.",
+      "Serve with steamed rice – the everyday fish-and-rice meal of the region."
+    ],
+    "tips": [
+      "Fish and rice form the cornerstone of daily Tripura diet.",
+      "Mustard oil is commonly used."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "tripura-snacks-mwkhwi",
+    "title": "Mwkhwi (Fruit Snack)",
+    "state": "Tripura",
+    "mealType": "Snacks",
+    "diet": "Vegan",
+    "jainFriendly": true,
+    "jainNotes": "Ingredients are Jain-compatible (seasonal fruit, salt, green chilli). No onion, garlic, or root vegetables.",
+    "image": "mwkhwi.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "10 mins",
+    "servings": "2 Servings",
+    "ingredients": [
+      { "name": "Seasonal fruit (pineapple, mango, etc.)", "qty": "as available" },
+      { "name": "Salt, green chilli", "qty": "to taste" }
+    ],
+    "recipe": [
+      "Cut fresh seasonal fruit into pieces. Toss with salt and crushed green chilli.",
+      "Eat as a refreshing, spicy-sweet snack."
+    ],
+    "tips": [
+      "Simple fruit preparation popular when mangoes, pineapples or other local fruits are in season.",
+      "The chilli-salt combination is classic."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "tripura-snacks-mosdeng-bamboo-shoot",
+    "title": "Mosdeng (Bamboo Shoot Chutney)",
+    "state": "Tripura",
+    "mealType": "Snacks",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains onion and garlic - not consumed by Jains. For Jain version, omit onion-garlic.",
+    "image": "bamboo_shoot_chutney.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "15 mins",
+    "servings": "4 Servings",
+    "ingredients": [
+      { "name": "Fermented or fresh bamboo shoot", "qty": "as needed" },
+      { "name": "Red or green chilli, garlic, onion, salt", "qty": "to taste" }
+    ],
+    "recipe": [
+      "Pound or grind bamboo shoot with chilli, garlic and salt into a coarse chutney.",
+      "Mix in chopped onion. Serve as a side or snack with rice cakes or puffed rice."
+    ],
+    "tips": [
+      "Mosdeng variations are endless – bamboo shoot versions are especially popular.",
+      "Pungent and addictive."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "tripura-lunch-awandru-vegetarian",
+    "title": "Awandru (Vegetarian Bamboo Shoot Gravy)",
+    "state": "Tripura",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains onion and garlic - not consumed by Jains. For Jain version, omit onion-garlic.",
+    "image": "awandru.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "35 mins",
+    "servings": "3 Servings",
+    "ingredients": [
+      { "name": "Bamboo shoot", "qty": "2 cups" },
+      { "name": "Rice flour for thickening", "qty": "as needed" },
+      { "name": "Onion, garlic, chilli, salt, coriander for garnish", "qty": "to taste" }
+    ],
+    "recipe": [
+      "Cook bamboo shoot with onion, garlic, chilli and rice flour into a light gravy.",
+      "Simmer till the flavours blend. Garnish with fresh herbs.",
+      "Serve with rice."
+    ],
+    "tips": [
+      "Vegetarian bamboo-shoot based gravy common in Tripuri cooking.",
+      "Thickened with rice flour instead of fish."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "tripura-lunch-awandru-nonvegetarian",
+    "title": "Awandru with Berma (Non-Vegetarian)",
+    "state": "Tripura",
+    "mealType": "Lunch",
+    "diet": "Non-Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains fermented fish (berma) and onion - not consumed by Jains.",
+    "image": "awandru.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "35 mins",
+    "servings": "3 Servings",
+    "ingredients": [
+      { "name": "Bamboo shoot", "qty": "2 cups" },
+      { "name": "Berma (fermented dried fish) for thickening", "qty": "as needed" },
+      { "name": "Onion, chilli, salt, coriander for garnish", "qty": "to taste" }
+    ],
+    "recipe": [
+      "Cook bamboo shoot with berma, onion and chilli into a light gravy.",
+      "Simmer till the flavours blend. Garnish with fresh herbs.",
+      "Serve with rice."
+    ],
+    "tips": [
+      "Traditional non-vegetarian bamboo-shoot gravy thickened with berma.",
+      "The fermented fish adds a deep, umami richness."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "tripura-dinner-pork-bamboo",
+    "title": "Pork with Bamboo Shoot",
+    "state": "Tripura",
+    "mealType": "Dinner",
+    "diet": "Non-Vegetarian",
+    "jainFriendly": false,
+    "jainNotes": "Contains pork, onion, garlic - not consumed by Jains.",
+    "image": "pork_bamboo_shoot.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "55 mins",
+    "servings": "4 Servings",
+    "ingredients": [
+      { "name": "Pork", "qty": "600 g" },
+      { "name": "Bamboo shoot (fresh or fermented)", "qty": "1.5 cups" },
+      { "name": "Green chilli, ginger, garlic, onion, salt", "qty": "to taste" }
+    ],
+    "recipe": [
+      "Cook pork with ginger, garlic, onion and chilli until tender. Add bamboo shoot and continue cooking till the flavours meld.",
+      "Serve with steamed rice – a hearty tribal favourite."
+    ],
+    "tips": [
+      "Bamboo shoot cuts through the richness of the pork.",
+      "Fermented bamboo shoot adds extra tang."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  },
+  {
+    "_id": "tripura-snacks-puffed-rice",
+    "title": "Khoi / Puffed Rice Snack",
+    "state": "Tripura",
+    "mealType": "Snacks",
+    "diet": "Vegan",
+    "jainFriendly": false,
+    "jainNotes": "Contains onion - not consumed by Jains. For Jain version, omit onion.",
+    "image": "khoi.png",
+    "wikipediaImage": null,
+    "imageSource": "not_found",
+    "time": "10 mins",
+    "servings": "2 Servings",
+    "ingredients": [
+      { "name": "Puffed rice (khoi)", "qty": "2 cups" },
+      { "name": "Mustard oil, onion, green chilli, salt", "qty": "to taste" }
+    ],
+    "recipe": [
+      "Toss puffed rice with a little mustard oil, chopped onion, green chilli and salt.",
+      "Eat immediately as a light, crunchy snack."
+    ],
+    "tips": [
+      "Simple everyday snack across the region.",
+      "Can be dressed up with more vegetables or berma for extra flavour."
+    ],
+    "research": { "status": "unverified", "sourceUrls": [] }
+  }
+]

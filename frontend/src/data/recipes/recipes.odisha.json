@@ -1,0 +1,562 @@
+[
+  {
+    "id": "odisha-breakfast-chakuli-pitha",
+    "title": "Chakuli Pitha",
+    "state": "Odisha",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "time": "30 mins (+ fermentation)",
+    "servings": "8–10 pieces",
+    "heroImage": "./assets/images/chakuli_pitha.png",
+    "steps": [
+      "Soak rice and urad dal, grind into a smooth batter and ferment overnight.",
+      "Heat a tawa or pan, pour a ladle of batter and spread into a thin round pancake. Cook on both sides with a little oil/ghee.",
+      "Serve hot with dalma, santula, coconut chutney, jaggery or milk."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Rice",
+        "qty": "2 cups",
+        "checked": true
+      },
+      {
+        "name": "Urad dal (biri)",
+        "qty": "1/2 cup",
+        "checked": true
+      },
+      {
+        "name": "Salt",
+        "qty": "to taste",
+        "checked": true
+      },
+      {
+        "name": "Oil or ghee for cooking",
+        "qty": "as needed",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Everyday Odia rice-lentil pancake – softer and thicker than dosa."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "A staple breakfast across Odisha households."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "odisha-breakfast-pakhala-bhata",
+    "title": "Pakhala Bhata",
+    "state": "Odisha",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "time": "10 mins (+ overnight fermentation)",
+    "servings": "2 Servings",
+    "heroImage": "./assets/images/pakhala_bhata.png",
+    "steps": [
+      "Soak cooked rice in water overnight to ferment lightly (basi pakhala).",
+      "In the morning, mix with salt, crushed green chilli and cumin. Add curd for dahi pakhala if preferred.",
+      "Serve cool with badi chura, roasted vegetables, lemon and any side."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Cooked rice",
+        "qty": "2 cups",
+        "checked": true
+      },
+      {
+        "name": "Water",
+        "qty": "to cover",
+        "checked": true
+      },
+      {
+        "name": "Curd (optional for dahi pakhala), green chilli, cumin, salt",
+        "qty": "to taste",
+        "checked": true
+      },
+      {
+        "name": "Sides: badi chura, roasted vegetables, saga bhaja",
+        "qty": "as desired",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Iconic cooling summer dish of Odisha – probiotic and hydrating."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Traditionally served in kansa (bell-metal) utensils."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "odisha-breakfast-dahibara-aloodum",
+    "title": "Dahibara Aloodum",
+    "state": "Odisha",
+    "mealType": "Breakfast",
+    "diet": "Vegetarian",
+    "time": "45 mins",
+    "servings": "4 Servings",
+    "heroImage": "./assets/images/dahibara_aloodum.png",
+    "steps": [
+      "Make soft urad dal vadas (bara), soak in water, then in spiced yogurt.",
+      "Prepare a spicy potato curry (aloodum) with mustard oil and local spices.",
+      "Serve the dahi bara topped with aloodum, sev, onion and coriander."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Urad dal for bara",
+        "qty": "1 cup",
+        "checked": true
+      },
+      {
+        "name": "Yogurt",
+        "qty": "2 cups",
+        "checked": true
+      },
+      {
+        "name": "Potatoes for aloodum",
+        "qty": "4 medium",
+        "checked": true
+      },
+      {
+        "name": "Spices, mustard oil, onion, tomato",
+        "qty": "as needed",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Popular street and breakfast combination in Cuttack and across Odisha."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "The contrast of cool yogurt bara and hot spicy aloodum is signature."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "odisha-lunch-dalma",
+    "title": "Dalma",
+    "state": "Odisha",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "time": "40 mins",
+    "servings": "4 Servings",
+    "heroImage": "./assets/images/dalma.png",
+    "steps": [
+      "Pressure-cook dal and chopped vegetables together with turmeric and salt till soft.",
+      "Temper pancha phutana, cumin and dry red chilli in ghee or oil. Add to the dalma along with grated coconut.",
+      "Simmer briefly. Serve with rice."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Toor dal or moong dal",
+        "qty": "1 cup",
+        "checked": true
+      },
+      {
+        "name": "Mixed vegetables (pumpkin, raw banana, brinjal, papaya, drumstick)",
+        "qty": "2–3 cups",
+        "checked": true
+      },
+      {
+        "name": "Pancha phutana, cumin, dry red chilli, grated coconut, ghee",
+        "qty": "for tempering",
+        "checked": true
+      },
+      {
+        "name": "Turmeric, salt",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "The soul of Odia cuisine – lentils and vegetables cooked together."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Temple (Jagannath) versions are strictly satvik (no onion/garlic)."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "odisha-lunch-machha-besara",
+    "title": "Machha Besara",
+    "state": "Odisha",
+    "mealType": "Lunch",
+    "diet": "Non-Vegetarian",
+    "time": "35 mins",
+    "servings": "4 Servings",
+    "heroImage": "./assets/images/machha_besara.png",
+    "steps": [
+      "Grind mustard seeds with garlic, green chilli and turmeric into a paste.",
+      "Marinate fish lightly. Heat mustard oil, add the paste and cook briefly.",
+      "Add fish and a little water. Simmer gently till cooked. Do not over-stir.",
+      "Serve with steamed rice."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Fresh fish (rohu or local)",
+        "qty": "500 g",
+        "checked": true
+      },
+      {
+        "name": "Mustard seeds, garlic, green chilli, turmeric",
+        "qty": "for paste",
+        "checked": true
+      },
+      {
+        "name": "Mustard oil, salt",
+        "qty": "as needed",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Classic Odia mustard-based fish curry – pungent and flavourful."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Mustard oil and freshly ground mustard are essential."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "odisha-lunch-santula",
+    "title": "Santula",
+    "state": "Odisha",
+    "mealType": "Lunch",
+    "diet": "Vegetarian",
+    "time": "30 mins",
+    "servings": "3 Servings",
+    "heroImage": "./assets/images/santula.png",
+    "steps": [
+      "Boil or steam the chopped vegetables with turmeric and salt till tender but not mushy.",
+      "Temper pancha phutana and dry red chilli in oil. Pour over the vegetables and mix gently.",
+      "Serve as a light dry or semi-dry side with rice and dalma."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Mixed seasonal vegetables (potato, brinjal, pumpkin, beans, etc.)",
+        "qty": "3 cups",
+        "checked": true
+      },
+      {
+        "name": "Pancha phutana, dry red chilli, turmeric, salt",
+        "qty": "to taste",
+        "checked": true
+      },
+      {
+        "name": "Mustard oil",
+        "qty": "as needed",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Simple, lightly tempered mixed vegetable dish – everyday Odia home cooking."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Highlights seasonal produce with minimal spices."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "odisha-snacks-chhena-poda",
+    "title": "Chhena Poda",
+    "state": "Odisha",
+    "mealType": "Snacks",
+    "diet": "Vegetarian",
+    "time": "60 mins",
+    "servings": "8 slices",
+    "heroImage": "./assets/images/chhena_poda.png",
+    "steps": [
+      "Knead fresh chhena with sugar, cardamom and a little semolina until smooth. Mix in nuts and raisins.",
+      "Grease a baking tin or traditional vessel with ghee. Pour the mixture and bake in a moderate oven or traditional coal oven till the top is caramelised and the centre is set.",
+      "Cool, slice and serve."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Fresh chhena (cottage cheese)",
+        "qty": "500 g",
+        "checked": true
+      },
+      {
+        "name": "Sugar or jaggery",
+        "qty": "1 cup",
+        "checked": true
+      },
+      {
+        "name": "Semolina or flour (optional)",
+        "qty": "2–3 tbsp",
+        "checked": true
+      },
+      {
+        "name": "Cardamom, raisins, cashews",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Ghee for greasing",
+        "qty": "as needed",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Literally 'burnt cheese' – Odisha's signature baked dessert."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "The caramelised crust is the hallmark of a good chhena poda."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "odisha-dinner-machha-jhola",
+    "title": "Machha Jhola",
+    "state": "Odisha",
+    "mealType": "Dinner",
+    "diet": "Non-Vegetarian",
+    "time": "35 mins",
+    "servings": "4 Servings",
+    "heroImage": "./assets/images/machha_jhola.png",
+    "steps": [
+      "Lightly fry fish with turmeric. Set aside.",
+      "Make a gravy with onion, tomato, ginger-garlic and spices in mustard oil.",
+      "Add the fish and simmer in a light gravy. Garnish with coriander.",
+      "Serve with rice."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Fish pieces",
+        "qty": "500 g",
+        "checked": true
+      },
+      {
+        "name": "Onion, tomato, ginger-garlic, green chilli",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Turmeric, cumin, coriander, mustard oil",
+        "qty": "to taste",
+        "checked": true
+      },
+      {
+        "name": "Salt, coriander leaves",
+        "qty": "as needed",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Everyday light fish curry of Odia homes."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Less rich than mustard-based besara versions."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "odisha-snacks-bara",
+    "title": "Bara (Urad Dal Vada)",
+    "state": "Odisha",
+    "mealType": "Snacks",
+    "diet": "Vegetarian",
+    "time": "30 mins (+ soaking)",
+    "servings": "12 pieces",
+    "heroImage": "./assets/images/bara.png",
+    "steps": [
+      "Soak urad dal, grind to a fluffy batter with green chilli, ginger and cumin. Add salt.",
+      "Shape into round vadas with a hole and deep-fry till golden.",
+      "Serve hot with ghugni, chutney or as part of dahibara."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Urad dal",
+        "qty": "1 cup",
+        "checked": true
+      },
+      {
+        "name": "Green chilli, ginger, cumin, salt",
+        "qty": "to taste",
+        "checked": true
+      },
+      {
+        "name": "Oil for deep frying",
+        "qty": "as needed",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Essential component of dahibara aloodum and also eaten plain."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Soft and airy texture comes from well-aerated batter."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "odisha-snacks-enduri-pitha",
+    "title": "Enduri Pitha",
+    "state": "Odisha",
+    "mealType": "Snacks",
+    "diet": "Vegetarian",
+    "time": "50 mins",
+    "servings": "8–10 pieces",
+    "heroImage": "./assets/images/enduri_pitha.png",
+    "steps": [
+      "Prepare a fermented rice-urad batter. Make a sweet coconut-jaggery filling.",
+      "Spread batter on a turmeric leaf, place filling, fold the leaf and steam.",
+      "Serve warm. The turmeric leaf imparts a unique aroma."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Rice + urad dal batter",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Coconut-jaggery filling",
+        "qty": "1 cup",
+        "checked": true
+      },
+      {
+        "name": "Turmeric leaves for wrapping",
+        "qty": "as needed",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Special pitha made for Prathamastami festival."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Steamed in turmeric leaves for distinctive fragrance."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "odisha-lunch-saga-bhaja",
+    "title": "Saga Bhaja (Greens Stir-fry)",
+    "state": "Odisha",
+    "mealType": "Lunch",
+    "diet": "Vegan",
+    "time": "15 mins",
+    "servings": "3 Servings",
+    "heroImage": "./assets/images/saga_bhaja.png",
+    "steps": [
+      "Heat mustard oil, add crushed garlic and dry red chilli.",
+      "Add washed greens and salt. Stir-fry on high heat till just wilted.",
+      "Serve as a dry side with rice and dalma or pakhala."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Local greens (kosala saga, etc.)",
+        "qty": "4 cups",
+        "checked": true
+      },
+      {
+        "name": "Mustard oil, garlic, dry red chilli, salt",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Everyday green side – Odisha has a rich variety of local saga."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Quick cooking preserves colour and nutrients."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  },
+  {
+    "id": "odisha-dinner-mutton-tarkari",
+    "title": "Mansha Tarkari (Mutton Curry)",
+    "state": "Odisha",
+    "mealType": "Dinner",
+    "diet": "Non-Vegetarian",
+    "time": "70 mins",
+    "servings": "4 Servings",
+    "heroImage": "./assets/images/mansha_tarkari.png",
+    "steps": [
+      "Marinate mutton with turmeric and salt. Brown with onions and whole spices in mustard oil.",
+      "Add ginger-garlic, potatoes and spices. Add water and slow-cook till tender.",
+      "Serve with rice or roti."
+    ],
+    "fullIngredients": [
+      {
+        "name": "Mutton",
+        "qty": "750 g",
+        "checked": true
+      },
+      {
+        "name": "Potato, onion, ginger-garlic, whole spices",
+        "qty": "as needed",
+        "checked": true
+      },
+      {
+        "name": "Mustard oil or ghee, turmeric, garam masala",
+        "qty": "to taste",
+        "checked": true
+      }
+    ],
+    "tipsList": [
+      {
+        "title": "Tip 1",
+        "desc": "Odia mutton curry is moderately spiced and often includes potatoes."
+      },
+      {
+        "title": "Tip 2",
+        "desc": "Special-occasion dish in many households."
+      }
+    ],
+    "description": "",
+    "tip": ""
+  }
+]
